@@ -3,6 +3,7 @@
 Este repositorio está organizado en las siguientes carpetas principales y subcarpetas:
 
 ```
+0_proyecto/
 1_trasfondo/
   codex/
   cronologia/
