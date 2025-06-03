@@ -1,9 +1,9 @@
 ---
-layout: post
-title: "Manual del Colaborador"
-date: 2024-06-02
+titulo: Manual del Colaborador
+carpeta: 0_proyecto/guias-para-colaboradores
+descripcion: Guía esencial para comprender la organización y colaboración en el proyecto SyV.
+posicion_sidebar: 0
 tags:
-- proyecto
 - guia
 - colaboracion
 ---
