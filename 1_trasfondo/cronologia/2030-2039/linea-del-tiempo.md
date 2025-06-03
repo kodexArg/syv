@@ -2,7 +2,6 @@
 titulo: Línea del tiempo
 carpeta: 1_trasfondo/cronologia/2030-2039
 descripcion: Cronología detallada basada en los archivos de eventos del Gran Colapso.
-posicion_sidebar: 1
 tags:
 - cronologia
 fecha: 2030-2170

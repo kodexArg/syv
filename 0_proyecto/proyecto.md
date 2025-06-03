@@ -2,7 +2,6 @@
 titulo: Proyecto
 carpeta: 0_proyecto
 descripcion: Organización y documentación general del proyecto.
-posicion_sidebar: 0
 ---
 
 # Proyecto

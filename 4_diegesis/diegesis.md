@@ -2,7 +2,6 @@
 titulo: Diégesis
 carpeta: 4_diegesis
 descripcion: Textos y artefactos internos del mundo.
-posicion_sidebar: 4
 ---
 
 # Diégesis
