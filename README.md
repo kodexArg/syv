@@ -14,6 +14,8 @@ Este proyecto busca crear un espacio donde las historias escritas por humanos en
 
 ```
 0_proyecto/
+  guias-para-colaboradores/
+  manuales/
 1_trasfondo/
   codex/
   cronologia/
@@ -47,8 +49,10 @@ Este es un proyecto colaborativo. Si quieres contribuir, asegúrate de:
 
 - Mantener el español como único idioma
 - Respetar la cronología y el lore establecido
-- Seguir las guías de estilo del proyecto
+- Seguir las guías de estilo del proyecto (ver [Manual del Colaborador](0_proyecto/guias-para-colaboradores/manual-del-colaborador.md))
+- Usar correctamente los metadatos en los archivos `.md` (ver [Guía de Metadatos](0_proyecto/guias-para-colaboradores/guia-de-metadatos.md))
 - Colocar los archivos en las carpetas correspondientes según su tipo
+- Consultar los manuales y guías en la carpeta [`0_proyecto/`](0_proyecto/proyecto.md) para dudas sobre organización, estilo y procedimientos
 
 ## Licencia
 
