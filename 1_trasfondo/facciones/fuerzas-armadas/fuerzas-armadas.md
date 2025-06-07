@@ -1,6 +1,6 @@
 ---
 titulo: Fuerzas Armadas
-carpeta: 1_trasfondo/facciones
+carpeta: 1_trasfondo/facciones/fuerzas-armadas
 descripcion: Estructura y organización de las Fuerzas Armadas, el Comando Nacional y las fuerzas de Seguridad Nacional de la Confederación Argentina.
 tags:
 - faccion

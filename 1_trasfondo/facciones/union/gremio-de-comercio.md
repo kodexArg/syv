@@ -1,6 +1,6 @@
 ---
 titulo: Gremio de Comercio
-carpeta: 1_trasfondo/facciones
+carpeta: 1_trasfondo/facciones/union
 descripcion: El Gremio de Comercio de Dársena, facción que agrupa desde tenderos hasta magnates del mercado negro bajo reglas de libre mercado extremo.
 tags:
 - faccion

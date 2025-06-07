@@ -1,6 +1,6 @@
 ---
 titulo: Línea del tiempo
-carpeta: 1_trasfondo/cronologia/2030-2039
+carpeta: 1_trasfondo/cronologia
 descripcion: Cronología detallada de los eventos del Gran Colapso y la fragmentación de Argentina y el mundo.
 tags:
 - cronologia

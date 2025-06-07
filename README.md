@@ -9,17 +9,19 @@ tags:
 - distopía
 - colaborativo
 ---
-"Subordinación y Valor" es un proyecto colaborativo de world building que explora un universo distópico en la Argentina del año 2178. Tras la Gran Guerra Global y el colapso tecnológico desencadenado por la Inteligencia Artificial Quiescente (QIA), la civilización se fragmentó en ciudades-estado aisladas, generando un profundo miedo a la tecnología.
+"Subordinación y Valor" (SyV) es un proyecto de construcción de mundo colaborativo y un universo de ficción.
 
-La narrativa se centra en Ciudad Dársena, erigida sobre las ruinas de Buenos Aires. Como capital de la Confederación Argentina, una alianza de 22 ciudades-estado, Dársena está gobernada por un control dual del Ejército Argentino y la Iglesia, que regulan la sociedad bajo una estricta Constitución y la prohibición de la computación con CPU.
+## Sobre el universo
 
-La ciudad se divide en zonas estratificadas, desde la acomodada Zona Residencia hasta los superpoblados Barrios del Muro. Bajo la superficie, "Las Tuberías" —una vasta red de túneles pre-guerra— alberga comunidades marginadas, mercados clandestinos y focos de resistencia.
+El mundo de SyV se sitúa en una Argentina futura, en el año 2178, reconstruida como una Confederación clérico-militar tras una serie de cataclismos conocidos como la "Gran Fractura" y la "Larga Noche". La sociedad se rige por una teología estricta y el "Anatema Mecánico", una prohibición total de la tecnología basada en inteligencia artificial o procesadores avanzados.
 
-Este proyecto está escrito descaradamente en español. En un mundo donde la tecnología se volvió contra la humanidad, donde las ciudades se convirtieron en fortalezas y donde la fe y el control se entrelazan en las sombras de Ciudad Dársena, el lenguaje es más que comunicación: es resistencia.
+El poder se reparte entre la Iglesia, centrada en la Santa Sede de Dársena y su temida Santa Inquisición Argentina (SIA), y el brazo armado del estado, el Comando Unificado de las Fuerzas Armadas Confederadas (CUFAC).
 
-El universo explora las tensiones entre las facciones dominantes y los grupos clandestinos, la lucha por el conocimiento prohibido y los misterios que acechan tanto en las sombras de las Tuberías como en las conspiraciones de poder de la Confederación.
+Este repositorio contiene el corpus de lore, personajes, historias y guías que conforman el universo de "Subordinación y Valor".
 
-Este proyecto busca crear un espacio donde las historias escritas por humanos encuentren su lugar en un universo organizado y estructurado con herramientas de inteligencia artificial. Cada contribución enriquece esta narrativa colectiva, construyendo un mundo donde la supervivencia, la fe, el control y la resistencia se entrelazan en una atmósfera opresiva y compleja.
+## Cómo contribuir
+
+Las contribuciones son bienvenidas. Por favor, consulta el [Manual del Colaborador](0_proyecto/guias-para-colaboradores/manual-del-colaborador.md) para entender las pautas del proyecto, la estructura de carpetas y el formato de los archivos.
 
 # Estructura del repositorio SyV
 

@@ -1,8 +1,12 @@
 ---
-titulo: "Mundo en 2178"
+titulo: Mundo en 2178
 carpeta: 1_trasfondo/cronologia
-descripcion: "Un vistazo a la situación geopolítica y social del mundo en el año 2178."
-tags: [cronología, mundo, 2178, geopolítica]
+descripcion: Situación geopolítica y social del mundo en el año 2178.
+tags:
+- cronologia
+- mundo
+- 2178
+- geopolítica
 ---
 
 Este documento es un adelanto de hasta dónde se llegará con la cronología, donde en el futuro escribiremos los eventos que transforman el mundo año a año.

@@ -1,14 +1,26 @@
 ---
-titulo: La Iglesia
-carpeta: 1_trasfondo/facciones
-descripcion: Estructura y organización de la Iglesia, la nueva Santa Sede en Dársena, y sus principales facciones internas como la Sagrada Inquisición y los Curatores.
+titulo: El Poder Eclesiástico de Dársena
+carpeta: 1_trasfondo/facciones/iglesia-de-darsena
+descripcion: Detalles sobre la Santa Sede de Dársena, el Papado, y su rol como corazón ideológico de la Confederación.
 tags:
-- faccion
+- facciones
 - iglesia
-- santa-sede
-- inquisicion
-- curatores
+- lore
+- politica
+- darsena
 ---
+
+# El Poder Eclesiástico de Dársena
+
+La Santa Sede de Dársena no es meramente una guía espiritual; es el corazón ideológico y, en muchos aspectos, el poder fáctico que legitima y dirige la Confederación. Su influencia es absoluta y su palabra, ley.
+
+## Papado y Curia Romana de Dársena
+
+- **Ethos**: "Un Solo Rebaño, Un Solo Pastor, Una Sola Verdad."
+- **Descripción**: Desde la imponente Basílica-Fortaleza de Dársena, el Sumo Pontífice y su curia ejercen una autoridad casi omnímoda sobre la vida espiritual, moral, política y social de la Confederación.
+- **Objetivos**: Sus metas principales son el mantenimiento de la pureza doctrinal, la expansión de la fe, la legitimación del régimen clérico-militar y la erradicación total del "Anatema Mecánico" y cualquier saber secular no subordinado a la teología.
+
+
 
 # La Iglesia
 
