@@ -2,7 +2,6 @@
 titulo: Guía de Metadatos para archivos Markdown
 carpeta: 0_proyecto/guias-para-colaboradores
 descripcion: Instrucciones y ejemplos para el uso correcto de metadatos en los archivos .md del proyecto SyV.
-posicion_sidebar: 0
 tags:
 - guia
 - metadatos
