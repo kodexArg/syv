@@ -12,7 +12,7 @@ tags:
 
 # Barrios del Muro
 
-Los Barrios del Muro son la primera línea y la última defensa de Ciudad Dársena. Pegados a las gigantescas murallas que protegen la ciudad, estos distritos son los más poblados, pobres y caóticos. Son el hogar de los trabajadores, los desplazados y los marginados, una masa de humanidad que vive en condiciones de hacinamiento y escasez, bajo la atenta y a menudo brutal vigilancia de las fuerzas de seguridad.
+Los Barrios del Muro son la primera línea y la última defensa de Ciudad Dársena. Ocupando 5 km² en el sur y oeste de la ciudad, esta zona es el hogar de 3.5 millones de personas en las condiciones de hacinamiento más extremas. Las viviendas se apilan e incluso se extienden al subsuelo, creando un laberinto caótico y opresivo. Son el hogar de los trabajadores, los desplazados y los marginados, bajo la atenta y a menudo brutal vigilancia de las fuerzas de seguridad.
 
 ## Lugares de Interés
 
@@ -20,7 +20,7 @@ Los Barrios del Muro son la primera línea y la última defensa de Ciudad Dárse
 Ubicado en una vasta y abandonada estación de metro, este mercado es el corazón comercial y social de los Barrios del Muro y un punto de acceso clave a [[Las Tuberías]]. Es un lugar caótico y abarrotado donde se puede encontrar de todo, desde bienes de primera necesidad hasta contrabando y servicios ilegales. Los **Punteros** (líderes de bandas locales) ejercen un gran poder e influencia en este mercado.
 
 ### **El Bazar del Muro**
-Un mercado al aire libre situado en la precaria Zona Desmilitarizada (DMZ) entre las murallas interiores y exteriores. Es un punto de contacto peligroso con el exterior, controlado por facciones como los **Refugiados del Exterior** y la **Resistencia Subterránea**. El comercio aquí es arriesgado y a menudo violento.
+Un mercado al aire libre situado en la DMZ, un área teóricamente prohibida al otro lado del muro. Es un punto de encuentro comercial y cultural, y un punto de contacto peligroso con el exterior, controlado por facciones como los **Refugiados del Exterior** y la **Resistencia Subterránea**. El comercio aquí es arriesgado y a menudo violento.
 
 ### **Las Tuberías**
 Aunque se extienden por debajo de toda la ciudad, es en los Barrios del Muro donde Las Tuberías tienen su mayor densidad y población. Son una red de regiones subterráneas donde se mezclan distintos estratos sociales, un caldo de cultivo para el crimen, pero también para la resistencia. Facciones como los **Ladrones y Contrabandistas** controlan vastos sectores de este mundo subterráneo.

@@ -12,7 +12,18 @@ tags:
 
 # Fuera del Muro
 
-Más allá de la seguridad (relativa) de las murallas de Dársena se extiende un mundo salvaje y sin ley. "Fuera del Muro" no es tanto una zona como un concepto: el vasto y peligroso exterior. Es una tierra de oportunidades y amenazas, donde las leyes de la Confederación tienen poco peso y la supervivencia depende de la fuerza, el ingenio o la protección de una facción poderosa.
+Más allá de la seguridad (relativa) de las murallas de Dársena se extiende un mundo salvaje y sin ley. "Fuera del Muro" no es tanto una zona como un concepto: el vasto y peligroso exterior. Es una tierra de oportunidades y amenazas, donde las leyes de la Confederación tienen poco peso.
+
+## Zonas y Lugares de Interés
+
+### **El Puerto (Zona Norte Extramuros)**
+Área militarizada al norte de la ciudad que controla el único acceso terrestre: **El Paso del Cráter**. Es una zona mixta con los principales puertos, cuarteles, la prisión de la ciudad, extensos campos de entrenamiento y zonas de cultivo a cielo abierto operadas por prisioneros. Es la base principal de la **Armada Argentina**. Los **Puertos Exo-Muro** son el corazón comercial de esta zona, un nexo caótico donde el **Comando Nacional** compite por el control con el **Gremio de Transportistas** y los contrabandistas.
+
+### **DMZ (Oeste)**
+Un desierto de ruinas que se extiende al otro lado del muro. Los "salvajes" que habitan estos escombros han aprendido a evitar la línea de tiro de los francotiradores del muro, que mantienen la zona despejada a base de plomo. Aquí se encuentra el [[El Bazar del Muro]], un precario punto de encuentro.
+
+### **Los Pantanos (Sur)**
+Considerados inhabitables, son un laberinto de marismas, ruinas anegadas y vegetación mutada. Los guardias del muro reportan avistamientos de barcazas lejanas, pero no intervienen, ya que nadie se acerca. Se rumorea que son el hogar de criaturas anómalas, comunidades de supervivientes y extraños recursos.
 
 ## Lugares de Interés
 

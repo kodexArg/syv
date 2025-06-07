@@ -12,12 +12,12 @@ tags:
 
 # Zona Residencial de Alta Sociedad (Barrios del Norte)
 
-Los Barrios del Norte son un oasis de opulencia y tranquilidad en medio del caos de Ciudad Dársena. Protegida por muros internos y patrullas de seguridad privadas, esta zona es el hogar de la élite de la Confederación: altos mandos del Comando Nacional, líderes eclesiásticos, ricos comerciantes y los industriales más influyentes. Aquí, la miseria y la escasez del resto de la ciudad son solo un rumor lejano.
+Los Barrios del Norte son un oasis de opulencia y tranquilidad en medio del caos de Ciudad Dársena, hogar de 50.000 personas. Protegida por muros internos y patrullas de seguridad privadas, esta zona es el hogar de la élite de la Confederación. Se caracteriza por sus edificaciones bajas de dos plantas con jardines en las azoteas y servicios de alta calidad, un lujo impensable en el resto de la ciudad.
 
 ## Lugares de Interés
 
 ### **Jardines del Norte**
-Lujosos y extensos parques privados, un remanso de paz para la élite. En esta zona se encuentran las residencias más suntuosas de Dársena, mansiones fortificadas y aisladas donde los ricos se protegen de las turbulencias de la ciudad y disfrutan de un estilo de vida que se creía perdido.
+Lujosos y extensos parques privados, un remanso de paz para la élite. En esta zona se encuentran las residencias más suntuosas de Dársena, mansiones fortificadas y aisladas donde los ricos se protegen de las turbulencias de la ciudad y disfrutan de un estilo de vida que se creía perdido. Es la única plaza arbolada en el lado oeste de la dársena.
 
 ### **Club de la Élite**
 Un exclusivo club social donde se cierran los verdaderos tratos de poder de la Confederación. En sus salones privados, entre licores añejos y humo de puros, se toman decisiones políticas y económicas que afectan a millones, lejos de cualquier escrutinio público.
@@ -32,4 +32,7 @@ Pequeñas y discretas clínicas dispersas por toda la zona, que ofrecen servicio
 Un secreto a voces entre la élite. En lugares clandestinos y eventos privados, se comercian bienes prohibidos y exóticos: tecnología de la era pre-bélica, alimentos importados, obras de arte censuradas y otros lujos inalcanzables para el ciudadano común.
 
 ### **Escuela Privada de Élite**
-Una institución educativa exclusiva para los hijos de las familias más acaudaladas. Rodeada de fuertes medidas de seguridad, garantiza una educación de calidad y, lo que es más importante, las conexiones sociales necesarias para perpetuar el poder de la élite. 
+Una institución educativa exclusiva para los hijos de las familias más acaudaladas. Rodeada de fuertes medidas de seguridad, garantiza una educación de calidad y, lo que es más importante, las conexiones sociales necesarias para perpetuar el poder de la élite.
+
+### **Museo Anónimo**
+Una galería subterránea y secreta que alberga una humillante (para la SIA) colección de [[tecnologia-prohibida|tecnología prohibida]] y artefactos anómalos. Su mecenas es desconocido y su existencia es un rumor constante y una afrenta para las autoridades. 

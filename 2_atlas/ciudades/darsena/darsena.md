@@ -1,34 +1,43 @@
 ---
 titulo: Ciudad Dársena
 carpeta: 2_atlas/ciudades/darsena
-descripcion: "Una metrópolis amurallada, capital de la Confederación Argentina, un bastión de orden y fe en un mundo post-apocalíptico."
+descripcion: "Ciudad Dársena es la capital de la Confederación Argentina, una metrópolis amurallada de cinco millones de almas que se erige como un bastión de orden, fe y poder naval en un mundo post-apocalíptico."
 tags:
 - darsena
 - ciudad-principal
 - capital
 - confederacion-argentina
+- iglesia
+- armada
+- sia
 ---
 
 # Ciudad Dársena
 
-Ciudad Dársena, la imponente capital de la Confederación Argentina, se alza como un bastión de civilización en un mundo que ha sucumbido al caos. Rodeada por murallas colosales y bañada por las aguas del Río de la Plata, Dársena es un microcosmos de poder, fe y supervivencia. Es el corazón político, religioso y económico de la nación, donde la Sagrada Inquisición Argentina (SIA) y el Comando Nacional ejercen un control férreo sobre una población diversa y a menudo desesperada.
+Ciudad Dársena es el centro de poder político, religioso y naval de la Confederación Argentina. Erigida sobre las ruinas de Buenos Aires y comprimida entre un muro de 15 metros de altura y el contaminado Río de la Plata, la ciudad es una fortaleza de hormigón y fe que alberga a cinco millones de almas. Bajo un cielo casi siempre cubierto por nubes y una llovizna eterna, la vida transcurre bajo el control dual del Comando Militar y la Iglesia, en un ambiente de hacinamiento opresivo y vigilancia constante.
 
-## Geografía y Estructura
+## Historia
 
-La ciudad está dividida en varias zonas distintivas, cada una con su propia atmósfera y propósito. Desde la opulencia vigilada de la Zona Residencial de Alta Sociedad hasta la anarquía controlada de los Barrios del Muro, Dársena es una ciudad de contrastes. Su estructura vertical, con imponentes torres hidropónicas y rascacielos gubernamentales, contrasta con la laberíntica red subterránea de Las Tuberías, un mundo oculto que bulle bajo la superficie.
+-   **Década 2020-2030**: En los años previos al colapso, Buenos Aires ya construía el muro que hoy define a Dársena, inicialmente como una barrera para segregar las crecientes desigualdades sociales.
+-   **2035-2040**: Una bomba devasta Buenos Aires, marcando el inicio de la Gran Guerra Global para Argentina. El muro protege el núcleo de la futura ciudad, que nace de las ruinas y se consolida como una fortaleza gobernada por la aristocracia local.
+-   **2040-2050**: Comienza la reconstrucción y un período de reclusión. En 2054, las ruinas de la Basílica de San Pedro son trasladadas desde el Vaticano, estableciendo a Dársena como el nuevo centro del poder eclesiástico.
+-   **2050-2060**: La aparición de la Inteligencia Artificial Quiescente (QAI) pone fin a la era tecnológica. En Dársena nace la Sagrada Inquisición Argentina (SIA) como brazo armado de la Iglesia contra la herejía científica. La ciudad-estado se declara autónoma.
+-   **2060-2070**: Se construyen las Torres Hidropónicas para sostener a la población. Tras una década de pujas políticas, la aristocracia local cede el poder a una nueva alianza: el Ejército Argentino (con sede en Córdoba) y la Iglesia. Este evento marca el inicio de la Confederación Argentina.
+-   **2070-2100**: La ciudad experimenta una explosión demográfica por las migraciones, que culmina con el cierre de fronteras y la promulgación de la "Ley de Sangre" para prohibir la inmigración. La DMZ al otro lado del muro es despejada por la fuerza.
+-   **2100-2170**: Dársena se consolida como la capital de la Confederación, una potencia comercial y un centro de peregrinación mundial, manteniendo su dominio a través del control religioso y naval.
 
-## Gobierno y Facciones
+## Gobierno y Sociedad
 
-El poder en Dársena está centralizado en dos instituciones principales:
+El poder en Dársena se asienta sobre un trípode de facciones dominantes que cooperan y compiten por el control:
 
-*   **El Comando Nacional**: Las fuerzas armadas que garantizan el orden y la seguridad dentro de las murallas.
-*   **La Iglesia y la SIA**: La autoridad moral y espiritual, que vigila la ortodoxia y persigue la herejía tecnológica y paranormal.
+-   **La Iglesia**: Establecida como la nueva Santa Sede, su poder es absoluto en materia espiritual y moral. A través de la **Sagrada Inquisición Argentina (SIA)**, impone un control dogmático sobre la ciencia y la tecnología, persiguiendo cualquier herejía.
+-   **Fuerzas Armadas**: Dársena es la sede de la **Armada Argentina** y de la **Prefectura Naval**, lo que le otorga el dominio de las aguas y del comercio internacional. Su poder se equilibra y tensiona con el del Ejército, acuartelado en Córdoba.
+-   **Gremio de Comercio**: Agrupa a todos los negociantes de la ciudad, desde tenderos hasta magnates del mercado negro. Controla las redes comerciales que se extienden más allá de los muros, operando con un pragmatismo que a menudo choca con la rigidez de la Iglesia.
 
-Sin embargo, numerosas facciones operan en las sombras, tejiendo una compleja red de alianzas e intrigas. Comerciantes, contrabandistas, revolucionarios, espías y cultos secretos luchan por su parcela de influencia en la capital.
-
-## La Vida en Dársena
-
-Para sus habitantes, la vida en Dársena es una mezcla de obediencia y resistencia. La propaganda del régimen promete seguridad y salvación, pero la realidad diaria está marcada por la escasez, la vigilancia constante y la amenaza de la purga. A pesar de todo, el espíritu de la ciudad persiste en sus mercados bulliciosos, en los debates secretos de sus academias y en la resilencia de aquellos que han hecho de las ruinas de un mundo antiguo su hogar.
+Bajo esta estructura de poder, bulle una sociedad clandestina en los márgenes:
+-   **Facciones Proscritas**: Grupos como la **Resistencia Subterránea**, los anarquistas, y los creyentes de **Los Umbanda** operan en secreto, principalmente desde los [[Barrios del Muro]] y [[Las Tuberías]].
+-   **Redes Ocultas**: Los **Criptógrafos** (hackers), los **Masones** y los **Arpistas** (preservadores del conocimiento) forman redes de influencia y secretos que son cazados y a la vez reclutados por el Estado y la Iglesia.
+-   **Parias y Criminales**: **Refugiados** sin ciudadanía y parias viven bajo la amenaza de los **Traficantes de Almas**, que operan en el corazón de las zonas más desfavorecidas.
 
 ## Zonas Principales
 
