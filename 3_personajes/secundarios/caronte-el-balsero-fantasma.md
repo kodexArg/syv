@@ -1,28 +1,26 @@
 ---
-title: Caronte, el balsero fantasma
+titulo: "Caronte, el balsero fantasma"
+carpeta: 3_personajes/secundarios
+descripcion: "Misterioso balsero ciego que navega los túneles inundados de Las Tuberías, transportando pasajeros y mercancía de contrabando."
 tags:
   - personaje
   - secundario
   - tuberias
   - contrabandista
+facciones: []
+alerta-spoilers: "Su rol como informante y contrabandista para todas las bandas es un secreto bien guardado."
 ---
 
-# Caronte, el balsero fantasma
+## Aspecto
+
+Caronte, cuyo verdadero nombre es Damián Vergara, es un hombre de mediana edad, ciego, con una presencia tan misteriosa como el río subterráneo que navega. Viste un mameluco funcional de goma, totalmente oscuro, adaptado a su vida entre las corrientes.
 
 ## Descripción
 
-El balsero fantasma de los túneles inundados es ciego.
+Conocido como "el balsero fantasma", Caronte navega permanentemente por Las Tuberías en su angosta balsa metálica. Se mueve con una confianza que desafía la lógica, siempre perfectamente alineado con el centro del túnel, transportando pasajeros o, más habitualmente, mercancía en el cofre metálico de su embarcación.
 
-Damián Vergara es un hombre de mediana edad, con una presencia tan misteriosa como el río subterráneo que navega con su angosta balsa metálica. Se mueve con una confianza que desafía la lógica, siempre perfectamente alineado con el centro del túnel.
+## Secretos / Trasfondo Oculto
 
-Su atuendo es sencillo: un mamelcuo funcional de goma, totalmente oscuro, adaptado a su vida entre las corrientes subterráneas.
+La tragedia y el azar lo llevaron a este oficio para sobrevivir. Damián es en realidad un hábil contrabandista que trabaja con todas las bandas de la Zona Roja, lo que le permite circular sin interrupción y a cualquier hora.
 
-Todos lo conocen porque él navega permanentemente Las Tuberías, y a todas horas, transportando a algún pasajero o, más habitualmente, mercancía en el cofre metálico a babor.
-
-## Trasfondo
-
-La tragedia y el azar le encontraron hace tiempo este oficio, que le permite sobrevivir. Damián es en realidad un gran contrabandista, trabajando con todas las bandas de la Zona Roja, y por eso es que le permite circular sin interrupción y a cualquier hora.
-
-Es increíblemente reservado y es muy difícil extraer información de él.
-
-Pero también es cierto que, acostumbrados a su presencia, las conversaciones no suelen cambiar cuando él pasa silencioso por el río; y todo lo que escucha con sus agudos oídos lo guarda para convertirlo en monedas con la gente apropiada. 
+Es increíblemente reservado y es muy difícil extraerle información directamente. Sin embargo, su presencia es tan común que las conversaciones a su alrededor no suelen detenerse. Todo lo que escucha con sus agudos oídos lo guarda y lo convierte en moneda de cambio con la gente apropiada. 

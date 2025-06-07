@@ -12,7 +12,12 @@ tags:
 
 Esta guía explica el formato correcto para agregar referencias, notas al pie y enlaces entre documentos en el proyecto "Subordinación y Valor".
 
-Las referencias aquí se permiten para citar fuentes muy específicas, conceptos importantes que requieren una explicación adicional. Se colocan al final del documento, después de una línea divisoria (`---`).
+Las referencias aquí se permiten para citar fuentes muy específicas, incluso links externos, o conceptos importantes que requieren una explicación adicional.
+
+
+
+
+
 
 ### Formato
 
@@ -20,6 +25,22 @@ Las referencias aquí se permiten para citar fuentes muy específicas, conceptos
 2. Al final del documento, después de `---`, agrega la referencia completa
 3. El identificador debe ser descriptivo y único dentro del documento
 
+## Buenas Prácticas
+
+1. **Mantenimiento de Referencias**
+   - Verifica que todas las referencias tengan su correspondiente nota al pie
+   - Asegúrate de que los enlaces sean válidos y estén actualizados
+   - Usa rutas relativas para los enlaces
+
+2. **Organización**
+   - Separa claramente las secciones de referencias y relaciones
+   - Mantén un orden lógico en las relaciones (personajes, lugares, eventos)
+   - Usa descripciones concisas pero informativas
+
+3. **Consistencia**
+   - Sigue el mismo formato en todos los documentos
+   - Usa identificadores descriptivos y únicos
+   - Mantén un estilo uniforme en las descripciones
 ### Ejemplo
 
 ```markdown
@@ -59,22 +80,6 @@ Los enlaces entre documentos se utilizan para establecer relaciones entre person
   - [Comisaría 4to Cuerpo](../2_atlas/ciudad-darsena/comisaria-4to-cuerpo.md): Lugar de los interrogatorios.
 ```
 
-## Buenas Prácticas
-
-1. **Mantenimiento de Referencias**
-   - Verifica que todas las referencias tengan su correspondiente nota al pie
-   - Asegúrate de que los enlaces sean válidos y estén actualizados
-   - Usa rutas relativas para los enlaces
-
-2. **Organización**
-   - Separa claramente las secciones de referencias y relaciones
-   - Mantén un orden lógico en las relaciones (personajes, lugares, eventos)
-   - Usa descripciones concisas pero informativas
-
-3. **Consistencia**
-   - Sigue el mismo formato en todos los documentos
-   - Usa identificadores descriptivos y únicos
-   - Mantén un estilo uniforme en las descripciones
 
 ---
 

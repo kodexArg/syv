@@ -1,15 +1,30 @@
 ---
-title: Subcomisario Iván Méndez
+titulo: "Subcomisario Iván Méndez"
+carpeta: 3_personajes/secundarios
+descripcion: "Líder de equipo en la Unidad de Respuesta Táctica Urbana (RTU), especializado en operaciones de alto riesgo."
 tags:
   - personaje
-  - arquetipo
+  - secundario
   - policia
+facciones:
+  - "Policía de la Ciudad"
+  - "Unidad de Respuesta Táctica Urbana (RTU)"
+alerta-spoilers: "Su lucha contra el abuso de poder dentro de las fuerzas de seguridad es un objetivo personal y secreto."
 ---
 
-# Subcomisario Iván Méndez (40)
+## Aspecto
 
-- **Aspecto**: Robusto, mirada cansada pero perspicaz, voz grave.
-- **Facción**: Policía, Unidad de Respuesta Táctica Urbana (RTU).
-- **Función**: Líder de equipo en operaciones de alto riesgo.
-- **Motivación Oculta**: Prevenir el abuso de poder dentro de las fuerzas de seguridad.
-- **Vínculos**: Agente Luis Navarro, Comisario General Diego Herrera. 
+Hombre de 40 años, de complexión robusta, con una mirada cansada pero perspicaz y voz grave.
+
+## Descripción
+
+El Subcomisario Iván Méndez es el líder de un equipo en la Unidad de Respuesta Táctica Urbana (RTU), encargado de operaciones de alto riesgo.
+
+## Secretos / Objetivos Ocultos
+
+Su principal motivación es prevenir el abuso de poder que observa dentro de las fuerzas de seguridad.
+
+### Relaciones
+
+- [[3_personajes/secundarios/agente-luis-navarro|Agente Luis Navarro]]
+- [[3_personajes/secundarios/diego-herrera|Comisario General Diego Herrera]] 

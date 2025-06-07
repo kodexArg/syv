@@ -1,21 +1,23 @@
 ---
-title: Iván Torres, Bicicletero
+titulo: "Iván Torres, Bicicletero"
+carpeta: 3_personajes/secundarios
+descripcion: "Mecánico especializado en bicicletas y otros medios de movilidad urbana, con un profundo conocimiento de la red de mensajeros de la ciudad."
 tags:
   - personaje
-  - arquetipo
+  - secundario
   - civil
+facciones: []
+alerta-spoilers: "Su conocimiento sobre las actividades de los mensajeros es un secreto que podría ser peligroso."
 ---
 
-# Iván Torres (32) - Bicicletero
+## Aspecto
+
+Iván Torres es un hombre de 32 años con el rostro arruinado. Siempre viste un overol manchado de grasa.
 
 ## Descripción
 
-Repara y modifica bicicletas y medios de movilidad urbanos. Siempre viste overall y está manchado. Tiene cara arruinada.
+Se dedica a reparar y modificar bicicletas y otros medios de movilidad urbana en su taller.
 
-**Secreto:** Conoce a todos los mensajeros. Sabe a qué se dedica cada uno.
+## Secretos
 
-## Image Generation
-
-```
-Close-up portrait, depth of field, a 32-year-old man, his face marked by toil, wears an ever-stained overall, the embodiment of urban resilience. Amidst the glow and grime of a cyberpunk city, he's the nexus for messengers on wheels, privy to the life of each, a keeper of secrets rolling on the streets.
-``` 
+Conoce a todos los mensajeros de la ciudad y sabe a qué se dedica realmente cada uno, más allá de la simple entrega de paquetes. 

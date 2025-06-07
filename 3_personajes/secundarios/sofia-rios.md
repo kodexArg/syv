@@ -1,27 +1,33 @@
 ---
-title: Sofía Ríos, Inspectora de Seguridad Nacional
+titulo: "Sofía Ríos, Inspectora de Seguridad Nacional"
+carpeta: 3_personajes/secundarios
+descripcion: "Inspectora recién ascendida del Departamento de Investigaciones Paranormales, que investiga por su cuenta un alarmante aumento de desapariciones."
 tags:
   - personaje
-  - arquetipo
+  - secundario
   - seguridad-nacional
+facciones:
+  - "Seguridad Nacional"
 ---
-
-# Sofía Ríos (36) - Inspectora de Seguridad Nacional
 
 ## Descripción
 
-Recientemente ascendida a detective y aún sin caso asignado, actúa por su cuenta.
+Sofía Ríos, de 36 años, es una inspectora del Departamento de Seguridad Nacional, Área de Investigaciones Paranormales. Recientemente ascendida a detective y aún sin un caso asignado oficialmente, ha decidido actuar por su cuenta.
+
+## Trasfondo
+
+Sus investigaciones personales surgen de estadísticas alarmantes en los reportes de desapariciones del último año, concentradas en los Barrios del Muro. Está decidida a comprender el fenómeno y quiere convertirlo en su primer caso oficial como detective.
 
 ## Hoja de Personaje
 
-| **Característica** | **P** | **Justificación** |
+| **Característica** | **Puntos** | **Justificación** |
 | --- | --- | --- |
 | Fortaleza (FOR) | 3 | Policía entrenada |
 | Reflejos (REF) | 4 | Alerta, reactiva |
 | Voluntad (VOL) | 2 | Dudativa, algo supersticiosa |
 | Inteligencia (INT) | 3 | Inteligente pero no excepcional |
 
-| **Habilidad** | **P** | **Justificación** |
+| **Habilidad** | **Puntos** | **Justificación** |
 | --- | --- | --- |
 | Forma física | 5 | Entrenamiento policial |
 | Combate | 4 | Defensa propia y arrestos |

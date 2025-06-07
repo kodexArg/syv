@@ -1,15 +1,29 @@
 ---
-title: Agente Luis Navarro
+titulo: "Agente Luis Navarro"
+carpeta: 3_personajes/secundarios
+descripcion: "Operativo de campo de Seguridad Urbana, especializado en seguimiento y vigilancia."
 tags:
   - personaje
-  - arquetipo
+  - secundario
   - seguridad-urbana
+facciones:
+  - "Seguridad Urbana"
+alerta-spoilers: "Su infiltración en una facción proscrita es una misión personal y secreta."
 ---
 
-# Agente Luis Navarro (29)
+## Aspecto
 
-- **Aspecto**: Delgado, de movimientos rápidos, siempre alerta.
-- **Facción**: Seguridad Urbana.
-- **Función**: Operativo en campo, seguimiento y vigilancia.
-- **Motivación Oculta**: Infiltrarse en una facción proscrita para proteger a un ser querido.
-- **Vínculos**: Inspector Sofía Ríos, Subcomisario Iván Méndez. 
+Hombre de 29 años, de complexión delgada y movimientos rápidos. Se mantiene siempre alerta.
+
+## Descripción
+
+El Agente Luis Navarro es un operativo de campo de la división de Seguridad Urbana, especializado en misiones de seguimiento y vigilancia.
+
+## Secretos / Objetivos Ocultos
+
+Su principal motivación es infiltrarse en una facción proscrita para proteger a un ser querido.
+
+### Relaciones
+
+- [[3_personajes/secundarios/sofia-rios|Inspector Sofía Ríos]]
+- [[3_personajes/secundarios/subcomisario-ivan-mendez|Subcomisario Iván Méndez]] 

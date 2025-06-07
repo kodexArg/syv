@@ -8,11 +8,10 @@ tags:
 - colaboracion
 ---
 
+
 # Guía de Metadatos para archivos `.md` en SyV
 
 Esta guía explica el formato **único y correcto** de metadatos (front matter YAML) que deben tener todos los archivos Markdown del proyecto "Subordinación y Valor".
-
-## Formato obligatorio
 
 - El bloque de metadatos es obligatorio.
 - Debe ir al inicio del archivo, delimitado por líneas `---`.
@@ -24,9 +23,20 @@ Esta guía explica el formato **único y correcto** de metadatos (front matter Y
   - `tags`: Etiquetas temáticas (array YAML). **Opcional pero recomendado**.
   - `region`, `fecha`, `alcance`: Solo si aplica.
 
+
+## Buenas prácticas
+- Mantén los campos alineados y sin tabulaciones.
+- Antes de usar `tags`, revisa si ya existe una etiqueta que se pueda usar.
+- No repitas información entre campos.
+- La descripción debe ser breve y clara.
+- No uses caracteres especiales en los nombres de campos.
+- No dejes el bloque de metadatos vacío.
+- Si agregas nuevos campos, documenta su uso en esta guía.
+- **No uses nunca campos como `layout`, `title`, `date` ni ningún campo en inglés.**
+
+
 ## Ejemplos correctos
 
-### Ejemplo de entrada de cronología con descripción
 ```yaml
 ---
 titulo: Año 2031: El Año del Cráter
@@ -41,7 +51,6 @@ region: Argentina
 ---
 ```
 
-### Ejemplo de archivo índice de carpeta
 ```yaml
 ---
 titulo: Atlas
@@ -50,15 +59,6 @@ descripcion: Geografía, mapas y aspectos físicos del universo.
 ---
 ```
 
-## Buenas prácticas
-- Mantén los campos alineados y sin tabulaciones.
-- Antes de usar `tags`, revisa si ya existe una etiqueta que se pueda usar.
-- No repitas información entre campos.
-- La descripción debe ser breve y clara.
-- No uses caracteres especiales en los nombres de campos.
-- No dejes el bloque de metadatos vacío.
-- Si agregas nuevos campos, documenta su uso en esta guía.
-- **No uses nunca campos como `layout`, `title`, `date` ni ningún campo en inglés.**
 
 ---
 

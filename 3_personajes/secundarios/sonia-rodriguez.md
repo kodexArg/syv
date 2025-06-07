@@ -1,24 +1,25 @@
 ---
-title: Sonia Rodríguez, Cocinera/Dueña
+titulo: "Sonia Rodríguez, Cocinera y Dueña"
+carpeta: 3_personajes/secundarios
+descripcion: "Dueña de una pequeña cantina en los Barrios del Muro, que sirve como fachada para sus actividades de apoyo a la Resistencia."
 tags:
   - personaje
-  - arquetipo
+  - secundario
   - comerciante
   - resistencia
+facciones:
+  - "La Resistencia"
+alerta-spoilers: "Sus vínculos con la Resistencia son un secreto."
 ---
-
-# Sonia Rodríguez (36) - Cocinera/Dueña en Barrios del Muro
 
 ## Descripción
 
-Dirige una pequeña cantina en los Barrios del Muro, sirviendo platos.
+Sonia Rodríguez, de 36 años, dirige una pequeña cantina en los Barrios del Muro donde sirve platos a los locales.
 
-**Secreto:** ayuda a los pobres como puede y tiene vínculos con La Resistencia.
+## Secretos
 
-**Vínculos:** Verónica Suárez (31) - Camarera
+En secreto, Sonia ayuda a los pobres como puede y mantiene vínculos activos con La Resistencia.
 
-## Image Generation
+### Relaciones
 
-```
-Close-up portrait, depth of field, a 36-year-old woman, her face alight with the glow of neon in rain-slicked alleys, exuding warmth and resilience as she serves sustenance from her haven of a kitchen in a 70s retro-cyberpunk world.
-``` 
+- [[3_personajes/secundarios/veronica-suarez|Verónica Suárez]] 

@@ -1,27 +1,38 @@
 ---
-title: Elena Juárez, Maestra residencial
+titulo: "Elena Juárez, Maestra residencial"
+carpeta: 3_personajes/secundarios
+descripcion: "Maestra que trabaja tanto en los barrios ricos como con niños de los Barrios del Muro, y que secretamente lucha contra la influencia de la Iglesia."
 tags:
   - personaje
-  - arquetipo
+  - secundario
   - educador
+facciones:
+  - "Educadores laicos"
+alerta-spoilers: "Su activismo antieclesiástico y su colección de libros prohibidos son un secreto peligroso."
 ---
-
-# Elena Juárez (42) - Maestra residencial
 
 ## Descripción
 
-Trabaja en los finos barrios de Zona Norte como maestra y está unida a círculos intelectuales, pero también colabora en una escuela en un edificio del centro al que asisten chicos de los Barrios del Muro.
+Elena Juárez, de 42 años, es una maestra que divide su tiempo entre los finos barrios de Zona Norte y una escuela en el centro que atiende a niños de los Barrios del Muro. Está muy unida a círculos intelectuales.
+
+## Trasfondo
+
+Recientemente, Elena ha notado un cambio dramático en el comportamiento de algunos de sus estudiantes. Parecen desorientados y desconectados durante el día, como si no durmieran en absoluto. Su preocupación como maestra es una pista clave para los investigadores que indaguen en las vidas familiares de estos niños.
+
+## Secretos / Objetivos Ocultos
+
+Elena es profundamente antieclesiástica. Su verdadera motivación es reunir libros prohibidos, preservar el conocimiento que estos contienen y adoctrinar sutilmente a sus alumnos con dudas sobre la Iglesia.
 
 ## Hoja de Personaje
 
-| **Característica** | **P** | **Justificación** |
+| **Característica** | **Puntos** | **Justificación** |
 | --- | --- | --- |
 | Fortaleza (FOR) | 2 | Resiliente en crisis |
 | Reflejos (REF) | 2 | Coordinación básica |
 | Voluntad (VOL) | 4 | Convicción ideológica fuerte |
 | Inteligencia (INT) | 4 | Erudita, pensadora crítica |
 
-| **Habilidad** | **P** | **Justificación** |
+| **Habilidad** | **Puntos** | **Justificación** |
 | --- | --- | --- |
 | Forma física | 2 | Ejercicios Matinales |
 | Combate | 1 | Pacifista convencida |
@@ -31,8 +42,6 @@ Trabaja en los finos barrios de Zona Norte como maestra y está unida a círculo
 | Cultura | 5 | Acervo cultural amplio |
 | Profesión | 3 | Doble docencia |
 | Ocultismo | 0 | Atea |
-
-**Facción**: Educadores laicos.
 
 **Función**: Maestra (Zona Norte y colaboradora en Barrios del Muro)
 

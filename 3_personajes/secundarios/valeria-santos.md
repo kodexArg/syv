@@ -1,28 +1,40 @@
 ---
-title: Valeria Santos, Dama de compañía
+titulo: "Valeria Santos, Dama de compañía y Archivista"
+carpeta: 3_personajes/secundarios
+descripcion: "Dama de compañía que se codea con el poder y, en secreto, usa su acceso a la biblioteca para descubrir la verdad sobre el origen de la ciudad."
 tags:
   - personaje
-  - arquetipo
+  - secundario
   - arpista
   - guardian-de-la-memoria
+facciones:
+  - "Arpistas"
+  - "Guardianes de la Memoria"
+alerta-spoilers: "Su doble vida y su investigación secreta no deben ser reveladas."
 ---
-
-# Valeria Santos (29) - Dama de compañía
 
 ## Descripción
 
-Su vida es un extraño vínculo entre su acceso a la biblioteca, que es su pasión, con su vida nocturna donde trabaja como Dama de compañía, y se codea con el poder: tanto Militares como aristócratas del Barrio Norte.
+Valeria Santos, de 29 años, lleva una doble vida. Por la noche, trabaja como Dama de Compañía, codeándose con el poder de Dársena, desde militares hasta los aristócratas de Barrio Norte.
+
+## Trasfondo
+
+Su verdadera pasión es la historia y el conocimiento. Como archivista, ha descubierto documentos antiguos sobre tecnologías de manipulación del sueño que coinciden sorprendentemente con descripciones de eventos actuales, lo que la ha puesto en un camino peligroso.
+
+## Secretos / Objetivos Ocultos
+
+Su principal motivación es exponer la verdad sobre el origen de la ciudad, desafiando la versión oficial que ignora la creciente y peligrosa influencia de la aristocracia.
 
 ## Hoja de Personaje
 
-| **Característica** | **P** | **Justificación** |
+| **Característica** | **Puntos** | **Justificación** |
 | --- | --- | --- |
 | Fortaleza (FOR) | 2 | Elegancia |
 | Reflejos (REF) | 3 | Buena bailarina |
 | Voluntad (VOL) | 4 | Determinación |
 | Inteligencia (INT) | 3 | Culta, analítica |
 
-| **Habilidad** | **P** | **Justificación** |
+| **Habilidad** | **Puntos** | **Justificación** |
 | --- | --- | --- |
 | Forma física | 2 | Maestra del sexo |
 | Combate | 1 | Golpe a la entrepierna |
@@ -33,10 +45,6 @@ Su vida es un extraño vínculo entre su acceso a la biblioteca, que es su pasi�
 | Profesión | 3 | Experta archivista |
 | Ocultismo | 1 | Interés literario |
 
-**Facción**: Arpistas y Guardianes de la Memoria.
-
 **Función**: Dama de Compañía y Archivista en la Biblioteca
-
-**Motivación Oculta**: Exponer la verdad sobre el origen de la ciudad, desafiando la versión oficial, que desoye la influencia creciente de la aristocracia.
 
 **Aporte a la historia:** Valeria, como archivista, ha descubierto documentos antiguos sobre tecnologías de manipulación del sueño que coinciden sorprendentemente con las descripciones. 

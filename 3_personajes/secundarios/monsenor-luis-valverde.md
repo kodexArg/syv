@@ -1,18 +1,25 @@
 ---
-title: Monseñor Luis Valverde
+titulo: "Monseñor Luis Valverde"
+carpeta: 3_personajes/secundarios
+descripcion: "Director de la Academia Teológica y figura prominente del Alto Clero, conocido por su erudición y su vasta red de contactos en el ámbito científico."
 tags:
   - personaje
-  - arquetipo
+  - secundario
   - alto-clero
+facciones:
+  - "Alto Clero"
+alerta-spoilers: "Su objetivo de conservar el poder eclesiástico sobre el conocimiento es una motivación que no revela abiertamente."
 ---
-
-# Monseñor Luis Valverde (58)
 
 ## Descripción
 
-A sus 58 años, es una figura prominente y respetada dentro del Alto Clero, desempeñándose como Director de la Academia Teológica y muy vinculado al ambiente científico. Conocido por su aire distendido y su erudición, Luis es un aliado del bien, dedicado a preservar el poder eclesiástico sobre el conocimiento para mantener la estabilidad y guiar a su comunidad hacia un bien mayor.
+A sus 58 años, Monseñor Luis Valverde es una figura prominente y respetada dentro del Alto Clero. Se desempeña como Director de la Academia Teológica y está muy vinculado al ambiente científico. Es conocido por su aire distendido, su erudición y su legendaria red de contactos dentro de la Iglesia, sobre todo en áreas científicas.
 
-Es legendaria su vasta red de contactos dentro de la iglesia, sobre todo en áreas científicas.
+Se le considera un aliado del bien, dedicado a guiar a su comunidad hacia un bien mayor.
+
+## Secretos / Objetivos Ocultos
+
+Su principal motivación es preservar y conservar el poder eclesiástico sobre el conocimiento para mantener la estabilidad.
 
 ## Hoja de Personaje
 
@@ -34,10 +41,8 @@ Es legendaria su vasta red de contactos dentro de la iglesia, sobre todo en áre
 | Profesión | 6 | Respetado director y académico |
 | Ocultismo | 3 | Conocedor de lo místico y esotérico |
 
-**Facción**: Alto Clero.
+### Relaciones
 
-**Función**: Director de la Academia Teológica.
-
-**Motivación Oculta**: Conservar el poder eclesiástico sobre el conocimiento.
-
-**Vínculos**: Madre Inquisidora, Padre Felipe, Papa 
+- [[Madre Inquisidora]]
+- [[Padre Felipe]]
+- [[Papa]] 

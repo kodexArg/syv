@@ -1,17 +1,19 @@
 ---
-title: Carolina Pérez, Costurera
+titulo: "Carolina Pérez, Costurera"
+carpeta: 3_personajes/secundarios
+descripcion: "Costurera con un pequeño taller en los Barrios del Muro, que descubre un diario crucial sobre el culto de 'El Soñador'."
 tags:
   - personaje
-  - arquetipo
+  - secundario
   - comerciante
+facciones:
+  - "Comerciantes"
 ---
-
-# Carolina Pérez (34) - Costurera
 
 ## Descripción
 
-Diseña y repara ropa en su pequeño taller en los Barrios del Muro.
+Carolina Pérez, de 34 años, diseña y repara ropa en su pequeño taller ubicado en los Barrios del Muro.
 
-**Facción**: Comerciantes
+## Trasfondo
 
-**Aporte a la historia**: Carolina ha encontrado un antiguo diario cosido dentro del forro de un abrigo que estaba reparando. El diario contiene escritos de un miembro anterior del culto de Nicolás, describiendo lugares de reunión y otros detalles importantes sobre la operación de El Soñador. Este diario se convierte en una guía crucial para los investigadores. 
+Mientras reparaba un abrigo, Carolina encontró un antiguo diario cosido en su forro. El diario contiene los escritos de un antiguo miembro del culto de Nicolás (también conocido como "El Soñador"), describiendo lugares de reunión y otros detalles importantes sobre sus operaciones. Este diario se convierte en una guía crucial para los investigadores que siguen la pista del culto. 

@@ -1,16 +1,24 @@
 ---
-title: Hermana Laura Castillo, Enfermera
+titulo: "Hermana Laura Castillo, Enfermera"
+carpeta: 3_personajes/secundarios
+descripcion: "Enfermera experimentada y miembro de los Curatores, dedicada a ayudar en las clínicas comunitarias de los barrios bajos."
 tags:
   - personaje
-  - arquetipo
+  - secundario
   - curatores
+facciones:
+  - "Curatores"
+  - "Hermanas de la Caridad"
+alerta-spoilers: "Su colaboración con una red clandestina de ayuda es un secreto."
 ---
-
-# Hermana Laura Castillo (28) - Enfermera
 
 ## Descripción
 
-Enfermera muy experimentada que ayuda sin dudar
+La Hermana Laura Castillo, de 28 años, es una enfermera muy experimentada y miembro de los Curatores. Trabaja en las clínicas comunitarias de los barrios bajos, ayudando a quien lo necesite sin dudarlo.
+
+## Secretos / Objetivos Ocultos
+
+Colabora con una red clandestina de ayuda para los más necesitados, manteniendo lazos con las Hermanas de la Caridad.
 
 ## Hoja de Personaje
 
@@ -32,8 +40,4 @@ Enfermera muy experimentada que ayuda sin dudar
 | Profesión | 8 | Experta en enfermería, capacitada |
 | Ocultismo | 5 | Monja católica |
 
-**Facción**: Curatores.
-
-**Función**: Enfermera en clínicas de la comunidad.
-
-**Motivación Oculta**: Colabora con una red clandestina de ayuda para los más necesitados. Lazos con las Hermanas de la Caridad. 
+**Función**: Enfermera en clínicas de la comunidad. 

@@ -1,41 +1,36 @@
 ---
-title: Monseñor Miguel
+titulo: "Monseñor Miguel, el Gran Inquisidor"
+carpeta: 3_personajes/principales
+descripcion: "Máxima autoridad de la Santa Inquisición Argentina, un hombre enigmático y temido cuya historia ha sido borrada intencionadamente."
 tags:
   - personaje
   - principal
   - iglesia
+  - inquisicion
+facciones:
+  - "Iglesia de Dársena"
+  - "Santa Inquisición de la Verdad"
+alerta-spoilers: "Su historia y poder son secretos guardados celosamente. No debe ser presentado directamente a los jugadores."
 ---
 
-# Monseñor Miguel (70)
+## Aspecto
+
+Monseñor Miguel es un hombre de 70 años, de estatura media-baja y rostro cuadrado, con una calvicie incipiente en una corona de canas. Viste una sotana roja o negra, dependiendo de la ocasión, pero jamás de blanco.
+
+Posee una mirada sobrenaturalmente inquietante, con pequeños ojos celestes que parecen escudriñar el alma. Su sonrisa es a menudo impostada y habla con una voz siseante, con un acento del otro lado del continente.
 
 ## Descripción
 
-Un hombre de 70 años, estatura media baja y rostro cuadrado, con una calvicie incipiente en una corona de canas grises.
+Conocido por ser la máxima autoridad de la Santa Inquisición Argentina, algunos consideran que su poder está al mismo nivel que el del Papa. Transmite un aire intimidante y esotérico.
 
-Es conocido por ser la máxima autoridad de la Santa Inquisición Argentina, y algunos dirían que al mismo nivel que el Papa.
+Atiende sus asuntos en una habitación espartana y gris, sentado en un trono de piedra frente a un escritorio también de piedra, iluminado únicamente por la luz de velas. No hay rastro de tecnología ni electricidad cerca de él.
 
-Viste una sotana roja o negra, dependiendo el caso, pero jamás lleva blanco.
-
-Posee una mirada sobrenaturalmente inquietante, inquisidora, con unos ojos celestes pequeños y una inquietante sonrisa impostada.
-
-Habla con voz siseante, con un acento del otro lado del continente.
-
-Transmite un aire intimidante y esotérico.
-
-## Historia "Posesiones"
-
-Sentado en un trono de piedra en una habitación espartana y gris. Atiende frente a un escritorio también de piedra, lleno de papeles amarillentos e iluminado por luz de velas dorada y anaranjadas. No hay ningún rastro de tecnología y ni siquiera electricidad cerca de él.
+### Citas
 
 > Las posesiones no son tan raras como la gente piensa. A veces la víctima no sabe que tiene un demonio adentro.
 
-## Trasfondo
+## Trasfondo Oculto
 
-El actual Papa lo respeta y consulta con tanta asiduidad que sorprende y preocupa al resto de la curia. Y es el pontífice quien viene a esta torre, ya que el Gran Inquisidor nunca sale de la Torre de Luz.
+La historia de Monseñor Miguel ha sido intencionadamente eliminada, y lo que se conoce de él se basa en leyendas. Se sabe que su nombre real es Miguel y que proviene del otro lado del continente.
 
-Su historia es intencionalmente eliminada, y sólo se conocen leyendas. Sólo se sabe que su nombre real es Miguel, y que viene del otro lado del continente.
-
-## Image Generation
-
-```
-Close-up portrait, depth of field, a seasoned man with a square face, gray at the temples, robed in somber hues, eyes small, blue, and unsettling. Seated on a stone throne, his presence fills a sparse, candlelit room, casting long shadows, an air of mystique and authority enveloping him.
-``` 
+El Gran Inquisidor nunca abandona la Torre de Luz. Es tan respetado y temido que el propio Papa acude a él para consultarle, una situación que preocupa al resto de la curia. 

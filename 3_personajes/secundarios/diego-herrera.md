@@ -1,27 +1,36 @@
 ---
-title: Diego Herrera, Comisario General
+titulo: "Diego Herrera, Comisario General"
+carpeta: 3_personajes/secundarios
+descripcion: "Jefe corrupto del Departamento de Investigaciones Paranormales, obsesionado con la inspectora Sofía Ríos y la caza de subversivos."
 tags:
   - personaje
-  - arquetipo
+  - secundario
   - seguridad-nacional
+facciones:
+  - "Seguridad Nacional"
+alerta-spoilers: "Este personaje es un psicópata corrupto. Su obsesión y sus métodos deben ser revelados con precaución."
 ---
-
-# Diego Herrera (58) - Comisario General
 
 ## Descripción
 
-Un corrupto, obsesionado con Sofía Ríos (Inspectora de Seguridad Nacional). Un psicópata.
+Diego Herrera, de 58 años, es el Comisario General y jefe del Departamento de Seguridad Nacional, Área de Investigaciones Paranormales. Es un hombre corrupto y un psicópata.
+
+Está obsesionado con la Inspectora Sofía Ríos.
+
+## Secretos / Objetivos Ocultos
+
+Busca con saña a rebeldes y subversivos, y está dispuesto a hacer cualquier cosa para capturarlos.
 
 ## Hoja de Personaje
 
-| **Característica** | **P** | **Justificación** |
+| **Característica** | **Puntos** | **Justificación** |
 | --- | --- | --- |
 | Fortaleza (FOR) | 4 | Mantiene excelente forma |
 | Reflejos (REF) | 3 | Competente |
 | Voluntad (VOL) | 4 | Determinación corrupta |
 | Inteligencia (INT) | 1 | Limitado intelectualmente |
 
-| **Habilidad** | **P** | **Justificación** |
+| **Habilidad** | **Puntos** | **Justificación** |
 | --- | --- | --- |
 | Forma física | 5 | Físicamente imponente |
 | Combate | 4 | Entrenamiento en combate |
@@ -31,8 +40,6 @@ Un corrupto, obsesionado con Sofía Ríos (Inspectora de Seguridad Nacional). Un
 | Cultura | 2 | No era buen estudiante |
 | Profesión | 6 | Experiencia policial |
 | Ocultismo | 2 | Supersticioso |
-
-**Facción**: Seguridad Nacional.
 
 **Cargo**: Jefe del Departamento de Seguridad Nacional, Área Investigaciones Paranormales.
 
