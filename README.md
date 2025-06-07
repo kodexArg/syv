@@ -18,6 +18,7 @@ Este proyecto busca crear un espacio donde las historias escritas por humanos en
   manuales/
 1_trasfondo/
   codex/
+    constitucion-argentina.md
   cronologia/
   cosmovision/
   glosario/
