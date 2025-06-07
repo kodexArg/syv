@@ -1,7 +1,11 @@
 ---
 titulo: Atlas
 carpeta: 2_atlas
-descripcion: Geografía, mapas y aspectos físicos del universo.
+descripcion: Geografía, mapas y aspectos físicos del universo SyV.
+tags:
+- atlas
+- geografia
+- mapas
 ---
 
 # Atlas

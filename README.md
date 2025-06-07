@@ -1,3 +1,14 @@
+---
+titulo: Subordinación y Valor
+carpeta: .
+descripcion: Proyecto colaborativo de worldbuilding distópico en la Argentina del año 2178, centrado en Ciudad Dársena y la fragmentación post-colapso.
+tags:
+- proyecto
+- worldbuilding
+- argentina
+- distopía
+- colaborativo
+---
 "Subordinación y Valor" es un proyecto colaborativo de world building que explora un universo distópico en la Argentina del año 2178. Tras la Gran Guerra Global y el colapso tecnológico desencadenado por la Inteligencia Artificial Quiescente (QIA), la civilización se fragmentó en ciudades-estado aisladas, generando un profundo miedo a la tecnología.
 
 La narrativa se centra en Ciudad Dársena, erigida sobre las ruinas de Buenos Aires. Como capital de la Confederación Argentina, una alianza de 22 ciudades-estado, Dársena está gobernada por un control dual del Ejército Argentino y la Iglesia, que regulan la sociedad bajo una estricta Constitución y la prohibición de la computación con CPU.

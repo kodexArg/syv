@@ -1,9 +1,13 @@
 ---
 titulo: Línea del tiempo
 carpeta: 1_trasfondo/cronologia/2030-2039
-descripcion: Cronología detallada basada en los archivos de eventos del Gran Colapso.
+descripcion: Cronología detallada de los eventos del Gran Colapso y la fragmentación de Argentina y el mundo.
 tags:
 - cronologia
+- linea-del-tiempo
+- colapso
+- argentina
+- mundo
 fecha: 2030-2170
 alcance: Mundo, Sud América, Argentina, Ciudad Dársena
 ---

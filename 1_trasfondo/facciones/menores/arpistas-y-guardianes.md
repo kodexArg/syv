@@ -8,6 +8,7 @@ tags:
 - conocimiento
 - historia
 - arpistas
+- guardianes
 ---
 
 # Arpistas y Guardianes de la Memoria

@@ -1,7 +1,13 @@
 ---
-titulo: Diégesis
+titulo: Diegesis
 carpeta: 4_diegesis
-descripcion: Textos y artefactos internos del mundo.
+descripcion: Relatos, crónicas, cartas y diarios ficticios del universo SyV.
+tags:
+- diegesis
+- relatos
+- cronicas
+- cartas
+- diarios
 ---
 
 # Diégesis

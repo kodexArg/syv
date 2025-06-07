@@ -8,6 +8,7 @@ tags:
 - ejercito
 - comando-nacional
 - seguridad-nacional
+- darsena
 ---
 
 # Fuerzas Armadas

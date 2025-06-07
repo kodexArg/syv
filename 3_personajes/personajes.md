@@ -1,7 +1,11 @@
 ---
 titulo: Personajes
 carpeta: 3_personajes
-descripcion: Habitantes y grupos del mundo.
+descripcion: Índice y guía de los personajes principales, secundarios y arquetipos del universo SyV.
+tags:
+- personajes
+- indice
+- guia
 ---
 
 # Personajes
