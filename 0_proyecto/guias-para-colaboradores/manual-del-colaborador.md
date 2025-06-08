@@ -22,39 +22,45 @@ Guía para hacer un pull request: [Creating a pull request](https://docs.github.
 
 # Manual del Colaborador: Universo "Subordinación y Valor"
 
-Acá se ama la escritura humana. Los herrores son vienbenidos y los modismos son abrazados para dar color a "Subordinación y Valor". La prosa queda totalmente liberada al usuario, y es aceptable e incluso deseable que el estilo de cada aporte sea único.
+Acá se ama la escritura humana. Los errores son bienvenidos y los modismos son abrazados para dar color a "Subordinación y Valor". La prosa queda totalmente liberada al usuario, y es aceptable e incluso deseable que el estilo de cada aporte sea único.
 
 En cambio sí se requiere coherencia y cumplimiento de las pautas de esta guía, al igual que del formato indicado en la guía de metadatos. Esto ayuda a los agentes AI, MCPs y a cualquier asistente que quiera usar este corpus a obtener contextos coherentes con el universo.
 
 ## Pautas clave para contribuir
 
-Al contribuir a este proyecto, asegúrate de que tu creación no destruye lo que ya ha sido incorporado al canon. Para ello, asegurate de:
+- Asegúrate que tu aporte no destruya lo que ya ha sido incorporado al canon.
+- La historia válida es la que ocurre en la [Cronología](../1_trasfondo/cronologia/cronologia.md).
+- Mantén el español como idioma principal.
+- **IMPORTANTE**: Antes de contribuir, revisa:
+  - [Guía de Metadatos](guia-de-metadatos.md) para el formato correcto de los archivos
+  - [Guía de Personajes](guia-de-personajes.md) si vas a crear o mencionar personajes
+  - [Guía de Referencias](referencias-y-pie-de-pagina.md) para enlaces y citas
 
-- Respetar la cronología y el trasfondo establecido.
-- Mantener el español como idioma principal.
-- Colocar los archivos en las carpetas correspondientes.
-- Usar correctamente los metadatos en los archivos `.md` (ver [Guía de Metadatos](guia-de-metadatos.md)).
 
 ### Incorporar sucesos al canon
 
-- Los nuevos sucesos deben tener sentido y estar comprometidos con la trama.
-- O ser completamente irrelevantes para la misma, generando un nuevo hilo narrativo.
-- En lo posible, incorporar elementos diegéticos como crónicas, recoretes de la época, etc.
-- Cada personaje mencionado debe tener un archivo en la carpeta `3_personajes`.
+- Los nuevos sucesos:
+  - O deben tener sentido y estar comprometidos con la trama.
+  - O ser completamente irrelevantes para la misma, generando un nuevo hilo narrativo.
+- En lo posible, incorporar elementos diegéticos como crónicas, recortes de la época, etc.
+- Cada personaje mencionado debe tener un archivo en la carpeta `3_personajes`. Consulta la [Guía de Personajes](guia-de-personajes.md) para los detalles de categorización y metadatos requeridos.
 - Se prefieren aportes que contribuyan a reforzar los elementos únicos de este universo:
     - La religión.
     - Ciudad Dársena como epicentro de la trama.
     - Lugares de interés existentes.
-    - Personajes conocidos.
-- La cronología debe ser respetada, y el formato de los archivos debe ser YYYY-MM-DD-nombre-del-suceso.md (siendo MM y DD opcionales).
+    - Escenas que describan situaciones cotidianas.
+
 
 ### Sobre aventuras, historias y personajes
 
-- Aquí somos laxos, y prácticamente cualquier aporte (que no destruya lo hecho) es bienvenido.
+Aquí somos laxos, y prácticamente cualquier aporte (que no destruya lo hecho) es bienvenido.
 
 ## Sugerencia para usuarios de Cursor
 
 Si usás Cursor, podés activar las reglas de `.cursor/rules` para mantener automáticamente el README y los metadatos en tus contribuciones.
+
+Si tienes un gran texto que cubre todo lo requerido, cursor puede ayudarte a generar los archivos accesorios, como los de personaje, entradas en Cronología, lugares, etc.
+
 
 # Dónde va cada cosa (FAQ rápida)
 

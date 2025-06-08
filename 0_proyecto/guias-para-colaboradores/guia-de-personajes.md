@@ -16,15 +16,15 @@ Antes de crear un personaje, asegúrate de estar familiarizado con las guías ge
 
 ## Categorías de Personajes
 
-Los personajes se clasifican en tres tipos para organizar su rol y alcance en el universo:
+Los personajes se clasifican en tres categorías según su importancia en la narrativa:
 
-- **Canónicos o Principales**: Personajes centrales en la trama, incluyendo personajes jugadores (PJs) o NPCs de gran relevancia que aparecen en relatos, crónicas o eventos importantes.
-- **Secundarios**: La mayoría de los personajes no jugadores (PNJs). Tienen un trasfondo definido y motivaciones que guían su interacción con otros, poblando el mundo y dándole vida. Todo personaje que haga su aparición en un relato, crónica o evento debe figurar aquí, exceptuando sólo a los personajes principales.
-- **Arquetipos**: Plantillas de personajes que representan un rol o profesión sin un nombre propio (p. ej., un gendarme, un médico, un koskero).
+- **Canónicos/Principales**: PJs y NPCs clave que impulsan la trama principal, apareciendo en eventos y relatos significativos.
+- **Secundarios**: PNJs con trasfondo y motivaciones definidas que enriquecen el mundo. Todo personaje mencionado en relatos debe registrarse aquí, excepto los principales.
+- **Arquetipos**: Plantillas genéricas para roles o profesiones (ej: gendarme, médico, koskero).
 
 ## Metadatos de Personajes
 
-La sección de metadatos (front matter YAML) es fundamental para la correcta indexación y uso de los personajes por parte de herramientas automáticas y colaboradores.
+La sección de metadatos (front matter YAML) es fundamental para la indexación y uso de los personajes por parte de herramientas automáticas y colaboradores.
 
 Además de los campos obligatorios (`titulo`, `carpeta`, `descripcion`) definidos en la [Guía de Metadatos](./guia-de-metadatos.md), los personajes siguen estas convenciones:
 

@@ -13,5 +13,14 @@ tags:
 Documentación general, guías y manuales del proyecto.
 
 ## Subcarpetas
-- **manuales**: Documentos de referencia y procedimientos.
-- **guias-para-colaboradores**: Instrucciones para colaboradores 
+
+### [manuales](manuales/)
+Documentos de referencia y procedimientos técnicos del proyecto.
+
+### [guias-para-colaboradores](guias-para-colaboradores/)
+Instrucciones y guías detalladas para colaboradores del proyecto:
+
+- [Manual del Colaborador](guias-para-colaboradores/manual-del-colaborador.md): Guía principal con instrucciones generales para colaboradores
+- [Guía de Personajes](guias-para-colaboradores/guia-de-personajes.md): Documentación sobre el manejo y creación de personajes
+- [Guía de Metadatos](guias-para-colaboradores/guia-de-metadatos.md): Guía para el uso y estructura de metadatos
+- [Referencias y Pie de Página](guias-para-colaboradores/referencias-y-pie-de-pagina.md): Instrucciones para el manejo de referencias y pies de página 

@@ -21,7 +21,13 @@ Esta guía explica el formato **único y correcto** de metadatos (front matter Y
   - `carpeta`: Ruta relativa de la carpeta donde se ubica el archivo. **Obligatorio**.
   - `descripcion`: Breve descripción del contenido. **Obligatorio**.
   - `tags`: Etiquetas temáticas (array YAML). **Opcional pero recomendado**.
-  - `region`, `fecha`, `alcance`: Solo si aplica.
+- Los siguientes son campos opcionales:
+  - `region`: Región geográfica separada por comas, por ejemplo "Sud América, Argentina, Ciudad Dársena".
+  - `fecha`: Fecha de referencia, se usa en cronología y atlas. 
+- Los personajes tienen los siguientes campos opcionales (mejor explicados en la [Guía de Personajes](./guia-de-personajes.md)):
+  - `nombre`: Nombre del personaje.
+  - `facciones`: Listado en array YAML.
+  - `alerta-spoiler`: Indica frases a presentar con discreción.
 
 
 ## Buenas prácticas
