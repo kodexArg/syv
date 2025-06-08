@@ -1,7 +1,7 @@
 ---
 titulo: Arpistas
 descripcion: Red internacional y proscrita de buscadores de conocimiento, tecnología y tesoros ocultos, expertos en inutilizar tecnología peligrosa antes de preservarla. Operan en círculos académicos y son perseguidos ferozmente en Dársena.
-carpeta: 1_trasfondo/facciones/menores
+carpeta: 1_trasfondo/facciones/facciones-menores
 tags:
 - faccion
 - proscrita
@@ -9,63 +9,24 @@ tags:
 - conocimiento
 - tecnologia
 - internacional
-faccion:
-  tipo: Proscrita
-  alcance: Internacional
-  tamaño: "Millón de miembros, células y redes académicas dispersas"
-  base: "Descentralizada, con nodos en universidades y círculos académicos"
-  regiones:
-    - Ciudad Dársena
-    - Confederación Argentina
-    - Otros territorios
 ---
 
-# Arpistas
+Los Arpistas constituyen una red clandestina y descentralizada, distribuida en todo el mundo, dedicada al desarme y la preservación de tecnología antigua.
 
-## Descripción
+Sus integrantes tienen expertises variados, desde historiadores hasta criptógrafos, pero tienen en común la práctica de arqueología tecnológica: el deber de un arpista es localizar, recuperar y neutralizar artefactos antiguos antes de proceder a su archivo.
 
-### Objetivos
-- Buscar, recuperar y preservar conocimientos, artefactos y tecnología del pasado.
-- Inutilizar tecnología peligrosa antes de almacenarla o compartirla.
-- Proteger el saber de la destrucción, pero también de su mal uso.
+Los Arpistas operan abiertamente en muchos paises alrededor del mundo, pero en la Confederación Argentina, como en muchos otros países donde el Anatema Mecánico es tomado con la seriedad que merece, los Arpistas son considerados una amenaza de primer orden y perseguidos de forma implacable.
 
-### Modus Operandi
-- Operan en células organizadas, con protocolos estrictos de seguridad y anonimato.
-- Se infiltran en círculos académicos, museos y archivos secretos.
-- Utilizan redes de contactos internacionales y métodos de cifrado avanzados.
-- Son expertos en desactivar o inutilizar tecnología antes de guardarla.
+La **Sagrada Inquisición Argentina (SIA)**[^sia] los caza como a herejes, mientras la **Dirección de Aduanas y Puertos Consagrados (DGAPC)**[^aduanas] y la **Prefectura Naval** los persiguen como contrabandistas y traficantes de artefactos prohibidos. Su cercanía con la tecnología prohibida los sitúa en un estado de sospecha permanente.
 
-### Organización
-- Estructura descentralizada, pero con coordinación global.
-- Cada célula tiene autonomía, pero responde a códigos éticos y protocolos comunes.
-- Reclutamiento selectivo entre académicos, técnicos y exploradores.
-- A veces colaboran con la Iglesia para proteger saberes, pero la SIA los persigue sin tregua.
-- Algunos Guardianes de la Memoria actúan como informantes o colaboradores, a veces sin saberlo.
+Para subsistir en territorio hostil, los Arpistas recurren al subterfugio, ocultando su identidad, operando bajo las sombras de la ciudad. 
 
-### Recursos
-- Acceso a archivos secretos, laboratorios clandestinos y tecnología avanzada.
-- Red de expertos en historia, ciencia y sabotaje tecnológico.
-- Contactos con facciones académicas y tecnófilas.
+**Información secreta (no exponer a jugadores):** Mantienen una relación dual y altamente secreta con ciertos sectores de la Iglesia de Dársena, que de forma clandestina utiliza sus servicios para acceder a conocimientos específicos que el dogma les veta. La red posee agentes e informantes en instituciones de la Confederación, incluyendo dependencias estatales e incluso eclesiásticas, lo que les provee de una capacidad de inteligencia considerable.
 
-## Información Secreta
+---
 
-**IMPORTANTE**: La siguiente información no debe ser expuesta a jugadores.
+### Referencias
 
-- Mantienen agentes infiltrados en instituciones oficiales y facciones rivales.
-
-## Relaciones
-
-### Aliados
-- Círculos académicos y tecnófilos: Colaboración en la preservación y protección del conocimiento.
-- Guardianes de la Memoria: Colaboración en la preservación y protección del conocimiento.
-
-### Enemigos
-- SIA (Santa Inquisición Argentina): Persecución activa y sistemática.
-- Estado y fuerzas de seguridad: Hostilidad y represión en la mayoría de los territorios.
-
-### Neutrales
-- Iglesia de Dársena: Relación ambigua dependiendo de los diferentes departamentos de la Iglesia.
-
-### Conexiones Ocultas
-- Red de informantes y colaboradores en clubes elitistas como los Guardianes de la Memoria.
-- Pactos secretos con facciones tecnófilas y subversivas en el extranjero. 
+[^sia]: Santa Inquisición Argentina (SIA) / "Los Cirujanos del Alma"
+[^aduanas]: Dirección General de Aduanas y Puertos Consagrados (DGAPC)
+[^iglesia]: El Poder Eclesiástico de Dársena
