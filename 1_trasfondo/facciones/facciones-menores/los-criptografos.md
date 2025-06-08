@@ -7,16 +7,54 @@ tags:
 - clandestina
 - hackers
 - criptografia
+faccion:
+  tipo: Proscrita
+  alcance: Local
+  tamaño: "Decenas, células dispersas"
+  base: "Tuberías y barrios marginales de Ciudad Dársena"
+  regiones:
+    - Ciudad Dársena
+    - Tuberías
 ---
 
 # Los Criptógrafos
 
-"Los Criptógrafos" son una red clandestina de hackers en Dársena, especializados en interceptar y decodificar comunicaciones utilizando equipos de radio y computación caseros. Operan por afición, por secretos o por simple desafío al sistema.
+## Descripción
 
-## Operaciones y Riesgos
+### Objetivos
+- Interceptar y decodificar comunicaciones para desafiar el control estatal y eclesiástico.
+- Mantener la libertad de información y el acceso a la tecnología.
 
-Su principal ventaja es el uso de equipos "pasivos" que les permiten escuchar sin transmitir, lo que los mantiene indetectables la mayor parte del tiempo.
+### Modus Operandi
+- Operan en células clandestinas, utilizando equipos de radio y computación caseros.
+- Prefieren el uso de equipos pasivos para evitar ser detectados.
 
-Sin embargo, la indiscreción o un error los expone a un reclutamiento inevitable por parte de las facciones dominantes:
-- **Estado**: Los más talentosos y con conexiones son reclutados para vestir los uniformes blancos de los **Oficiales Criptográficos** de Seguridad Nacional.
-- **Iglesia**: Los menos afortunados son capturados por la **Sagrada Inquisición Argentina**, donde son forzados a trabajar en operaciones de espionaje en condiciones de servidumbre. 
+### Organización
+- Estructura descentralizada, sin líderes visibles.
+- Reclutamiento por afinidad y confianza mutua.
+
+### Recursos
+- Equipos de radio y computadoras improvisadas.
+- Conocimientos avanzados en criptografía y comunicaciones.
+
+## Información Secreta
+
+**IMPORTANTE**: La siguiente información no debe ser expuesta a jugadores.
+
+- Los más talentosos son reclutados a la fuerza por la Seguridad Nacional.
+- Algunos son capturados por la Sagrada Inquisición Argentina y forzados a trabajar en espionaje.
+
+## Relaciones
+
+### Aliados
+- Facciones menores tecnófilas: Intercambio de información y protección mutua.
+
+### Enemigos
+- Estado y Seguridad Nacional: Persecución y reclutamiento forzado.
+- Sagrada Inquisición Argentina: Captura y explotación de sus habilidades.
+
+### Neutrales
+- Gremio de Comercio: Intercambio ocasional de favores.
+
+### Conexiones Ocultas
+- Contactos secretos con otras redes de hackers fuera de Dársena. 

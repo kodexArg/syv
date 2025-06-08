@@ -3,17 +3,63 @@ titulo: Comando Unificado de las Fuerzas Armadas Confederadas (CUFAC)
 carpeta: 1_trasfondo/facciones/fuerzas-armadas
 descripcion: Estructura, doctrina y unidades principales de la columna vertebral militar de la Confederación Argentina, incluyendo el Ejército, la Fuerza Aérea y la Armada.
 tags:
-- facciones
-- lore
+- faccion
 - militar
 - cufac
 - ejercito
 - armada
+- fuerzas-armadas
+faccion:
+  tipo: Oficial
+  alcance: Nacional
+  tamaño: "Cientos de miles, incluyendo reservistas"
+  base: "Ciudad Dársena, cuarteles principales"
+  regiones:
+    - Ciudad Dársena
+    - Todo el territorio nacional
 ---
 
 # Comando Unificado de las Fuerzas Armadas Confederadas (CUFAC)
 
-El CUFAC es la columna vertebral del régimen, el garante armado de su supervivencia y de la Doctrina de la Pureza Nacional. Su doctrina militar es la tecnofobia, aunque se toleran "artefactos santificados" de funcionalidad limitada.
+## Descripción
+
+### Objetivos
+- Garantizar la supervivencia del régimen y la Doctrina de la Pureza Nacional.
+- Defender el territorio y erradicar focos insurgentes y amenazas externas.
+
+### Modus Operandi
+- Coordinación de las tres ramas: Ejército, Fuerza Aérea y Armada.
+- Uso de doctrina tecnófoba y artefactos "santificados".
+
+### Organización
+- Estructura jerárquica con divisiones especializadas y unidades notables.
+- Integración de inteligencia, logística y operaciones especiales.
+
+### Recursos
+- Armamento convencional y tecnología limitada.
+- Infraestructura militar, bases, dirigibles, flota naval y unidades de élite.
+
+## Información Secreta
+
+**IMPORTANTE**: La siguiente información no debe ser expuesta a jugadores.
+
+- Investigación secreta de artefactos pre-cataclismo bajo supervisión de la SIA.
+- Pactos encubiertos con contrabandistas y facciones menores para operaciones especiales.
+
+## Relaciones
+
+### Aliados
+- Dirección Nacional de Seguridad: Coordinación en operaciones de seguridad interna.
+- Gremio de Comercio: Colaboración en logística y recursos estratégicos.
+
+### Enemigos
+- Facciones insurgentes y tecnófilas: Amenaza constante a la estabilidad.
+
+### Neutrales
+- Iglesia de Dársena: Colaboración ideológica, pero con tensiones por el control de recursos.
+
+### Conexiones Ocultas
+- Pactos secretos con unidades de contrabandistas y tecnófilos para obtención de recursos y tecnología.
 
 ## Ejército Confederado Argentino (ECA) "Los Centinelas de la Tierra Sagrada"
 

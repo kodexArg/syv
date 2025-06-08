@@ -3,51 +3,61 @@ titulo: La Santa Inquisición Argentina (SIA)
 carpeta: 1_trasfondo/facciones/iglesia-de-darsena
 descripcion: El brazo más temido, secreto y poderoso de la Iglesia en la Confederación, dedicado a erradicar la herejía y los saberes prohibidos.
 tags:
-- facciones
+- faccion
 - iglesia
 - sia
 - inquisicion
-- lore
+- darsena
+faccion:
+  tipo: Oficial
+  alcance: Nacional
+  tamaño: "Miles de miembros, red de censores y agentes"
+  base: "Ciudad Dársena, sede de la SIA"
+  regiones:
+    - Ciudad Dársena
+    - Confederación Argentina
 ---
 
 # La Santa Inquisición Argentina (SIA) / "Los Cirujanos del Alma"
 
-- **Descripción**: Es el brazo más temido, secreto y poderoso de la Iglesia en la Confederación. Se dedica a la identificación, investigación, juicio y erradicación de cualquier desviación doctrinal, manifestación de saberes prohibidos (especialmente los tecnológicos), y cualquier amenaza a la pureza de la fe.
-- **Alcance Operativo**: La SIA opera con total autonomía judicial y ejecutiva, por encima de las leyes seculares. Sus juicios, conocidos como "Actos de Fe", son sumarios y sus castigos, ejemplares y a menudo públicos, como la hoguera para herejes impenitentes.
-- **Métodos y Procedimientos**:
-    - **Vigilancia y Delación**: La delación es fomentada como una virtud cívica y religiosa.
-    - **"El Examen Riguroso"**: Interrogatorios sistemáticos que pueden incluir tortura física y psicológica para obtener confesiones y nombres de cómplices.
-    - **Quema de Libros**: Rituales públicos de destrucción del conocimiento herético y artefactos prohibidos.
-- **Departamentos Notables**:
-    - **Cuerpo de Censores de la Fe ("Los Ojos Silenciosos de Dios")**: Constituyen una vasta red de inteligencia y delación infiltrada en cada gremio, barrio e incluso familia. Una denuncia de un Censor es prácticamente una condena de muerte social o física.
-    - **Archivistas del *Index Librorum Prohibitorum et Artificiorum Damnatorum***: Custodian y estudian los textos y artefactos prohibidos para comprender y combatir la herejía. Algunos de ellos son vigilados por sentir una malsana fascinación por lo que custodian. 
+## Descripción
 
----
-titulo: Sagrada Inquisición Argentina (SIA)
-carpeta: 1_trasfondo/facciones
-descripcion: Estructura, métodos y poder de la Sagrada Inquisición Argentina, guardiana de la ortodoxia de la Iglesia en Dársena.
-tags:
-- faccion
-- iglesia
-- inquisicion
-- sia
-- darsena
----
+### Objetivos
+- Erradicar la herejía, los saberes prohibidos y las amenazas a la pureza de la fe.
+- Mantener la ortodoxia y el control doctrinal en la Confederación.
 
-# Sagrada Inquisición Argentina (SIA)
+### Modus Operandi
+- Vigilancia, delación y juicios sumarios conocidos como "Actos de Fe".
+- Uso de tortura, censura y destrucción pública de libros y artefactos prohibidos.
 
-La Sagrada Inquisición Argentina es una rama autárquica pero dependiente de la Iglesia, y la guardiana más temida de la ortodoxia y la pureza de la fe. Su poder es casi absoluto, con autoridad para investigar, juzgar y castigar cualquier desviación doctrinal o amenaza sobrenatural. Sus métodos son secretos y sus decisiones, inapelables.
+### Organización
+- Cuerpo de Inquisidores, Censores y Archivistas.
+- Red de inteligencia infiltrada en todos los estratos sociales.
 
-## Métodos y Poder
+### Recursos
+- Autoridad judicial y ejecutiva por encima de las leyes seculares.
+- Acceso a tecnología de interrogación y archivos secretos.
 
-La SIA opera en las sombras, y su mera presencia infunde temor. Sus agentes, conocidos como Inquisidores o "cazadores", son implacables en la persecución de la herejía.
+## Información Secreta
 
-## Censores
+**IMPORTANTE**: La siguiente información no debe ser expuesta a jugadores.
 
-Los Censores son la red de inteligencia de la SIA. Actúan como sus ojos y oídos en la sociedad, vigilando la devoción de los ciudadanos y reportando cualquier signo de desvío moral o doctrinal.
-- **Reclutamiento forzado**: No dudan en utilizar a criptógrafos y hackers capturados para sus operaciones de vigilancia y espionaje.
-- **Acusación infalible**: Ser señalado por un Censor es una sentencia. Un acusado difícilmente puede escapar de los cazadores de la Sagrada Inquisición.
+- Rivalidad interna con los Exorcistas y vigilancia sobre sus propios archivistas.
+- Uso de criptógrafos y hackers capturados para operaciones de espionaje.
 
-## Rivalidad con los Exorcistas
+## Relaciones
 
-La SIA mantiene una profunda y abierta rivalidad con los Exorcistas. Consideran a los Exorcistas como el "brazo blando" de la Santa Sede, demasiado indulgentes y con métodos ineficaces. Para la SIA, el enfoque espiritual de los Exorcistas es una debilidad; la pureza de la fe solo puede garantizarse a través de la vigilancia estricta, el miedo y el castigo ejemplar.
+### Aliados
+- Iglesia de Dársena: Principal patrocinador y fuente de autoridad.
+- Guardia Eclesiástica: Apoyo logístico y militar.
+
+### Enemigos
+- Cultos proscritos y facciones tecnófilas.
+- Facciones subversivas y anarquistas.
+
+### Neutrales
+- Gobierno de Dársena: Relación tensa pero necesaria.
+- Gremio de Comercio: Cooperación cuando conviene.
+
+### Conexiones Ocultas
+- Alianzas secretas y enemistades no declaradas con facciones menores y tecnófilas.

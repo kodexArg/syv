@@ -1,7 +1,7 @@
 ---
 titulo: Guía de Facciones
 carpeta: 0_proyecto/guias-para-colaboradores
-descripcion: Instrucciones para documentar facciones en el universo de Subordinación y Valor, estableciendo un formato consistente para su interconexión.
+descripcion: Guía resumida y práctica para documentar facciones en el universo de Subordinación y Valor, con foco en claridad, coherencia y conexión entre grupos.
 tags:
 - guia
 - facciones
@@ -10,87 +10,30 @@ tags:
 
 # Guía de Facciones
 
-Esta guía establece el formato estándar para documentar facciones en el universo de Subordinación y Valor. El objetivo es mantener consistencia y permitir la interconexión entre diferentes grupos.
+Esta guía te orienta para crear y documentar facciones en el universo de Subordinación y Valor de forma clara, coherente y conectada con el resto del corpus. El objetivo es que cada facción se entienda como parte de un entramado mayor, con sus motivaciones, recursos y relaciones, pero sin rigidez ni exceso de subtítulos.
 
-## Estructura del Documento
+## ¿Qué debe contener el texto de una facción?
 
-Cada archivo de facción debe seguir esta estructura:
+Cada facción debe estar presentada en un solo texto fluido, que incluya de manera natural los siguientes elementos:
 
-### 1. Metadatos
-```yaml
+- **Identidad y contexto**: Explica qué tipo de grupo es (oficial, proscrito, secreto, etc.), su alcance (local, regional, nacional, internacional), tamaño aproximado, base principal y regiones donde opera. Esta información puede ir en la introducción o en el primer párrafo, de forma narrativa.
+
+- **Propósito y filosofía**: Expón sus objetivos, ideología y motivaciones. ¿Qué buscan? ¿Por qué existen? ¿Qué los diferencia de otros grupos?
+
+- **Métodos y funcionamiento**: Describe cómo actúan, sus tácticas, su modus operandi y la forma en que se organizan internamente. Si hay jerarquías, ramas, divisiones o métodos de reclutamiento, inclúyelos de manera orgánica en el relato.
+
+- **Recursos y capacidades**: Menciona los recursos clave que poseen: tecnología, conocimientos, habilidades, contactos, acceso a lugares o bienes, etc.
+
+- **Información reservada**: Si corresponde, incluye un apartado (o párrafo claramente marcado) con información secreta que solo los miembros o aliados privilegiados conocerían. Señala explícitamente que esta parte no debe ser expuesta a jugadores.
+
+- **Relaciones y vínculos**: Integra en el texto las alianzas, enemistades, neutralidades y conexiones ocultas con otras facciones o actores relevantes. No es necesario separar en listas, pero sí dejar claro con quién se relacionan y cómo.
+
+## Ejemplo de presentación
+
+A continuación, un ejemplo de cómo estructurar el texto de una facción siguiendo estas pautas, sin necesidad de subtítulos rígidos ni bloques de metadatos especiales:
+
 ---
-titulo: [Título]
-carpeta: [Ruta]
-descripcion: [Breve descripción]
-tags:
-- faccion
-- [tags relevantes]
-faccion:
-  tipo: [Oficial/Proscrita/Secreta]
-  alcance: [Local/Regional/Nacional/Internacional]
-  tamaño: [Aproximación]
-  base: [Ubicación]
-  regiones: [Lista de regiones]
----
-```
 
-## Secciones Principales
-
-### Descripción
-Esta sección contiene la información pública, o la que se conocería inicialmente sobre la facción.
-
-Idealmente, todos los siguientes aspectos quedarán establecidos en la descripción:
-
-**Objetivos**
-- Epxlicita su filosofía, su ideología, qué buscan conseguir.
-
-**Modus operandi**
-- Tácticas de operación.
-
-**Organización**
-- Jerarquía y roles principales.
-- Divisiones, departamentos, ramas (links si corresponden).
-- Informar los métodos de reclutamiento.
-
-**Recursos**
-- Tecnología y equipamiento
-- Habilidades especiales
-- Conocimientos únicos
-- Otros recursos importantes para la facción.
-
-
-### Información Secreta
-
-**IMPORTANTE**: La siguiente información no debe ser expuesta a jugadores.
-
-Esta sección contiene información que solo los miembros de la facción o aquellos con acceso privilegiado conocerían.
-
-Aquí podrás corregir los objetivos (por objetivos ocultos), etc.
-
-
-### Relaciones
-Esta sección documenta las interacciones de la facción con otros grupos.
-
-#### Aliados
-- [Facción Aliada 1]: [Descripción de la alianza]
-- [Facción Aliada 2]: [Descripción de la alianza]
-
-#### Enemigos
-- [Facción Enemiga 1]: [Descripción del conflicto]
-- [Facción Enemiga 2]: [Descripción del conflicto]
-
-#### Neutrales
-- [Facción Neutral 1]: [Descripción de la relación]
-
-#### Conexiones Ocultas
-- Alianzas secretas
-- Enemistades no declaradas
-- Relaciones complejas
-
-## Ejemplo de Estructura
-
-```markdown
----
 titulo: Sagrada Inquisición Argentina
 carpeta: 1_trasfondo/facciones/iglesia-de-darsena
 descripcion: El brazo más temido y poderoso de la Iglesia en la Confederación.
@@ -99,71 +42,15 @@ tags:
 - iglesia
 - inquisicion
 - sia
-faccion:
-  tipo: Oficial
-  alcance: Nacional
-  tamaño: "Varios miles de miembros"
-  base: Ciudad Dársena
-  regiones:
-    - Ciudad Dársena
-    - Zona Residencia
-    - Barrios del Muro
----
 
-# Sagrada Inquisición Argentina
+La Sagrada Inquisición Argentina es el brazo ejecutor de la Iglesia en la Confederación, con alcance nacional y miles de miembros repartidos en Ciudad Dársena, la Zona Residencia y los Barrios del Muro. Su misión es mantener la pureza de la fe católica, perseguir herejías y proteger los intereses de la Iglesia. Opera mediante investigaciones secretas, juicios inquisitoriales y ejecuciones públicas, apoyada por una red de informantes y tecnología de interrogación avanzada. La organización está encabezada por el Gran Inquisidor, seguido de inquisidores regionales, investigadores y la guardia inquisitorial. 
 
-## Descripción
+Entre sus recursos destacan el acceso a archivos eclesiásticos, autoridad legal especial y una influencia temida en toda la Confederación. 
 
-La Sagrada Inquisición Argentina es el brazo ejecutor de la Iglesia en la Confederación, encargada de mantener la pureza de la fe y perseguir herejías.
+**Información secreta (no exponer a jugadores):** La SIA lleva a cabo operaciones encubiertas y mantiene objetivos ocultos, incluyendo la vigilancia de sus propios aliados y la manipulación de facciones menores.
 
-### Objetivos
-- Mantener la pureza de la fe católica
-- Perseguir y erradicar herejías
-- Proteger los intereses de la Iglesia
-
-### Modus Operandi
-- Investigaciones secretas
-- Juicios inquisitoriales
-- Ejecuciones públicas de herejes
-
-### Organización
-- Gran Inquisidor
-- Inquisidores Regionales
-- Cuerpo de Investigadores
-- Guardia Inquisitorial
-
-### Recursos
-- Acceso a archivos eclesiásticos
-- Red de informantes
-- Tecnología de interrogación
-- Autoridad legal especial
-
-## Información Secreta
-
-**IMPORTANTE**: La siguiente información no debe ser expuesta a jugadores.
-
-[Contenido secreto sobre objetivos ocultos, operaciones encubiertas, etc.]
-
-## Relaciones
-
-### Aliados
-- Iglesia de Dársena: Principal patrocinador y fuente de autoridad
-- Guardia Eclesiástica: Apoyo logístico y militar
-
-### Enemigos
-- Cultos Proscritos: Principal objetivo de persecución
-- Facción X: [Descripción del conflicto]
-
-### Neutrales
-- Gobierno de Dársena: Relación tensa pero necesaria
-- Gremios Comerciales: Cooperación cuando conviene
-
-### Conexiones Ocultas
-- [Información sobre alianzas secretas]
-- [Enemistades no declaradas]
-```
-
+En cuanto a relaciones, la SIA cuenta con el apoyo de la Iglesia de Dársena y la Guardia Eclesiástica, pero enfrenta la enemistad de cultos proscritos y otras facciones subversivas. Su relación con el gobierno y los gremios comerciales es tensa, basada en la conveniencia y el equilibrio de poder. Existen alianzas y enemistades secretas que solo los altos mandos conocen.
 
 ---
 
-**Actualiza esta guía si se introducen nuevos elementos o se modifican los existentes.**
+**Actualiza esta guía si se modifican los criterios o se agregan nuevos elementos relevantes para la documentación de facciones.**

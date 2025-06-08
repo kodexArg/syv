@@ -1,16 +1,64 @@
 ---
 titulo: Dirección Nacional de Seguridad (DNS)
 carpeta: 1_trasfondo/facciones/fuerzas-armadas
-descripcion: Análisis de la principal agencia de seguridad interna de la Confederación, el rostro represivo y omnipresente del Estado en la vida cotidiana de los ciudadanos.
+descripcion: Principal agencia de seguridad interna de la Confederación, rostro represivo y omnipresente del Estado en la vida cotidiana de los ciudadanos.
 tags:
-- facciones
+- faccion
 - dns
-- lore
 - seguridad
 - politica
+- fuerzas-armadas
+faccion:
+  tipo: Oficial
+  alcance: Nacional
+  tamaño: "Decenas de miles, incluyendo agentes encubiertos"
+  base: "Ciudad Dársena, sede central de la DNS"
+  regiones:
+    - Ciudad Dársena
+    - Todo el territorio nacional
 ---
 
 # Dirección Nacional de Seguridad (DNS) "El Escudo del Justo"
+
+## Descripción
+
+### Objetivos
+- Mantener el orden público y la sumisión ciudadana según la Ley Divina.
+- Reprimir el crimen y neutralizar amenazas internas.
+
+### Modus Operandi
+- Vigilancia exhaustiva y represión directa.
+- Uso de divisiones especializadas: policía, investigaciones, contrainteligencia, antimotines, censura.
+
+### Organización
+- Jerarquía estricta con departamentos y unidades notables.
+- Red de informantes y agentes encubiertos en toda la sociedad.
+
+### Recursos
+- Armamento pesado, tecnología de vigilancia y control de multitudes.
+- Acceso a información privilegiada y apoyo logístico estatal.
+
+## Información Secreta
+
+**IMPORTANTE**: La siguiente información no debe ser expuesta a jugadores.
+
+- Colaboración encubierta con la Sagrada Inquisición Argentina en operaciones de censura y represión.
+- Uso de agentes dobles y técnicas de manipulación psicológica.
+
+## Relaciones
+
+### Aliados
+- Fuerzas Armadas: Coordinación en operaciones de seguridad nacional.
+- Sagrada Inquisición Argentina: Colaboración en vigilancia y represión de herejías.
+
+### Enemigos
+- Facciones subversivas, anarquistas y tecnófilas.
+
+### Neutrales
+- Gremio de Comercio: Intercambio de información y favores.
+
+### Conexiones Ocultas
+- Pactos secretos con informantes en facciones menores y redes criminales.
 
 La DNS es la principal agencia de seguridad interna y orden público de la Confederación. Es el rostro represivo y omnipresente del Estado en la vida cotidiana, cuyo objetivo es el mantenimiento del orden según la Ley Divina, la represión del crimen (considerado pecado) y la vigilancia exhaustiva de la ciudadanía para asegurar su sumisión.
 

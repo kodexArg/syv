@@ -9,9 +9,58 @@ tags:
 - comando-nacional
 - seguridad-nacional
 - darsena
+faccion:
+  tipo: Oficial
+  alcance: Nacional
+  tamaño: "Cientos de miles, incluyendo reservistas"
+  base: "Ciudad Dársena, cuarteles principales"
+  regiones:
+    - Ciudad Dársena
+    - Todo el territorio nacional
 ---
 
 # Fuerzas Armadas
+
+## Descripción
+
+### Objetivos
+- Defender la Confederación Argentina de amenazas internas y externas.
+- Mantener el orden y la seguridad nacional bajo la Doctrina de la Pureza Nacional.
+
+### Modus Operandi
+- Operan a través de tres ramas principales: Ejército, Fuerza Aérea y Armada.
+- Coordinación centralizada mediante el Comando Nacional y la Seguridad Nacional.
+
+### Organización
+- Estructura jerárquica tradicional con divisiones especializadas.
+- Integración de unidades de inteligencia, logística, aduanas y respuesta táctica.
+
+### Recursos
+- Armamento convencional y artefactos "santificados".
+- Infraestructura militar, bases, academias y puertos.
+- Acceso a tecnología limitada y personal especializado.
+
+## Información Secreta
+
+**IMPORTANTE**: La siguiente información no debe ser expuesta a jugadores.
+
+- Algunas unidades investigan tecnología pre-cataclismo bajo supervisión de la SIA.
+- Existen pactos secretos con facciones menores para operaciones encubiertas.
+
+## Relaciones
+
+### Aliados
+- Gremio de Comercio: Colaboración en logística y recursos estratégicos.
+- Iglesia de Dársena: Apoyo ideológico y legitimación del régimen.
+
+### Enemigos
+- Facciones subversivas y anarquistas: Amenaza constante al orden.
+
+### Neutrales
+- Refugiados y Parias: Vigilancia y control, pero sin persecución activa.
+
+### Conexiones Ocultas
+- Pactos secretos con contrabandistas y tecnófilos para obtención de recursos.
 
 La estructura de defensa y seguridad de la Confederación Argentina se organiza en tres ramas militares tradicionales, un comando unificado y un aparato de seguridad nacional.
 
