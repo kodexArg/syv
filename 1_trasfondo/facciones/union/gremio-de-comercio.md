@@ -1,69 +1,31 @@
 ---
 titulo: Gremio de Comercio
 carpeta: 1_trasfondo/facciones/union
-descripcion: El Gremio de Comercio de Dársena, facción que agrupa desde tenderos hasta magnates del mercado negro bajo reglas de libre mercado extremo.
+descripcion: Agrupando desde pequeños tenderos hasta magnates del mercado negro, el Gremio de Comercio es la facción con mayor poder económico en Dársena, operando bajo principios de un libre mercado extremo donde todo tiene un precio.
 tags:
 - faccion
 - gremio
 - comercio
 - mercado-negro
 - darsena
-faccion:
-  tipo: Oficial
-  alcance: Nacional
-  tamaño: "Miles de miembros, desde pequeños tenderos hasta magnates"
-  base: "Ciudad Dársena, Mercado Central"
-  regiones:
-    - Ciudad Dársena
-    - Otros territorios comerciales
+- union
+- oficial
 ---
 
 # Gremio de Comercio
 
-## Descripción
+El **Gremio de Comercio** es una de las facciones más poderosas e influyentes de Ciudad Dársena, un conglomerado que agrupa a prácticamente todos los negociantes, desde el más humilde tendero del mercado hasta los opulentos magnates que controlan el mercado negro. Funciona bajo los principios de un libre mercado extremo, donde la astucia, la influencia y la capacidad de negociación determinan el éxito o la ruina. Su objetivo principal es simple y brutal: maximizar el beneficio de sus miembros, explotando vacíos legales, corrompiendo funcionarios y controlando el acceso a recursos clave.
 
-### Objetivos
-- Controlar y expandir el comercio legal e ilegal en Dársena y más allá.
-- Maximizar el beneficio de sus miembros mediante la explotación de vacíos legales y el mercado negro.
+Aunque formalmente es una entidad oficial, el Gremio opera en una zona gris. Sus líderes, un consejo de magnates y representantes de gremios menores, utilizan su inmenso poder económico para influir en la política y asegurar ventajas comerciales. Son expertos en navegar las turbulentas aguas de la burocracia de la Confederación, estableciendo una red de favores y protección con otras facciones. Es el grupo con mayor alcance fuera de los muros de la ciudad, controlando redes comerciales que se extienden a otros territorios.
 
-### Modus Operandi
-- Opera bajo principios de libre mercado extremo.
-- Utiliza la influencia, la negociación y la corrupción para asegurar ventajas.
-- Explota vacíos legales y regula el acceso a recursos clave.
+Su relación con los poderes fácticos es pragmática y tensa. Mientras que la **Sagrada Inquisición Argentina (SIA)**[^sia] los persigue por actividades consideradas heréticas o ilícitas, como el contrabando de artefactos, colaboran con sectores de las **Fuerzas Armadas**[^ffaa] en el tráfico de recursos estratégicos.
 
-### Organización
-- Estructura jerárquica con un consejo de magnates y representantes de gremios menores.
-- Red de informantes y agentes en el mercado negro.
+**Información secreta (no exponer a jugadores):** La línea que separa al Gremio de las organizaciones criminales es prácticamente inexistente. Mantienen acuerdos secretos con contrabandistas y facciones como los **Canales Ocultos**[^canales] para el intercambio de favores e información. Peor aún, algunos de sus líderes más prominentes actúan como informantes dobles para la DNS o incluso para la SIA, vendiendo a sus competidores o a socios desafortunados a cambio de inmunidad y una mayor porción del mercado.
 
-### Recursos
-- Control de rutas comerciales y acceso a bienes escasos.
-- Influencia política y económica.
-- Red de protección y favores con otras facciones.
+---
 
-## Información Secreta
+### Referencias
 
-**IMPORTANTE**: La siguiente información no debe ser expuesta a jugadores.
-
-- Mantienen acuerdos secretos con facciones criminales y contrabandistas.
-- Algunos líderes son informantes dobles para la DNS o la SIA.
-
-## Relaciones
-
-### Aliados
-- Canales Ocultos: Intercambio de favores y protección mutua.
-- Fuerzas Armadas: Colaboración en el tráfico de recursos estratégicos.
-
-### Enemigos
-- Sagrada Inquisición Argentina: Persecución de actividades consideradas heréticas o ilícitas.
-
-### Neutrales
-- Refugiados y Parias: Intercambio ocasional de bienes y favores.
-
-### Conexiones Ocultas
-- Pactos secretos con magnates del mercado negro y redes internacionales de comercio ilícito.
-
-El Gremio de Comercio agrupa a todos los negociantes de Dársena, desde pequeños tenderos hasta magnates que operan en el mercado negro.
-
-Funciona bajo los principios de un libre mercado extremo, donde la astucia, la influencia y la capacidad de negociación determinan el éxito o la ruina. Sus miembros son expertos en identificar y explotar vacíos legales y regulatorios para su propio beneficio.
-
-Es la facción con mayor alcance fuera de los muros de Ciudad Dársena, controlando redes comerciales que se extienden a otros territorios. 
+[^sia]: La Santa Inquisición Argentina (SIA)
+[^ffaa]: Fuerzas Armadas de la Confederación
+[^canales]: Canales Ocultos 

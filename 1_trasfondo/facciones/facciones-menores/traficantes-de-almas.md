@@ -1,62 +1,30 @@
 ---
 titulo: Traficantes de Almas
-carpeta: 1_trasfondo/facciones/menores
-descripcion: Criminales que explotan a los más desfavorecidos en Dársena, dedicados a la trata de personas.
+carpeta: 1_trasfondo/facciones/facciones-menores
+descripcion: Una red criminal descentralizada que se dedica a la trata de personas en Dársena, explotando a los más desfavorecidos para venderlos como mano de obra no registrada o para fines ilícitos.
 tags:
 - faccion
 - proscrita
 - criminales
 - esclavistas
 - darsena
-faccion:
-  tipo: Proscrita
-  alcance: Local
-  tamaño: "Desconocido, células dispersas"
-  base: "Barrios del Muro y Tuberías, Ciudad Dársena"
-  regiones:
-    - Barrios del Muro
-    - Tuberías
-    - Ciudad Dársena
+- facciones-menores
 ---
 
 # Traficantes de Almas
 
-## Descripción
+En los rincones más oscuros de Ciudad Dársena, donde la desesperación es moneda corriente, operan los **Traficantes de Almas**. No son una facción unificada, sino una red de células criminales independientes cuyo único objetivo es el lucro mediante el más vil de los comercios: la trata de personas. Se aprovechan de los más desfavorecidos, secuestrando y captando a sus víctimas en los Barrios del Muro y las Tuberías para venderlas como mano de obra esclava, servidumbre o para otros fines inconfesables.
 
-### Objetivos
-- Obtener lucro mediante la trata y explotación de personas.
-- Mantener el control sobre rutas y redes de tráfico en Dársena.
+Su modus operandi es la depredación. Acechan en las zonas marginales, prometiendo una vida mejor o simplemente tomando por la fuerza a quienes nadie echará de menos. Operan a través de intermediarios y mantienen una red de contactos con elementos corruptos de las fuerzas de seguridad y del **Gremio de Comercio**[^gremio]. Sus recursos son sus escondites, las rutas secretas para mover a su "mercancía" y el miedo que infunden en las comunidades más vulnerables.
 
-### Modus Operandi
-- Secuestro y captación de víctimas en zonas marginales.
-- Venta de personas como mano de obra no registrada o para fines ilícitos.
+Son el enemigo natural de facciones como los **Cazadores de Pesadillas**[^cazadores], que protegen activamente a las comunidades de las Tuberías de sus incursiones. Aunque oficialmente son perseguidos por las fuerzas del orden, su actividad a menudo es ignorada mientras se limite a los estratos más bajos de la sociedad.
 
-### Organización
-- Células independientes, coordinadas por intermediarios.
-- Contactos con redes de contrabando y corrupción policial.
+**Información secreta (no exponer a jugadores):** La red de los Traficantes de Almas es más profunda y está más protegida de lo que parece. Mantienen acuerdos secretos con facciones poderosas y elementos corruptos para garantizar su impunidad. Algunos de sus líderes son, de hecho, informantes dobles para la DNS o la SIA, entregando a rivales o a víctimas "inconvenientes" a cambio de que las autoridades hagan la vista gorda con sus operaciones principales. Además, tienen conexiones con los **Canales Ocultos**[^canales] para el intercambio de favores y protección.
 
-### Recursos
-- Escondites y rutas secretas en la ciudad.
-- Red de contactos en el mercado negro y fuerzas corruptas.
+---
 
-## Información Secreta
+### Referencias
 
-**IMPORTANTE**: La siguiente información no debe ser expuesta a jugadores.
-
-- Mantienen acuerdos secretos con facciones poderosas para evitar persecución.
-- Algunos líderes son informantes dobles para la DNS o la SIA.
-
-## Relaciones
-
-### Aliados
-- Canales Ocultos: Intercambio de favores y protección mutua.
-
-### Enemigos
-- Cazadores de Pesadillas: Enfrentamientos por la protección de los suyos.
-- Estado y fuerzas de seguridad: Represión y persecución.
-
-### Neutrales
-- Refugiados y Parias: A veces víctimas, a veces colaboradores.
-
-### Conexiones Ocultas
-- Pactos secretos con redes internacionales de tráfico y corrupción. 
+[^cazadores]: Cazadores de Pesadillas
+[^gremio]: Gremio de Comercio
+[^canales]: Canales Ocultos 

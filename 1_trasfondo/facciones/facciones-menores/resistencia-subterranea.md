@@ -1,7 +1,7 @@
 ---
 titulo: Resistencia Subterránea
-carpeta: 1_trasfondo/facciones/menores
-descripcion: Grupos anarquistas que se oponen al régimen de Dársena desde las profundidades.
+carpeta: 1_trasfondo/facciones/facciones-menores
+descripcion: Células anarquistas que se oponen activamente al régimen de Dársena, utilizando los subterráneos de la ciudad como base para sus operaciones de sabotaje y agitación.
 tags:
 - faccion
 - proscrita
@@ -9,54 +9,22 @@ tags:
 - resistencia
 - subterranea
 - darsena
-faccion:
-  tipo: Proscrita
-  alcance: Local
-  tamaño: "Decenas, células dispersas"
-  base: "Alcantarillas y túneles de servicio, Ciudad Dársena"
-  regiones:
-    - Ciudad Dársena
-    - Subterráneos
+- facciones-menores
 ---
 
 # Resistencia Subterránea
 
-## Descripción
+La **Resistencia Subterránea** es la encarnación de la oposición ideológica y activa al régimen clérico-militar de Dársena. Compuesta por diversas células anarquistas, su objetivo es la total desestabilización del Estado y la **Iglesia**[^iglesia], promoviendo la autonomía y la autogestión de los oprimidos. No buscan reformar el sistema, sino demolerlo desde sus cimientos.
 
-### Objetivos
-- Oponerse activamente al régimen de la Iglesia y el Estado en Dársena.
-- Promover la autonomía y la autogestión de los oprimidos.
+Operan desde las profundidades de la ciudad, utilizando las alcantarillas, los túneles de servicio y los edificios tomados como refugios y bases de operaciones. Su conocimiento de los subterráneos les permite moverse sin ser detectados y coordinar acciones de sabotaje, propaganda y protesta. La organización es horizontal y descentralizada, sin líderes fijos, y las decisiones se toman por consenso en asambleas clandestinas.
 
-### Modus Operandi
-- Operan en células autónomas, coordinando acciones de sabotaje y protesta.
-- Utilizan el conocimiento de los subterráneos para moverse y ocultarse.
+Sus recursos son escasos y dependen del apoyo de simpatizantes y otras facciones subversivas. A menudo colaboran con los **Refugiados y Parias**[^parias] en acciones de protesta y mantienen lazos con grupos anarquistas de fuera de los muros de la ciudad. Son considerados enemigos de alta prioridad por el Estado, la Iglesia y todas las fuerzas de seguridad, que los cazan como terroristas.
 
-### Organización
-- Estructura horizontal, sin líderes fijos.
-- Decisiones por consenso en asambleas clandestinas.
+**Información secreta (no exponer a jugadores):** La Resistencia no es un frente unido. Existen profundas divisiones ideológicas entre las distintas células, algunas de las cuales abogan por la acción directa y violenta, mientras que otras prefieren la agitación cultural y la creación de redes de apoyo mutuo. Han logrado infiltrar a algunos de sus miembros en gremios de bajo nivel y servicios públicos, lo que les proporciona una fuente de información y la capacidad de realizar sabotajes internos.
 
-### Recursos
-- Refugios en alcantarillas, túneles y edificios tomados.
-- Apoyo de simpatizantes y otras facciones subversivas.
+---
 
-## Información Secreta
+### Referencias
 
-**IMPORTANTE**: La siguiente información no debe ser expuesta a jugadores.
-
-- Mantienen contactos con facciones anarquistas fuera de Dársena.
-- Han infiltrado a algunos miembros en gremios y servicios públicos.
-
-## Relaciones
-
-### Aliados
-- Facciones anarquistas del otro lado del muro.
-- Refugiados y Parias: Colaboración en acciones de protesta.
-
-### Enemigos
-- Estado, Iglesia y fuerzas de seguridad: Represión sistemática.
-
-### Neutrales
-- Gremio de Comercio: Intercambio ocasional de recursos.
-
-### Conexiones Ocultas
-- Contactos secretos con contrabandistas y redes de información clandestina. 
+[^iglesia]: La Iglesia de Dársena
+[^parias]: Refugiados y Parias 

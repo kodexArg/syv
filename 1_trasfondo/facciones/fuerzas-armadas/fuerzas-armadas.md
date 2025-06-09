@@ -1,119 +1,59 @@
 ---
-titulo: Fuerzas Armadas
+titulo: Fuerzas Armadas de la Confederación
 carpeta: 1_trasfondo/facciones/fuerzas-armadas
-descripcion: Estructura y organización de las Fuerzas Armadas, el Comando Nacional y las fuerzas de Seguridad Nacional de la Confederación Argentina.
+descripcion: La estructura de defensa y seguridad de la Confederación Argentina, un pilar del régimen que combina el poder militar tradicional con un omnipresente aparato de seguridad interna.
 tags:
 - faccion
 - fuerzas-armadas
 - ejercito
+- armada
+- dns
 - comando-nacional
 - seguridad-nacional
 - darsena
-faccion:
-  tipo: Oficial
-  alcance: Nacional
-  tamaño: "Cientos de miles, incluyendo reservistas"
-  base: "Ciudad Dársena, cuarteles principales"
-  regiones:
-    - Ciudad Dársena
-    - Todo el territorio nacional
+- oficial
 ---
 
 # Fuerzas Armadas
 
-## Descripción
+Las **Fuerzas Armadas de la Confederación Argentina** constituyen uno de los pilares fundamentales del régimen, encargadas de defender el territorio de amenazas externas y, de manera igualmente crucial, de mantener el orden interno y la sumisión ciudadana bajo la estricta "Doctrina de la Pureza Nacional". Operan como un poder monolítico que combina la organización militar tradicional con un omnipresente y temido aparato de seguridad. Su lealtad no es solo al Estado, sino a la **Iglesia de Dársena**[^iglesia], que proporciona la legitimación ideológica para su existencia y operaciones.
 
-### Objetivos
-- Defender la Confederación Argentina de amenazas internas y externas.
-- Mantener el orden y la seguridad nacional bajo la Doctrina de la Pureza Nacional.
-
-### Modus Operandi
-- Operan a través de tres ramas principales: Ejército, Fuerza Aérea y Armada.
-- Coordinación centralizada mediante el Comando Nacional y la Seguridad Nacional.
-
-### Organización
-- Estructura jerárquica tradicional con divisiones especializadas.
-- Integración de unidades de inteligencia, logística, aduanas y respuesta táctica.
-
-### Recursos
-- Armamento convencional y artefactos "santificados".
-- Infraestructura militar, bases, academias y puertos.
-- Acceso a tecnología limitada y personal especializado.
-
-## Información Secreta
-
-**IMPORTANTE**: La siguiente información no debe ser expuesta a jugadores.
-
-- Algunas unidades investigan tecnología pre-cataclismo bajo supervisión de la SIA.
-- Existen pactos secretos con facciones menores para operaciones encubiertas.
-
-## Relaciones
-
-### Aliados
-- Gremio de Comercio: Colaboración en logística y recursos estratégicos.
-- Iglesia de Dársena: Apoyo ideológico y legitimación del régimen.
-
-### Enemigos
-- Facciones subversivas y anarquistas: Amenaza constante al orden.
-
-### Neutrales
-- Refugiados y Parias: Vigilancia y control, pero sin persecución activa.
-
-### Conexiones Ocultas
-- Pactos secretos con contrabandistas y tecnófilos para obtención de recursos.
-
-La estructura de defensa y seguridad de la Confederación Argentina se organiza en tres ramas militares tradicionales, un comando unificado y un aparato de seguridad nacional.
-
-## Ejército Argentino
-
-Responsable de las operaciones terrestres.
-
-- **Comando de Operaciones Terrestres**: Ejecuta misiones en el terreno.
-- **Inteligencia y Estrategia**: Planifica y analiza información militar.
-- **Comando Logístico**: Gestiona distribución, registro y almacenamiento de recursos.
-- **Academia Militar**: Centro de entrenamiento y formación de oficiales.
-
-## Fuerza Aérea Argentina
-
-Controla el dominio aéreo del territorio.
-
-- **Comando de Operaciones Aéreas**: Dirige las misiones aéreas.
-- **Dirección de Vigilancia y Control del Espacio Aéreo**: Monitorea el espacio aéreo nacional.
-- **Centro de Formación y Entrenamiento**: Forma al personal aeronáutico.
-
-## Armada Argentina
-
-Asegura el control de las aguas territoriales y el comercio.
-
-- **Comando de Operaciones Navales**: Conduce las operaciones en el mar.
-- **Aduana Nacional**: Regula el comercio internacional.
-    - **Departamento de Gestión de Permisos**: Emite y controla permisos de importación y exportación.
-    - **Departamento de Inspección de Cargamentos**: Inspecciona físicamente los cargamentos.
-    - **Oficina de Inteligencia Aduanera**: Previene contrabando y actividades ilícitas.
-    - **División de Seguridad Portuaria**: Provee seguridad en puertos y zonas aduaneras.
-- **Prefectura Naval**: Ejerce como policía marítima.
-    - **Patrulla Costera**: Vigila las aguas territoriales.
-    - **Unidad de Respuesta Rápida**: Interviene en incidentes de alto riesgo.
-    - **Albatros**: Unidad de élite para operaciones especiales en entornos marítimos y fluviales.
+La estructura de defensa se organiza en tres ramas militares tradicionales, un comando unificado y un poderoso aparato de seguridad nacional. Sus recursos incluyen no solo armamento convencional, sino también artefactos "santificados" y tecnología limitada, supervisada de cerca por la **Sagrada Inquisición Argentina (SIA)**[^sia].
 
 ## Comando Nacional
 
-Coordina la estrategia y política de defensa a nivel superior.
+En la cúspide de la estructura se encuentra el **Comando Nacional**, responsable de coordinar la estrategia y la política de defensa a nivel superior. Está compuesto por el **Consejo de Defensa**, que asesora en políticas de seguridad; la **Secretaría de Estrategia y Asuntos Militares**, que dirige la planificación; y la **Oficina de Coordinación de Seguridad Nacional**, que sincroniza las distintas ramas de las fuerzas armadas y de seguridad.
 
-- **Consejo de Defensa**: Órgano asesor en políticas de defensa y seguridad.
-- **Secretaría de Estrategia y Asuntos Militares**: Dirige la planificación estratégica y las relaciones militares.
-- **Oficina de Coordinación de Seguridad Nacional**: Coordina las distintas ramas de las fuerzas armadas y de seguridad.
+## Ramas Militares
 
-## Seguridad Nacional
+- **Ejército Argentino**: Responsable de las operaciones terrestres, desde la defensa de las fronteras hasta el control de los territorios interiores. Se divide en un Comando de Operaciones Terrestres, una división de Inteligencia y Estrategia, un Comando Logístico y la Academia Militar que forma a sus oficiales.
 
-Responsable del orden público y la seguridad interna en todo el territorio nacional.
+- **Fuerza Aérea Argentina**: Controla el dominio aéreo del territorio, vigilando los cielos contra cualquier incursión no autorizada. Opera a través de su Comando de Operaciones Aéreas y la Dirección de Vigilancia y Control del Espacio Aéreo.
 
-- **Dirección Nacional de Seguridad Nacional**: Organismo central con presencia en todas las urbes.
-    - **Seguridad Urbana**: Fuerza policial regular.
-    - **División de Investigaciones**: Investiga crimen organizado y delitos complejos.
-    - **Contrainteligencia**: Realiza espionaje interno para neutralizar amenazas.
-    - **Unidad de Respuesta Táctica Urbana (RTU)**: Interviene en situaciones de alto riesgo como terrorismo y crisis de rehenes.
-    - **Control de Circulación**: Gestiona tráfico, puestos de control y peajes.
-- **Bomberos**: Unidades de prevención, control de incendios y rescate.
-- **Emergencias Médicas**: Provee atención prehospitalaria.
-- **Oficiales Criptográficos**: Especialistas en criptografía y seguridad de la información, a menudo reclutados de la red clandestina "Los Criptógrafos". Operan en comunicaciones y espionaje para el Estado.
+- **Armada Argentina**: Asegura el control de las aguas territoriales y las vitales rutas comerciales que llegan a Ciudad Dársena. Además de su Comando de Operaciones Navales, la Armada supervisa dos cuerpos cruciales:
+    - La **Dirección de Aduanas y Puertos Consagrados (DGAPC)**[^aduanas], que regula férreamente el comercio internacional e inspecciona todos los cargamentos en busca de contrabando y tecnología prohibida.
+    - La **Prefectura Naval**, que actúa como policía marítima y cuenta con la unidad de élite **Albatros** para operaciones especiales en entornos marítimos y fluviales.
+
+## Dirección Nacional de Seguridad (DNS)
+
+Conocida como "El Escudo del Justo", la **Dirección Nacional de Seguridad (DNS)** es la principal agencia de seguridad interna y el rostro más visible y represivo del Estado en la vida cotidiana. Su misión es mantener el orden público según la Ley Divina, reprimir el crimen (considerado pecado) y ejercer una vigilancia exhaustiva sobre la ciudadanía.
+
+La DNS está organizada en varias divisiones especializadas:
+
+- **Policía Uniformada Confederada (PUC)**: Apodados "Los Grises Servidores", son la fuerza policial visible que patrulla las calles. Famosos por su brutalidad en la represión de protestas y por la corrupción a bajo nivel conocida como "la mordida del guardián".
+- **División de Investigaciones Criminales y Morales (DICM)**: "Los Sabuesos de la Ley" son detectives de civil encargados de crímenes complejos, especialmente aquellos con implicaciones políticas o heréticas.
+- **Departamento de Contrainteligencia y Seguridad Interna (DCSI)**: "Los Murmullos Silenciosos" son el servicio de espionaje interno, dedicados a neutralizar espías, células subversivas como los **Arpistas**[^arpistas] y cualquier infiltrado en el aparato estatal.
+- **Unidad de Respuesta Táctica y Antimotines (URTA)**: Conocidos como "Los Martillos de Dios", son equipos de asalto tipo SWAT fuertemente armados para situaciones de alto riesgo, utilizando equipo como gas "Lágrimas de Penitencia".
+- **Departamento de Censura Previa y Vigilancia Moral Pública (DCVMP)**: "Los Guardianes del Pudor" vigilan y censuran cualquier expresión pública para prevenir la difusión de ideas corruptoras, operando bajo la fuerte influencia de la SIA.
+
+**Información secreta (no exponer a jugadores):** En las sombras, la cooperación entre las distintas ramas no siempre es fluida. Existen pactos secretos con facciones teóricamente enemigas, como el **Gremio de Comercio**[^gremio] y contrabandistas, para la obtención de recursos y tecnología. Algunas unidades de élite investigan tecnología pre-cataclismo bajo estricta supervisión de la SIA, y la DNS colabora de forma encubierta con la Inquisición en operaciones de represión que nunca salen a la luz.
+
+---
+
+### Referencias
+
+[^iglesia]: La Iglesia de Dársena
+[^sia]: La Santa Inquisición Argentina (SIA)
+[^aduanas]: Dirección de Aduanas y Puertos Consagrados (DGAPC)
+[^arpistas]: Red internacional de preservadores de tecnología y conocimiento prohibido
+[^gremio]: Gremio de Comercio

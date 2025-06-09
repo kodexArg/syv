@@ -1,59 +1,29 @@
 ---
 titulo: Canales Ocultos
-carpeta: 1_trasfondo/facciones/menores
-descripcion: Red informal de poder e influencia que opera en las sombras de Dársena, un mercado de secretos e intereses.
+carpeta: 1_trasfondo/facciones/facciones-menores
+descripcion: Una red invisible de poder e influencia que opera en las sombras de Dársena, un mercado de secretos, favores y recursos fuera del control estatal y eclesiástico.
 tags:
 - faccion
 - secreta
 - influencia
 - mercado-negro
-faccion:
-  tipo: Secreta
-  alcance: Local
-  tamaño: "Desconocido, red de intermediarios"
-  base: "Vera occidental de la dársena"
-  regiones:
-    - Ciudad Dársena
+- facciones-menores
 ---
 
 # Canales Ocultos
 
-## Descripción
+Los **Canales Ocultos** no son una facción en el sentido tradicional, sino más bien una red invisible de poder e influencia que serpentea por las sombras de Ciudad Dársena. Funcionan como un mercado descentralizado donde se intercambian los bienes más preciados y peligrosos: secretos, favores, recursos e información privilegiada, todo ello lejos del vigilante ojo del Estado y la Iglesia. Su objetivo no es la conquista ni la ideología, sino facilitar el flujo de poder entre quienes saben cómo moverse en el submundo, manteniendo un delicado equilibrio entre los distintos actores.
 
-### Objetivos
-- Facilitar el intercambio de secretos, favores y recursos fuera del control estatal y eclesiástico.
-- Mantener el equilibrio de poder en el submundo de Dársena.
+El modus operandi de la red es el anonimato y la compartimentación. Las transacciones se realizan a través de una compleja cadena de intermediarios, donde cada eslabón solo conoce al anterior y al siguiente. Utilizan un lenguaje de códigos, señales y lugares discretos, a menudo en la ribera occidental de la dársena, para llevar a cabo sus negocios. No hay líderes visibles ni una jerarquía formal, lo que los hace extremadamente difíciles de desmantelar.
 
-### Modus Operandi
-- Operan a través de una cadena de intermediarios que garantiza el anonimato.
-- Utilizan códigos y señales para identificar miembros y transacciones.
+Su poder radica en el acceso a información que podría derribar a hombres poderosos o salvar a facciones enteras. Por ello, son un aliado tácito y un recurso valioso para el **Gremio de Comercio**[^gremio], que utiliza sus servicios para el intercambio de favores y protección. Sin embargo, esta misma naturaleza los convierte en un objetivo prioritario para la **Dirección Nacional de Seguridad (DNS)**[^dns] y la **Sagrada Inquisición Argentina (SIA)**[^sia], que los persiguen sin descanso.
 
-### Organización
-- No es una facción organizada, sino una red invisible de intereses.
-- Cada intermediario solo conoce a su contacto inmediato.
+**Información secreta (no exponer a jugadores):** La fortaleza de los Canales Ocultos es también su mayor debilidad. Se rumorea que controlan las principales rutas de contrabando y tráfico de personas de la ciudad. Sin embargo, la red está plagada de traición. Algunos de sus intermediarios más confiables son, en realidad, agentes dobles que venden información a la DNS o a la SIA, utilizando su posición para eliminar a la competencia o saldar viejas deudas.
 
-### Recursos
-- Acceso a información privilegiada y secretos de Estado/Iglesia.
-- Red de contactos en el mercado negro y submundo portuario.
+---
 
-## Información Secreta
+### Referencias
 
-**IMPORTANTE**: La siguiente información no debe ser expuesta a jugadores.
-
-- Algunos intermediarios son dobles agentes para la Iglesia o la DNS.
-- Se rumorea que controlan rutas de contrabando y tráfico de personas.
-
-## Relaciones
-
-### Aliados
-- Gremio de Comercio: Intercambio de favores y protección mutua.
-
-### Enemigos
-- Dirección Nacional de Seguridad (DNS): Busca desmantelar la red.
-- Sagrada Inquisición Argentina: Persigue a los miembros por herejía y tráfico de secretos.
-
-### Neutrales
-- Facciones menores de contrabandistas.
-
-### Conexiones Ocultas
-- Posibles alianzas secretas con traficantes de antigüedades y artefactos prohibidos. 
+[^gremio]: Gremio de Comercio
+[^dns]: Dirección Nacional de Seguridad (DNS)
+[^sia]: La Santa Inquisición Argentina (SIA) 

@@ -1,7 +1,7 @@
 ---
 titulo: Cazadores de Pesadillas
-carpeta: 1_trasfondo/facciones/menores
-descripcion: Guerreros guaraníes que protegen a los Shipibo-Conibo en las Tuberías.
+carpeta: 1_trasfondo/facciones/facciones-menores
+descripcion: Grupo de élite de guerreros guaraníes que protegen a la comunidad Shipibo-Conibo en las Tuberías de Dársena, utilizando tácticas de guerrilla y el miedo como sus principales armas.
 tags:
 - faccion
 - proscrita
@@ -9,56 +9,23 @@ tags:
 - guerreros
 - guarani
 - proteccion
-faccion:
-  tipo: Proscrita
-  alcance: Local
-  tamaño: "Muy reducido, menos de una docena"
-  base: "Tuberías de Ciudad Dársena"
-  regiones:
-    - Tuberías
-    - Barrios del Muro
+- facciones-menores
 ---
 
 # Cazadores de Pesadillas
 
-## Descripción
+En la oscuridad laberíntica de las Tuberías de Ciudad Dársena, donde la ley de la superficie no llega, un grupo de guerreros guaraníes de élite conocidos como los **Cazadores de Pesadillas** impone su propia justicia. Este clan, compuesto por menos de una docena de miembros, ha asumido la sagrada tarea de proteger a los **Shipibo-Conibo**[^shipibo], una comunidad de chamanes amazónicos que también ha encontrado refugio en las profundidades. Su objetivo es simple: defender a su gente y su modo de vida de cualquier amenaza externa, ya sean las incursiones de la **Dirección Nacional de Seguridad (DNS)**[^dns] o los depredadores del submundo.
 
-### Objetivos
-- Proteger a los Shipibo-Conibo y su modo de vida.
-- Defender la autonomía de su comunidad frente a amenazas externas.
+Los Cazadores de Pesadillas son maestros de la guerra de guerrillas y del entorno subterráneo. Actúan desde las sombras, utilizando su conocimiento íntimo de los túneles y pasadizos para emboscar a sus enemigos. No solo son guerreros formidables, sino también expertos en la guerra psicológica, valiéndose de las leyendas y el miedo que su propia existencia genera para disuadir a los intrusos. Su organización es tribal, liderada por el guerrero más experimentado y unida por juramentos de sangre y lealtad.
 
-### Modus Operandi
-- Actúan en las sombras, utilizando el conocimiento de los túneles y pasadizos.
-- Emplean tácticas de guerrilla y emboscada.
-- Se valen de leyendas y el miedo para disuadir a intrusos.
+Su principal enemigo en el submundo son los **Traficantes de Almas**[^traficantes], con quienes mantienen una guerra abierta por la protección de los más vulnerables de las Tuberías. Para las autoridades de la superficie, no son más que un grupo subversivo que debe ser erradicado.
 
-### Organización
-- Estructura tribal, liderada por el guerrero más experimentado.
-- Alianzas de sangre y juramentos de protección.
+**Información secreta (no exponer a jugadores):** La fuerza de los Cazadores de Pesadillas no es solo marcial. Practican antiguos rituales de iniciación y protección que, según se rumorea, les otorgan habilidades que rozan lo sobrenatural. Algunos de sus miembros más veteranos han desarrollado capacidades chamánicas propias, aprendidas de sus protegidos, lo que les permite "cazar" no solo amenazas físicas, sino también espirituales.
 
-### Recursos
-- Conocimiento profundo de las Tuberías.
-- Armas improvisadas y tradicionales.
-- Apoyo de la comunidad Shipibo-Conibo.
+---
 
-## Información Secreta
+### Referencias
 
-**IMPORTANTE**: La siguiente información no debe ser expuesta a jugadores.
-
-- Practican rituales secretos de iniciación y protección.
-- Se rumorea que algunos miembros han desarrollado habilidades chamánicas.
-
-## Relaciones
-
-### Aliados
-- Shipibo-Conibo: Comunidad protegida y fuente de apoyo.
-
-### Enemigos
-- Dirección Nacional de Seguridad (DNS): Los persigue por su actividad subversiva.
-- Traficantes de Almas: Enfrentamientos por la protección de los suyos.
-
-### Neutrales
-- Refugiados y Parias: A veces colaboran, a veces compiten por recursos.
-
-### Conexiones Ocultas
-- Posibles pactos con otras facciones menores de las Tuberías. 
+[^shipibo]: Shipibo-Conibo
+[^dns]: Dirección Nacional de Seguridad (DNS)
+[^traficantes]: Traficantes de Almas 
