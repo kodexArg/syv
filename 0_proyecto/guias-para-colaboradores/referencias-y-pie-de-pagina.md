@@ -41,7 +41,7 @@ Se usan para:
 
 Formato:
 ```markdown
-Ver más detalles en el [Glosario de Términos](../glosario.md)
+Ver más detalles en el [Glosario de Términos](1_trasfondo/glosario.md)
 ```
 
 ## Cuándo Usar Cada Tipo
@@ -61,7 +61,7 @@ Ver más detalles en el [Glosario de Términos](../glosario.md)
 ## Ejemplos Combinados
 
 ```markdown
-La **Sagrada Inquisición Argentina (SIA)**[^sia] mantiene una relación tensa con los [Arpistas](../facciones/facciones-menores/arpistas.md), mientras que los [Guardianes de la Memoria](../facciones/facciones-menores/guardianes.md) operan en una zona gris.
+La **Sagrada Inquisición Argentina (SIA)**[^sia] mantiene una relación tensa con los [Arpistas](1_trasfondo/facciones/facciones-menores/arpistas.md), mientras que los [Guardianes de la Memoria](1_trasfondo/facciones/facciones-menores/guardianes.md) operan en una zona gris.
 
 ---
 
@@ -71,8 +71,8 @@ La **Sagrada Inquisición Argentina (SIA)**[^sia] mantiene una relación tensa c
 
 ### Relaciones
 
-- **Facciones**: [Arpistas](../facciones/facciones-menores/arpistas.md) - Red internacional de preservadores de tecnología
-- **Lugares**: [Ciudad Dársena](../lugares/ciudad-darsena.md) - Base principal de operaciones
+- **Facciones**: [Arpistas](1_trasfondo/facciones/facciones-menores/arpistas.md) - Red internacional de preservadores de tecnología
+- **Lugares**: [Ciudad Dársena](1_trasfondo/lugares/ciudad-darsena.md) - Base principal de operaciones
 ```
 
 ## Buenas Prácticas

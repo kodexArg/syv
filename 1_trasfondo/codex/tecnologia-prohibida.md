@@ -1,6 +1,6 @@
 ---
 titulo: Herejía Tecnológica y Conocimiento Prohibido
-carpeta: 1_trasfondo/prohibiciones
+carpeta: 1_trasfondo/codex
 descripcion: Detalla las prohibiciones de la Iglesia y la Sagrada Inquisición Argentina (SIA) sobre la ciencia y la tecnología.
 tags:
 - sia
@@ -12,7 +12,19 @@ tags:
 
 # Herejía Tecnológica y Conocimiento Prohibido
 
-En la Confederación Argentina, la línea que separa la ciencia de la herejía es delgada y está vigilada por la **Sagrada Inquisición Argentina (SIA)**, el brazo armado de la Iglesia. El recuerdo del colapso, atribuido a la soberbia tecnológica y a la aparición de la **Inteligencia Artificial Quiescente (QAI)**, sirve como justificación para un control dogmático sobre el conocimiento.
+En la Confederación Argentina, la línea que separa la investigación legítima de la herejía es definida y custodiada, ante todo, por los **Censores Eclesiásticos**. Son científicos-teólogos, integrados en la estructura de la Iglesia, quienes establecen las leyes que rigen la curiosidad, determinan hasta dónde puede llegar la investigación y cómo debe aplicarse la ética religiosa en cada avance.
+
+La Iglesia cuenta con una red de laboratorios y archivos secretos, cuidadosamente custodiados y diseñados para el análisis y resguardo de artefactos y documentos considerados peligrosos o heréticos. Uno de los centros más importantes para estos estudios es la llamada **Cripta de la Razón**, ubicada en los sótanos de la Universidad de Dársena. Allí, bajo estricta vigilancia de los **Censores Eclesiásticos**, se almacenan y examinan tecnologías recuperadas, manuscritos prohibidos y reliquias científicas, en un entorno controlado que permite su estudio sin riesgo de propagación o uso indebido.
+
+Muchos son también científicos, que no solo vigilan desde la distancia, sino que participan activamente en investigaciones.
+
+Este modelo de "ciencia vigilada" no es exclusivo de la Confederación: se sabe que otras regiones del mundo han adoptado sistemas similares, donde la figura del censor es central para el desarrollo de nuevas soluciones.
+
+La **Sagrada Inquisición Argentina (SIA)**, por su parte, actúa como el brazo ejecutor: interviene solo ante las contravenciones más graves, persiguiendo y castigando los delitos de herejía tecnológica cuando los límites impuestos por los Censores han sido cruzados.
+
+Afirmar que este control cuenta con la aprobación de la mayoría sería una simplificación. No obstante, tras el fracaso del llamado "siglo de las libertades", este sistema de vigilancia y restricción se ha consolidado como la norma durante más de cien años. El celo institucional ha permeado profundamente en la cultura, hasta el punto de que incluso las generaciones más jóvenes lo asumen como parte natural de su realidad cotidiana.
+
+
 
 ## El Mandato de la SIA
 
