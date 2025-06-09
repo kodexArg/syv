@@ -1,64 +1,31 @@
 ---
 titulo: Guardianes de la Memoria
-carpeta: 1_trasfondo/facciones/menores
-descripcion: Club elitista de Barrio Norte en Ciudad Dársena, dedicado a coleccionar y preservar documentos y objetos prohibidos del pasado, operando bajo un barniz altruista pero ignorando los riesgos que implica.
+carpeta: 1_trasfondo/facciones/facciones-menores
+descripcion: Club elitista y secreto de Ciudad Dársena, cuyos miembros -aristócratas y académicos en su mayoría- coleccionan y resguardan conocimiento prohibido, sin medir las consecuencias.
 tags:
 - faccion
 - secreta
 - coleccionistas
 - barrio-norte
 - guardianes
-faccion:
-  tipo: Secreta
-  alcance: Local
-  tamaño: "Muy reducido, círculo cerrado de ricos y notables"
-  base: "Barrio Norte, Ciudad Dársena"
-  regiones:
-    - Barrio Norte
-    - Ciudad Dársena
 ---
 
-# Guardianes de la Memoria
+Los **Guardianes de la Memoria** no llegan a la veintena de miembros. Si se los juntara a todos, cabrían sentados en la larga mesa de caoba (auténtica) de Don Ramiro de Alcorta, un reconocido mecenas de Barrio Norte. Él y los demás son figuras notables de Ciudad Dársena: aristócratas con apellidos que resuenan de los siglos pasados, nuevos burgueses forjados en el comercio internacional y académicos de élite, algunos de gran renombre, como su líder, el Dr. Francisco de la Cruz.
 
-## Descripción
+El foco de sus estudios son los llamados "siglos prohibidos" (2000-2100), un período en el que la Iglesia y sus Censores, en colaboración con la **Sagrada Inquisición Argentina (SIA)**[^sia], eliminaron sistemáticamente la mayor parte de la información sobre tecnología y ciencia. Todo lo que se enseña y consulta públicamente debe estar contenido en el llamado *Corpus Licitus* —la colección oficial y autorizada de la historia, cuidadosamente seleccionada y aprobada por la Iglesia—, y su cumplimiento es vigilado con celo por los censores y la SIA. Existen, además, documentos considerados demasiado delicados: su consulta requiere permisos especiales y solo se encuentran en la inmensa biblioteca central, bajo estricta supervisión. Finalmente, los tratados de ingeniería y ciencia más peligrosos ni siquiera llegan a ser archivados: la Iglesia se encarga de rastrearlos y destruirlos sin contemplaciones. En sus lujosas reuniones, disfrazadas de veladas culturales, los Guardianes analizan textos prohibidos sobre la era de la CPU, los procesadores cuánticos y la tecnología que dio origen a la inteligencia artificial que casi aniquiló a la humanidad. Para la SIA, no son más que un grupo de excéntricos de la alta sociedad, una preocupación menor frente a amenazas más directas.
 
-### Objetivos
-- Coleccionar y preservar documentos, manuales y objetos prohibidos del mundo pre-colapso.
-- Proteger el conocimiento antiguo, convencidos de su valor para la humanidad, aunque ignoran los riesgos que implica.
+Sin embargo, el poder de los Guardianes radica en su influencia. Sus conexiones les permiten acceder no solo a textos filosóficos o históricos, sino a documentos verdaderamente peligrosos: manuales de ingeniería, planos de tecnología proscrita y tratados científicos que la Iglesia quemaría sin dudar. Resguardan estos tesoros en las opulentas bibliotecas privadas que adornan las mansiones de Barrio Norte, ocultos a simple vista.
 
-### Modus Operandi
-- Operan como un club privado, con reuniones discretas en mansiones y bibliotecas ocultas del Barrio Norte.
-- Utilizan su estatus social y recursos para protegerse de la persecución.
-- Son cautelosos, pero su desconocimiento de los peligros reales los vuelve vulnerables.
+**Información secreta (no exponer a jugadores):**
 
-### Organización
-- Círculo cerrado de miembros, todos ricos o influyentes.
-- Sin jerarquía formal, pero con figuras de referencia y mecenas.
-- Algunos miembros mantienen lazos (conscientes o no) con los Arpistas.
+El verdadero peligro de los Guardianes escapa a la vigilancia de la SIA. Un académico influyente y magnate de Ciudad Dársena, junto con personal clave de la biblioteca de la Nueva Basílica de San Pedro, no solo son miembros del club, sino que también pertenecen a los **Arpistas**[^arpistas]. Esta doble lealtad los convierte en un conducto perfecto para la red internacional.
 
-### Recursos
-- Colecciones privadas de libros, artefactos y tecnología prohibida.
-- Acceso a zonas exclusivas y protección por su posición social.
-- Contactos con académicos y otros clubes elitistas.
+Gracias a esta infiltración, la mayor y más peligrosa colección de documentos prohibidos no se encuentra en Barrio Norte, sino bajo la propia Nueva Basílica de San Pedro. Oculta en archivos secretos de su biblioteca, cerca del corazón del poder de la **Iglesia de Dársena**[^iglesia], yace una bomba de conocimiento esperando a ser detonada.
 
-## Información Secreta
+---
 
-**IMPORTANTE**: La siguiente información no debe ser expuesta a jugadores.
+### Referencias
 
-- Algunos miembros actúan como intermediarios involuntarios para los Arpistas.
-- Han ocultado artefactos peligrosos sin comprender su verdadero alcance.
-- La SIA los considera un peligro, pero rara vez puede actuar directamente en Barrio Norte.
-
-## Relaciones
-
-### Aliados
-- Otros clubes elitistas de Barrio Norte: Protección mutua y colaboración ocasional.
-
-### Enemigos
-- SIA (Santa Inquisición Argentina): Los considera peligrosos por su ignorancia y acceso a objetos prohibidos.
-
-### Neutrales
-- Iglesia de Dársena: A veces ignora sus actividades por presión social.
-
-### Conexiones Ocultas
-- Vínculos indirectos con los Arpistas, a través de miembros o intercambio de información. 
+[^sia]: Santa Inquisición Argentina (SIA) / "Los Cirujanos del Alma"
+[^iglesia]: El Poder Eclesiástico de Dársena
+[^arpistas]: Red internacional de preservadores de tecnología y conocimiento prohibido 

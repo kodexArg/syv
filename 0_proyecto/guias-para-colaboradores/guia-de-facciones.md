@@ -28,28 +28,59 @@ Cada facción debe estar presentada en un solo texto fluido, que incluya de mane
 
 - **Relaciones y vínculos**: Integra en el texto las alianzas, enemistades, neutralidades y conexiones ocultas con otras facciones o actores relevantes. No es necesario separar en listas, pero sí dejar claro con quién se relacionan y cómo.
 
+## Formato y Estilo
+
+- **Nombres de facciones**: Los nombres de facciones deben ir en **negrita** cuando se mencionan por primera vez o en contextos importantes.
+- **Referencias**: Usa el formato de notas al pie `[^identificador]` para referenciar a otras facciones o entidades importantes.
+- **Estructura**: Mantén un flujo narrativo natural, evitando subtítulos innecesarios.
+- **Tono**: Adapta el tono al tipo de facción (formal para instituciones oficiales, más oscuro para grupos proscritos, etc.).
+
 ## Ejemplo de presentación
 
-A continuación, un ejemplo de cómo estructurar el texto de una facción siguiendo estas pautas, sin necesidad de subtítulos rígidos ni bloques de metadatos especiales:
+A continuación, un ejemplo de cómo estructurar el texto de una facción siguiendo estas pautas:
+
+```markdown
+---
+titulo: Arpistas
+descripcion: Red internacional y proscrita de buscadores de conocimiento, tecnología y tesoros ocultos, expertos en inutilizar tecnología peligrosa antes de preservarla.
+carpeta: 1_trasfondo/facciones/facciones-menores
+tags:
+- faccion
+- proscrita
+- arpistas
+- conocimiento
+- tecnologia
+- internacional
+---
+
+Los Arpistas constituyen una red clandestina y descentralizada, distribuida en todo el mundo, dedicada al desarme y la preservación de tecnología antigua.
+
+Sus integrantes tienen expertises variados, desde historiadores hasta criptógrafos, pero tienen en común la práctica de arqueología tecnológica: el deber de un arpista es localizar, recuperar y neutralizar artefactos antiguos antes de proceder a su archivo.
+
+Los Arpistas operan abiertamente en muchos paises alrededor del mundo, pero en la Confederación Argentina, como en muchos otros países donde el Anatema Mecánico es tomado con la seriedad que merece, los Arpistas son considerados una amenaza de primer orden y perseguidos de forma implacable.
+
+La **Sagrada Inquisición Argentina (SIA)**[^sia] los caza como a herejes, mientras la **Dirección de Aduanas y Puertos Consagrados (DGAPC)**[^aduanas] y la **Prefectura Naval** los persiguen como contrabandistas y traficantes de artefactos prohibidos.
+
+Para subsistir en territorio hostil, los Arpistas recurren al subterfugio, ocultando su identidad, operando bajo las sombras de la ciudad.
+
+**Información secreta (no exponer a jugadores):** Mantienen una relación dual y altamente secreta con ciertos sectores de la **Iglesia de Dársena**[^iglesia], que de forma clandestina utiliza sus servicios para acceder a conocimientos específicos que el dogma les veta.
 
 ---
 
-titulo: Sagrada Inquisición Argentina
-carpeta: 1_trasfondo/facciones/iglesia-de-darsena
-descripcion: El brazo más temido y poderoso de la Iglesia en la Confederación.
-tags:
-- faccion
-- iglesia
-- inquisicion
-- sia
+### Referencias
 
-La Sagrada Inquisición Argentina es el brazo ejecutor de la Iglesia en la Confederación, con alcance nacional y miles de miembros repartidos en Ciudad Dársena, la Zona Residencia y los Barrios del Muro. Su misión es mantener la pureza de la fe católica, perseguir herejías y proteger los intereses de la Iglesia. Opera mediante investigaciones secretas, juicios inquisitoriales y ejecuciones públicas, apoyada por una red de informantes y tecnología de interrogación avanzada. La organización está encabezada por el Gran Inquisidor, seguido de inquisidores regionales, investigadores y la guardia inquisitorial. 
+[^sia]: Santa Inquisición Argentina (SIA) / "Los Cirujanos del Alma"
+[^aduanas]: Dirección General de Aduanas y Puertos Consagrados (DGAPC)
+[^iglesia]: El Poder Eclesiástico de Dársena
+```
 
-Entre sus recursos destacan el acceso a archivos eclesiásticos, autoridad legal especial y una influencia temida en toda la Confederación. 
+## Buenas Prácticas
 
-**Información secreta (no exponer a jugadores):** La SIA lleva a cabo operaciones encubiertas y mantiene objetivos ocultos, incluyendo la vigilancia de sus propios aliados y la manipulación de facciones menores.
-
-En cuanto a relaciones, la SIA cuenta con el apoyo de la Iglesia de Dársena y la Guardia Eclesiástica, pero enfrenta la enemistad de cultos proscritos y otras facciones subversivas. Su relación con el gobierno y los gremios comerciales es tensa, basada en la conveniencia y el equilibrio de poder. Existen alianzas y enemistades secretas que solo los altos mandos conocen.
+1. **Narrativa fluida**: Evita listas y subtítulos innecesarios. Integra la información de forma natural en el texto.
+2. **Referencias claras**: Usa notas al pie para referenciar a otras facciones importantes.
+3. **Información secreta**: Marca claramente la información que no debe ser expuesta a jugadores.
+4. **Conexiones**: Menciona las relaciones con otras facciones de forma orgánica en el texto.
+5. **Metadatos**: Asegúrate de incluir todos los metadatos requeridos en el front matter.
 
 ---
 
