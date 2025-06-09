@@ -31,8 +31,96 @@
       },
       plugins: [
         function(hook) {
+          // Plugin para procesar metadatos YAML
           hook.beforeEach(function(content) {
+            // Extrae el bloque YAML (frontmatter)
+            var yamlMatch = content.match(/^---([\s\S]*?)---/);
+            if (yamlMatch) {
+              var yaml = yamlMatch[1].trim();
+              // Elimina el bloque YAML del contenido principal
+              content = content.replace(/^---([\s\S]*?)---/, '');
+              // Inserta un marcador para el YAML
+              content = content + '\n<!--syv-frontmatter-yaml-->' + encodeURIComponent(yaml) + '<!--/syv-frontmatter-yaml-->';
+            }
             return content;
+          });
+          // Después de que Docsify renderiza la página
+          hook.doneEach(function() {
+            var markerStart = '<!--syv-frontmatter-yaml-->';
+            var markerEnd = '<!--/syv-frontmatter-yaml-->';
+            var html = document.querySelector('.markdown-section');
+            if (!html) return;
+            var htmlContent = html.innerHTML;
+            var start = htmlContent.indexOf(markerStart);
+            var end = htmlContent.indexOf(markerEnd);
+            // Limpia previos modales y links
+            var oldModal = document.getElementById('syv-frontmatter-modal');
+            if (oldModal) oldModal.remove();
+            var oldLink = document.getElementById('syv-frontmatter-link');
+            if (oldLink) oldLink.remove();
+            var oldGit = document.getElementById('syv-github-link');
+            if (oldGit) oldGit.remove();
+            if (start !== -1 && end !== -1) {
+              var encodedYaml = htmlContent.substring(start + markerStart.length, end);
+              var yaml = decodeURIComponent(encodedYaml);
+              // Elimina el marcador del HTML
+              html.innerHTML = htmlContent.replace(markerStart + encodedYaml + markerEnd, '');
+              // Agrega el link "Ver metadatos" al final
+              var metaLink = document.createElement('a');
+              metaLink.href = '#';
+              metaLink.id = 'syv-frontmatter-link';
+              metaLink.textContent = 'Ver metadatos';
+              metaLink.style = 'font-size:0.95em;margin-right:18px;';
+              // Modal
+              var modal = document.createElement('div');
+              modal.id = 'syv-frontmatter-modal';
+              modal.style.display = 'none';
+              modal.style.position = 'fixed';
+              modal.style.top = '0';
+              modal.style.left = '0';
+              modal.style.width = '100vw';
+              modal.style.height = '100vh';
+              modal.style.background = 'rgba(0,0,0,0.5)';
+              modal.style.zIndex = '9999';
+              modal.innerHTML = '<div style="background:#fff;max-width:600px;margin:5vh auto;padding:20px;border-radius:8px;position:relative;white-space:pre-wrap;"><button id="syv-frontmatter-close" style="position:absolute;top:10px;right:10px;">Cerrar</button><h3>Metadatos</h3><pre style="background:#f6f8fa;padding:10px;border-radius:4px;">' + yaml.replace(/</g, '&lt;') + '</pre></div>';
+              document.body.appendChild(modal);
+              // Evento para abrir modal
+              metaLink.onclick = function(e) {
+                e.preventDefault();
+                modal.style.display = 'block';
+              };
+              // Evento para cerrar modal (delegado y robusto)
+              modal.addEventListener('click', function(e) {
+                if (e.target.id === 'syv-frontmatter-close' || e.target === modal) {
+                  modal.style.display = 'none';
+                }
+              });
+              // Agrega el link al final del documento
+              var footer = document.createElement('div');
+              footer.style = 'width:100%;display:flex;align-items:center;justify-content:center;margin-top:40px;gap:18px;';
+              footer.appendChild(metaLink);
+              // Construye el link de GitHub
+              var githubLink = document.createElement('a');
+              githubLink.id = 'syv-github-link';
+              githubLink.title = 'Ver este archivo en GitHub';
+              githubLink.target = '_blank';
+              githubLink.rel = 'noopener';
+              githubLink.style = 'font-size:0.95em;color:#888;text-decoration:none;';
+              githubLink.textContent = 'Ver en GitHub';
+              // Obtiene la ruta relativa del archivo actual
+              var route = (window.$docsify && window.$docsify.router && window.$docsify.router.getFile) ? window.$docsify.router.getFile() : null;
+              if (!route) {
+                // fallback: intenta con location.hash
+                var hash = location.hash.replace(/^#\/?/, '').replace(/\?.*$/, '');
+                route = hash || 'README.md';
+              }
+              // Normaliza la ruta y asegura extensión .md
+              route = route.replace(/^\//, '');
+              if (!/\.md$/i.test(route)) route = route + '.md';
+              githubLink.href = 'https://github.com/kodexArg/syv/blob/main/' + route;
+              footer.appendChild(githubLink);
+              html.appendChild(footer);
+            }
           });
         }
       ]
@@ -44,12 +132,7 @@
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
   <style>
-    /* Mejora el espaciado entre links del sidebar y navbar */
-    .sidebar-nav a, .sidebar-nav li > a {
-      margin-bottom: 0.3em !important;
-      padding: 0.2em 0.5em !important;
-      display: inline-block;
-    }
+
   </style>
   <script>
     // Script para avisar al usuario si los links dejan de funcionar tras un 404
