@@ -1,3 +1,8 @@
+---
+layout: default
+title: Arqueología
+---
+
 # Arqueología
 
 Esta sección cubre los descubrimientos arqueológicos y ruinas del mundo pre-cataclismo.

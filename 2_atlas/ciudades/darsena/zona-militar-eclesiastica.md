@@ -1,5 +1,6 @@
 ---
 titulo: Zona Militar y Eclesiástica (Isla Oriental)
+title:Zona Militar y Eclesiástica (Isla Oriental)
 carpeta: 2_atlas/ciudades/darsena
 descripcion: "El centro de poder de Ciudad Dársena, donde el Comando Nacional y la Iglesia imponen su autoridad."
 tags:
@@ -39,4 +40,3 @@ Una instalación médica de vanguardia, pero de acceso exclusivo para el persona
 Un complejo de edificios donde se gestiona la vasta burocracia de la Iglesia, desde la recaudación de diezmos hasta la coordinación de misiones y la administración de sus propiedades.
 
 ### **Asilos para Refugiados**
-Ubicados en la periferia de la isla, estos asilos alojan temporalmente a los refugiados que llegan a la ciudad antes de ser procesados y reubicados. Las condiciones son precarias y la supervisión es estricta, reflejando la desconfianza del régimen hacia los forasteros. 

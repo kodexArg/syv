@@ -1,5 +1,6 @@
 ---
 titulo: Manual del Colaborador
+title:Manual del Colaborador
 carpeta: 0_proyecto/guias-para-colaboradores
 descripcion: Guía esencial para comprender la organización y colaboración en el proyecto SyV.
 tags:
@@ -94,4 +95,3 @@ Si tienes un gran texto que cubre todo lo requerido, cursor puede ayudarte a gen
 - `3_personajes/`: Personajes, arquetipos y grupos.
 - `4_diegesis/`: Textos y artefactos ficticios (relatos, crónicas, cartas, diarios).
 - `5_aventuras/`: Aventuras y módulos jugables.
-- `6_media/`: Imágenes, música y recursos multimedia.

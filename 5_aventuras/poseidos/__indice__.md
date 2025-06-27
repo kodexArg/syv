@@ -1,3 +1,8 @@
+---
+layout: default
+title: Poseídos
+---
+
 # Poseídos
 
 Módulos de aventura y campañas listas para jugar.

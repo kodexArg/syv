@@ -1,5 +1,6 @@
 ---
 titulo: República Autónoma de Córdoba
+title:República Autónoma de Córdoba
 carpeta: 2_atlas/ciudades
 descripcion: Descripción detallada de la megalópolis de Córdoba en 2178, el corazón industrial y militar de la Confederación Argentina.
 tags:
@@ -56,4 +57,3 @@ Desde entonces, ha sido gobernada por la dinastía Videla, que ha mantenido un r
 ## Defensa y Seguridad
 
 -   **Fortaleza Continental**: Como potencia terrestre, la estrategia de defensa de Córdoba se basa en la **vigilancia continua de su vasto perímetro** y en una defensa activa contra incursiones de "salvajes" o fuerzas rivales.
--   **Fuerzas Avanzadas**: Sus fuerzas de seguridad integran **tecnología y tácticas avanzadas**, beneficiándose directamente de su política tecnológica más permisiva. Se rumorea que sus unidades de élite utilizan equipos y sistemas de comunicación que superan a los de Dársena, dándoles una ventaja cualitativa en el campo de batalla. 

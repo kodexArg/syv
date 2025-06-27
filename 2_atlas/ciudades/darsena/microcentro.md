@@ -1,5 +1,6 @@
 ---
 titulo: Microcentro
+title:Microcentro
 carpeta: 2_atlas/ciudades/darsena
 descripcion: "El bullicioso centro administrativo y comercial de Ciudad Dársena, un hervidero de burocracia, comercio y espionaje."
 tags:
@@ -32,4 +33,3 @@ Una antigua torre de comunicaciones, reutilizada para coordinar la vigilancia y 
 El principal hospital público de Dársena. Es una institución masiva, perpetuamente abarrotada y con una crónica escasez de recursos. Atenderse aquí es una prueba de paciencia y resistencia, pero para la gran mayoría de la población, es la única opción.
 
 ### **Callejones Secretos**
-Una red de pasadizos estrechos y ocultos que serpentean entre los edificios del Microcentro. Son las arterias del mercado negro y las rutas de escape para aquellos que quieren evitar las miradas indiscretas. En estos callejones se realizan transacciones ilegales y se mueven operativos clandestinos de todas las facciones. 

@@ -1,5 +1,6 @@
 ---
 titulo: "Damián 'El Sabueso' DiConte"
+title:"Damián 'El Sabueso' DiConte"
 carpeta: "3_personajes/principales"
 descripcion: "Detective veterano de la Dirección Nacional de Seguridad, cuya investigación sobre una serie de crímenes lo traslada de Córdoba a Dársena."
 tags:
@@ -51,4 +52,3 @@ Con la ayuda de un viejo amigo, consigue un pasaje en un avión de carga bajo un
 
 ### Arribo en Dársena
 
-Damián aterriza en Dársena bajo una lluvia persistente, en una metrópolis fortificada y vigilada por la Sagrada Inquisición. Sabe que su investigación apenas comienza y que, en esta ciudad, la verdad es un bien aún más peligroso. 

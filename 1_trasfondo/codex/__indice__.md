@@ -1,3 +1,8 @@
+---
+layout: default
+title: Codex
+---
+
 # Codex
 
 El Codex contiene documentos, leyes y textos fundamentales del universo de "Subordinación y Valor".

@@ -1,5 +1,6 @@
 ---
 titulo: "Julián, el prostituto"
+title:"Julián, el prostituto"
 carpeta: 3_personajes/secundarios
 descripcion: "Un prostituto que ejerce con discreción en la superficie pero prefiere la libertad de las Tuberías, donde ofrece consejos y consuelo."
 tags:

@@ -1,5 +1,6 @@
 ---
 titulo: La Iglesia de Dársena
+title:La Iglesia de Dársena
 carpeta: 1_trasfondo/facciones/iglesia-de-darsena
 descripcion: La Santa Sede de Dársena es el corazón ideológico y poder fáctico de la Confederación, ejerciendo una autoridad casi omnímoda sobre la vida espiritual, política y social.
 tags:

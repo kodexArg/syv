@@ -1,5 +1,6 @@
 ---
 titulo: El Clima en 2178 - La Nube Roja y la Niebla Perpetua
+title:El Clima en 2178 - La Nube Roja y la Niebla Perpetua
 carpeta: 2_atlas/climas
 descripcion: Descripción del régimen climático de la Confederación, el impacto de la 'Nube Roja' y las condiciones meteorológicas específicas de Dársena, Córdoba y la región de Cuyo.
 tags:
@@ -47,4 +48,3 @@ El clima es árido a semiárido, fuertemente influenciado por la Cordillera de l
 
 - **Uspallata (Valle Alto Andino, ~2000 msnm)**:
     - **Verano**: Días templados (15-28°C) con noches frescas a frías (5-10°C). La amplitud térmica diaria es marcada.
-    - **Invierno**: Frío a muy frío. Días entre -5°C y 10°C, con noches gélidas que pueden alcanzar -15°C o menos. Las nevadas son comunes y pueden ser copiosas. 

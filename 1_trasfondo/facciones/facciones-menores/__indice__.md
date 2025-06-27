@@ -1,3 +1,8 @@
+---
+layout: default
+title: Facciones Menores
+---
+
 # Facciones Menores
 
 Descripción de las facciones menores, grupos clandestinos y sociedades secretas.

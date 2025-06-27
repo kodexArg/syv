@@ -1,3 +1,8 @@
+---
+layout: default
+title: Climas
+---
+
 # Climas
 
 Información sobre los patrones climáticos y ambientales del año 2178.

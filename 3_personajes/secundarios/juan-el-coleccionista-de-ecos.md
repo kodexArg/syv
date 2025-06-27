@@ -1,5 +1,6 @@
 ---
 titulo: "Juan, El Coleccionista de Ecos"
+title:"Juan, El Coleccionista de Ecos"
 carpeta: 3_personajes/secundarios
 descripcion: "Un enigmático mercader de las Tuberías, conocido por su habilidad para desentrañar la historia oculta en objetos extraños."
 tags:
@@ -29,4 +30,3 @@ Su voz es melódica, casi hipnótica, y la utiliza para tejer historias alrededo
 
 El verdadero nombre de Juan es Francisco Praga. Fue un sacerdote y profesor de historia que, a los 30 años, cometió un terrible crimen pasional con un amante varón. Antes de ser descubierto, eligió exiliarse en el inframundo de Las Tuberías.
 
-Tras pasar años oculto, resurgió como un simple comerciante y, bajo su nuevo seudónimo, se ha convertido en un respetado comprador de artículos robados. 

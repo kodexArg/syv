@@ -1,5 +1,6 @@
 ---
 titulo: "Crónica del arribo de Damián"
+title:"Crónica del arribo de Damián"
 carpeta: "4_diegesis/cronicas"
 descripcion: "Relato del arribo de Damián a Dársena y su primer encuentro con la Inquisición, incluyendo a Sofía y el gran inquisidor Miguel. Historia inconclusa y central en el universo SyV."
 tags:
@@ -59,4 +60,3 @@ Al final del pasillo, se encontraba una inmensa puerta que se destacaba por su e
 
 La habitación estaba iluminada por candelabros distribuidos alrededor, en lugar de en las esquinas, creando una atmósfera sombría y misteriosa. El espacio era perfectamente circular, con paredes del mismo material negro que parecía obsidiana, mal trabajada, pero que confería una sensación opresiva al lugar. Sentado detrás de una mesa de esa misma piedra, que parecía haber crecido tomando la forma de los muebles, se encontraba una figura envuelta en una túnica totalmente oscura. Sobre su cabeza, llevaba un pequeño gorro circular, de color rojo sangre, que confería un aire siniestro a su presencia. Era el famoso gran inquisidor Miguel, conocido como su santidad, y estaba sentado tras ese escritorio de piedra negra, en un trono también mal trabajado pero imponente.
 
-A pesar de que aparentaba estar en sus mejores años, todos sabían que ya pasaba los 70. Su mirada vacía intimidaba tanto a Sofía, que bajó la cabeza, como a Daniel, quien, a pesar de no ser creyente, sentía cómo una sensación de temor se apoderaba de él desde el interior. La escena estaba impregnada de una atmósfera opresiva y sombría, que hacía que el corazón de Daniel latiera con fuerza ante la presencia del gran inquisidor. 

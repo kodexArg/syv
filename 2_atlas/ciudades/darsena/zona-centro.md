@@ -1,5 +1,6 @@
 ---
 titulo: Zona Centro
+title:Zona Centro
 carpeta: 2_atlas/ciudades/darsena
 descripcion: "El corazón productivo y educativo de Ciudad Dársena, donde la tecnología de supervivencia y el conocimiento regulado definen la vida diaria."
 tags:
@@ -32,4 +33,3 @@ Un enorme complejo comercial, más organizado y regulado que el Paseo San Martí
 Un nudo vital para la movilidad dentro de la ciudad. Conecta las diferentes zonas a través de una red de autobuses blindados y trenes de superficie. La estación es un caos perpetuo de viajeros, guardias y transportistas, un reflejo de la actividad incesante de Dársena.
 
 ### **Complejo de Viviendas Colectivas**
-Una serie de edificios altos y estrechos, diseñados para albergar a la mayor cantidad posible de trabajadores y sus familias en el mínimo espacio. La vida aquí es comunal, con poca privacidad, y está marcada por la presencia de comedores comunitarios donde se distribuyen raciones diarias. 

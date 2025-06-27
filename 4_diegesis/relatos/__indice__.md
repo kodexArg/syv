@@ -1,3 +1,8 @@
+---
+layout: default
+title: Relatos
+---
+
 # Relatos
 
 Historias cortas y relatos de ficción ambientados en el universo de SyV.

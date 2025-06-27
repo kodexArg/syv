@@ -1,5 +1,6 @@
 ---
 titulo: Herejía Tecnológica y Conocimiento Prohibido
+title:Herejía Tecnológica y Conocimiento Prohibido
 carpeta: 1_trasfondo/codex
 descripcion: Detalla las prohibiciones de la Iglesia y la Sagrada Inquisición Argentina (SIA) sobre la ciencia y la tecnología.
 tags:
@@ -51,4 +52,3 @@ El conocimiento considerado peligroso es activamente suprimido y guardado bajo l
 
 La SIA emplea **Censores** para vigilar la producción científica en la **Academia de Ciencias** y auditores para inspeccionar cualquier dispositivo computacional. Los **Criptógrafos**, hackers y técnicos con habilidades para eludir el control son cazados sin descanso, aunque a menudo son reclutados por su pericia.
 
-La posesión de tecnología prohibida se castiga con la excomunión, la confiscación de bienes y, en los casos más graves, con la "purificación" (ejecución pública). 

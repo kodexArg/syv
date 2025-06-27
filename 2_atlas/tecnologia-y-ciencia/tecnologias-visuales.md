@@ -1,5 +1,6 @@
 ---
 titulo: Tecnologías Visuales
+title:Tecnologías Visuales
 carpeta: 2_atlas/tecnologia-y-ciencia
 descripcion: Describe las tecnologías de visualización como pantallas de plasma, holoproyectores y visión nocturna.
 tags:
@@ -36,4 +37,3 @@ La capacidad de ver en la oscuridad es crucial para las operaciones militares y 
 
 -   **Funcionamiento**: Se basa en **tubos intensificadores de imagen**. Estos dispositivos analógicos capturan fotones de luz ambiental (incluida la luz del espectro infrarrojo cercano) a través de una lente.
 -   **Proceso**: Los fotones se convierten en electrones, que son multiplicados miles de veces mediante un campo eléctrico dentro del tubo. Finalmente, estos electrones impactan una pantalla de fósforo, que los convierte de nuevo en fotones visibles, creando la característica imagen verde y brillante.
--   **Uso**: Es un equipamiento estándar en las fuerzas de élite de la Armada y en los equipos de campo de la SIA. 

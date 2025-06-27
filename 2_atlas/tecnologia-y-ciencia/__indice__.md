@@ -1,3 +1,8 @@
+---
+layout: default
+title: Tecnología y Ciencia
+---
+
 # Tecnología y Ciencia
 
 Un vistazo al estado de la tecnología y el conocimiento científico en el siglo XXII.

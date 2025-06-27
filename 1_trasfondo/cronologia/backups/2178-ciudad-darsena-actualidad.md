@@ -1,5 +1,6 @@
 ---
 titulo: Ciudad Dársena - Actualidad (2178)
+title:Ciudad Dársena - Actualidad (2178)
 carpeta: 1_trasfondo/cronologia
 descripcion: El presente de Ciudad Dársena y la Confederación Argentina en el año 2178, epicentro de las historias y aventuras del universo.
 tags:
@@ -79,4 +80,3 @@ Es en este contexto que hace su llamado la Providencia a los hombres y mujeres d
 
 ---
 
-*Que Dios guíe nuestros pasos en estos tiempos de prueba, y que el Anatema Mecánico nos proteja de nuestros propios errores. Ciudad Dársena, Año de Nuestro Señor 2178.* 

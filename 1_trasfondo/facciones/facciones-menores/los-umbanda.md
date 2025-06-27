@@ -1,5 +1,6 @@
 ---
 titulo: Los Umbanda
+title:Los Umbanda
 carpeta: 1_trasfondo/facciones/facciones-menores
 descripcion: Una fe sincrética que prospera en los Barrios del Muro y mantiene una presencia clandestina en Dársena, desafiando la ortodoxia de la Iglesia con sus rituales y creencias.
 tags:

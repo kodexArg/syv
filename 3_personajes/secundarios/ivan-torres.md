@@ -1,5 +1,6 @@
 ---
 titulo: "Iván Torres, Bicicletero"
+title:"Iván Torres, Bicicletero"
 carpeta: 3_personajes/secundarios
 descripcion: "Mecánico especializado en bicicletas y otros medios de movilidad urbana, con un profundo conocimiento de la red de mensajeros de la ciudad."
 tags:
@@ -20,4 +21,3 @@ Se dedica a reparar y modificar bicicletas y otros medios de movilidad urbana en
 
 ## Secretos
 
-Conoce a todos los mensajeros de la ciudad y sabe a qué se dedica realmente cada uno, más allá de la simple entrega de paquetes. 

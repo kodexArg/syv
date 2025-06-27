@@ -1,5 +1,6 @@
 ---
 titulo: "Carlos Giménez, Médico"
+title:"Carlos Giménez, Médico"
 carpeta: 3_personajes/secundarios
 descripcion: "Médico de emergencias comprometido pero técnicamente mediocre, que ha notado un patrón alarmante de pacientes con agotamiento del sueño."
 tags:
@@ -40,4 +41,3 @@ Como médico de emergencias, Carlos ha observado un patrón alarmante de pacient
 
 **Función**: Médico de Emergencias.
 
-**Aporte a la historia:** Carlos ha observado un patrón alarmante de pacientes que llegan a la emergencia en estado catatónico, con un diagnóstico común de agotamiento severo del sueño. Según sus estudios, los daños han sido irreparables y sólo han podido frenarse con medicamentos muy fuertes y demasiado caros. 

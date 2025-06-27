@@ -1,5 +1,6 @@
 ---
 titulo: "Alberto Gómez, Ferretero del centro"
+title:"Alberto Gómez, Ferretero del centro"
 carpeta: 3_personajes/secundarios
 descripcion: "Encargado de una ferretería en el centro, que oculta la muerte del dueño para mantener el negocio a flote."
 tags:
@@ -28,4 +29,3 @@ El dueño de la ferretería ha muerto, y Alberto lleva adelante la mentira para 
 
 ```
 Close-up portrait, depth of field, a 49-year-old man, his expression a complex mix of determination and secrecy, shadows of neon dance across his face, hinting at the burden he carries. In the heart of a cyberpunk city, he stands guard over a secret within the hardware store, sustaining a lie to protect his livelihood and those of his colleagues.
-``` 

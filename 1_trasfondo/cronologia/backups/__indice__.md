@@ -1,5 +1,6 @@
 ---
 titulo: Cronología
+title:Cronología
 carpeta: 1_trasfondo/cronologia
 descripcion: Línea de tiempo y eventos más importantes que han dado forma al mundo de "Subordinación y Valor".
 tags:

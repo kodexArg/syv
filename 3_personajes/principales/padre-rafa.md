@@ -1,5 +1,6 @@
 ---
 titulo: "Padre Rafa"
+title:"Padre Rafa"
 carpeta: 3_personajes/principales
 descripcion: "Experimentado exorcista y estudioso que frecuenta los Barrios del Muro, con una apariencia desfachatada que oculta una identidad secreta."
 tags:
@@ -33,4 +34,3 @@ Hace un año, Paco fue asesinado poco antes de poder compartir con Walter inform
 1.  **Ocultar su verdadera identidad.**
 2.  Dar con el "Pueblo del Pantano", contactarlos y, si es posible, huir hacia ellos.
 3.  Resolver el misterio de los Poseídos.
-4.  Siente una deuda de gratitud y remordimiento con el personaje de los bajos fondos que lo ayuda. 

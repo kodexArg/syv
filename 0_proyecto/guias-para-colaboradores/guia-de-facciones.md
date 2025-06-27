@@ -1,5 +1,6 @@
 ---
 titulo: Guía de Facciones
+title:Guía de Facciones
 carpeta: 0_proyecto/guias-para-colaboradores
 descripcion: Guía resumida y práctica para documentar facciones en el universo de Subordinación y Valor, con foco en claridad, coherencia y conexión entre grupos.
 tags:
@@ -42,6 +43,7 @@ A continuación, un ejemplo de cómo estructurar el texto de una facción siguie
 ```markdown
 ---
 titulo: Arpistas
+title:Guía de Facciones
 descripcion: Red internacional y proscrita de buscadores de conocimiento, tecnología y tesoros ocultos, expertos en inutilizar tecnología peligrosa antes de preservarla.
 carpeta: 1_trasfondo/facciones/facciones-menores
 tags:

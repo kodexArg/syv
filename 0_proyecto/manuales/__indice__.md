@@ -1,3 +1,8 @@
+---
+layout: default
+title: Manuales
+---
+
 # Manuales
 
 Esta sección contendrá manuales y documentos de referencia del universo de "Subordinación y Valor".

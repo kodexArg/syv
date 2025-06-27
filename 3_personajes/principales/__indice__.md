@@ -1,3 +1,8 @@
+---
+layout: default
+title: Personajes Principales
+---
+
 # Personajes Principales
 
 Fichas de los personajes protagonistas y centrales de las tramas de "Subordinación y Valor".

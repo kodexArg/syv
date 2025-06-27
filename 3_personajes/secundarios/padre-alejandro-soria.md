@@ -1,5 +1,6 @@
 ---
 titulo: "Padre Alejandro Soria"
+title:"Padre Alejandro Soria"
 carpeta: 3_personajes/secundarios
 descripcion: "Un médico que sirve como sacerdote en un hospital eclesiástico, pero cuya verdadera fe está en la medicina, no en Dios."
 tags:
@@ -39,4 +40,3 @@ En realidad, Alejandro no cree en Dios. Su única y verdadera vocación es la me
 | Profesión | 6 | Especialista médico |
 | Ocultismo | 4 | Sacerdote |
 
-**Función**: Médico en hospital eclesiástico. 

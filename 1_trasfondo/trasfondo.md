@@ -1,5 +1,6 @@
 ---
 titulo: Trasfondo
+title:Trasfondo
 carpeta: 1_trasfondo
 descripcion: Historia, leyes, cosmovisión y conceptos clave del universo SyV.
 tags:
@@ -19,4 +20,3 @@ Contiene la historia, leyes, cosmología y conceptos fundamentales.
 - **cosmovision**: Filosofía y visión del mundo.
 - **glosario**: Definiciones clave.
 - **prohibiciones**: Tabúes y conceptos penados globalmente.
-- **facciones**: Grupos y organizaciones relevantes. 

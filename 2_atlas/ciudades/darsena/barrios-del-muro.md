@@ -1,5 +1,6 @@
 ---
 titulo: Barrios del Muro
+title:Barrios del Muro
 carpeta: 2_atlas/ciudades/darsena
 descripcion: "Los distritos más pobres y superpoblados de Ciudad Dársena, un hervidero de descontento, crimen y resistencia que se agolpa contra las murallas."
 tags:
@@ -35,4 +36,3 @@ Vastas áreas donde se acumulan los desechos de la ciudad. Aquí, los recuperado
 Espacios abiertos, a menudo patios de edificios o intersecciones amplias, donde se realizan intercambios comerciales a pequeña escala. Estos mercados son fluidos y cambiantes, siempre bajo la atenta mirada de los punteros locales que cobran "impuestos" por la protección.
 
 ### **Cocinas Colectivas y Refugios Subterráneos**
-Grandes espacios donde se preparan y distribuyen comidas en masa, a menudo la única fuente de alimento para miles de personas. Junto a ellos, se encuentran refugios subterráneos, áreas bajo tierra utilizadas como viviendas de emergencia, oscuras, húmedas y superpobladas. 

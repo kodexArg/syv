@@ -1,5 +1,6 @@
 ---
 titulo: Gran Guerra Global (2036-2047)
+title:Gran Guerra Global (2036-2047)
 carpeta: 1_trasfondo/cronologia
 descripcion: Cronología de los doce años de guerra mundial que siguieron al Estallido de diciembre 2035, en un mundo ya marcado por la devastación del meteorito de Buenos Aires.
 tags:
@@ -158,4 +159,3 @@ En Argentina, el cráter de Buenos Aires se había convertido en un lugar de per
 
 ---
 
-*Que estos años de horror nunca sean olvidados, para que la humanidad recuerde el precio de abandonar a Dios, y que el cráter de Buenos Aires nos sirva como recordatorio eterno de que cuando perdemos la fe, hasta los cielos se vuelven contra nosotros.* 

@@ -5,6 +5,7 @@ alwaysApply: true
 ---
 ---
 titulo: Regla de uso obligatorio de guías de colaboración
+title:Regla de uso obligatorio de guías de colaboración
 descripcion: Indica que todo aporte debe seguir las guías de 0_proyecto/guias-para-colaboradores, comenzando por manual-del-colaborador.md y extendiéndose a las guías específicas.
 ---
 
@@ -19,4 +20,3 @@ Siempre que vayas a realizar un aporte, edición o creación de archivos en el p
 1. Antes de aportar, lee `manual-del-colaborador.md`.
 2. Consulta la(s) guía(s) relevante(s) en `0_proyecto/guias-para-colaboradores/`.
 3. Aplica el formato y las prácticas indicadas.
-4. Si es necesario, actualiza las guías para reflejar cambios o nuevas convenciones.

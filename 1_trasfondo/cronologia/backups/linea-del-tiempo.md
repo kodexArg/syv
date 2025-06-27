@@ -1,5 +1,6 @@
 ---
 titulo: Línea del tiempo
+title:Línea del tiempo
 carpeta: 1_trasfondo/cronologia
 descripcion: Cronología detallada de los eventos del Gran Colapso y la fragmentación de Argentina y el mundo.
 tags:
@@ -135,4 +136,3 @@ Los siguientes eventos fueron reconstruidos a partir de archivos de la época. N
   - [2.6.5] Napas subterráneas contaminadas.
   - [2.6.6] Mapas redibujados mensualmente.
 
-*Índice cronológico: De la globalización al caos en 24 meses.*

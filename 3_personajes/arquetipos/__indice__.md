@@ -1,3 +1,8 @@
+---
+layout: default
+title: Arquetipos
+---
+
 # Arquetipos
 
 Plantillas y modelos de personajes comunes en el universo de SyV.

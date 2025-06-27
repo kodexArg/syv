@@ -1,5 +1,6 @@
 ---
 titulo: Los Criptógrafos
+title:Los Criptógrafos
 carpeta: 1_trasfondo/facciones/facciones-menores
 descripcion: Una red clandestina y descentralizada de hackers y especialistas en comunicaciones que desafían el control informativo del régimen, atrapados entre su curiosidad y el reclutamiento forzoso de las mismas fuerzas que los persiguen.
 tags:
@@ -26,4 +27,3 @@ Su existencia es una afrenta directa a la **Dirección Nacional de Seguridad (DN
 
 [^iglesia]: La Iglesia de Dársena
 [^dns]: Dirección Nacional de Seguridad (DNS)
-[^sia]: La Santa Inquisición Argentina (SIA) 

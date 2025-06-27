@@ -1,5 +1,6 @@
 ---
 titulo: Artefactos y Pistas
+title:Artefactos y Pistas
 carpeta: 5_aventuras
 descripcion: "Una colección de objetos misteriosos, pistas y ganchos de aventura que pueden encontrarse en el mundo de Dársena y sus alrededores."
 tags:
@@ -44,4 +45,3 @@ Una escultura monolítica de forma piramidal ubicada en los [[Jardines del Norte
 -   **Secreto**: Es un lugar de reunión secreto para los Masones de alto rango en Dársena. Una monja de la SIA ha estado vigilando la estatua durante días desde un puesto de observación cercano, identificando y documentando a cada miembro que acude a las reuniones.
 
 ## Diario de Experimentos Prohibidos
-Un diario manuscrito encontrado en una habitación abandonada en el [[Microcentro]]. Aunque parece antiguo, describe con detalle tecnología del 2043. Habla de experimentos prohibidos que permitían alterar la voluntad e implantar conocimientos durante el sueño, describiendo la base teórica del dispositivo que llegaría a ser "El Soñador". 

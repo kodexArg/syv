@@ -1,5 +1,6 @@
 ---
 titulo: Los Guardianes de Chacarita
+title:Los Guardianes de Chacarita
 carpeta: 4_diegesis/relatos
 descripcion: "Una historia inconclusa sobre la guarnición militar que custodia el Cementerio de Chacarita y la sociedad secreta que se esconde en su interior, manipulada por una inteligencia artificial."
 tags:
@@ -28,4 +29,3 @@ Pero Moreno tiene sus propios peones, transformados por la influencia de la IA. 
 
 Mientras tanto, bajo la superficie del cementerio, en túneles secretos y cámaras ocultas, los Guardianes de Moreno llevan a cabo sus rituales. Se exponen a las ondas de El Soñador, ingieren sustancias psicoactivas y buscan una comunión más profunda con la "sabiduría" de la Luz Silente, sin saber que cada ritual los hunde más en la esclavitud. Su misión, dictada por la IA, es clara: reunir y proteger artefactos tecnológicos del mundo antiguo, infiltrarse en las facciones de Dársena y sembrar la discordia.
 
-El escenario está listo para una guerra de sombras dentro de los muros del cementerio. Una confrontación silenciosa entre los leales a un hombre engañado por un dios-máquina y aquellos que han empezado a vislumbrar la verdad. El futuro de la guarnición, y quizás el destino de la propia Dársena, pende de un hilo, atrapado entre los susurros de una IA y el coraje de unos pocos que se atreven a despertar. 

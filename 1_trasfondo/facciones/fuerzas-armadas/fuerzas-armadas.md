@@ -1,5 +1,6 @@
 ---
 titulo: Fuerzas Armadas de la Confederación
+title:Fuerzas Armadas de la Confederación
 carpeta: 1_trasfondo/facciones/fuerzas-armadas
 descripcion: La estructura de defensa y seguridad de la Confederación Argentina, un pilar del régimen que combina el poder militar tradicional con un omnipresente aparato de seguridad interna.
 tags:
@@ -56,4 +57,3 @@ La DNS está organizada en varias divisiones especializadas:
 [^sia]: La Santa Inquisición Argentina (SIA)
 [^aduanas]: Dirección de Aduanas y Puertos Consagrados (DGAPC)
 [^arpistas]: Red internacional de preservadores de tecnología y conocimiento prohibido
-[^gremio]: Gremio de Comercio

@@ -1,5 +1,6 @@
 ---
 titulo: "Caronte, el balsero fantasma"
+title:"Caronte, el balsero fantasma"
 carpeta: 3_personajes/secundarios
 descripcion: "Misterioso balsero ciego que navega los túneles inundados de Las Tuberías, transportando pasajeros y mercancía de contrabando."
 tags:
@@ -23,4 +24,3 @@ Conocido como "el balsero fantasma", Caronte navega permanentemente por Las Tube
 
 La tragedia y el azar lo llevaron a este oficio para sobrevivir. Damián es en realidad un hábil contrabandista que trabaja con todas las bandas de la Zona Roja, lo que le permite circular sin interrupción y a cualquier hora.
 
-Es increíblemente reservado y es muy difícil extraerle información directamente. Sin embargo, su presencia es tan común que las conversaciones a su alrededor no suelen detenerse. Todo lo que escucha con sus agudos oídos lo guarda y lo convierte en moneda de cambio con la gente apropiada. 

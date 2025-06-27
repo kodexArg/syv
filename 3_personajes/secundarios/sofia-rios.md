@@ -1,5 +1,6 @@
 ---
 titulo: "Sofía Ríos, Inspectora de Seguridad Nacional"
+title:"Sofía Ríos, Inspectora de Seguridad Nacional"
 carpeta: 3_personajes/secundarios
 descripcion: "Inspectora recién ascendida del Departamento de Investigaciones Paranormales, que investiga por su cuenta un alarmante aumento de desapariciones."
 tags:
@@ -42,4 +43,3 @@ Sus investigaciones personales surgen de estadísticas alarmantes en los reporte
 
 **Cargo**: Inspectora detective del Departamento de Seguridad Nacional, Área Investigaciones Paranormales.
 
-**Aporte a la historia**: Sus investigaciones surgen de estadísticas alarmantes en los reportes de desapariciones este último año en los Barrios del Muro. Intenta comprender el fenómeno y quiere convertir esto en su primer caso. 

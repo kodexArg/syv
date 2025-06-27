@@ -1,5 +1,6 @@
 ---
 titulo: Guía de Referencias y Pie de Página
+title:Guía de Referencias y Pie de Página
 carpeta: 0_proyecto/guias-para-colaboradores
 descripcion: Instrucciones para el uso correcto de referencias, notas al pie y enlaces entre documentos en el proyecto SyV.
 tags:
@@ -110,4 +111,3 @@ La **Sagrada Inquisición Argentina (SIA)**[^sia] mantiene una relación tensa c
 
 ---
 
-**Nota**: Esta guía debe actualizarse si se introducen nuevos tipos de referencias o se modifican las convenciones existentes.

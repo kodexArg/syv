@@ -1,5 +1,6 @@
 ---
 titulo: Ciencia y Tecnología bajo el Anatema Mecánico
+title:Ciencia y Tecnología bajo el Anatema Mecánico
 carpeta: 2_atlas/tecnologia-y-ciencia
 descripcion: Detalla el nivel tecnológico permitido en la Confederación Argentina, las restricciones impuestas por el 'Anatema Mecánico' y las soluciones analógicas desarrolladas.
 tags:
@@ -33,4 +34,3 @@ La vida en la Confederación se rige por los ecos de la Gran Fractura y la sombr
 - **Pantallas de Plasma**: Son maravillas de la ingeniería analógica que crean imágenes mediante la excitación controlada de gases nobles entre paneles de vidrio. Cada celda es activada por una intrincadísima red de fibras ópticas desde una unidad decodificadora analógica.
 - **Armas de Pulso Electromagnético (EMP)**: De corto alcance y construidas con circuitos analógicos, liberan una potente onda capaz de neutralizar artefactos electrónicos no protegidos.
 - **Rifles de tipo Gauss**: Instalados principalmente en fortificaciones defensivas, utilizan canales electromagnéticos para acelerar proyectiles metálicos a velocidades devastadoras. Son de enorme costo y un símbolo del poderío militar de la Confederación.
-- **Visión Nocturna**: Se logra mediante tubos intensificadores de imagen que amplifican la luz ambiental sin necesidad de procesamiento digital alguno. 

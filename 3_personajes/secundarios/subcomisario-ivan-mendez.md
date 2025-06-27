@@ -1,5 +1,6 @@
 ---
 titulo: "Subcomisario Iván Méndez"
+title:"Subcomisario Iván Méndez"
 carpeta: 3_personajes/secundarios
 descripcion: "Líder de equipo en la Unidad de Respuesta Táctica Urbana (RTU), especializado en operaciones de alto riesgo."
 tags:
@@ -27,4 +28,3 @@ Su principal motivación es prevenir el abuso de poder que observa dentro de las
 ### Relaciones
 
 - [[3_personajes/secundarios/agente-luis-navarro|Agente Luis Navarro]]
-- [[3_personajes/secundarios/diego-herrera|Comisario General Diego Herrera]] 

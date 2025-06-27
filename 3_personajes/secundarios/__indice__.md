@@ -1,3 +1,8 @@
+---
+layout: default
+title: Personajes Secundarios
+---
+
 # Personajes Secundarios
 
 Personajes de reparto, extras y figuras de fondo que pueblan el mundo de SyV.

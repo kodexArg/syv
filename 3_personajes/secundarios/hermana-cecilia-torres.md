@@ -1,5 +1,6 @@
 ---
 titulo: "Hermana Cecilia Torres, Archivista"
+title:"Hermana Cecilia Torres, Archivista"
 carpeta: 3_personajes/secundarios
 descripcion: "Archivista y profesora en la Universidad de la Luz Divina, que secretamente es una demonóloga que trabaja para destruir la ciudad."
 tags:
@@ -44,4 +45,3 @@ Utiliza su posición para codificar mensajes secretos en sus lecciones y deforma
 
 ### Relaciones
 
-- [[3_personajes/secundarios/marcos-duarte|Marcos Duarte]] 

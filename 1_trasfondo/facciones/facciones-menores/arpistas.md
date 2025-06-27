@@ -1,5 +1,6 @@
 ---
 titulo: Arpistas
+title:Arpistas
 descripcion: Red internacional y proscrita de buscadores de conocimiento, tecnología y tesoros ocultos, expertos en inutilizar tecnología peligrosa antes de preservarla. Operan en círculos académicos y son perseguidos ferozmente en Dársena.
 carpeta: 1_trasfondo/facciones/facciones-menores
 tags:
@@ -29,4 +30,3 @@ Para subsistir en territorio hostil, los Arpistas recurren al subterfugio, ocult
 
 [^sia]: Santa Inquisición Argentina (SIA) / "Los Cirujanos del Alma"
 [^aduanas]: Dirección General de Aduanas y Puertos Consagrados (DGAPC)
-[^iglesia]: El Poder Eclesiástico de Dársena

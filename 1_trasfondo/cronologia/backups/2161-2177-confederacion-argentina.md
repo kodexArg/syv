@@ -1,5 +1,6 @@
 ---
 titulo: Confederación Argentina (2161-2177)
+title:Confederación Argentina (2161-2177)
 carpeta: 1_trasfondo/cronologia
 descripcion: Cronología de la formación y consolidación de la Confederación Argentina, desde la integración de las 22 ciudades-estado hasta la víspera de los tiempos actuales.
 tags:
@@ -211,4 +212,3 @@ Sin embargo, sabemos que nuestro trabajo no ha terminado. El mundo sigue siendo 
 
 ---
 
-*Gloria a Dios en las alturas, y en la tierra paz a los hombres de buena voluntad que han sabido rechazar las falsas promesas de las máquinas pensantes.* 

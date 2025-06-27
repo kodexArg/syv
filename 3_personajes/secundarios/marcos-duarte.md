@@ -1,5 +1,6 @@
 ---
 titulo: "Marcos Duarte, Científico en Torres Hidropónicas"
+title:"Marcos Duarte, Científico en Torres Hidropónicas"
 carpeta: 3_personajes/secundarios
 descripcion: "Científico de las Torres Hidropónicas y miembro de la Resistencia Subterránea que busca sabotear el control gubernamental de los alimentos."
 tags:
@@ -39,4 +40,3 @@ Como miembro de la Resistencia Subterránea, su objetivo es sabotear discretamen
 | Profesión | 5 | Experto en sistemas hidropónicos |
 | Ocultismo | 1 | Ni fu, ni fa |
 
-**Función**: Operario en las Torres Hidropónicas. 

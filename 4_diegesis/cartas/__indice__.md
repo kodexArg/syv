@@ -1,3 +1,8 @@
+---
+layout: default
+title: Cartas
+---
+
 # Cartas
 
 Correspondencia y misivas encontradas en el mundo de SyV.

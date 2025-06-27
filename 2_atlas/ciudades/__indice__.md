@@ -1,3 +1,8 @@
+---
+layout: default
+title: Ciudades
+---
+
 # Ciudades
 
 Descripciones de las principales ciudades y asentamientos de la Confederación.

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Diarios
+---
+
 # Diarios
 
 Extractos de diarios personales que ofrecen una visión íntima de la vida en SyV.

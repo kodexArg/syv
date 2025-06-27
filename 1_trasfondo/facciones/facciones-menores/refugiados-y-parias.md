@@ -1,5 +1,6 @@
 ---
 titulo: Refugiados y Parias
+title:Refugiados y Parias
 carpeta: 1_trasfondo/facciones/facciones-menores
 descripcion: La masa anónima de individuos sin estatus legal que sobreviven en los márgenes de Dársena, desde los Barrios del Muro hasta las Tuberías, en una lucha constante contra el hambre y las autoridades.
 tags:
@@ -29,4 +30,3 @@ Su existencia es precaria y dependen de interacciones con otros grupos marginado
 [^cazadores]: Cazadores de Pesadillas
 [^umbanda]: Los Umbanda
 [^traficantes]: Traficantes de Almas
-[^gremio]: Gremio de Comercio 

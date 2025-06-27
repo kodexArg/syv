@@ -1,5 +1,6 @@
 ---
 titulo: Tecnología Civil
+title:Tecnología Civil
 carpeta: 2_atlas/tecnologia-y-ciencia
 descripcion: Detalla tecnologías de uso civil como el transporte público y los sistemas de purificación de agua.
 tags:
@@ -29,4 +30,3 @@ El suministro de agua potable para los cinco millones de habitantes de Dársena 
     2.  Se introducen catalizadores metálicos (placas o mallas) de diseño específico.
     3.  Se aplica una corriente eléctrica de alta intensidad, muy superior a la de la red pública.
     4.  La combinación de la electricidad y los catalizadores acelera las reacciones químicas que descomponen contaminantes orgánicos, neutralizan metales pesados y eliminan patógenos (virus y bacterias).
--   **Ventajas**: Este sistema no requiere componentes electrónicos complejos ni filtros delicados que se saturen rápidamente. Es un proceso químico y eléctrico robusto, ideal para el nivel tecnológico de Dársena. Su principal inconveniente es el altísimo consumo de energía, que depende de subestaciones dedicadas conectadas a la central nuclear secreta de la ciudad. 

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Mapas
+---
+
 # Mapas
 
 Colección de mapas geográficos, políticos y topográficos del mundo de SyV.

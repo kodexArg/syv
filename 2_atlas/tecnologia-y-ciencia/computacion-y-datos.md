@@ -1,5 +1,6 @@
 ---
 titulo: Computación y Datos
+title:Computación y Datos
 carpeta: 2_atlas/tecnologia-y-ciencia
 descripcion: Descripción de los sistemas de computación, PDAs y la gestión de la seguridad de datos en Ciudad Dársena.
 tags:
@@ -39,4 +40,3 @@ La paranoia en torno a la información digital define la seguridad de los datos 
 -   **Medios Físicos**: La información sensible se transporta en medios físicos seguros como **microfilmes**, **discos ópticos especializados** o **tarjetas de circuitos impresos** con información codificada.
 -   **Seguridad Física y Criptografía Manual**: La confianza recae en la seguridad física de los soportes y en la habilidad de los **Criptógrafos** para cifrar y descifrar la información. Aunque algunos son perseguidos, los mejores son reclutados por el Estado para proteger sus secretos.
 
-El mercado negro, especialmente en lugares como **El Laberinto de Neón** o **Las Tuberías**, es el único lugar donde se pueden encontrar piezas para construir dispositivos más avanzados o acceder a redes de datos clandestinas. 

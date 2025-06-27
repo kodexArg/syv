@@ -1,5 +1,6 @@
 ---
 titulo: "Hermana Laura Castillo, Enfermera"
+title:"Hermana Laura Castillo, Enfermera"
 carpeta: 3_personajes/secundarios
 descripcion: "Enfermera experimentada y miembro de los Curatores, dedicada a ayudar en las clínicas comunitarias de los barrios bajos."
 tags:
@@ -40,4 +41,3 @@ Colabora con una red clandestina de ayuda para los más necesitados, manteniendo
 | Profesión | 8 | Experta en enfermería, capacitada |
 | Ocultismo | 5 | Monja católica |
 
-**Función**: Enfermera en clínicas de la comunidad. 

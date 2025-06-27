@@ -1,5 +1,6 @@
 ---
 titulo: "Paco, el puntero"
+title:"Paco, el puntero"
 carpeta: 3_personajes/principales
 descripcion: "Carismático líder y protector de una estación en las Tuberías, respetado por su comunidad y con contactos en las altas esferas."
 tags:
@@ -23,4 +24,3 @@ Aunque su fuerte no eran los negocios, la comunidad lo apoyaba incondicionalment
 
 ## Trasfondo
 
-Paco fue uno de los primeros en investigar el fenómeno de los poseídos y "zoombieficados", aunque lo hizo desde la superstición y el desconocimiento. Fue asesinado poco después de contactar al Padre Rafa para pedirle consejo y alertarlo sobre la situación. 

@@ -1,5 +1,6 @@
 ---
 titulo: Ciudad Dársena
+title:Ciudad Dársena
 carpeta: 2_atlas/ciudades/darsena
 descripcion: "Ciudad Dársena es la capital de la Confederación Argentina, una metrópolis amurallada de cinco millones de almas que se erige como un bastión de orden, fe y poder naval en un mundo post-apocalíptico."
 tags:
@@ -47,4 +48,3 @@ Bajo esta estructura de poder, bulle una sociedad clandestina en los márgenes:
 *   **[[Zona Residencial de Alta Sociedad (Barrios del Norte)]]**: El opulento hogar de la élite.
 *   **[[Barrios del Muro]]**: Los distritos superpoblados que se apoyan contra las murallas.
 *   **[[Las Tuberías]]**: La ciudad subterránea, un mundo aparte.
-*   **[[Fuera del Muro]]**: Las peligrosas tierras más allá de la protección de Dársena. 

@@ -1,5 +1,6 @@
 ---
 titulo: "Monseñor Luis Valverde"
+title:"Monseñor Luis Valverde"
 carpeta: 3_personajes/secundarios
 descripcion: "Director de la Academia Teológica y figura prominente del Alto Clero, conocido por su erudición y su vasta red de contactos en el ámbito científico."
 tags:
@@ -45,4 +46,3 @@ Su principal motivación es preservar y conservar el poder eclesiástico sobre e
 
 - [[Madre Inquisidora]]
 - [[Padre Felipe]]
-- [[Papa]] 

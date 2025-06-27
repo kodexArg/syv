@@ -1,5 +1,6 @@
 ---
 titulo: "Gabriela Lima, Artista Callejera"
+title:"Gabriela Lima, Artista Callejera"
 carpeta: 3_personajes/secundarios
 descripcion: "Artista callejera cuyos murales en los Barrios del Muro narran historias de resistencia y esperanza."
 tags:
@@ -16,4 +17,3 @@ Gabriela Lima, de 30 años, es una artista callejera cuyo arte mural en los Barr
 ### Relaciones
 
 - [[3_personajes/secundarios/ana-lopez|Ana López]]
-- [[3_personajes/secundarios/padre-alejandro-soria|Padre Alejandro Soria]] 

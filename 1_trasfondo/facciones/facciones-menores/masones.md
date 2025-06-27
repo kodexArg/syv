@@ -1,5 +1,6 @@
 ---
 titulo: Masones
+title:Masones
 carpeta: 1_trasfondo/facciones/facciones-menores
 descripcion: Una antigua hermandad que opera en la más estricta clandestinidad en Dársena, dedicada a proteger y preservar el conocimiento y la cultura del mundo pre-colapso.
 tags:
@@ -27,4 +28,3 @@ Dada la naturaleza de su misión, son enemigos naturales de la **Sagrada Inquisi
 [^iglesia]: La Iglesia de Dársena
 [^sia]: La Santa Inquisición Argentina (SIA)
 [^arpistas]: Arpistas
-[^guardianes]: Guardianes de la Memoria 

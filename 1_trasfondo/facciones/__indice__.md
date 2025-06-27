@@ -1,3 +1,8 @@
+---
+layout: default
+title: Facciones
+---
+
 # Facciones
 
 En esta sección se describen los diferentes grupos de poder, organizaciones y facciones que operan en el universo de SyV.

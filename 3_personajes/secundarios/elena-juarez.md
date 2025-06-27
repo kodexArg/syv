@@ -1,5 +1,6 @@
 ---
 titulo: "Elena Juárez, Maestra residencial"
+title:"Elena Juárez, Maestra residencial"
 carpeta: 3_personajes/secundarios
 descripcion: "Maestra que trabaja tanto en los barrios ricos como con niños de los Barrios del Muro, y que secretamente lucha contra la influencia de la Iglesia."
 tags:
@@ -47,4 +48,3 @@ Elena es profundamente antieclesiástica. Su verdadera motivación es reunir lib
 
 **Motivación Oculta**: Reunir libros prohibidos, preservar el conocimiento oculto, adoctrinar con dudas contra la iglesia. Profundamente antieclesiástica.
 
-**Aporte a la historia:** Elena ha notado un cambio dramático en el comportamiento de algunos de sus estudiantes, quienes parecen desorientados y desconectados durante el día, como si no durmieran en absoluto. Su preocupación de maestra lleva a los investigadores a indagar en las vidas familiares de los estudiantes. 

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Guías para colaboradores
+---
+
 # Guías para colaboradores
 
 En esta sección se encuentran las guías de estilo y contenido para contribuir al proyecto "Subordinación y Valor".

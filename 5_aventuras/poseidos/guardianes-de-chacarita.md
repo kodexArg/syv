@@ -1,5 +1,6 @@
 ---
 titulo: Guardianes de Chacarita
+title:Guardianes de Chacarita
 carpeta: 5_aventuras
 descripcion: "Descripción de la facción de los Guardianes del Cementerio de Chacarita, sus miembros, su liderazgo y sus secretos."
 tags:
@@ -108,4 +109,3 @@ No todos los Guardianes están alineados con las oscuras intenciones de Moreno y
 
 ## La Caída de Moreno y la Lucha por el Control
 
-El escenario está listo para una lucha interna dentro de los Guardianes, con Moreno y sus tres protectores especiales enfrentando la resistencia creciente liderada por La Voz de la Verdad. Esta batalla no solo determinará el futuro de los Guardianes, sino también el destino de la tecnología prohibida y el papel de Luz Silente en el mundo de Dársena. 

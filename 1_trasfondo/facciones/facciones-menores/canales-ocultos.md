@@ -1,5 +1,6 @@
 ---
 titulo: Canales Ocultos
+title:Canales Ocultos
 carpeta: 1_trasfondo/facciones/facciones-menores
 descripcion: Una red invisible de poder e influencia que opera en las sombras de Dársena, un mercado de secretos, favores y recursos fuera del control estatal y eclesiástico.
 tags:
@@ -26,4 +27,3 @@ Su poder radica en el acceso a información que podría derribar a hombres poder
 
 [^gremio]: Gremio de Comercio
 [^dns]: Dirección Nacional de Seguridad (DNS)
-[^sia]: La Santa Inquisición Argentina (SIA) 

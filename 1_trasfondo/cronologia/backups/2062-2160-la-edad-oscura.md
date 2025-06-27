@@ -1,5 +1,6 @@
 ---
 titulo: La Edad Oscura (2062-2160)
+title:La Edad Oscura (2062-2160)
 carpeta: 1_trasfondo/cronologia
 descripcion: Cronología del período medieval post-tecnológico, cuando la humanidad rechazó los procesadores y vivió bajo el Anatema Mecánico en un mundo marcado por el cráter de Buenos Aires.
 tags:
@@ -136,4 +137,3 @@ El cráter de Buenos Aires, ahora con más de un siglo de antigüedad, había co
 
 ---
 
-*Así terminó la Edad Oscura, no con violencia sino con esperanza. El cráter que había marcado el fin del mundo antiguo comenzaba a mostrar que la vida podía renacer incluso en los lugares más devastados. Era tiempo de que la humanidad también renaciera.* 

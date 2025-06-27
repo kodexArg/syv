@@ -1,5 +1,6 @@
 ---
 titulo: La Llegada del Sabueso
+title:La Llegada del Sabueso
 carpeta: 4_diegesis/relatos
 descripcion: Introducción narrativa del Detective Damián DiConte a Ciudad Dársena y su primer encuentro con la Inquisición.
 tags:
@@ -28,4 +29,3 @@ El vehículo lo condujo a través de la ciudad, pasando la Basílica de San Pedr
 "Así que, así luce la Inquisición por dentro", dijo Damián. Sofía lo miró y sonrió.
 "No, esto no es la Inquisición. Aquí es solo donde los chicos se entrenan, ya llegaremos allí".
 
-Un ascensor los elevó al último piso, a un pasillo con paredes de piedra negra. Al final, una puerta imponente adornada con oro y cedro se abrió majestuosamente. La habitación era perfectamente circular, con paredes de un material que parecía obsidiana mal trabajada, confiriendo una sensación opresiva. Sentado detrás de una mesa de esa misma piedra, se encontraba una figura envuelta en una túnica oscura, con un pequeño gorro circular de color rojo sangre. Era el famoso gran inquisidor Miguel, conocido como su santidad. A pesar de que aparentaba estar en sus mejores años, todos sabían que ya pasaba los 70. Su mirada vacía intimidaba tanto a Sofía, que bajó la cabeza, como a Damián, quien, a pesar de no ser creyente, sentía cómo una sensación de temor se apoderaba de él desde el interior. 

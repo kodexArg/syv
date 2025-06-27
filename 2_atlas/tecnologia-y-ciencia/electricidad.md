@@ -1,5 +1,6 @@
 ---
 titulo: Electricidad y Energía
+title:Electricidad y Energía
 carpeta: 2_atlas/tecnologia-y-ciencia
 descripcion: Descripción del sistema eléctrico, la generación de energía y las baterías en Ciudad Dársena.
 tags:
@@ -34,4 +35,3 @@ La verdadera columna vertebral energética de Dársena reside en fuentes ocultas
 
 El almacenamiento de energía es rudimentario y pesado. Las baterías comunes se basan en **sal marina procesada**, lo que las hace voluminosas y de capacidad limitada, aunque seguras y fáciles de fabricar con recursos locales.
 
-En contraste, existen **baterías atómicas de la era pre-bélica**, capaces de suministrar energía durante milenios. Estos artefactos son extremadamente raros, considerados reliquias tecnológicas prohibidas, y su posesión es un secreto celosamente guardado por coleccionistas en el `Museo Anónimo` o por facciones en los `Talleres Ocultos` de Las Tuberías. 

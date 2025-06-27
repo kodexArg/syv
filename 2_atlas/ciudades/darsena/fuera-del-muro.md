@@ -1,5 +1,6 @@
 ---
 titulo: Fuera del Muro
+title:Fuera del Muro
 carpeta: 2_atlas/ciudades/darsena
 descripcion: "Las tierras indómitas y peligrosas que se extienden más allá de las murallas de Ciudad Dársena."
 tags:
@@ -34,4 +35,3 @@ Una zona portuaria caótica y semi-independiente, vital para el comercio exterio
 En las afueras de la ciudad se ubican los centros penitenciarios de máxima seguridad y los campos de entrenamiento militar más duros. La prisión es un lugar de brutalidad y desesperanza, y sus prisioneros son a menudo utilizados como mano de obra forzada en proyectos peligrosos. Los campos de entrenamiento preparan a los soldados para los horrores del mundo exterior.
 
 ### **La Frontera de los Pantanos**
-Un vasto territorio inexplorado y peligroso que se extiende al sur de la ciudad. Los pantanos son un laberinto de marismas, ruinas anegadas y vegetación mutada. Se rumorea que son el hogar de criaturas anómalas, fenómenos paranormales y comunidades de supervivientes que han rechazado por completo la autoridad de Dársena. Son un destino temido y a la vez una fuente de extraños recursos para quienes se atreven a explorarlos. 

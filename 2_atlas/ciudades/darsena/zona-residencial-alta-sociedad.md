@@ -1,5 +1,6 @@
 ---
 titulo: Zona Residencial de Alta Sociedad (Barrios del Norte)
+title:Zona Residencial de Alta Sociedad (Barrios del Norte)
 carpeta: 2_atlas/ciudades/darsena
 descripcion: "El opulento y fortificado distrito de la élite de Ciudad Dársena, un mundo de lujo y poder aislado de la dura realidad de la ciudad."
 tags:
@@ -35,4 +36,3 @@ Un secreto a voces entre la élite. En lugares clandestinos y eventos privados, 
 Una institución educativa exclusiva para los hijos de las familias más acaudaladas. Rodeada de fuertes medidas de seguridad, garantiza una educación de calidad y, lo que es más importante, las conexiones sociales necesarias para perpetuar el poder de la élite.
 
 ### **Museo Anónimo**
-Una galería subterránea y secreta que alberga una humillante (para la SIA) colección de [[tecnologia-prohibida|tecnología prohibida]] y artefactos anómalos. Su mecenas es desconocido y su existencia es un rumor constante y una afrenta para las autoridades. 

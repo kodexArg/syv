@@ -1,5 +1,6 @@
 ---
 titulo: El Fin de los Secretos (2048-2061)
+title:El Fin de los Secretos (2048-2061)
 carpeta: 1_trasfondo/cronologia
 descripcion: Cronología del período de dominación de las Inteligencias Artificiales Cuánticas y el establecimiento del Anatema Mecánico, en un mundo que ya cargaba con la herida del meteorito de Buenos Aires.
 tags:
@@ -180,4 +181,3 @@ La elección del lugar no fue casual: el cráter se había convertido en el sím
 
 ---
 
-*Así terminó la época en que las máquinas fueron nuestros amos. El Anatema Mecánico, nacido entre las ruinas que el meteorito había dejado veintiséis años antes, se convirtió en la ley fundamental que guiaría a la humanidad hacia una nueva edad de humildad y penitencia.* 

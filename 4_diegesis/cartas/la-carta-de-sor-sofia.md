@@ -1,5 +1,6 @@
 ---
 titulo: La Carta de Sor Sofía
+title:La Carta de Sor Sofía
 carpeta: 4_diegesis/cartas
 descripcion: Una carta de una monja de la Caridad Divina revela un mal sobrenatural que asola las Tuberías de Dársena, presentando un gancho de aventura de misterio y horror.
 tags:
@@ -32,4 +33,3 @@ tags:
 >
 > Tu hermana en Cristo,
 > 
-> Sofía. 

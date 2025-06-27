@@ -1,5 +1,6 @@
 ---
 titulo: "Monseñor Miguel, el Gran Inquisidor"
+title:"Monseñor Miguel, el Gran Inquisidor"
 carpeta: 3_personajes/principales
 descripcion: "Máxima autoridad de la Santa Inquisición Argentina, un hombre enigmático y temido cuya historia ha sido borrada intencionadamente."
 tags:
@@ -33,4 +34,3 @@ Atiende sus asuntos en una habitación espartana y gris, sentado en un trono de 
 
 La historia de Monseñor Miguel ha sido intencionadamente eliminada, y lo que se conoce de él se basa en leyendas. Se sabe que su nombre real es Miguel y que proviene del otro lado del continente.
 
-El Gran Inquisidor nunca abandona la Torre de Luz. Es tan respetado y temido que el propio Papa acude a él para consultarle, una situación que preocupa al resto de la curia. 

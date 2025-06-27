@@ -1,5 +1,6 @@
 ---
 titulo: Tecnología Militar
+title:Tecnología Militar
 carpeta: 2_atlas/tecnologia-y-ciencia
 descripcion: Describe el armamento avanzado utilizado por las fuerzas armadas y la SIA en la Confederación Argentina.
 tags:
@@ -40,4 +41,3 @@ El pináculo de la tecnología de armas de proyectil en la Confederación. Los r
 -   **Limitaciones**:
     -   **Consumo de Energía**: Requieren una enorme cantidad de energía para cada disparo, suministrada por una pesada batería o una fuente de poder externa.
     -   **Complejidad y Mantenimiento**: Son armas muy complejas y caras de fabricar y mantener. El desgaste de los componentes es significativo.
-    -   **Uso**: Debido a estas limitaciones, se usan principalmente en torretas defensivas en las murallas de Dársena, en naves de la Armada o en manos de los soldados más experimentados en misiones críticas. 

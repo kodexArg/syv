@@ -1,0 +1,14 @@
+title: Subordinación y Valor
+url: "https://kodexarg.github.io"
+baseurl: "/syv"
+theme: minima
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Default front matter
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default

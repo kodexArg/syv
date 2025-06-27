@@ -1,5 +1,6 @@
 ---
 titulo: "Teniente Carla Vázquez"
+title:"Teniente Carla Vázquez"
 carpeta: 3_personajes/secundarios
 descripcion: "Analista del Departamento de Contrainteligencia de la Dirección de Seguridad Nacional."
 tags:
@@ -26,4 +27,3 @@ Su principal motivación es desentrañar una conspiración que opera desde dentr
 ### Relaciones
 
 - [[3_personajes/secundarios/subcomisario-ivan-mendez|Subcomisario Iván Méndez]]
-- [[3_personajes/secundarios/sofia-rios|Inspector Sofía Ríos]] 

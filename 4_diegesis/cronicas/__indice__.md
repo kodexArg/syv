@@ -1,3 +1,8 @@
+---
+layout: default
+title: Crónicas
+---
+
 # Crónicas
 
 Relatos históricos y crónicas de eventos pasados y presentes.

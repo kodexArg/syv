@@ -1,5 +1,6 @@
 ---
 titulo: "Francisco Duarte, Operario en Torres Hidropónicas"
+title:"Francisco Duarte, Operario en Torres Hidropónicas"
 carpeta: 3_personajes/secundarios
 descripcion: "Joven y enérgico operario de las Torres Hidropónicas que secretamente roba alimentos para la gente de las Tuberías."
 tags:
@@ -37,4 +38,3 @@ Utiliza su posición para robar alimentos y distribuirlos entre los habitantes d
 | Subterfugio | 2 | No muy astuto |
 | Cultura | 2 | Interesado en historias |
 
-**Función**: Operario en las Torres Hidropónicas. 

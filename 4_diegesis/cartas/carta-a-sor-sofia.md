@@ -1,5 +1,6 @@
 ---
 titulo: "Carta de Sor Sofía"
+title:"Carta de Sor Sofía"
 carpeta: "4_diegesis/cartas"
 descripcion: "Carta de una monja de la Congregación de la Caridad Divina que describe eventos sobrenaturales y tragedias en las Tuberías de Dársena, incluyendo casos de posesión y mutilación."
 tags:

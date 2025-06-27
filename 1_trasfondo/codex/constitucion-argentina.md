@@ -1,5 +1,6 @@
 ---
 titulo: Constitución Argentina
+title:Constitución Argentina
 carpeta: 1_trasfondo/codex
 descripcion: Las diez leyes fundamentales que rigen la vida, la fe y el orden en la Confederación Argentina, con epicentro en Ciudad Dársena.
 tags:
@@ -50,4 +51,3 @@ tags:
 
 ## **Ley X: Ley Divina**
 
-- En el sagrado tejido de Dársena, donde la fe y el orden se entrelazan como los hilos de la vida misma, la Ley Divina guía cada paso, cada aliento. Este mandato eterno, reflejado en la voluntad de nuestros líderes y en la devoción de nuestros ciudadanos, es el faro que ilumina la oscuridad, la brújula que nos dirige hacia la redención. Bajo su manto, cada acto de justicia, cada sacrificio, cada triunfo y cada derrota, se consagra como un tributo a lo más alto. La Ley Divina no solo dicta nuestros deberes terrenales, sino que nos eleva, nos purifica, haciéndonos partícipes de una misión celestial que trasciende la materia y el tiempo. En su cumplimiento hallamos la verdadera libertad, en su enseñanza, la sabiduría infinita. Que su presencia inmutable nos recuerde que somos, ante todo, hijos de una realidad mayor, custodios de un legado divino que debe perpetuarse con honor, valor y una fe inquebrantable. 

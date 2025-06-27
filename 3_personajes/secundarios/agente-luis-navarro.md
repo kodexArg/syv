@@ -1,5 +1,6 @@
 ---
 titulo: "Agente Luis Navarro"
+title:"Agente Luis Navarro"
 carpeta: 3_personajes/secundarios
 descripcion: "Operativo de campo de Seguridad Urbana, especializado en seguimiento y vigilancia."
 tags:
@@ -26,4 +27,3 @@ Su principal motivación es infiltrarse en una facción proscrita para proteger 
 ### Relaciones
 
 - [[3_personajes/secundarios/sofia-rios|Inspector Sofía Ríos]]
-- [[3_personajes/secundarios/subcomisario-ivan-mendez|Subcomisario Iván Méndez]] 

@@ -1,5 +1,6 @@
 ---
 titulo: "Verónica Suárez, Camarera"
+title:"Verónica Suárez, Camarera"
 carpeta: 3_personajes/secundarios
 descripcion: "Camarera que trabaja en una cocina improvisada en los Barrios del Muro y organiza charlas con intelectuales y artistas."
 tags:
@@ -17,4 +18,3 @@ Además de su trabajo, organiza charlas y debates con intelectuales y artistas l
 
 ### Relaciones
 
-- [[3_personajes/secundarios/sonia-rodriguez|Sonia Rodríguez]] 

@@ -1,5 +1,6 @@
 ---
 titulo: Guardianes de la Memoria
+title:Guardianes de la Memoria
 carpeta: 1_trasfondo/facciones/facciones-menores
 descripcion: Club elitista y secreto de Ciudad Dársena, cuyos miembros -aristócratas y académicos en su mayoría- coleccionan y resguardan conocimiento prohibido, sin medir las consecuencias.
 tags:
@@ -28,4 +29,3 @@ Gracias a esta infiltración, la mayor y más peligrosa colección de documentos
 
 [^sia]: Santa Inquisición Argentina (SIA) / "Los Cirujanos del Alma"
 [^iglesia]: El Poder Eclesiástico de Dársena
-[^arpistas]: Red internacional de preservadores de tecnología y conocimiento prohibido 

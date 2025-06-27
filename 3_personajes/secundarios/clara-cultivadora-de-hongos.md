@@ -1,5 +1,6 @@
 ---
 titulo: "Clara, cultivadora de hongos"
+title:"Clara, cultivadora de hongos"
 carpeta: 3_personajes/secundarios
 descripcion: "Especialista en el cultivo de hongos raros en las Tuberías, poseedora de conocimientos únicos y guardiana de un santuario natural oculto."
 tags:
@@ -24,4 +25,3 @@ En la penumbra de las Tuberías, Clara cultiva variedades raras de hongos, algun
 
 ## Secretos / Trasfondo Oculto
 
-Su secreto mejor guardado es la existencia de un pasadizo que conduce a una laguna subterránea, un santuario natural completamente oculto del resto del mundo. 

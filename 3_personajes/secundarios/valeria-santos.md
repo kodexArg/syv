@@ -1,5 +1,6 @@
 ---
 titulo: "Valeria Santos, Dama de compañía y Archivista"
+title:"Valeria Santos, Dama de compañía y Archivista"
 carpeta: 3_personajes/secundarios
 descripcion: "Dama de compañía que se codea con el poder y, en secreto, usa su acceso a la biblioteca para descubrir la verdad sobre el origen de la ciudad."
 tags:
@@ -47,4 +48,3 @@ Su principal motivación es exponer la verdad sobre el origen de la ciudad, desa
 
 **Función**: Dama de Compañía y Archivista en la Biblioteca
 
-**Aporte a la historia:** Valeria, como archivista, ha descubierto documentos antiguos sobre tecnologías de manipulación del sueño que coinciden sorprendentemente con las descripciones. 
