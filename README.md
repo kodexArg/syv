@@ -12,7 +12,7 @@ Este sitio contiene el corpus de lore, personajes, historias y guías que confor
 
 ## Desarrollo
 
-Este proyecto utiliza [Astro](https://astro.build) para generar el sitio web estático.
+Este proyecto utiliza [Astro](https://astro.build) para generar el sitio web estático con [Tailwind CSS 4](https://tailwindcss.com) para los estilos.
 
 ### Comandos disponibles
 
@@ -25,6 +25,14 @@ npm run dev          # Inicia el servidor de desarrollo en localhost:4321
 npm run build        # Construye el sitio para producción en ./dist/
 npm run preview      # Previsualiza la build localmente
 ```
+
+### Tecnologías utilizadas
+
+- **Astro 5**: Framework para sitios web estáticos
+- **Tailwind CSS 4**: Framework de CSS utility-first
+- **@tailwindcss/typography**: Plugin para mejorar la tipografía en contenido markdown
+- **MDX**: Soporte para archivos markdown con componentes JSX
+- **TypeScript**: Tipado estático para JavaScript
 
 ### Estructura del proyecto
 
