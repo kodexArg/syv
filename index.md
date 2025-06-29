@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Subordinación y Valor
 ---
 

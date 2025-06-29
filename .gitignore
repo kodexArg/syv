@@ -5,13 +5,13 @@ dist/
 
 # dependencies
 node_modules/
+astro/node_modules/
 
 # logs
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
-
 
 # environment variables
 .env
@@ -22,3 +22,16 @@ pnpm-debug.log*
 
 # jetbrains setting folder
 .idea/
+
+# Archivos temporales de editores
+*~
+*.swp
+*.swo
+.vscode/settings.json
+
+# Archivos de backup
+*.bak
+*.backup
+
+# Logs generales
+*.log
