@@ -3,30 +3,17 @@ import { defineConfig } from 'astro/config';
 import path from 'path';
 import tailwindcss from '@tailwindcss/vite';
 import mdx from '@astrojs/mdx';
-import rehypeSlug from 'rehype-slug';
-import rehypeAutolinkHeadings from 'rehype-autolink-headings';
 
 // https://astro.build/config
 export default defineConfig({
   integrations: [mdx()],
   
-  // Configuración optimizada de Markdown siguiendo mejores prácticas
+  // Configuración simplificada de Markdown
   markdown: {
     syntaxHighlight: 'prism',
     gfm: true,
     remarkPlugins: [],
-    rehypePlugins: [
-      // Añadir IDs automáticos a los headings para navegación
-      rehypeSlug,
-      // Enlaces automáticos a los headings para mejor UX
-      [rehypeAutolinkHeadings, { 
-        behavior: 'wrap',
-        properties: {
-          className: ['anchor-link'],
-          ariaLabel: 'Link directo a esta sección'
-        }
-      }]
-    ],
+    rehypePlugins: [],
   },
   
   vite: {

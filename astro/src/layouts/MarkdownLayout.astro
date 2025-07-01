@@ -2,8 +2,8 @@
 import Icon from '../components/ui/Icon.astro';
 
 export interface Props {
-  title: string;
-  description?: string;
+  titulo: string;
+  descripcion?: string;
   collection: string;
   headings: any[];
   tags?: string[];
@@ -11,7 +11,7 @@ export interface Props {
   carpeta: string;
 }
 
-const { title, description, collection, headings, tags, fecha, carpeta } = Astro.props;
+const { titulo, descripcion, collection, headings, tags, fecha, carpeta } = Astro.props;
 
 // Filtrar headings para TOC (solo h2 y h3 para mejor UX)
 const tocHeadings = headings.filter(h => h.depth >= 2 && h.depth <= 3);
@@ -28,11 +28,11 @@ const tocHeadings = headings.filter(h => h.depth >= 2 && h.depth <= 3);
     </div>
     
     <h1 class="font-sans text-3xl md:text-4xl lg:text-5xl font-bold mb-4 leading-tight text-military-800">
-      {title}
+      {titulo}
     </h1>
     
-    {description && (
-      <p class="text-xl text-military-600 leading-relaxed mb-4">{description}</p>
+    {descripcion && (
+      <p class="text-xl text-military-600 leading-relaxed mb-4">{descripcion}</p>
     )}
     
     <!-- Metadatos con iconografía consistente -->

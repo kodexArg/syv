@@ -24,7 +24,7 @@ export async function getStaticPaths() {
         paths.push({
           params: { 
             collection: collectionName,
-            slug: entry.slug 
+            slug: entry.id 
           },
           props: { entry }
         });
@@ -63,8 +63,8 @@ const collectionName = collectionDisplayNames[Astro.params.collection as keyof t
   currentPath={Astro.url.pathname}
 >
   <MarkdownLayout 
-    title={entry.data.titulo}
-    description={entry.data.descripcion}
+    titulo={entry.data.titulo}
+    descripcion={entry.data.descripcion}
     collection={collectionName}
     headings={headings}
     tags={entry.data.tags}
