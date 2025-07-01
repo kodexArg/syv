@@ -1,6 +1,6 @@
 ---
 titulo: Microcentro
-title:Microcentro
+title: Microcentro
 carpeta: 2_atlas/ciudades/darsena
 descripcion: "El bullicioso centro administrativo y comercial de Ciudad Dársena, un hervidero de burocracia, comercio y espionaje."
 tags:

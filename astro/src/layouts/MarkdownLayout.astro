@@ -1,0 +1,116 @@
+---
+import Icon from '../components/ui/Icon.astro';
+
+export interface Props {
+  title: string;
+  description?: string;
+  collection: string;
+  headings: any[];
+  tags?: string[];
+  fecha?: Date;
+  carpeta: string;
+}
+
+const { title, description, collection, headings, tags, fecha, carpeta } = Astro.props;
+
+// Filtrar headings para TOC (solo h2 y h3 para mejor UX)
+const tocHeadings = headings.filter(h => h.depth >= 2 && h.depth <= 3);
+---
+
+<article class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+  <!-- Header del documento con metadatos siguiendo diseño existente -->
+  <header class="mb-8 pb-6 border-b border-military-200">
+    <div class="mb-3">
+      <span class="inline-flex items-center px-3 py-1 rounded-full text-sm font-medium bg-olive-100 text-olive-800">
+        <Icon name="folder-solid" size="sm" class="mr-1" />
+        {collection}
+      </span>
+    </div>
+    
+    <h1 class="font-sans text-3xl md:text-4xl lg:text-5xl font-bold mb-4 leading-tight text-military-800">
+      {title}
+    </h1>
+    
+    {description && (
+      <p class="text-xl text-military-600 leading-relaxed mb-4">{description}</p>
+    )}
+    
+    <!-- Metadatos con iconografía consistente -->
+    <div class="flex flex-wrap gap-4 text-sm text-military-500">
+      <div class="flex items-center">
+        <Icon name="folder-solid" size="sm" class="mr-1" />
+        <span class="font-medium">Carpeta:</span>
+        <span class="ml-1">{carpeta}</span>
+      </div>
+      
+      {fecha && (
+        <div class="flex items-center">
+          <svg class="h-4 w-4 mr-1" fill="currentColor" viewBox="0 0 20 20">
+            <path fill-rule="evenodd" d="M6 2a1 1 0 00-1 1v1H4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-1V3a1 1 0 10-2 0v1H7V3a1 1 0 00-1-1zm0 5a1 1 0 000 2h8a1 1 0 100-2H6z" clip-rule="evenodd"></path>
+          </svg>
+          <span class="font-medium">Fecha:</span>
+          <span class="ml-1">{fecha.toLocaleDateString('es-AR')}</span>
+        </div>
+      )}
+      
+      {tags && tags.length > 0 && (
+        <div class="flex items-center flex-wrap gap-1">
+          <svg class="h-4 w-4 mr-1" fill="currentColor" viewBox="0 0 20 20">
+            <path fill-rule="evenodd" d="M17.707 9.293a1 1 0 010 1.414l-7 7a1 1 0 01-1.414 0l-7-7A.997.997 0 012 10V5a3 3 0 013-3h5c.256 0 .512.098.707.293l7 7zM5 6a1 1 0 100-2 1 1 0 000 2z" clip-rule="evenodd"></path>
+          </svg>
+          <span class="font-medium">Etiquetas:</span>
+          {tags.map(tag => (
+            <span class="px-2 py-1 text-xs rounded bg-sage-100 text-sage-700 ml-1">{tag}</span>
+          ))}
+        </div>
+      )}
+    </div>
+  </header>
+
+  <div class="grid grid-cols-1 xl:grid-cols-4 gap-8">
+    <!-- Contenido principal con tipografía optimizada -->
+    <main class="xl:col-span-3">
+      <div class="prose prose-lg prose-military max-w-none
+                  prose-headings:font-sans prose-headings:text-military-800
+                  prose-p:text-military-700 prose-p:leading-relaxed
+                  prose-a:text-olive-600 prose-a:decoration-olive-300
+                  hover:prose-a:text-olive-700 hover:prose-a:decoration-olive-500
+                  prose-strong:text-military-800
+                  prose-code:px-2 prose-code:py-1 prose-code:rounded prose-code:text-sm 
+                  prose-code:bg-military-100 prose-code:text-military-800
+                  prose-blockquote:border-l-olive-400 prose-blockquote:bg-sage-50 
+                  prose-blockquote:text-military-600">
+        <slot />
+      </div>
+    </main>
+    
+    <!-- Tabla de contenidos sticky -->
+    {tocHeadings.length > 0 && (
+      <aside class="xl:col-span-1">
+        <div class="sticky top-20">
+          <nav class="bg-stone-50 border border-military-200 rounded-lg p-4">
+            <h3 class="text-sm font-semibold mb-3 text-military-800 border-b border-military-200 pb-2">
+              En esta página
+            </h3>
+            <ul class="space-y-1">
+              {tocHeadings.map(heading => (
+                <li>
+                  <a 
+                    href={`#${heading.slug}`}
+                    class={`block text-sm py-1 transition-colors duration-150 hover:text-military-800 ${
+                      heading.depth === 2 
+                        ? 'text-military-600 font-medium' 
+                        : 'text-military-500 ml-3'
+                    }`}
+                  >
+                    {heading.text}
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </nav>
+        </div>
+      </aside>
+    )}
+  </div>
+</article> 

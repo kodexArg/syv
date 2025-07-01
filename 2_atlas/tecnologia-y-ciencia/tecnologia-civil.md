@@ -1,6 +1,6 @@
 ---
 titulo: Tecnología Civil
-title:Tecnología Civil
+title: Tecnología Civil
 carpeta: 2_atlas/tecnologia-y-ciencia
 descripcion: Detalla tecnologías de uso civil como el transporte público y los sistemas de purificación de agua.
 tags:

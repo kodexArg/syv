@@ -52,6 +52,30 @@ body {
   @apply font-serif bg-stone-50 text-military-800 leading-relaxed;
 }
 
+/* Estilos para anchor links generados por rehype-autolink-headings */
+.anchor-link {
+  @apply text-olive-600 decoration-transparent hover:decoration-olive-400 transition-colors duration-200;
+}
+
+/* Estilos mejorados para prose en contenido markdown */
+.prose-military {
+  --tw-prose-body: theme(colors.military.700);
+  --tw-prose-headings: theme(colors.military.800);
+  --tw-prose-links: theme(colors.olive.600);
+  --tw-prose-bold: theme(colors.military.800);
+  --tw-prose-counters: theme(colors.military.600);
+  --tw-prose-bullets: theme(colors.olive.400);
+  --tw-prose-hr: theme(colors.military.200);
+  --tw-prose-quotes: theme(colors.military.600);
+  --tw-prose-quote-borders: theme(colors.olive.400);
+  --tw-prose-captions: theme(colors.military.500);
+  --tw-prose-code: theme(colors.military.800);
+  --tw-prose-pre-code: theme(colors.military.100);
+  --tw-prose-pre-bg: theme(colors.military.900);
+  --tw-prose-th-borders: theme(colors.military.200);
+  --tw-prose-td-borders: theme(colors.military.200);
+}
+
 /* Títulos usando clases de utilidad generadas automáticamente */
 h1 {
   @apply font-sans text-3xl md:text-4xl lg:text-5xl font-bold mb-6 leading-tight text-military-800;

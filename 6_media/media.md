@@ -1,6 +1,6 @@
 ---
 titulo: Media
-title:Media
+title: Media
 carpeta: 6_media
 descripcion: Recursos multimedia, imágenes, música y arte del universo SyV.
 tags:

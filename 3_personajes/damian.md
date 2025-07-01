@@ -1,6 +1,6 @@
 ---
 titulo: "Damián 'El Sabueso' DiConte"
-title:"Damián 'El Sabueso' DiConte"
+title: "Damián 'El Sabueso' DiConte"
 carpeta: "3_personajes/principales"
 descripcion: "Detective veterano de la Dirección Nacional de Seguridad, cuya investigación sobre una serie de crímenes lo traslada de Córdoba a Dársena."
 tags:

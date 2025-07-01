@@ -1,6 +1,6 @@
 ---
 titulo: Dr. Francisco de la Cruz
-title:Dr. Francisco de la Cruz
+title: Dr. Francisco de la Cruz
 carpeta: 3_personajes/principales
 descripcion: Líder de los Guardianes de la Memoria y figura clave en la red de los Arpistas, un académico brillante cuya obsesión por el conocimiento prohibido lo ha llevado a jugar un peligroso juego de doble filo.
 tags:

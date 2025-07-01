@@ -1,86 +1,69 @@
 ---
-import { readdir, stat } from 'fs/promises';
-import { join, extname, basename } from 'path';
+import { getCollection } from 'astro:content';
+import Icon from '../../components/ui/Icon.astro';
 
-interface FileItem {
-  type: 'file';
-  name: string;
-  path: string;
-  fullPath: string;
-}
-
-interface FolderItem {
-  type: 'folder';
-  name: string;
-  path: string;
-  children: NavigationItem[];
-}
-
-type NavigationItem = FileItem | FolderItem;
-
-async function scanMarkdownFiles(basePath: string, currentPath: string = ''): Promise<NavigationItem[]> {
-  try {
-    const fullPath = join(basePath, currentPath);
-    const items = await readdir(fullPath);
-    const result: NavigationItem[] = [];
-
-    for (const item of items) {
-      const itemPath = join(fullPath, item);
-      const itemStat = await stat(itemPath);
-      
-      if (itemStat.isDirectory()) {
-        const subItems: NavigationItem[] = await scanMarkdownFiles(basePath, join(currentPath, item));
-        if (subItems.length > 0) {
-          result.push({
-            type: 'folder',
-            name: item,
-            path: join(currentPath, item),
-            children: subItems
-          });
-        }
-      } else if (extname(item) === '.md') {
-        const name = basename(item, '.md');
-        result.push({
-          type: 'file',
-          name: name,
-          path: join(currentPath, item),
-          fullPath: itemPath
-        });
-      }
-    }
-
-    return result.sort((a, b) => {
-      if (a.type !== b.type) {
-        return a.type === 'folder' ? -1 : 1;
-      }
-      return a.name.localeCompare(b.name, 'es', { numeric: true });
-    });
-  } catch (error) {
-    console.warn(`No se pudo acceder a la carpeta: ${basePath}/${currentPath}`);
-    return [];
-  }
-}
-
-const folders = [
-  { path: '../0_proyecto', name: 'Proyecto', alias: '@proyecto' },
-  { path: '../1_trasfondo', name: 'Trasfondo', alias: '@trasfondo' },
-  { path: '../2_atlas', name: 'Atlas', alias: '@atlas' },
-  { path: '../3_personajes', name: 'Personajes', alias: '@personajes' },
-  { path: '../4_diegesis', name: 'Diégesis', alias: '@diegesis' },
-  { path: '../5_aventuras', name: 'Aventuras', alias: '@aventuras' },
-  { path: '../6_media', name: 'Media', alias: '@media' },
+// Configuración de las colecciones con iconos y nombres de display
+const collectionsConfig = [
+  { key: 'proyecto', name: 'Proyecto', icon: 'folder' },
+  { key: 'trasfondo', name: 'Trasfondo', icon: 'book' },
+  { key: 'atlas', name: 'Atlas', icon: 'map' },
+  { key: 'personajes', name: 'Personajes', icon: 'users' },
+  { key: 'diegesis', name: 'Diégesis', icon: 'document' },
+  { key: 'aventuras', name: 'Aventuras', icon: 'lightning' },
+  { key: 'media', name: 'Media', icon: 'photo' }
 ];
 
-const navigationStructure = [];
-for (const folder of folders) {
-  const items = await scanMarkdownFiles(folder.path);
-  if (items.length > 0) {
-    navigationStructure.push({
-      ...folder,
-      children: items
+// Función para organizar entradas por carpetas
+function organizeByFolders(entries: any[]) {
+  const organized: Record<string, any[]> = {};
+  
+  for (const entry of entries) {
+    const pathParts = entry.slug.split('/');
+    const folder = pathParts.length > 1 ? pathParts[0] : '_root';
+    
+    if (!organized[folder]) {
+      organized[folder] = [];
+    }
+    
+    organized[folder].push({
+      ...entry,
+      displayName: entry.data.titulo || entry.slug.split('/').pop(),
+      url: `/docs/${entry.collection}/${entry.slug}`,
+      description: entry.data.descripcion
     });
   }
+  
+  // Ordenar entradas dentro de cada carpeta por nombre
+  for (const folder in organized) {
+    organized[folder].sort((a, b) => 
+      a.displayName.localeCompare(b.displayName, 'es', { numeric: true })
+    );
+  }
+  
+  return organized;
 }
+
+// Cargar y organizar todas las colecciones
+const navigationStructure = [];
+
+for (const config of collectionsConfig) {
+  try {
+    const entries = await getCollection(config.key);
+    
+    if (entries.length > 0) {
+      const organized = organizeByFolders(entries);
+      
+      navigationStructure.push({
+        ...config,
+        organized
+      });
+    }
+  } catch (error) {
+    console.warn(`No se pudo cargar la colección: ${config.key}`, error);
+  }
+}
+
+
 ---
 
 <div 
@@ -102,49 +85,34 @@ for (const folder of folders) {
       {navigationStructure.map((section) => (
         <div class="mb-4">
           <h3 class="text-sm font-medium mb-2 flex items-center text-military-800">
-            <svg class="h-4 w-4 mr-2 text-olive-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2H5a2 2 0 00-2-2z"></path>
-              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 5a2 2 0 012-2h2a2 2 0 012 2v0M8 5a2 2 0 000 4h8a2 2 0 000-4M8 5v0"></path>
-            </svg>
+            <Icon name={section.icon} class="mr-2 text-olive-600" />
             {section.name}
           </h3>
           
           <div class="ml-4 space-y-1">
-            {section.children.map((item) => (
+            {Object.entries(section.organized).map(([folderName, items]) => (
               <div>
-                {item.type === 'folder' ? (
-                  <div class="mb-2">
-                    <div class="text-sm font-medium flex items-center text-military-700">
-                      <svg class="h-3 w-3 mr-1 text-sage-500" fill="currentColor" viewBox="0 0 20 20">
-                        <path d="M2 6a2 2 0 012-2h5l2 2h5a2 2 0 012 2v6a2 2 0 01-2 2H4a2 2 0 01-2-2V6z"></path>
-                      </svg>
-                      {item.name}
-                    </div>
-                    <div class="ml-4 mt-1 space-y-1">
-                      {item.children.map((child) => (
-                        <a 
-                          href={`/docs/${section.alias.replace('@', '')}/${child.path.replace('.md', '').replace(/\\/g, '/')}`}
-                          class="block text-sm px-2 py-1 rounded text-military-600 hover:text-military-800 hover:bg-military-50 transition-colors duration-150"
-                        >
-                          <svg class="h-3 w-3 mr-1 inline text-sage-400" fill="currentColor" viewBox="0 0 20 20">
-                            <path fill-rule="evenodd" d="M4 4a2 2 0 012-2h4.586A2 2 0 0112 2.586L15.414 6A2 2 0 0116 7.414V16a2 2 0 01-2 2H6a2 2 0 01-2-2V4zm2 6a1 1 0 011-1h6a1 1 0 110 2H7a1 1 0 01-1-1zm1 3a1 1 0 100 2h6a1 1 0 100-2H7z" clip-rule="evenodd"></path>
-                          </svg>
-                          {child.name}
-                        </a>
-                      ))}
-                    </div>
+                {folderName !== '_root' && (
+                  <div class="text-xs font-medium text-military-600 mb-2 flex items-center">
+                    <Icon name="folder-solid" size="sm" class="mr-1 text-sage-500" />
+                    {folderName}
                   </div>
-                ) : (
-                  <a 
-                    href={`/docs/${section.alias.replace('@', '')}/${item.path.replace('.md', '').replace(/\\/g, '/')}`}
-                    class="block text-sm px-2 py-1 rounded text-military-600 hover:text-military-800 hover:bg-military-50 transition-colors duration-150"
-                  >
-                    <svg class="h-3 w-3 mr-1 inline text-sage-400" fill="currentColor" viewBox="0 0 20 20">
-                      <path fill-rule="evenodd" d="M4 4a2 2 0 012-2h4.586A2 2 0 0112 2.586L15.414 6A2 2 0 0116 7.414V16a2 2 0 01-2 2H6a2 2 0 01-2-2V4zm2 6a1 1 0 011-1h6a1 1 0 110 2H7a1 1 0 01-1-1zm1 3a1 1 0 100 2h6a1 1 0 100-2H7z" clip-rule="evenodd"></path>
-                    </svg>
-                    {item.name}
-                  </a>
                 )}
+                
+                <div class={folderName !== '_root' ? 'ml-4 space-y-1' : 'space-y-1'}>
+                  {items.map(item => (
+                    <a 
+                      href={item.url}
+                      class="block text-sm px-2 py-2 rounded text-military-600 hover:text-military-800 hover:bg-military-50 transition-colors duration-150 group"
+                      title={item.description}
+                    >
+                      <div class="flex items-start">
+                        <Icon name="document-solid" size="sm" class="mr-2 mt-0.5 text-sage-400 group-hover:text-sage-600 transition-colors" />
+                        <span class="break-words">{item.displayName}</span>
+                      </div>
+                    </a>
+                  ))}
+                </div>
               </div>
             ))}
           </div>

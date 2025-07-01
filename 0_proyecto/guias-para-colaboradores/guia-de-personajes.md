@@ -1,6 +1,6 @@
 ---
 titulo: Guía de Creación de Personajes
-title:Guía de Creación de Personajes
+title: Guía de Creación de Personajes
 carpeta: 0_proyecto/guias-para-colaboradores
 descripcion: Estándares y directrices para la creación y documentación de personajes en el universo SyV.
 tags:
@@ -41,7 +41,7 @@ Además de los campos obligatorios (`titulo`, `carpeta`, `descripcion`) definido
 ```yaml
 ---
 titulo: "Inquisidora Sofía"
-title:Guía de Creación de Personajes
+title: "Inquisidora Sofía"
 carpeta: 3_personajes/principales
 descripcion: "Joven y serena inquisidora que sirve como primer contacto de la Iglesia con agentes externos en Dársena."
 tags:

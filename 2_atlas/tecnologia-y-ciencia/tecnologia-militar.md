@@ -1,6 +1,6 @@
 ---
 titulo: Tecnología Militar
-title:Tecnología Militar
+title: Tecnología Militar
 carpeta: 2_atlas/tecnologia-y-ciencia
 descripcion: Describe el armamento avanzado utilizado por las fuerzas armadas y la SIA en la Confederación Argentina.
 tags:

@@ -1,6 +1,6 @@
 ---
 titulo: Diegesis
-title:Diegesis
+title: Diegesis
 carpeta: 4_diegesis
 descripcion: Relatos, crónicas, cartas y diarios ficticios del universo SyV.
 tags:

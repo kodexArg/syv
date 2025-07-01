@@ -1,6 +1,6 @@
 ---
 titulo: Electricidad y Energía
-title:Electricidad y Energía
+title: Electricidad y Energía
 carpeta: 2_atlas/tecnologia-y-ciencia
 descripcion: Descripción del sistema eléctrico, la generación de energía y las baterías en Ciudad Dársena.
 tags:

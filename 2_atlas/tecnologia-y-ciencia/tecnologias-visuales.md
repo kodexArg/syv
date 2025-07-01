@@ -1,6 +1,6 @@
 ---
 titulo: Tecnologías Visuales
-title:Tecnologías Visuales
+title: Tecnologías Visuales
 carpeta: 2_atlas/tecnologia-y-ciencia
 descripcion: Describe las tecnologías de visualización como pantallas de plasma, holoproyectores y visión nocturna.
 tags:

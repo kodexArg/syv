@@ -1,6 +1,6 @@
 ---
 titulo: Computación y Datos
-title:Computación y Datos
+title: Computación y Datos
 carpeta: 2_atlas/tecnologia-y-ciencia
 descripcion: Descripción de los sistemas de computación, PDAs y la gestión de la seguridad de datos en Ciudad Dársena.
 tags:

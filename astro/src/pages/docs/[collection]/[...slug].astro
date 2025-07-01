@@ -1,0 +1,76 @@
+---
+import { getCollection, type CollectionEntry } from 'astro:content';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import MarkdownLayout from '../../../layouts/MarkdownLayout.astro';
+
+// Definir tipos para mejor TypeScript
+type Props = {
+  entry: CollectionEntry<'proyecto' | 'trasfondo' | 'atlas' | 'personajes' | 'diegesis' | 'aventuras' | 'media'>;
+}
+
+// Generar todas las rutas estáticamente en build-time
+export async function getStaticPaths() {
+  const collections = ['proyecto', 'trasfondo', 'atlas', 'personajes', 'diegesis', 'aventuras', 'media'] as const;
+  const paths: Array<{
+    params: { collection: string; slug: string };
+    props: Props;
+  }> = [];
+
+  for (const collectionName of collections) {
+    try {
+      const entries = await getCollection(collectionName);
+      
+      for (const entry of entries) {
+        paths.push({
+          params: { 
+            collection: collectionName,
+            slug: entry.slug 
+          },
+          props: { entry }
+        });
+      }
+    } catch (error) {
+      console.warn(`No se pudo cargar la colección: ${collectionName}`, error);
+    }
+  }
+
+  return paths;
+}
+
+// Recibir la entrada como prop
+const { entry } = Astro.props;
+
+// Renderizar el contenido markdown
+const { Content, headings } = await entry.render();
+
+// Mapeo de nombres de colecciones para display
+const collectionDisplayNames = {
+  'proyecto': 'Proyecto',
+  'trasfondo': 'Trasfondo', 
+  'atlas': 'Atlas',
+  'personajes': 'Personajes',
+  'diegesis': 'Diégesis',
+  'aventuras': 'Aventuras',
+  'media': 'Media'
+} as const;
+
+const collectionName = collectionDisplayNames[Astro.params.collection as keyof typeof collectionDisplayNames] || Astro.params.collection;
+---
+
+<BaseLayout 
+  title={entry.data.titulo}
+  description={entry.data.descripcion}
+  currentPath={Astro.url.pathname}
+>
+  <MarkdownLayout 
+    title={entry.data.titulo}
+    description={entry.data.descripcion}
+    collection={collectionName}
+    headings={headings}
+    tags={entry.data.tags}
+    fecha={entry.data.fecha}
+    carpeta={entry.data.carpeta}
+  >
+    <Content />
+  </MarkdownLayout>
+</BaseLayout> 
