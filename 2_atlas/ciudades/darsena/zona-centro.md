@@ -1,14 +1,12 @@
 ---
 titulo: Zona Centro
-title:Zona Centro
 carpeta: 2_atlas/ciudades/darsena
-descripcion: "El corazón productivo y educativo de Ciudad Dársena, donde la tecnología de supervivencia y el conocimiento regulado definen la vida diaria."
+descripcion: El distrito central administrativo y gubernamental de Ciudad Dársena.
 tags:
 - darsena
-- zona-centro
-- agricultura
-- educacion
-- tecnologia
+- centro
+- administrativo
+- atlas
 ---
 
 # Zona Centro

@@ -1,13 +1,12 @@
 ---
 titulo: Electricidad y Energía
-title: Electricidad y Energía
 carpeta: 2_atlas/tecnologia-y-ciencia
-descripcion: Descripción del sistema eléctrico, la generación de energía y las baterías en Ciudad Dársena.
+descripcion: Sistemas de generación, distribución y uso de energía eléctrica en el mundo post-Anatema Mecánico.
 tags:
-- darsena
 - electricidad
 - energia
 - tecnologia
+- atlas
 ---
 
 # Electricidad y Energía

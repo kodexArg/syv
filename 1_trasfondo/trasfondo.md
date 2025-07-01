@@ -1,6 +1,5 @@
 ---
 titulo: Trasfondo
-title: Trasfondo
 carpeta: 1_trasfondo
 descripcion: Historia, leyes, cosmovisión y conceptos clave del universo SyV.
 tags:

@@ -1,6 +1,6 @@
 ---
 titulo: La Santa Inquisición Argentina (SIA)
-title:La Santa Inquisición Argentina (SIA)
+title: La Santa Inquisición Argentina (SIA)
 carpeta: 1_trasfondo/facciones/iglesia-de-darsena
 descripcion: Conocidos como "Los Cirujanos del Alma", la SIA es el brazo más temido, secreto y poderoso de la Iglesia en la Confederación, dedicado a erradicar la herejía y los saberes prohibidos con una autoridad que trasciende las leyes seculares.
 tags:

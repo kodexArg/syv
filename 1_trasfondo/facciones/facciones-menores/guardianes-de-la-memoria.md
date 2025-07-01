@@ -1,6 +1,6 @@
 ---
 titulo: Guardianes de la Memoria
-title:Guardianes de la Memoria
+title: Guardianes de la Memoria
 carpeta: 1_trasfondo/facciones/facciones-menores
 descripcion: Club elitista y secreto de Ciudad Dársena, cuyos miembros -aristócratas y académicos en su mayoría- coleccionan y resguardan conocimiento prohibido, sin medir las consecuencias.
 tags:

@@ -1,13 +1,12 @@
 ---
 titulo: Las Tuberías
-title:Las Tuberías
 carpeta: 2_atlas/ciudades/darsena
-descripcion: Descripción detallada de Las Tuberías, la red subterránea de túneles y la sociedad clandestina que habita bajo Ciudad Dársena.
+descripcion: El laberinto subterráneo de túneles y conductos bajo Ciudad Dársena, hogar de los marginados y refugiados.
 tags:
 - darsena
+- tuberias
 - subterraneo
-- facciones-proscritas
-- mercado-negro
+- atlas
 ---
 
 # Las Tuberías

@@ -1,8 +1,7 @@
 ---
 titulo: Arpistas
-title:Arpistas
-descripcion: Red internacional y proscrita de buscadores de conocimiento, tecnología y tesoros ocultos, expertos en inutilizar tecnología peligrosa antes de preservarla. Operan en círculos académicos y son perseguidos ferozmente en Dársena.
 carpeta: 1_trasfondo/facciones/facciones-menores
+descripcion: Red internacional y proscrita de buscadores de conocimiento, tecnología y tesoros ocultos, expertos en inutilizar tecnología peligrosa antes de preservarla. Operan en círculos académicos y son perseguidos ferozmente en Dársena.
 tags:
 - faccion
 - proscrita

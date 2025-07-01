@@ -1,12 +1,12 @@
 ---
-metadatos:
-  titulo: "Cronología"
-  subtitulo: "Historia del mundo desde la perspectiva de Ciudad Dársena (2178)"
-  descripcion: "Cronología completa del colapso del mundo antiguo y la formación de la Confederación Argentina"
-  tema: "trasfondo/cronologia"
-  fecha: "2178"
-  autor: "Hermano Archivista Pedro de los Santos, Archivo de la Iglesia de Dársena"
-  fuentes: ["Archivo de la Iglesia de Dársena", "Documentos del Cabildo Confederado", "Testimonios de supervivientes", "Artefactos arqueológicos pre-Anatema"]
+titulo: Cronología
+carpeta: 1_trasfondo/cronologia
+descripcion: Cronología completa del colapso del mundo antiguo y la formación de la Confederación Argentina.
+tags:
+- cronologia
+- historia
+- darsena
+- argentina
 ---
 
 # Cronología

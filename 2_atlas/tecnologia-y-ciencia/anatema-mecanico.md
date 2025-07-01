@@ -1,14 +1,12 @@
 ---
 titulo: Ciencia y Tecnología bajo el Anatema Mecánico
-title: Ciencia y Tecnología bajo el Anatema Mecánico
 carpeta: 2_atlas/tecnologia-y-ciencia
-descripcion: Detalla el nivel tecnológico permitido en la Confederación Argentina, las restricciones impuestas por el 'Anatema Mecánico' y las soluciones analógicas desarrolladas.
+descripcion: El estado de la ciencia y la tecnología en un mundo que ha rechazado las máquinas pensantes.
 tags:
-- tecnologia
-- lore
+- anatema-mecanico
 - ciencia
-- anatema mecanico
-- iglesia
+- tecnologia
+- atlas
 ---
 
 # Ciencia y Tecnología en 2178

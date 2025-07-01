@@ -1,14 +1,12 @@
 ---
 titulo: Fuera del Muro
-title:Fuera del Muro
 carpeta: 2_atlas/ciudades/darsena
-descripcion: "Las tierras indómitas y peligrosas que se extienden más allá de las murallas de Ciudad Dársena."
+descripcion: Las tierras y asentamientos que existen más allá del gran muro protector de Ciudad Dársena.
 tags:
 - darsena
 - fuera-del-muro
-- yermo
-- peligro
-- facciones
+- asentamientos
+- atlas
 ---
 
 # Fuera del Muro

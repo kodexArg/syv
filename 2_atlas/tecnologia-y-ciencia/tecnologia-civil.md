@@ -1,13 +1,11 @@
 ---
 titulo: Tecnología Civil
-title: Tecnología Civil
 carpeta: 2_atlas/tecnologia-y-ciencia
-descripcion: Detalla tecnologías de uso civil como el transporte público y los sistemas de purificación de agua.
+descripcion: Tecnologías civiles permitidas y utilizadas en la Confederación Argentina bajo el Anatema Mecánico.
 tags:
-- darsena
 - tecnologia
-- transporte
-- agua
+- civil
+- atlas
 ---
 
 # Tecnología Civil

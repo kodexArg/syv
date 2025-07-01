@@ -1,14 +1,12 @@
 ---
 titulo: República Autónoma de Córdoba
-title: República Autónoma de Córdoba
 carpeta: 2_atlas/ciudades
-descripcion: Descripción detallada de la megalópolis de Córdoba en 2178, el corazón industrial y militar de la Confederación Argentina.
+descripcion: La poderosa ciudad-estado del interior argentino, rival histórica de Ciudad Dársena en poder político y militar.
 tags:
-- ciudad-estado
 - cordoba
-- confederacion-argentina
-- videla-iv
-- ejercito
+- ciudad-estado
+- confederacion
+- atlas
 ---
 
 # República Autónoma de Córdoba

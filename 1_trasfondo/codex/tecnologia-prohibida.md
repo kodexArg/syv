@@ -1,14 +1,14 @@
 ---
 titulo: Herejía Tecnológica y Conocimiento Prohibido
-title: Herejía Tecnológica y Conocimiento Prohibido
 carpeta: 1_trasfondo/codex
-descripcion: Detalla las prohibiciones de la Iglesia y la Sagrada Inquisición Argentina (SIA) sobre la ciencia y la tecnología.
+descripcion: Prohibiciones de la Iglesia y la Sagrada Inquisición Argentina (SIA) sobre la ciencia y la tecnología.
 tags:
+- anatema-mecanico
 - sia
 - iglesia
-- prohibiciones
 - tecnologia
 - herejia
+- codex
 ---
 
 # Herejía Tecnológica y Conocimiento Prohibido

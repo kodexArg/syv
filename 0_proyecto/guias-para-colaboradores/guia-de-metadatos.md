@@ -1,6 +1,5 @@
 ---
 titulo: Guía de Metadatos para archivos Markdown
-title: Guía de Metadatos para archivos Markdown
 carpeta: 0_proyecto/guias-para-colaboradores
 descripcion: Instrucciones y ejemplos para el uso correcto de metadatos en los archivos .md del proyecto SyV.
 tags:
@@ -13,6 +12,8 @@ tags:
 # Guía de Metadatos para archivos `.md` en SyV
 
 Esta guía explica el formato **único y correcto** de metadatos (front matter YAML) que deben tener todos los archivos Markdown del proyecto "Subordinación y Valor".
+
+**IMPORTANTE**: Mantener el estándar YAML en el frontmatter incluye respetar el espacio luego de dos puntos.
 
 - El bloque de metadatos es obligatorio.
 - Debe ir al inicio del archivo, delimitado por líneas `---`.
@@ -47,7 +48,6 @@ Esta guía explica el formato **único y correcto** de metadatos (front matter Y
 ```yaml
 ---
 titulo: Año 2031: El Año del Cráter
-title: Año 2031: El Año del Cráter
 carpeta: 1_trasfondo/cronologia/2030-2039
 descripcion: El año en que Argentina se convirtió en un mosaico de territorios en guerra, las primeras ciudades-estado independientes del mundo, una zona de exclusión donde antes estuvo la capital, napas contaminadas y mapas redibujados mensualmente.
 tags:
@@ -62,7 +62,6 @@ region: Argentina
 ```yaml
 ---
 titulo: Atlas
-title: Atlas
 carpeta: 2_atlas
 descripcion: Geografía, mapas y aspectos físicos del universo.
 ---

@@ -1,14 +1,12 @@
 ---
 titulo: Zona Residencial de Alta Sociedad (Barrios del Norte)
-title:Zona Residencial de Alta Sociedad (Barrios del Norte)
 carpeta: 2_atlas/ciudades/darsena
-descripcion: "El opulento y fortificado distrito de la élite de Ciudad Dársena, un mundo de lujo y poder aislado de la dura realidad de la ciudad."
+descripcion: Los barrios exclusivos de la élite darsenense, ubicados en el norte de la ciudad.
 tags:
 - darsena
-- barrios-del-norte
+- barrios-norte
 - elite
-- lujo
-- poder
+- atlas
 ---
 
 # Zona Residencial de Alta Sociedad (Barrios del Norte)

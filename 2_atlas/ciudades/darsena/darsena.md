@@ -1,16 +1,13 @@
 ---
 titulo: Ciudad Dársena
-title: Ciudad Dársena
 carpeta: 2_atlas/ciudades/darsena
-descripcion: "Ciudad Dársena es la capital de la Confederación Argentina, una metrópolis amurallada de cinco millones de almas que se erige como un bastión de orden, fe y poder naval en un mundo post-apocalíptico."
+descripcion: Capital de facto de la Confederación Argentina, centro político, religioso y comercial del nuevo mundo post-Anatema.
 tags:
 - darsena
-- ciudad-principal
 - capital
-- confederacion-argentina
-- iglesia
-- armada
-- sia
+- confederacion
+- atlas
+region: Argentina, Ciudad Dársena
 ---
 
 # Ciudad Dársena

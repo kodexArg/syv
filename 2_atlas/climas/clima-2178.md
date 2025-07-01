@@ -1,14 +1,13 @@
 ---
 titulo: El Clima en 2178 - La Nube Roja y la Niebla Perpetua
-title: El Clima en 2178 - La Nube Roja y la Niebla Perpetua
 carpeta: 2_atlas/climas
-descripcion: Descripción del régimen climático de la Confederación, el impacto de la 'Nube Roja' y las condiciones meteorológicas específicas de Dársena, Córdoba y la región de Cuyo.
+descripcion: Descripción del clima global y regional en el año 2178, incluyendo los fenómenos climáticos característicos de la época.
 tags:
 - clima
-- lore
-- darsena
-- geografia
-- ambientacion
+- 2178
+- nube-roja
+- niebla
+- atlas
 ---
 
 # El Clima en la Confederación Argentina (2178)

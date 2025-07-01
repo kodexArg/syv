@@ -1,6 +1,6 @@
 ---
 titulo: Fuerzas Armadas de la Confederación
-title:Fuerzas Armadas de la Confederación
+title: Fuerzas Armadas de la Confederación
 carpeta: 1_trasfondo/facciones/fuerzas-armadas
 descripcion: La estructura de defensa y seguridad de la Confederación Argentina, un pilar del régimen que combina el poder militar tradicional con un omnipresente aparato de seguridad interna.
 tags:

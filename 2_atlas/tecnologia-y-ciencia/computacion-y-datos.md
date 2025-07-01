@@ -1,15 +1,14 @@
 ---
 titulo: Computación y Datos
-title: Computación y Datos
 carpeta: 2_atlas/tecnologia-y-ciencia
-descripcion: Descripción de los sistemas de computación, PDAs y la gestión de la seguridad de datos en Ciudad Dársena.
+descripcion: Estado de la computación y el manejo de datos en el mundo post-Anatema Mecánico, incluyendo las restricciones, alternativas permitidas y métodos de almacenamiento de información.
 tags:
-- darsena
-- computacion
-- pda
-- datos
 - tecnologia
-- sia
+- computacion
+- datos
+- anatema-mecanico
+- almacenamiento
+- informacion
 ---
 
 # Computación y Gestión de Datos

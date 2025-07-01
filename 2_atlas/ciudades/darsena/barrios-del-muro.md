@@ -1,14 +1,12 @@
 ---
 titulo: Barrios del Muro
-title:Barrios del Muro
 carpeta: 2_atlas/ciudades/darsena
-descripcion: "Los distritos más pobres y superpoblados de Ciudad Dársena, un hervidero de descontento, crimen y resistencia que se agolpa contra las murallas."
+descripcion: Los barrios populares y trabajadores de Ciudad Dársena, ubicados junto al gran muro que protege la ciudad.
 tags:
 - darsena
-- barrios-del-muro
-- pobreza
-- resistencia
-- mercado-negro
+- barrios
+- muro
+- atlas
 ---
 
 # Barrios del Muro

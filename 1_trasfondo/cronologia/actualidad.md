@@ -1,6 +1,5 @@
 ---
 titulo: Mundo en 2178
-title: Mundo en 2178
 carpeta: 1_trasfondo/cronologia
 descripcion: Situación geopolítica y social del mundo en el año 2178.
 tags:

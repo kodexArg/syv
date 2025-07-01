@@ -1,15 +1,13 @@
 ---
 titulo: Zona Militar y Eclesiástica (Isla Oriental)
-title:Zona Militar y Eclesiástica (Isla Oriental)
 carpeta: 2_atlas/ciudades/darsena
-descripcion: "El centro de poder de Ciudad Dársena, donde el Comando Nacional y la Iglesia imponen su autoridad."
+descripcion: El distrito fortificado que alberga las instituciones militares y religiosas más importantes de la Confederación.
 tags:
 - darsena
-- zona-militar
-- zona-eclesiastica
-- isla-oriental
-- comando-nacional
-- sia
+- militar
+- eclesiastica
+- isla
+- atlas
 ---
 
 # Zona Militar y Eclesiástica (Isla Oriental)

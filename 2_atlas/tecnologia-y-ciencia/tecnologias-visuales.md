@@ -1,14 +1,11 @@
 ---
 titulo: Tecnologías Visuales
-title: Tecnologías Visuales
 carpeta: 2_atlas/tecnologia-y-ciencia
-descripcion: Describe las tecnologías de visualización como pantallas de plasma, holoproyectores y visión nocturna.
+descripcion: Tecnologías visuales disponibles en el universo de Subordinación y Valor, desde proyectores mecánicos hasta sistemas de comunicación visual permitidos bajo el Anatema Mecánico.
 tags:
-- darsena
 - tecnologia
-- plasma
-- holograma
-- vision-nocturna
+- visual
+- atlas
 ---
 
 # Tecnologías Visuales
