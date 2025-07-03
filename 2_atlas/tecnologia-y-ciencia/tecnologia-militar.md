@@ -4,8 +4,6 @@ carpeta: 2_atlas/tecnologia-y-ciencia
 descripcion: Armamento y tecnologías militares de la Confederación Argentina.
 tags:
 - tecnologia
-- militar
-- confederacion
 - atlas
 ---
 

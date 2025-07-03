@@ -1,12 +1,8 @@
 ---
 titulo: El Clima en 2178 - La Nube Roja y la Niebla Perpetua
 carpeta: 2_atlas/climas
-descripcion: Descripción del clima global y regional en el año 2178, incluyendo los fenómenos climáticos característicos de la época.
+descripcion: Descripción del clima global y regional en el año 2178.
 tags:
-- clima
-- 2178
-- nube-roja
-- niebla
 - atlas
 ---
 

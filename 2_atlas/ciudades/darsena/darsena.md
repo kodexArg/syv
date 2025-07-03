@@ -1,11 +1,9 @@
 ---
 titulo: Ciudad Dársena
 carpeta: 2_atlas/ciudades/darsena
-descripcion: Capital de facto de la Confederación Argentina, centro político, religioso y comercial del nuevo mundo post-Anatema.
+descripcion: Capital de facto de la Confederación Argentina, centro político, religioso y comercial.
 tags:
 - darsena
-- capital
-- confederacion
 - atlas
 region: Argentina, Ciudad Dársena
 ---

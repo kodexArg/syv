@@ -1,10 +1,9 @@
 ---
 titulo: Tecnologías Visuales
 carpeta: 2_atlas/tecnologia-y-ciencia
-descripcion: Tecnologías visuales disponibles en el universo de Subordinación y Valor, desde proyectores mecánicos hasta sistemas de comunicación visual permitidos bajo el Anatema Mecánico.
+descripcion: Tecnologías visuales permitidas bajo el Anatema Mecánico.
 tags:
 - tecnologia
-- visual
 - atlas
 ---
 

@@ -1,12 +1,9 @@
 ---
 titulo: Zona Militar y Eclesiástica (Isla Oriental)
 carpeta: 2_atlas/ciudades/darsena
-descripcion: El distrito fortificado que alberga las instituciones militares y religiosas más importantes de la Confederación.
+descripcion: Distrito fortificado con instituciones militares y religiosas de la Confederación.
 tags:
 - darsena
-- militar
-- eclesiastica
-- isla
 - atlas
 ---
 

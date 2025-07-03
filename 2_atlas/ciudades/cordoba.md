@@ -1,7 +1,7 @@
 ---
 titulo: República Autónoma de Córdoba
 carpeta: 2_atlas/ciudades
-descripcion: La poderosa ciudad-estado del interior argentino, rival histórica de Ciudad Dársena en poder político y militar.
+descripcion: Ciudad-estado industrial, rival histórica de Dársena y pilar de la Confederación Argentina.
 tags:
 - cordoba
 - ciudad-estado

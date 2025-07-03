@@ -4,7 +4,6 @@ carpeta: 2_atlas/tecnologia-y-ciencia
 descripcion: Tecnologías civiles permitidas y utilizadas en la Confederación Argentina bajo el Anatema Mecánico.
 tags:
 - tecnologia
-- civil
 - atlas
 ---
 

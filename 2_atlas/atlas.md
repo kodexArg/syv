@@ -5,7 +5,7 @@ descripcion: Geografía, mapas y aspectos físicos del universo.
 tags:
 - atlas
 - geografia
-- mapas
+- mapa
 ---
 
 # Atlas

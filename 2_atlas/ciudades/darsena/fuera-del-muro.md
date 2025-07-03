@@ -1,11 +1,9 @@
 ---
 titulo: Fuera del Muro
 carpeta: 2_atlas/ciudades/darsena
-descripcion: Las tierras y asentamientos que existen más allá del gran muro protector de Ciudad Dársena.
+descripcion: Tierras y asentamientos más allá del muro de Ciudad Dársena.
 tags:
 - darsena
-- fuera-del-muro
-- asentamientos
 - atlas
 ---
 

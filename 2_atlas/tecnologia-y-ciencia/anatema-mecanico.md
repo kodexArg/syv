@@ -1,11 +1,9 @@
 ---
 titulo: Ciencia y Tecnología bajo el Anatema Mecánico
 carpeta: 2_atlas/tecnologia-y-ciencia
-descripcion: El estado de la ciencia y la tecnología en un mundo que ha rechazado las máquinas pensantes.
+descripcion: Estado de la ciencia y la tecnología bajo el Anatema Mecánico.
 tags:
 - anatema-mecanico
-- ciencia
-- tecnologia
 - atlas
 ---
 

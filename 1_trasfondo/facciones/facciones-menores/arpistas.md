@@ -3,12 +3,7 @@ titulo: Arpistas
 carpeta: 1_trasfondo/facciones/facciones-menores
 descripcion: Red internacional y proscrita de buscadores de conocimiento, tecnología y tesoros ocultos, expertos en inutilizar tecnología peligrosa antes de preservarla. Operan en círculos académicos y son perseguidos ferozmente en Dársena.
 tags:
-- faccion
-- proscrita
 - arpistas
-- conocimiento
-- tecnologia
-- internacional
 ---
 
 Los Arpistas constituyen una red clandestina y descentralizada, distribuida en todo el mundo, dedicada al desarme y la preservación de tecnología antigua.

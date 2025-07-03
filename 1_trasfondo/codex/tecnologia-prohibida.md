@@ -6,9 +6,7 @@ tags:
 - anatema-mecanico
 - sia
 - iglesia
-- tecnologia
 - herejia
-- codex
 ---
 
 # Herejía Tecnológica y Conocimiento Prohibido

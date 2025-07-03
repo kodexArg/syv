@@ -1,14 +1,9 @@
 ---
-titulo: "Hermana Superior María"
-title:"Hermana Superior María"
+titulo: Hermana Superior María
 carpeta: 3_personajes/principales
-descripcion: "Líder de congregación y Campeona de la Iglesia, reconocida por su lucha incansable contra las posesiones demoníacas."
+descripcion: Líder de congregación y Campeona de la Iglesia, reconocida por su lucha incansable contra las posesiones demoníacas.
 tags:
-  - personaje
-  - principal
-  - iglesia
-facciones:
-  - "Iglesia de Dársena"
+- hermana-superior-maria
 ---
 
 ## Aspecto

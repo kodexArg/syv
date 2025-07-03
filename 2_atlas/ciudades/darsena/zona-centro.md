@@ -1,11 +1,9 @@
 ---
 titulo: Zona Centro
 carpeta: 2_atlas/ciudades/darsena
-descripcion: El distrito central administrativo y gubernamental de Ciudad Dársena.
+descripcion: Distrito central administrativo y gubernamental de Ciudad Dársena.
 tags:
 - darsena
-- centro
-- administrativo
 - atlas
 ---
 

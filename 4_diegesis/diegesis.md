@@ -5,10 +5,10 @@ carpeta: 4_diegesis
 descripcion: Relatos, crónicas, cartas y diarios ficticios del universo SyV.
 tags:
 - diegesis
-- relatos
-- cronicas
-- cartas
-- diarios
+- relato
+- cronica
+- carta
+- diario
 ---
 
 # Diégesis

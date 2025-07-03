@@ -1,12 +1,9 @@
 ---
-titulo: "Paco, el puntero"
-title:"Paco, el puntero"
+titulo: Paco el Puntero
 carpeta: 3_personajes/principales
-descripcion: "Carismático líder y protector de una estación en las Tuberías, respetado por su comunidad y con contactos en las altas esferas."
+descripcion: Carismático líder y protector de una estación en las Tuberías.
 tags:
-  - personaje
-  - principal
-  - tuberias
+- paco-el-puntero
 facciones: []
 ---
 

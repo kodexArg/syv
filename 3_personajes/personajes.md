@@ -5,7 +5,6 @@ carpeta: 3_personajes
 descripcion: Índice y guía de los personajes principales, secundarios y arquetipos del universo SyV.
 tags:
 - personajes
-- indice
 - guia
 ---
 

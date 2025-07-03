@@ -1,6 +1,5 @@
 ---
 titulo: Manual del Colaborador
-title: Manual del Colaborador
 carpeta: 0_proyecto/guias-para-colaboradores
 descripcion: Guía esencial para comprender la organización y colaboración en el proyecto SyV.
 tags:

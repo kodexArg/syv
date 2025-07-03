@@ -1,16 +1,9 @@
 ---
-titulo: "Padre Rafa"
-title:"Padre Rafa"
+titulo: Padre Rafa
 carpeta: 3_personajes/principales
-descripcion: "Experimentado exorcista y estudioso que frecuenta los Barrios del Muro, con una apariencia desfachatada que oculta una identidad secreta."
+descripcion: Experimentado exorcista y estudioso que frecuenta los Barrios del Muro.
 tags:
-  - personaje
-  - principal
-  - iglesia
-  - exorcista
-facciones:
-  - "Iglesia de Dársena"
-alerta-spoilers: "Su verdadera identidad y sus objetivos personales son un secreto que no debe revelarse."
+- padre-rafa
 ---
 
 ## Aspecto

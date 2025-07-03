@@ -1,13 +1,12 @@
 ---
 titulo: Artefactos y Pistas
 title:Artefactos y Pistas
-carpeta: 5_aventuras
-descripcion: "Una colección de objetos misteriosos, pistas y ganchos de aventura que pueden encontrarse en el mundo de Dársena y sus alrededores."
+carpeta: 5_aventuras/poseidos
+descripcion: Colección de objetos misteriosos, pistas y ganchos de aventura en Dársena y alrededores.
 tags:
 - aventura
-- pistas
-- artefactos
-- ganchos
+- pista
+- artefacto
 ---
 
 # Artefactos y Pistas

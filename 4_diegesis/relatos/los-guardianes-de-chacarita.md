@@ -2,13 +2,11 @@
 titulo: Los Guardianes de Chacarita
 title:Los Guardianes de Chacarita
 carpeta: 4_diegesis/relatos
-descripcion: "Una historia inconclusa sobre la guarnición militar que custodia el Cementerio de Chacarita y la sociedad secreta que se esconde en su interior, manipulada por una inteligencia artificial."
+descripcion: Historia sobre la guarnición militar que custodia el Cementerio de Chacarita y la sociedad secreta que se esconde en su interior.
 tags:
-- relato-corto
+- relato
 - chacarita
-- luz-silente
-- facciones-secretas
-- ia
+- faccion
 ---
 
 # Los Guardianes de Chacarita

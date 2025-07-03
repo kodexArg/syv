@@ -4,9 +4,6 @@ carpeta: 1_trasfondo/cronologia
 descripcion: Cronología completa del colapso del mundo antiguo y la formación de la Confederación Argentina.
 tags:
 - cronologia
-- historia
-- darsena
-- argentina
 ---
 
 # Cronología

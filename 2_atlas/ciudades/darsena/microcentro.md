@@ -1,11 +1,10 @@
 ---
 titulo: Microcentro
 carpeta: 2_atlas/ciudades/darsena
-descripcion: El corazón comercial y financiero de Ciudad Dársena.
+descripcion: Corazón comercial y financiero de Ciudad Dársena.
 tags:
 - darsena
 - microcentro
-- comercio
 - atlas
 ---
 

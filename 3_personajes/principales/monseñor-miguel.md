@@ -1,17 +1,9 @@
 ---
-titulo: "Monseñor Miguel, el Gran Inquisidor"
-title:"Monseñor Miguel, el Gran Inquisidor"
+titulo: Monseñor Miguel
 carpeta: 3_personajes/principales
-descripcion: "Máxima autoridad de la Santa Inquisición Argentina, un hombre enigmático y temido cuya historia ha sido borrada intencionadamente."
+descripcion: Máxima autoridad de la Santa Inquisición Argentina, un hombre enigmático y temido.
 tags:
-  - personaje
-  - principal
-  - iglesia
-  - inquisicion
-facciones:
-  - "Iglesia de Dársena"
-  - "Santa Inquisición de la Verdad"
-alerta-spoilers: "Su historia y poder son secretos guardados celosamente. No debe ser presentado directamente a los jugadores."
+- monsenor-miguel
 ---
 
 ## Aspecto

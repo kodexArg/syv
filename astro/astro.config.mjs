@@ -10,10 +10,10 @@ export default defineConfig({
   
   // Configuración simplificada de Markdown
   markdown: {
-    syntaxHighlight: 'prism',
-    gfm: true,
-    remarkPlugins: [],
-    rehypePlugins: [],
+    rehypePlugins: [
+      'rehype-slug',
+      'rehype-autolink-headings'
+    ],
   },
   
   vite: {
@@ -29,6 +29,7 @@ export default defineConfig({
         '@aventuras': path.resolve('../5_aventuras'),
         '@media': path.resolve('../6_media'),
         '@root': path.resolve('..'),
+        '@': path.resolve('./src'),
       }
     }
   }

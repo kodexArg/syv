@@ -1,13 +1,12 @@
 ---
-titulo: "Walter"
-title:"Walter"
-carpeta: "3_personajes"
-descripcion: "Fragmento de la juventud de Walter, nadador y explorador de las Tuberías de Dársena."
+titulo: Walter
+carpeta: 4_diegesis/relatos
+descripcion: Fragmento de la juventud de Walter, nadador y explorador de las Tuberías de Dársena.
 tags:
-- "personaje"
-- "darsena"
-- "tuberias"
-- "aventura"
+- relato
+- walter
+- darsena
+- tuberias
 ---
 
 ## Tres años antes

@@ -1,13 +1,13 @@
 ---
-titulo: "Caronte, el balsero fantasma"
-title:"Caronte, el balsero fantasma"
+titulo: Caronte el Balsero Fantasma
 carpeta: 3_personajes/secundarios
-descripcion: "Misterioso balsero ciego que navega los túneles inundados de Las Tuberías, transportando pasajeros y mercancía de contrabando."
+descripcion: Misterioso balsero ciego que navega los túneles inundados de Las Tuberías, transportando pasajeros y mercancía de contrabando.
 tags:
   - personaje
   - secundario
   - tuberias
   - contrabandista
+  - caronte-balsero
 facciones: []
 alerta-spoilers: "Su rol como informante y contrabandista para todas las bandas es un secreto bien guardado."
 ---

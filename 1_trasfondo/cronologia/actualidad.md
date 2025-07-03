@@ -4,9 +4,7 @@ carpeta: 1_trasfondo/cronologia
 descripcion: Situación geopolítica y social del mundo en el año 2178.
 tags:
 - cronologia
-- mundo
-- 2178
-- geopolítica
+- actualidad-2178
 ---
 
 Este documento es un adelanto de hasta dónde se llegará con la cronología, donde en el futuro escribiremos los eventos que transforman el mundo año a año.

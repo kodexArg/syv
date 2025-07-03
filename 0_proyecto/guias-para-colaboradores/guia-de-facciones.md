@@ -1,6 +1,5 @@
 ---
 titulo: Guía de Facciones
-title: Guía de Facciones
 carpeta: 0_proyecto/guias-para-colaboradores
 descripcion: Guía resumida y práctica para documentar facciones en el universo de Subordinación y Valor, con foco en claridad, coherencia y conexión entre grupos.
 tags:

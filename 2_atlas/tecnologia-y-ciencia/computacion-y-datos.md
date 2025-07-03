@@ -9,6 +9,7 @@ tags:
 - anatema-mecanico
 - almacenamiento
 - informacion
+- atlas
 ---
 
 # Computación y Gestión de Datos

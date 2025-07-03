@@ -1,17 +1,9 @@
 ---
-titulo: "Damián 'El Sabueso' DiConte"
-title: "Damián 'El Sabueso' DiConte"
-carpeta: "3_personajes/principales"
-descripcion: "Detective veterano de la Dirección Nacional de Seguridad, cuya investigación sobre una serie de crímenes lo traslada de Córdoba a Dársena."
+titulo: Damián DiConte
+carpeta: 3_personajes/principales
+descripcion: Detective veterano de la Dirección Nacional de Seguridad, cuya investigación lo traslada de Córdoba a Dársena.
 tags:
-  - principal
-  - detective
-  - conspiracion
-  - cordoba
-  - darsena
-facciones:
-  - "Dirección Nacional de Seguridad"
-alerta-spoilers: "La información sobre la conspiración que investiga debe revelarse con extrema discreción."
+- damian-diconte
 ---
 
 ## Descripción

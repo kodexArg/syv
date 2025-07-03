@@ -3,8 +3,6 @@ titulo: Electricidad y Energía
 carpeta: 2_atlas/tecnologia-y-ciencia
 descripcion: Sistemas de generación, distribución y uso de energía eléctrica en el mundo post-Anatema Mecánico.
 tags:
-- electricidad
-- energia
 - tecnologia
 - atlas
 ---

@@ -4,10 +4,6 @@ carpeta: 1_trasfondo/codex
 descripcion: Las diez leyes fundamentales que rigen la vida, la fe y el orden en la Confederación Argentina, con epicentro en Ciudad Dársena.
 tags:
 - constitucion
-- ley
-- codex
-- darsena
-- argentina
 ---
 
 # Constitución Argentina
