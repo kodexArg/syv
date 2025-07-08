@@ -6,6 +6,8 @@ import mdx from '@astrojs/mdx';
 
 // https://astro.build/config
 export default defineConfig({
+  site: 'https://kodexArg.github.io/syv',
+  base: '/syv/',
   integrations: [mdx()],
   
   // Configuración simplificada de Markdown
