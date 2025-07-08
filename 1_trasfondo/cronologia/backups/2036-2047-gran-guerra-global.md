@@ -1,6 +1,5 @@
 ---
 titulo: Gran Guerra Global (2036-2047)
-title:Gran Guerra Global (2036-2047)
 carpeta: 1_trasfondo/cronologia
 descripcion: Cronología de los doce años de guerra mundial que siguieron al Estallido de diciembre 2035, en un mundo ya marcado por la devastación del meteorito de Buenos Aires.
 tags:

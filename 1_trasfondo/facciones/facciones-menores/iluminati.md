@@ -1,6 +1,5 @@
 ---
 titulo: Iluminati
-title:Iluminati
 carpeta: 1_trasfondo/facciones/facciones-menores
 descripcion: Una facción mítica y conspirativa que supuestamente manipula los hilos del poder en Dársena. Su existencia es más un rumor que una realidad, pero el miedo a su influencia es un arma en sí misma.
 tags:

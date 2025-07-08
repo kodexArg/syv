@@ -1,6 +1,5 @@
 ---
 titulo: "Carlos Giménez, Médico"
-title:"Carlos Giménez, Médico"
 carpeta: 3_personajes/secundarios
 descripcion: "Médico de emergencias comprometido pero técnicamente mediocre, que ha notado un patrón alarmante de pacientes con agotamiento del sueño."
 tags:

@@ -1,5 +1,4 @@
 ---
-title: Marta, la curandera
 tags:
   - personaje
   - secundario

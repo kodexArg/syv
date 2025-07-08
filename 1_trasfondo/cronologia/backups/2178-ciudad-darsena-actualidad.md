@@ -1,6 +1,5 @@
 ---
 titulo: Ciudad Dársena - Actualidad (2178)
-title:Ciudad Dársena - Actualidad (2178)
 carpeta: 1_trasfondo/cronologia
 descripcion: El presente de Ciudad Dársena y la Confederación Argentina en el año 2178, epicentro de las historias y aventuras del universo.
 tags:

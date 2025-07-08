@@ -1,5 +1,4 @@
 ---
-title: Sor Nikole, La Hermana de la Caridad
 tags:
   - personaje
   - secundario

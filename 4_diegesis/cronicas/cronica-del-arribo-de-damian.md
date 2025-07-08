@@ -1,6 +1,5 @@
 ---
 titulo: Crónica del arribo de Damián
-title:"Crónica del arribo de Damián"
 carpeta: "4_diegesis/cronicas"
 descripcion: "Relato del arribo de Damián a Dársena y su primer encuentro con la Inquisición, incluyendo a Sofía y el gran inquisidor Miguel. Historia inconclusa y central en el universo SyV."
 tags:

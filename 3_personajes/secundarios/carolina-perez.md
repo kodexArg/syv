@@ -1,6 +1,5 @@
 ---
 titulo: "Carolina Pérez, Costurera"
-title:"Carolina Pérez, Costurera"
 carpeta: 3_personajes/secundarios
 descripcion: "Costurera con un pequeño taller en los Barrios del Muro, que descubre un diario crucial sobre el culto de 'El Soñador'."
 tags:

@@ -1,5 +1,4 @@
 ---
-title: Mariana, artista torturada
 tags:
   - personaje
   - secundario

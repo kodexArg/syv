@@ -1,6 +1,5 @@
 ---
 titulo: Proyecto
-title: Proyecto
 carpeta: 0_proyecto
 descripcion: Organización, estructura y documentación general del proyecto SyV.
 tags:

@@ -1,6 +1,5 @@
 ---
 titulo: "Hermana Laura Castillo, Enfermera"
-title:"Hermana Laura Castillo, Enfermera"
 carpeta: 3_personajes/secundarios
 descripcion: "Enfermera experimentada y miembro de los Curatores, dedicada a ayudar en las clínicas comunitarias de los barrios bajos."
 tags:

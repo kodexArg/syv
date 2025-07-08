@@ -1,6 +1,5 @@
 ---
 titulo: El Fin de los Secretos (2048-2061)
-title:El Fin de los Secretos (2048-2061)
 carpeta: 1_trasfondo/cronologia
 descripcion: Cronología del período de dominación de las Inteligencias Artificiales Cuánticas y el establecimiento del Anatema Mecánico, en un mundo que ya cargaba con la herida del meteorito de Buenos Aires.
 tags:

@@ -1,6 +1,5 @@
 ---
 titulo: Shipibo-Conibo
-title:Shipibo-Conibo
 carpeta: 1_trasfondo/facciones/facciones-menores
 descripcion: Comunidad de sabios chamanes amazónicos que viven ocultos en las Tuberías de Dársena, preservando sus conocimientos ancestrales sobre botánica y el mundo espiritual.
 tags:

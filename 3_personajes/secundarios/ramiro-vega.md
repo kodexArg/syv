@@ -1,6 +1,5 @@
 ---
 titulo: "Ramiro Vega, Artífice Restaurador"
-title:"Ramiro Vega, Artífice Restaurador"
 carpeta: 3_personajes/secundarios
 descripcion: "Técnico electrónico que regenta un negocio en el centro y que, en secreto, espía para los Criptógrafos."
 tags:

@@ -1,6 +1,5 @@
 ---
 titulo: "Natalia Campos, Reportera"
-title:"Natalia Campos, Reportera"
 carpeta: 3_personajes/secundarios
 descripcion: "Reportera novata de un periódico local, que busca la verdad detrás de los rumores a pesar de su inexperiencia."
 tags:

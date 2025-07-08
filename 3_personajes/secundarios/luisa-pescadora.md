@@ -1,5 +1,4 @@
 ---
-title: Luisa, pescadora
 tags:
   - personaje
   - secundario

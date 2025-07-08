@@ -1,6 +1,5 @@
 ---
 titulo: "Diego Herrera, Comisario General"
-title:"Diego Herrera, Comisario General"
 carpeta: 3_personajes/secundarios
 descripcion: "Jefe corrupto del Departamento de Investigaciones Paranormales, obsesionado con la inspectora Sofía Ríos y la caza de subversivos."
 tags:

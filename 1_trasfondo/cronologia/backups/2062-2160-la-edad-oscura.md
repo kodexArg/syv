@@ -1,6 +1,5 @@
 ---
 titulo: La Edad Oscura (2062-2160)
-title:La Edad Oscura (2062-2160)
 carpeta: 1_trasfondo/cronologia
 descripcion: Cronología del período medieval post-tecnológico, cuando la humanidad rechazó los procesadores y vivió bajo el Anatema Mecánico en un mundo marcado por el cráter de Buenos Aires.
 tags:

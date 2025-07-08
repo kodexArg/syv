@@ -1,6 +1,5 @@
 ---
 titulo: Años del Caos (2029-2035)
-title:Años del Caos (2029-2035)
 carpeta: 1_trasfondo/cronologia
 descripcion: Cronología de los años de violencia global, reestructuración laboral por la IA, hambrunas, colapso democrático y el meteorito de Buenos Aires que precedió al estallido de la Gran Guerra en diciembre de 2035.
 tags:

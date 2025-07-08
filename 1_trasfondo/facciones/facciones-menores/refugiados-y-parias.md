@@ -1,6 +1,5 @@
 ---
 titulo: Refugiados y Parias
-title:Refugiados y Parias
 carpeta: 1_trasfondo/facciones/facciones-menores
 descripcion: La masa anónima de individuos sin estatus legal que sobreviven en los márgenes de Dársena, desde los Barrios del Muro hasta las Tuberías, en una lucha constante contra el hambre y las autoridades.
 tags:

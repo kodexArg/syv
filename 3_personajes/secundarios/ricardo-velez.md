@@ -1,6 +1,5 @@
 ---
 titulo: "Ricardo Vélez, Historiador"
-title:"Ricardo Vélez, Historiador"
 carpeta: 3_personajes/secundarios
 descripcion: "Historiador que imparte clases particulares sobre la verdadera historia de Dársena para preservar la memoria colectiva."
 tags:

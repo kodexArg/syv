@@ -1,6 +1,5 @@
 ---
 titulo: "Padre Alejandro Soria"
-title:"Padre Alejandro Soria"
 carpeta: 3_personajes/secundarios
 descripcion: "Un médico que sirve como sacerdote en un hospital eclesiástico, pero cuya verdadera fe está en la medicina, no en Dios."
 tags:

@@ -1,6 +1,5 @@
 ---
 titulo: Resistencia Subterránea
-title:Resistencia Subterránea
 carpeta: 1_trasfondo/facciones/facciones-menores
 descripcion: Células anarquistas que se oponen activamente al régimen de Dársena, utilizando los subterráneos de la ciudad como base para sus operaciones de sabotaje y agitación.
 tags:

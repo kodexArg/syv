@@ -1,6 +1,5 @@
 ---
 titulo: "Sor Sofía"
-title:"Sor Sofía"
 carpeta: 3_personajes/secundarios
 descripcion: "Monja de la Congregación de la Caridad Divina que investiga extraños sucesos en los barrios bajos de Dársena."
 tags:

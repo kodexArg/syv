@@ -1,6 +1,5 @@
 ---
 titulo: Guardianes de Chacarita
-title:Guardianes de Chacarita
 carpeta: 5_aventuras/poseidos
 descripcion: Descripción de la facción de los Guardianes del Cementerio de Chacarita, sus miembros, su liderazgo y sus secretos.
 tags:

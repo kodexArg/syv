@@ -1,6 +1,5 @@
 ---
 titulo: "Alberto Gómez, Ferretero del centro"
-title:"Alberto Gómez, Ferretero del centro"
 carpeta: 3_personajes/secundarios
 descripcion: "Encargado de una ferretería en el centro, que oculta la muerte del dueño para mantener el negocio a flote."
 tags:

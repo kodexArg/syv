@@ -1,6 +1,5 @@
 ---
 titulo: "Gabriela Lima, Artista Callejera"
-title:"Gabriela Lima, Artista Callejera"
 carpeta: 3_personajes/secundarios
 descripcion: "Artista callejera cuyos murales en los Barrios del Muro narran historias de resistencia y esperanza."
 tags:

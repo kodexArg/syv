@@ -1,5 +1,4 @@
 ---
-title: Cintia Herrera, criptógrafa
 tags:
   - personaje
   - secundario

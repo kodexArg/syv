@@ -1,5 +1,4 @@
 ---
-title: El “Ingeniero”
 tags:
   - personaje
   - secundario

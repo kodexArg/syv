@@ -1,6 +1,5 @@
 ---
 titulo: Línea del tiempo
-title:Línea del tiempo
 carpeta: 1_trasfondo/cronologia
 descripcion: Cronología detallada de los eventos del Gran Colapso y la fragmentación de Argentina y el mundo.
 tags:

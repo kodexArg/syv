@@ -1,6 +1,5 @@
 ---
 titulo: Masones
-title:Masones
 carpeta: 1_trasfondo/facciones/facciones-menores
 descripcion: Una antigua hermandad que opera en la más estricta clandestinidad en Dársena, dedicada a proteger y preservar el conocimiento y la cultura del mundo pre-colapso.
 tags:

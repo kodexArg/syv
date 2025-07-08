@@ -1,6 +1,5 @@
 ---
 titulo: Traficantes de Almas
-title:Traficantes de Almas
 carpeta: 1_trasfondo/facciones/facciones-menores
 descripcion: Una red criminal descentralizada que se dedica a la trata de personas en Dársena, explotando a los más desfavorecidos para venderlos como mano de obra no registrada o para fines ilícitos.
 tags:

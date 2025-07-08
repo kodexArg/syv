@@ -1,6 +1,5 @@
 ---
 titulo: "Agente Luis Navarro"
-title:"Agente Luis Navarro"
 carpeta: 3_personajes/secundarios
 descripcion: "Operativo de campo de Seguridad Urbana, especializado en seguimiento y vigilancia."
 tags:

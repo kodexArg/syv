@@ -40,7 +40,6 @@ Además de los campos obligatorios (`titulo`, `carpeta`, `descripcion`) definido
 ```yaml
 ---
 titulo: "Inquisidora Sofía"
-title: "Inquisidora Sofía"
 carpeta: 3_personajes/principales
 descripcion: "Joven y serena inquisidora que sirve como primer contacto de la Iglesia con agentes externos en Dársena."
 tags:

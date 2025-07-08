@@ -1,5 +1,4 @@
 ---
-title: Mateo
 tags:
   - personaje
   - secundario

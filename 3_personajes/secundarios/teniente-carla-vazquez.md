@@ -1,6 +1,5 @@
 ---
 titulo: "Teniente Carla Vázquez"
-title:"Teniente Carla Vázquez"
 carpeta: 3_personajes/secundarios
 descripcion: "Analista del Departamento de Contrainteligencia de la Dirección de Seguridad Nacional."
 tags:

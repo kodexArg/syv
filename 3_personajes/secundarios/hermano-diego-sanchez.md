@@ -1,6 +1,5 @@
 ---
 titulo: "Hermano Diego Sánchez, Monaguillo"
-title:"Hermano Diego Sánchez, Monaguillo"
 carpeta: 3_personajes/secundarios
 descripcion: "Joven monaguillo de la Basílica de San Pedro, cuyo carisma y belleza ocultan una búsqueda personal de la fe verdadera."
 tags:

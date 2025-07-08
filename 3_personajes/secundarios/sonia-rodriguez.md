@@ -1,6 +1,5 @@
 ---
 titulo: "Sonia Rodríguez, Cocinera y Dueña"
-title:"Sonia Rodríguez, Cocinera y Dueña"
 carpeta: 3_personajes/secundarios
 descripcion: "Dueña de una pequeña cantina en los Barrios del Muro, que sirve como fachada para sus actividades de apoyo a la Resistencia."
 tags:

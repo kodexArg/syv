@@ -1,5 +1,4 @@
 ---
-title: Eduardo, vendedor de libros
 tags:
   - personaje
   - secundario

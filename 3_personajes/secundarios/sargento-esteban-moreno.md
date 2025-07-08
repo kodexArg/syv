@@ -1,5 +1,4 @@
 ---
-title: Sargento Esteban Moreno
 tags:
   - personaje
   - secundario

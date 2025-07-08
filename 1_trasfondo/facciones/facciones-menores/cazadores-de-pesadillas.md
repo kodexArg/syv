@@ -1,6 +1,5 @@
 ---
 titulo: Cazadores de Pesadillas
-title:Cazadores de Pesadillas
 carpeta: 1_trasfondo/facciones/facciones-menores
 descripcion: Grupo de élite de guerreros guaraníes que protegen a la comunidad Shipibo-Conibo en las Tuberías de Dársena, utilizando tácticas de guerrilla y el miedo como sus principales armas.
 tags:

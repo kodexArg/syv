@@ -1,5 +1,4 @@
 ---
-title: Joaquín, sacerdote
 tags:
   - personaje
   - secundario

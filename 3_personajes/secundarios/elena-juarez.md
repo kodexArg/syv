@@ -1,6 +1,5 @@
 ---
 titulo: "Elena Juárez, Maestra residencial"
-title:"Elena Juárez, Maestra residencial"
 carpeta: 3_personajes/secundarios
 descripcion: "Maestra que trabaja tanto en los barrios ricos como con niños de los Barrios del Muro, y que secretamente lucha contra la influencia de la Iglesia."
 tags:

@@ -1,6 +1,5 @@
 ---
 titulo: "Juan, El Coleccionista de Ecos"
-title:"Juan, El Coleccionista de Ecos"
 carpeta: 3_personajes/secundarios
 descripcion: "Un enigmático mercader de las Tuberías, conocido por su habilidad para desentrañar la historia oculta en objetos extraños."
 tags:

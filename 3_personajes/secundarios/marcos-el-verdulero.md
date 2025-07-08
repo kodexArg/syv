@@ -1,5 +1,4 @@
 ---
-title: Marcos, el verdulero
 tags:
   - personaje
   - secundario

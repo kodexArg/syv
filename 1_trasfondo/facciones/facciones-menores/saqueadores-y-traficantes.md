@@ -1,6 +1,5 @@
 ---
 titulo: Saqueadores y Traficantes
-title:Saqueadores y Traficantes
 carpeta: 1_trasfondo/facciones/facciones-menores
 descripcion: Grupos de arqueólogos proscritos y traficantes de antigüedades que operan en las ruinas de Dársena, en una carrera contra la Sagrada Inquisición por encontrar y vender los secretos del pasado.
 tags:

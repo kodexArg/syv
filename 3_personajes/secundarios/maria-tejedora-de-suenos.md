@@ -1,5 +1,4 @@
 ---
-title: María, tejedora de sueños
 tags:
   - personaje
   - secundario

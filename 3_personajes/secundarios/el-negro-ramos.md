@@ -1,5 +1,4 @@
 ---
-title: El Negro Ramos
 tags:
   - personaje
   - secundario
