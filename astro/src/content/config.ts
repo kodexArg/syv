@@ -12,9 +12,51 @@ const simpleSchema = z.object({
 export const collections = {
   'proyecto': defineCollection({
     loader: glob({ 
-      pattern: 'proyecto.md',
+      pattern: '**/*.md',
       base: '../0_proyecto' 
     }),
     schema: simpleSchema,
   }),
-}; 
+  'trasfondo': defineCollection({
+    loader: glob({
+      pattern: '**/*.md',
+      base: '../1_trasfondo'
+    }),
+    schema: simpleSchema,
+  }),
+  'atlas': defineCollection({
+    loader: glob({
+      pattern: '**/*.md',
+      base: '../2_atlas'
+    }),
+    schema: simpleSchema,
+  }),
+  'personajes': defineCollection({
+    loader: glob({
+      pattern: '**/*.md',
+      base: '../3_personajes'
+    }),
+    schema: simpleSchema,
+  }),
+  'diegesis': defineCollection({
+    loader: glob({
+      pattern: '**/*.md',
+      base: '../4_diegesis'
+    }),
+    schema: simpleSchema,
+  }),
+  'aventuras': defineCollection({
+    loader: glob({
+      pattern: '**/*.md',
+      base: '../5_aventuras'
+    }),
+    schema: simpleSchema,
+  }),
+  'media': defineCollection({
+    loader: glob({
+      pattern: '**/*.md',
+      base: '../6_media'
+    }),
+    schema: simpleSchema,
+  }),
+};
