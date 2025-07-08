@@ -1,4 +1,7 @@
 ---
+titulo: "Eduardo, vendedor de libros"
+carpeta: "3_personajes/secundarios"
+descripcion: "Comerciante de libros prohibidos y figura clave en la red de conocimiento clandestino."
 tags:
   - personaje
   - secundario

@@ -1,4 +1,7 @@
 ---
+titulo: "Luisa, pescadora"
+carpeta: "3_personajes/secundarios"
+descripcion: "Trabajadora portuaria y madre, marcada por la lucha y la esperanza en las Tuberías."
 tags:
   - personaje
   - secundario

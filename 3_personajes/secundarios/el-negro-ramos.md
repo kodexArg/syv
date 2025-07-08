@@ -1,4 +1,7 @@
 ---
+titulo: "El Negro Ramos"
+carpeta: "3_personajes/secundarios"
+descripcion: "Guardián misterioso de las Tuberías, ex-soldado y protector de los vulnerables."
 tags:
   - personaje
   - secundario

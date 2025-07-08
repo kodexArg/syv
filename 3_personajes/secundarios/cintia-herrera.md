@@ -1,4 +1,7 @@
 ---
+titulo: "Cintia Herrera, criptógrafa"
+carpeta: "3_personajes/secundarios"
+descripcion: "Criptógrafa de Seguridad Nacional, experta en fenómenos paranormales y operaciones encubiertas."
 tags:
   - personaje
   - secundario

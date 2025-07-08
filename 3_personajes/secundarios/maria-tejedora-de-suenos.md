@@ -1,4 +1,7 @@
 ---
+titulo: "María, tejedora de sueños"
+carpeta: "3_personajes/secundarios"
+descripcion: "Tejedora y tarotista etérea, entrelaza magia y protección en cada prenda de las Tuberías."
 tags:
   - personaje
   - secundario

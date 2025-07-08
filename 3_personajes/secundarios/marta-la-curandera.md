@@ -1,4 +1,7 @@
 ---
+titulo: "Marta, la curandera"
+carpeta: "3_personajes/secundarios"
+descripcion: "Sanadora de las Tuberías, mezcla de sabiduría antigua y misterio, famosa por sus remedios milagrosos."
 tags:
   - personaje
   - secundario

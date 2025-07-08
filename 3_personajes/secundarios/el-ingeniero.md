@@ -1,4 +1,7 @@
 ---
+titulo: "El Ingeniero"
+carpeta: "3_personajes/secundarios"
+descripcion: "Maestro de las máquinas en las Tuberías, exiliado por sus experimentos controversiales."
 tags:
   - personaje
   - secundario

@@ -1,4 +1,7 @@
 ---
+titulo: "Marcos, el Verdulero"
+carpeta: "3_personajes/secundarios"
+descripcion: "Verdulero fornido y carismático, conocido por su fuerza y calidez en las Tuberías."
 tags:
   - personaje
   - secundario

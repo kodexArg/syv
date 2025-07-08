@@ -1,4 +1,7 @@
 ---
+titulo: "Mateo"
+carpeta: "3_personajes/secundarios"
+descripcion: "Niño poseído, escuálido y atormentado, símbolo de la vulnerabilidad en las Tuberías."
 tags:
   - personaje
   - secundario

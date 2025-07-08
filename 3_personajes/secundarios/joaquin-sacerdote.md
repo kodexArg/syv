@@ -1,4 +1,7 @@
 ---
+titulo: "Joaquín, sacerdote"
+carpeta: "3_personajes/secundarios"
+descripcion: "Sacerdote joven, sereno y compasivo, con fuerte determinación y fe."
 tags:
   - personaje
   - secundario

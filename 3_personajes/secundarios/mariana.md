@@ -1,4 +1,7 @@
 ---
+titulo: "Mariana, artista torturada"
+carpeta: "3_personajes/secundarios"
+descripcion: "Joven artista torturada, marcada por la fragilidad y la obsesión en las Tuberías."
 tags:
   - personaje
   - secundario

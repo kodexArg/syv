@@ -1,4 +1,7 @@
 ---
+titulo: "Sargento Esteban Moreno"
+carpeta: "3_personajes/secundarios"
+descripcion: "Sargento a cargo de la guarnición del Cementerio de Chacarita y líder de la Orden de los Guardianes."
 tags:
   - personaje
   - secundario

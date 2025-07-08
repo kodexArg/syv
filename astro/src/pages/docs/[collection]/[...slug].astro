@@ -11,30 +11,21 @@ type Props = {
 // Generar todas las rutas estáticamente en build-time
 export async function getStaticPaths() {
   const collections = ['proyecto', 'trasfondo', 'atlas', 'personajes', 'diegesis', 'aventuras', 'media'] as const;
-  const paths: Array<{
-    params: { collection: string; slug: string };
-    props: Props;
-  }> = [];
-
-  for (const collectionName of collections) {
-    try {
-      const entries = await getCollection(collectionName);
-      
-      for (const entry of entries) {
-        paths.push({
-          params: { 
-            collection: collectionName,
-            slug: entry.id 
-          },
-          props: { entry }
-        });
-      }
-    } catch (error) {
-      console.warn(`No se pudo cargar la colección: ${collectionName}`, error);
-    }
-  }
-
-  return paths;
+  return (
+    await Promise.all(
+      collections.map(async (collectionName) => {
+        try {
+          const entries = await getCollection(collectionName);
+          return entries.map((entry) => ({
+            params: { collection: collectionName, slug: entry.id },
+            props: { entry },
+          }));
+        } catch {
+          return [];
+        }
+      })
+    )
+  ).flat();
 }
 
 // Recibir la entrada como prop

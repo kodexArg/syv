@@ -6,6 +6,12 @@ const simpleSchema = z.object({
   titulo: z.string(),
   carpeta: z.string(),
   descripcion: z.string(),
+  tags: z.array(z.string()).optional(),
+  region: z.string().optional(),
+  fecha: z.string().optional(),
+  nombre: z.string().optional(),
+  facciones: z.array(z.string()).optional(),
+  alerta_spoiler: z.string().optional(),
 }).passthrough();
 
 // Solo una colección para testing

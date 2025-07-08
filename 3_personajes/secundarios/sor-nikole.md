@@ -1,4 +1,7 @@
 ---
+titulo: "Sor Nikole, La Hermana de la Caridad"
+carpeta: "3_personajes/secundarios"
+descripcion: "Joven hermana de la caridad, mezcla de modernidad y tradición, siempre cansada y marcada por la vida en las Tuberías."
 tags:
   - personaje
   - secundario
