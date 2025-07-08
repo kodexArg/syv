@@ -40,3 +40,11 @@ npm run preview      # Previsualiza la build localmente
 - **Sitio web**: El código de Astro está en la carpeta `astro/`
 - **Guías**: Las guías para colaboradores están en `0_proyecto/guias-para-colaboradores/`
 
+
+### Despliegue en GitHub Pages
+
+El repositorio incluye un _workflow_ de GitHub Actions en `.github/workflows/deploy.yml` que construye el sitio desde `astro/` y lo publica automaticamente en GitHub Pages.
+
+1. Asegúrate de que la opción **Pages** del repositorio esté configurada para utilizar *GitHub Actions*.
+2. Al hacer _push_ a las ramas `work` o `main` se generará la carpeta `dist/` y se desplegará en `https://kodexArg.github.io/syv/`.
+
