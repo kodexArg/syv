@@ -1,6 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;1,400&family=Source+Sans+3:wght@300;400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;1,400&family=Source+Sans+3:wght@300;400;500;600&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
 
 @import "tailwindcss";
+@plugin "@tailwindcss/typography";
 
 @theme {
   --color-military-50: #f6f7f4;
@@ -40,7 +41,8 @@
   --color-sage-950: #1c1d1a;
 
   --font-serif: 'Crimson Text', Georgia, 'Times New Roman', serif;
-  --font-sans: 'Source Sans 3', Inter, 'system-ui', 'sans-serif';
+  --font-sans: 'Source Sans 3', 'Ubuntu', Inter, 'system-ui', 'sans-serif';
+  --font-ubuntu: 'Ubuntu', 'Source Sans 3', Inter, 'system-ui', 'sans-serif';
   --font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace;
 }
 
@@ -49,12 +51,32 @@
     @apply font-serif bg-stone-50 text-military-800 leading-relaxed;
   }
 
-  h1, h2, h3, h4, h5, h6 {
-    @apply font-sans;
+  h1 {
+    @apply font-sans text-4xl font-bold text-military-900 mb-6 mt-8 leading-tight tracking-tight;
+  }
+
+  h2 {
+    @apply font-sans text-3xl font-semibold text-military-800 mb-4 mt-8 leading-tight border-b border-military-200 pb-2;
+  }
+
+  h3 {
+    @apply font-sans text-2xl font-medium text-military-800 mb-3 mt-6 leading-snug;
+  }
+
+  h4 {
+    @apply font-sans text-xl font-medium text-military-700 mb-2 mt-4 leading-snug;
+  }
+
+  h5 {
+    @apply font-sans text-lg font-medium text-military-700 mb-2 mt-3;
+  }
+
+  h6 {
+    @apply font-sans text-base font-medium text-military-600 mb-2 mt-3 uppercase tracking-wide;
   }
 
   p {
-    @apply text-lg;
+    @apply text-lg leading-relaxed mb-4 text-military-700;
   }
 
   a {
@@ -78,7 +100,11 @@
   }
 
   blockquote {
-    @apply pl-6 py-2 my-6 italic rounded-r-lg border-l-4 border-olive-400 bg-sage-50 text-military-600;
+    @apply pl-6 py-4 my-6 italic rounded-r-lg border-l-4 border-olive-400 bg-sage-50 text-military-600 text-lg font-serif leading-relaxed;
+  }
+  
+  blockquote p {
+    @apply mb-0 last:mb-0;
   }
 
   code {
@@ -123,7 +149,8 @@
     @apply text-olive-600 decoration-transparent hover:decoration-olive-400 transition-colors duration-200;
   }
 
-  .prose-military {
+  .prose-content {
+    @apply prose prose-lg max-w-none;
     --tw-prose-body: var(--color-military-700);
     --tw-prose-headings: var(--color-military-800);
     --tw-prose-links: var(--color-olive-600);
@@ -139,6 +166,8 @@
     --tw-prose-pre-bg: var(--color-military-900);
     --tw-prose-th-borders: var(--color-military-200);
     --tw-prose-td-borders: var(--color-military-200);
+    --tw-prose-invert-body: var(--color-military-200);
+    --tw-prose-invert-headings: white;
   }
 
   .navbar {
