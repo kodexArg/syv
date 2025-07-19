@@ -177,25 +177,25 @@
     @apply font-sans bg-stone-50 border-r border-military-200 fixed left-0 top-12 w-80 h-[calc(100vh-3rem)] -translate-x-80 transition-transform duration-300 z-40 overflow-y-auto;
   }
 
-  .sidebar-open {
+  .sidebar.sidebar-open {
     @apply translate-x-0;
   }
 
   .main-content {
-    @apply min-h-[calc(100vh-6rem)] transition-[margin-left] duration-300 p-8 ml-4;
+    @apply min-h-[calc(100vh-6rem)] p-8 ml-4 transition-[margin-left] duration-300;
   }
 
-  .main-shifted {
+  .main-content.main-with-sidebar {
     @apply ml-[21rem];
   }
 
-  @media (min-width: 768px) {
+  @media (max-width: 767px) {
     .sidebar {
-      @apply translate-x-0;
+      @apply w-64 -translate-x-64;
     }
     
-    .main-content {
-      @apply ml-[21rem];
+    .main-content.main-with-sidebar {
+      @apply ml-4;
     }
   }
 
@@ -338,10 +338,6 @@
     
     .main-content {
       @apply ml-4;
-    }
-    
-    .main-shifted {
-      @apply ml-[17rem];
     }
 
     .documents-list {
