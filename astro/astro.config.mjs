@@ -5,8 +5,9 @@ import rehypeSlug from 'rehype-slug';
 import rehypeAutolinkHeadings from 'rehype-autolink-headings';
 
 export default defineConfig({
-  site: 'https://kodexarg.github.io/syv',
+  site: 'https://kodexarg.github.io',
   base: '/syv',
+  trailingSlash: 'always',
   
   integrations: [
     mdx({
