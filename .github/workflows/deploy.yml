@@ -24,14 +24,19 @@ jobs:
           node-version: 20
           cache: 'npm'
           cache-dependency-path: astro/package-lock.json
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v3
       - name: Install dependencies
         run: npm ci
         working-directory: astro
-      - name: Build
+      - name: Build with Astro
         run: npm run build
         working-directory: astro
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
+        uses: actions/upload-pages-artifact@v2
         with:
           path: astro/dist
 
@@ -44,4 +49,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v1
+        uses: actions/deploy-pages@v2
