@@ -324,6 +324,32 @@
     @apply text-xl text-military-600 mt-4;
   }
 
+  /* === Estilos personalizados para el header de Markdown === */
+  
+  .markdown-header {
+    @apply bg-gradient-to-r from-sage-50 to-military-50 border border-military-100 rounded-lg mb-6 shadow-sm;
+  }
+
+  .markdown-header-content {
+    @apply p-4 flex flex-col gap-3;
+  }
+
+  .markdown-title-section {
+    @apply flex flex-col gap-1;
+  }
+
+  .markdown-title {
+    @apply font-sans text-lg text-military-900 m-0 leading-tight;
+  }
+
+  .markdown-tags {
+    @apply flex flex-wrap gap-2;
+  }
+
+  .markdown-tag {
+    @apply inline-flex items-center px-2 py-1 rounded-full text-xs font-medium bg-military-200 text-military-700 border border-military-300;
+  }
+
   .document-grid {
     @apply grid grid-cols-[1fr_15rem] gap-8;
   }

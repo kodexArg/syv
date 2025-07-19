@@ -3,10 +3,10 @@ import SidebarToggle from '../../components/ui/SidebarToggle.astro';
 
 export interface Props {
   currentPath?: string;
-  navigationStructure: any[];
+  navigationStructure?: any[];
 }
 
-const { currentPath = "/", navigationStructure } = Astro.props;
+const { currentPath = "/" } = Astro.props;
 
 function generateBreadcrumbs(path: string) {
   if (path === "/" || path === "") return [{ name: "Inicio", path: "/", icon: "fas fa-home" }];

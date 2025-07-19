@@ -14,10 +14,22 @@ const tocHeadings = headings.filter(h => h.depth >= 2 && h.depth <= 3);
 ---
 
 <article class="document-layout">
-  <header class="document-header">
-    <span class="collection-badge">{collection}</span>
-    <h1>{titulo}</h1>
-    {descripcion && <p class="description">{descripcion}</p>}
+  <header class="markdown-header">
+    <div class="markdown-header-content">
+      <div class="markdown-title-section">
+        <p class="markdown-title">
+          <strong>{titulo}</strong>: {descripcion && descripcion}
+        </p>
+      </div>
+      
+      {tags && tags.length > 0 && (
+        <div class="markdown-tags">
+          {tags.map(tag => (
+            <span class="markdown-tag">{tag}</span>
+          ))}
+        </div>
+      )}
+    </div>
   </header>
 
   <div class="document-grid">

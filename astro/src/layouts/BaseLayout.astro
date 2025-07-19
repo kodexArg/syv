@@ -4,7 +4,6 @@ import Sidebar from './partials/Sidebar.astro';
 import Footer from './partials/Footer.astro';
 import '../styles/global.css';
 
-
 export interface Props {
   title?: string;
   description?: string;
@@ -18,8 +17,6 @@ const {
 } = Astro.props;
 
 const fullTitle = title === 'Subordinación y Valor' ? title : `${title} - Subordinación y Valor`;
-
-const navigationStructure: any[] = [];
 ---
 
 <!DOCTYPE html>
@@ -41,7 +38,7 @@ const navigationStructure: any[] = [];
 </head>
 
 <body>
-  <Navbar currentPath={currentPath} navigationStructure={navigationStructure} />
+  <Navbar currentPath={currentPath} />
   
   <div class="layout-container">
     <Sidebar />
