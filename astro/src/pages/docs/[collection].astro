@@ -27,48 +27,10 @@ const collectionIcons = {
 const displayName = collectionDisplayNames[collectionName as keyof typeof collectionDisplayNames] || collectionName;
 const icon = collectionIcons[collectionName as keyof typeof collectionIcons] || 'document';
 
-interface OrganizedItem {
-  displayName: string;
-  url: string;
-  description?: string;
-  [key: string]: any;
-}
-
-function organizeByFolders(entries: any[]): Record<string, { items: OrganizedItem[] }> {
-  const organized: Record<string, { items: OrganizedItem[] }> = {};
-  
-  for (const entry of entries) {
-    const pathParts = entry.id.split('/');
-    const folder = pathParts.length > 1 ? pathParts[0] : '_root';
-    
-    if (!organized[folder]) {
-      organized[folder] = { items: [] };
-    }
-    
-    organized[folder].items.push({
-      ...entry,
-      displayName: entry.data.titulo || entry.id.split('/').pop(),
-      url: `/docs/${entry.collection}/${entry.id}`,
-      description: entry.data.descripcion
-    });
-  }
-  
-  // Ordenar entradas dentro de cada carpeta
-  for (const folder in organized) {
-    organized[folder].items.sort((a, b) => 
-      a.displayName.localeCompare(b.displayName, 'es', { numeric: true })
-    );
-  }
-  
-  return organized;
-}
-
-let entries: any[];
-let organizedFolders: Record<string, { items: OrganizedItem[] }> = {};
+let entries: any[] = [];
 
 try {
   entries = await getCollection(collectionName as any);
-  organizedFolders = organizeByFolders(entries);
 } catch (error) {
   console.warn(`No se pudo cargar la colección: ${collectionName}`, error);
 }
@@ -79,76 +41,36 @@ try {
   description={`Documentación de ${displayName} - Subordinación y Valor`}
   currentPath={Astro.url.pathname}
 >
-  <div class="max-w-6xl mx-auto">
-    <header class="mb-8 pb-6 border-b border-military-200">
-      <div class="mb-3">
-        <span class="inline-flex items-center px-3 py-1 rounded-full text-sm font-medium bg-olive-100 text-olive-800">
-          <Icon name={icon} size="sm" class="mr-1" />
-          Colección
-        </span>
-      </div>
+  <div class="collection-page">
+    <header>
+      <span class="collection-badge">
+        <Icon name={icon} size="sm" />
+        Colección
+      </span>
       
-      <h1 class="font-sans text-3xl md:text-4xl lg:text-5xl font-bold mb-4 leading-tight text-military-800">
-        {displayName}
-      </h1>
-      
-      <p class="text-xl text-military-600 leading-relaxed">
-        Explorar todos los documentos de la colección {displayName}
-      </p>
+      <h1>{displayName}</h1>
+      <p>Explorar todos los documentos de la colección {displayName}</p>
     </header>
 
-    <div class="space-y-8">
-      {Object.entries(organizedFolders).map(([folderName, folderData]) => (
-        <section class="bg-stone-100 border border-military-200 rounded-lg shadow-sm p-6">
-          <div class="mb-4">
-            {folderName !== '_root' ? (
-              <h2 class="font-sans text-xl font-semibold flex items-center text-military-800">
-                <Icon name="folder-solid" size="sm" class="mr-2 text-olive-600" />
-                {folderName}
-              </h2>
-            ) : (
-              <h2 class="font-sans text-xl font-semibold flex items-center text-military-800">
-                <Icon name="document-solid" size="sm" class="mr-2 text-olive-600" />
-                Documentos principales
-              </h2>
+    <div class="documents-list">
+      {entries.map(entry => (
+        <a href={`/docs/${entry.collection}/${entry.id}`} class="document-card">
+          <Icon name="document-solid" size="sm" />
+          <div>
+            <h3>{entry.data.titulo || entry.id.split('/').pop()}</h3>
+            {entry.data.descripcion && (
+              <p>{entry.data.descripcion}</p>
             )}
           </div>
-          
-          <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-4">
-            {folderData.items.map(item => (
-              <a 
-                href={item.url}
-                class="block p-4 bg-white border border-military-200 rounded-md hover:border-olive-400 hover:shadow-sm transition-all duration-150 group"
-              >
-                <div class="flex items-start">
-                  <Icon name="document-solid" size="sm" class="mr-2 mt-1 text-sage-400 group-hover:text-sage-600 transition-colors" />
-                  <div class="min-w-0 flex-1">
-                    <h3 class="font-medium text-military-800 group-hover:text-olive-700 transition-colors leading-tight mb-1">
-                      {item.displayName}
-                    </h3>
-                    {item.description && (
-                      <p class="text-sm text-military-600 line-clamp-2">
-                        {item.description}
-                      </p>
-                    )}
-                  </div>
-                </div>
-              </a>
-            ))}
-          </div>
-        </section>
+        </a>
       ))}
     </div>
 
-    {Object.keys(organizedFolders).length === 0 && (
-      <div class="text-center py-12">
-        <Icon name="document" class="mx-auto h-12 w-12 text-military-400 mb-4" />
-        <h3 class="text-lg font-medium text-military-800 mb-2">
-          No hay documentos disponibles
-        </h3>
-        <p class="text-military-600">
-          Esta colección no contiene documentos en este momento.
-        </p>
+    {entries.length === 0 && (
+      <div class="empty-state">
+        <Icon name="document" />
+        <h3>No hay documentos disponibles</h3>
+        <p>Esta colección no contiene documentos en este momento.</p>
       </div>
     )}
   </div>

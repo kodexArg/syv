@@ -2,7 +2,6 @@
 import { getCollection } from 'astro:content';
 import Icon from '../../components/ui/Icon.astro';
 
-// Configuración de las colecciones con iconos y nombres de display
 const collectionsConfig = [
   { key: 'proyecto', name: 'Proyecto', icon: 'folder' },
   { key: 'trasfondo', name: 'Trasfondo', icon: 'book' },
@@ -13,7 +12,6 @@ const collectionsConfig = [
   { key: 'media', name: 'Media', icon: 'photo' }
 ];
 
-// Función para organizar entradas por carpetas
 function organizeByFolders(entries: any[]) {
   const organized: Record<string, { url: string; items: any[] }> = {};
   
@@ -33,7 +31,6 @@ function organizeByFolders(entries: any[]) {
     });
   }
   
-  // Ordenar entradas dentro de cada carpeta y asignar URL a la carpeta (primer elemento)
   for (const folder in organized) {
     organized[folder].items.sort((a, b) => 
       a.displayName.localeCompare(b.displayName, 'es', { numeric: true })
@@ -46,7 +43,6 @@ function organizeByFolders(entries: any[]) {
   return organized;
 }
 
-// Cargar y organizar todas las colecciones
 const navigationStructure = [];
 
 for (const config of collectionsConfig) {
@@ -65,57 +61,36 @@ for (const config of collectionsConfig) {
     console.warn(`No se pudo cargar la colección: ${config.key}`, error);
   }
 }
-
-
 ---
 
-<div 
-  id="sidebar-overlay" 
-  class="fixed inset-0 bg-black bg-opacity-50 z-40 hidden"
-></div>
-
-<aside 
-  id="sidebar"
-  class="font-sans fixed left-0 top-12 h-full w-80 bg-stone-50 border-r border-military-200 transform -translate-x-full transition-transform duration-300 ease-in-out z-50 overflow-y-auto"
->
+<aside id="sidebar" class="sidebar">
   <div class="p-4">
-    <div class="mb-4">
-      <h2 class="text-lg font-semibold mb-2 text-military-800">Documentación</h2>
-      <p class="text-sm text-military-600">Subordinación y Valor</p>
-    </div>
+    <h2>Documentación</h2>
+    <p>Subordinación y Valor</p>
     
-    <nav class="space-y-2">
+    <nav>
       {navigationStructure.map((section) => (
-        <div class="mb-4">
-          <h3 class="text-sm font-medium mb-2 flex items-center text-military-800">
-            <Icon name={section.icon} class="mr-2 text-olive-600" />
+        <div>
+          <h3>
+            <Icon name={section.icon} />
             {section.name}
           </h3>
           
-          <div class="ml-4 space-y-1">
+          <div>
             {Object.entries(section.organized).map(([folderName, folderData]) => (
               <div>
                 {folderName !== '_root' && (
-                  <a 
-                    href={folderData.url} 
-                    class="text-xs font-medium text-military-600 mb-2 flex items-center hover:text-military-800 transition-colors duration-150"
-                  >
-                    <Icon name="folder-solid" size="sm" class="mr-1 text-sage-500" />
+                  <a href={folderData.url}>
+                    <Icon name="folder-solid" size="sm" />
                     {folderName}
                   </a>
                 )}
                 
-                <div class={folderName !== '_root' ? 'ml-4 space-y-1' : 'space-y-1'}>
+                <div>
                   {folderData.items.map(item => (
-                    <a 
-                      href={item.url}
-                      class="block text-sm px-2 py-2 rounded text-military-600 hover:text-military-800 hover:bg-military-50 transition-colors duration-150 group"
-                      title={item.description}
-                    >
-                      <div class="flex items-start">
-                        <Icon name="document-solid" size="sm" class="mr-2 mt-0.5 text-sage-400 group-hover:text-sage-600 transition-colors" />
-                        <span class="break-words">{item.displayName}</span>
-                      </div>
+                    <a href={item.url} title={item.description}>
+                      <Icon name="document-solid" size="sm" />
+                      <span>{item.displayName}</span>
                     </a>
                   ))}
                 </div>
@@ -132,32 +107,13 @@ for (const config of collectionsConfig) {
   document.addEventListener('DOMContentLoaded', () => {
     const sidebarToggle = document.getElementById('sidebar-toggle');
     const sidebar = document.getElementById('sidebar');
-    const overlay = document.getElementById('sidebar-overlay');
+    const main = document.getElementById('main-content');
 
-    function openSidebar() {
-      sidebar?.classList.remove('-translate-x-full');
-      overlay?.classList.remove('hidden');
+    function toggleSidebar() {
+      sidebar?.classList.toggle('sidebar-open');
+      main?.classList.toggle('main-shifted');
     }
 
-    function closeSidebar() {
-      sidebar?.classList.add('-translate-x-full');
-      overlay?.classList.add('hidden');
-    }
-
-    sidebarToggle?.addEventListener('click', () => {
-      if (sidebar?.classList.contains('-translate-x-full')) {
-        openSidebar();
-      } else {
-        closeSidebar();
-      }
-    });
-
-    overlay?.addEventListener('click', closeSidebar);
-
-    document.addEventListener('keydown', (e) => {
-      if (e.key === 'Escape') {
-        closeSidebar();
-      }
-    });
+    sidebarToggle?.addEventListener('click', toggleSidebar);
   });
 </script> 

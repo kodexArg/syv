@@ -5,103 +5,17 @@ export interface Props {
 }
 
 const { currentPath = "/", navigationStructure } = Astro.props;
-
-function findFirstDocumentInFolder(collectionKey: string, folderSegments: string[], navStructure: any[]) {
-  const collection = navStructure.find(c => c.key === collectionKey);
-  if (!collection) return null;
-
-  let currentFolderData = collection.organized['_root'];
-  if (folderSegments.length > 0) {
-    let tempFolder = collection.organized;
-    for (let i = 0; i < folderSegments.length; i++) {
-      const segment = folderSegments[i];
-      const found = Object.entries(tempFolder).find(([name]) => name === segment);
-      if (found) {
-        currentFolderData = found[1];
-        tempFolder = currentFolderData.items.reduce((acc: Record<string, { url: string; items: any[] }>, item: { isDir: boolean; name: string; url: string; items: any[] }) => {
-          if (item.isDir) acc[item.name] = { url: item.url, items: item.items };
-          return acc;
-        }, {});
-      } else {
-        return null;
-      }
-    }
-  }
-  return currentFolderData?.items?.[0]?.url || null;
-}
-
-function generateBreadcrumbs(path: string, navStructure: any[]) {
-  if (path === "/" || path === "") return [{ name: "Inicio", path: "/" }];
-  
-  const segments = path.split("/").filter(Boolean);
-  const breadcrumbs = [{ name: "Inicio", path: "/" }];
-  
-  let currentPath = "";
-  segments.forEach((segment, index) => {
-    currentPath += `/${segment}`;
-    let url = currentPath;
-
-    const isLastSegment = index === segments.length - 1;
-    const collectionKey = segments[0]; // Asume que el primer segmento después de /docs/ es la colección
-
-    if (!isLastSegment && currentPath.startsWith('/docs/')) {
-      const folderSegments = segments.slice(1, index + 1); // Excluye 'docs'
-      const firstDocUrl = findFirstDocumentInFolder(collectionKey, folderSegments, navStructure);
-      if (firstDocUrl) {
-        url = firstDocUrl;
-      }
-    }
-
-    breadcrumbs.push({
-      name: segment.charAt(0).toUpperCase() + segment.slice(1),
-      path: url
-    });
-  });
-  
-  return breadcrumbs;
-}
-
-const breadcrumbs = generateBreadcrumbs(currentPath, navigationStructure);
 ---
 
-<nav class="font-sans bg-stone-50 fixed top-0 w-full z-50 border-b border-military-200">
-  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-    <div class="flex items-center justify-between h-12">
-      <button
-        id="sidebar-toggle"
-        type="button"
-        class="p-2 text-military-600 hover:text-military-800 focus:outline-none focus:ring-2 focus:ring-olive-500 transition-colors duration-150"
-        aria-label="Abrir menú lateral"
-      >
-        <svg class="h-4 w-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path>
-        </svg>
-      </button>
+<nav class="navbar">
+  <button id="sidebar-toggle" type="button">
+    ☰
+  </button>
 
-      <div class="flex items-center space-x-1 text-sm text-military-600">
-        {breadcrumbs.map((crumb, index) => (
-          <div class="flex items-center">
-            {index > 0 && (
-              <svg class="h-3 w-3 mx-1 text-military-400" fill="currentColor" viewBox="0 0 20 20">
-                <path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clip-rule="evenodd"></path>
-              </svg>
-            )}
-            <a 
-              href={crumb.path} 
-              class="text-military-600 hover:text-military-800 transition-colors duration-150"
-            >
-              {index === 0 && (
-                <svg class="h-3 w-3 mr-1 inline" fill="currentColor" viewBox="0 0 20 20">
-                  <path d="M10.707 2.293a1 1 0 00-1.414 0l-7 7a1 1 0 001.414 1.414L4 10.414V17a1 1 0 001 1h2a1 1 0 001-1v-2a1 1 0 011-1h2a1 1 0 011 1v2a1 1 0 001 1h2a1 1 0 001-1v-6.586l.293.293a1 1 0 001.414-1.414l-7-7z"></path>
-                </svg>
-              )}
-              {crumb.name}
-            </a>
-          </div>
-        ))}
-      </div>
-
-      <div class="w-8"></div>
-    </div>
+  <div>
+    <a href="/">Inicio</a>
+    {currentPath !== "/" && (
+      <span> / {currentPath.split('/').pop()}</span>
+    )}
   </div>
 </nav> 
