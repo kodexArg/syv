@@ -2,45 +2,46 @@
 
 @import "tailwindcss";
 
-@layer theme {
-  :root {
-    --color-military-50: #f7f6f4;
-    --color-military-100: #ebe8e1;
-    --color-military-200: #d6d0c3;
-    --color-military-300: #bdb29e;
-    --color-military-400: #a6967b;
-    --color-military-500: #8d7c63;
-    --color-military-600: #726350;
-    --color-military-700: #5c4f42;
-    --color-military-800: #4a4137;
-    --color-military-900: #3e372f;
+@theme {
+  --color-military-50: #f6f7f4;
+  --color-military-100: #e9ebe4;
+  --color-military-200: #d5d8cb;
+  --color-military-300: #b8beaa;
+  --color-military-400: #9ba387;
+  --color-military-500: #818a6d;
+  --color-military-600: #656d56;
+  --color-military-700: #515746;
+  --color-military-800: #42493b;
+  --color-military-900: #383e33;
+  --color-military-950: #1d201a;
 
-    --color-olive-50: #f6f7f2;
-    --color-olive-100: #e9ecdf;
-    --color-olive-200: #d4dac1;
-    --color-olive-300: #b8c299;
-    --color-olive-400: #9ba972;
-    --color-olive-500: #7d8f52;
-    --color-olive-600: #62713e;
-    --color-olive-700: #4c5633;
-    --color-olive-800: #3e472d;
-    --color-olive-900: #353d28;
+  --color-olive-50: #f7f8f4;
+  --color-olive-100: #ebeee3;
+  --color-olive-200: #d8dec9;
+  --color-olive-300: #bdc7a7;
+  --color-olive-400: #a0b084;
+  --color-olive-500: #849867;
+  --color-olive-600: #68784e;
+  --color-olive-700: #525e40;
+  --color-olive-800: #434d36;
+  --color-olive-900: #38412f;
+  --color-olive-950: #1c2117;
 
-    --color-sage-50: #f4f6f4;
-    --color-sage-100: #e5eae6;
-    --color-sage-200: #ccd5ce;
-    --color-sage-300: #a7b9aa;
-    --color-sage-400: #7c9a81;
-    --color-sage-500: #5a7c60;
-    --color-sage-600: #46634c;
-    --color-sage-700: #39503e;
-    --color-sage-800: #304134;
-    --color-sage-900: #29362d;
+  --color-sage-50: #f4f6f4;
+  --color-sage-100: #e5eae6;
+  --color-sage-200: #ccd5ce;
+  --color-sage-300: #a7b9aa;
+  --color-sage-400: #7c9a81;
+  --color-sage-500: #5a7c60;
+  --color-sage-600: #46634c;
+  --color-sage-700: #39503e;
+  --color-sage-800: #304134;
+  --color-sage-900: #29362d;
+  --color-sage-950: #1c1d1a;
 
-    --font-serif: 'Crimson Text', Georgia, 'Times New Roman', serif;
-    --font-sans: 'Source Sans 3', Inter, 'system-ui', 'sans-serif';
-    --font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace;
-  }
+  --font-serif: 'Crimson Text', Georgia, 'Times New Roman', serif;
+  --font-sans: 'Source Sans 3', Inter, 'system-ui', 'sans-serif';
+  --font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace;
 }
 
 @layer base {
