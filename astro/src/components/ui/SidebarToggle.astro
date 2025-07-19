@@ -22,34 +22,60 @@
       }
     }
 
+    function closeSidebar() {
+      sidebar?.classList.remove('sidebar-open');
+      main?.classList.remove('main-with-sidebar');
+      // Guardar el estado de cierre manual en sessionStorage
+      sessionStorage.setItem('sidebarClosedByUser', 'true');
+      updateIcon();
+    }
+
+    function openSidebar() {
+      sidebar?.classList.add('sidebar-open');
+      main?.classList.add('main-with-sidebar');
+      // Limpiar el estado de cierre manual
+      sessionStorage.removeItem('sidebarClosedByUser');
+      updateIcon();
+    }
+
     function toggleSidebar() {
       const willBeOpen = !sidebar?.classList.contains('sidebar-open');
       
       if (willBeOpen) {
-        sidebar?.classList.add('sidebar-open');
-        main?.classList.add('main-with-sidebar');
+        openSidebar();
       } else {
-        sidebar?.classList.remove('sidebar-open');
-        main?.classList.remove('main-with-sidebar');
+        closeSidebar();
       }
-      
-      updateIcon();
     }
 
-    // Event listener
+    // Event listener para el toggle button
     toggleButton?.addEventListener('click', toggleSidebar);
     
-    // Estado inicial basado en pantalla
-    const isDesktop = window.innerWidth >= 768;
+    // Event listener para cerrar sidebar al hacer click en enlaces
+    if (sidebar) {
+      sidebar.addEventListener('click', (event) => {
+        // Verificar si el elemento clickeado es un enlace
+        const target = event.target as HTMLElement;
+        const link = target.closest('a');
+        
+        if (link && link.href) {
+          // Cerrar el sidebar al hacer click en cualquier enlace
+          closeSidebar();
+        }
+      });
+    }
     
-    if (isDesktop) {
-      sidebar?.classList.add('sidebar-open');
-      main?.classList.add('main-with-sidebar');
+    // Estado inicial basado en pantalla y preferencias del usuario
+    const isDesktop = window.innerWidth >= 768;
+    const wasClosedByUser = sessionStorage.getItem('sidebarClosedByUser') === 'true';
+    
+    // Solo abrir automáticamente en desktop si el usuario no lo cerró previamente
+    if (isDesktop && !wasClosedByUser) {
+      openSidebar();
     } else {
       sidebar?.classList.remove('sidebar-open');
       main?.classList.remove('main-with-sidebar');
+      updateIcon();
     }
-    
-    updateIcon();
   });
 </script> 

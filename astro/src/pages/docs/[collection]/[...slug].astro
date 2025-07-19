@@ -1,5 +1,5 @@
 ---
-import { getCollection, type CollectionEntry } from 'astro:content';
+import { getCollection, type CollectionEntry, render } from 'astro:content';
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 import MarkdownLayout from '../../../layouts/MarkdownLayout.astro';
 
@@ -28,8 +28,8 @@ export async function getStaticPaths() {
 
 const { entry } = Astro.props;
 
-const rawContent = entry.body || '';
-const headings: any[] = [];
+// Renderizar el contenido markdown y extraer headings
+const { Content, headings } = await render(entry);
 
 const collectionDisplayNames = {
   'proyecto': 'Proyecto', 'trasfondo': 'Trasfondo', 'atlas': 'Atlas', 'personajes': 'Personajes',
@@ -53,6 +53,6 @@ const collectionName = collectionDisplayNames[Astro.params.collection as keyof t
     fecha={entry.data.fecha ? new Date(entry.data.fecha) : undefined}
     carpeta={entry.data.carpeta}
   >
-    <div set:html={rawContent} />
+    <Content />
   </MarkdownLayout>
 </BaseLayout> 
