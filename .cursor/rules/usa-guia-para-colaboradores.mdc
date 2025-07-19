@@ -1,0 +1,22 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+---
+titulo: Regla de uso obligatorio de guías de colaboración
+title:Regla de uso obligatorio de guías de colaboración
+descripcion: Indica que todo aporte debe seguir las guías de 0_proyecto/guias-para-colaboradores, comenzando por manual-del-colaborador.md y extendiéndose a las guías específicas.
+---
+
+Siempre que vayas a realizar un aporte, edición o creación de archivos en el proyecto, debes consultar y seguir las instrucciones de la carpeta `0_proyecto/guias-para-colaboradores/`, comenzando por el archivo `manual-del-colaborador.md`. Además, revisa y aplica las guías específicas relevantes al tipo de aporte que vas a realizar (por ejemplo: `guia-de-metadatos.md`, `guia-de-personajes.md`, `guia-de-facciones.md`, `referencias-y-pie-de-pagina.md`, etc.).
+
+- El objetivo es mantener la coherencia, el formato y las buenas prácticas en todo el corpus.
+- Si el aporte involucra personajes, facciones, cronología, metadatos, referencias o cualquier otro aspecto cubierto por una guía, consulta el archivo correspondiente antes de proceder.
+- Si tienes dudas sobre el formato o la ubicación de un aporte, consulta primero el `manual-del-colaborador.md` y luego la guía específica.
+- Si introduces un nuevo tipo de contenido no cubierto por las guías existentes, documenta el formato y actualiza o crea la guía correspondiente.
+
+**Resumen de pasos:**
+1. Antes de aportar, lee `manual-del-colaborador.md`.
+2. Consulta la(s) guía(s) relevante(s) en `0_proyecto/guias-para-colaboradores/`.
+3. Aplica el formato y las prácticas indicadas.

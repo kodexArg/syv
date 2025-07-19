@@ -1,0 +1,158 @@
+---
+import { getCollection } from 'astro:content';
+import Icon from '../../components/ui/Icon.astro';
+
+// Configuración de las colecciones con iconos y nombres de display
+const collectionsConfig = [
+  { key: 'proyecto', name: 'Proyecto', icon: 'folder' },
+  { key: 'trasfondo', name: 'Trasfondo', icon: 'book' },
+  { key: 'atlas', name: 'Atlas', icon: 'map' },
+  { key: 'personajes', name: 'Personajes', icon: 'users' },
+  { key: 'diegesis', name: 'Diégesis', icon: 'document' },
+  { key: 'aventuras', name: 'Aventuras', icon: 'lightning' },
+  { key: 'media', name: 'Media', icon: 'photo' }
+];
+
+// Función para organizar entradas por carpetas
+function organizeByFolders(entries: any[]) {
+  const organized: Record<string, any[]> = {};
+  
+  for (const entry of entries) {
+    // Usar entry.id en lugar de entry.slug que no existe
+    const pathParts = entry.id.split('/');
+    const folder = pathParts.length > 1 ? pathParts[0] : '_root';
+    
+    if (!organized[folder]) {
+      organized[folder] = [];
+    }
+    
+    organized[folder].push({
+      ...entry,
+      displayName: entry.data.titulo || entry.id.split('/').pop(),
+      url: `/docs/${entry.collection}/${entry.id}`,
+      description: entry.data.descripcion
+    });
+  }
+  
+  // Ordenar entradas dentro de cada carpeta por nombre
+  for (const folder in organized) {
+    organized[folder].sort((a, b) => 
+      a.displayName.localeCompare(b.displayName, 'es', { numeric: true })
+    );
+  }
+  
+  return organized;
+}
+
+// Cargar y organizar todas las colecciones
+const navigationStructure = [];
+
+for (const config of collectionsConfig) {
+  try {
+    const entries = await getCollection(config.key as any);
+    
+    if (entries.length > 0) {
+      const organized = organizeByFolders(entries);
+      
+      navigationStructure.push({
+        ...config,
+        organized
+      });
+    }
+  } catch (error) {
+    console.warn(`No se pudo cargar la colección: ${config.key}`, error);
+  }
+}
+
+
+---
+
+<div 
+  id="sidebar-overlay" 
+  class="fixed inset-0 bg-black bg-opacity-50 z-40 hidden"
+></div>
+
+<aside 
+  id="sidebar"
+  class="font-sans fixed left-0 top-12 h-full w-80 bg-stone-50 border-r border-military-200 transform -translate-x-full transition-transform duration-300 ease-in-out z-50 overflow-y-auto"
+>
+  <div class="p-4">
+    <div class="mb-4">
+      <h2 class="text-lg font-semibold mb-2 text-military-800">Documentación</h2>
+      <p class="text-sm text-military-600">Subordinación y Valor</p>
+    </div>
+    
+    <nav class="space-y-2">
+      {navigationStructure.map((section) => (
+        <div class="mb-4">
+          <h3 class="text-sm font-medium mb-2 flex items-center text-military-800">
+            <Icon name={section.icon} class="mr-2 text-olive-600" />
+            {section.name}
+          </h3>
+          
+          <div class="ml-4 space-y-1">
+            {Object.entries(section.organized).map(([folderName, items]) => (
+              <div>
+                {folderName !== '_root' && (
+                  <div class="text-xs font-medium text-military-600 mb-2 flex items-center">
+                    <Icon name="folder-solid" size="sm" class="mr-1 text-sage-500" />
+                    {folderName}
+                  </div>
+                )}
+                
+                <div class={folderName !== '_root' ? 'ml-4 space-y-1' : 'space-y-1'}>
+                  {items.map(item => (
+                    <a 
+                      href={item.url}
+                      class="block text-sm px-2 py-2 rounded text-military-600 hover:text-military-800 hover:bg-military-50 transition-colors duration-150 group"
+                      title={item.description}
+                    >
+                      <div class="flex items-start">
+                        <Icon name="document-solid" size="sm" class="mr-2 mt-0.5 text-sage-400 group-hover:text-sage-600 transition-colors" />
+                        <span class="break-words">{item.displayName}</span>
+                      </div>
+                    </a>
+                  ))}
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+      ))}
+    </nav>
+  </div>
+</aside>
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    const sidebarToggle = document.getElementById('sidebar-toggle');
+    const sidebar = document.getElementById('sidebar');
+    const overlay = document.getElementById('sidebar-overlay');
+
+    function openSidebar() {
+      sidebar?.classList.remove('-translate-x-full');
+      overlay?.classList.remove('hidden');
+    }
+
+    function closeSidebar() {
+      sidebar?.classList.add('-translate-x-full');
+      overlay?.classList.add('hidden');
+    }
+
+    sidebarToggle?.addEventListener('click', () => {
+      if (sidebar?.classList.contains('-translate-x-full')) {
+        openSidebar();
+      } else {
+        closeSidebar();
+      }
+    });
+
+    overlay?.addEventListener('click', closeSidebar);
+
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape') {
+        closeSidebar();
+      }
+    });
+  });
+</script> 

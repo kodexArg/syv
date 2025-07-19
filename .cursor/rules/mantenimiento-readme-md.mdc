@@ -1,0 +1,13 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+---
+description: 
+globs: ["README.md"]
+alwaysApply: true
+---
+# Regla de mantenimiento: README.md
+
+Finalmente, tras cualquier cambio en el proyecto, revisa si el cambio realizado requiere modificar el contenido de `README.md`. Si es necesario, actualízalo.

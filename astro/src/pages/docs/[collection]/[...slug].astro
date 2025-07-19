@@ -1,0 +1,68 @@
+---
+import { getCollection, type CollectionEntry } from 'astro:content';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import MarkdownLayout from '../../../layouts/MarkdownLayout.astro';
+
+// Definir tipos para mejor TypeScript
+type Props = {
+  entry: CollectionEntry<'proyecto' | 'trasfondo' | 'atlas' | 'personajes' | 'diegesis' | 'aventuras' | 'media'>;
+}
+
+// Generar todas las rutas estáticamente en build-time
+export async function getStaticPaths() {
+  const collections = ['proyecto', 'trasfondo', 'atlas', 'personajes', 'diegesis', 'aventuras', 'media'] as const;
+  return (
+    await Promise.all(
+      collections.map(async (collectionName) => {
+        try {
+          const entries = await getCollection(collectionName);
+          return entries.map((entry) => ({
+            params: { collection: collectionName, slug: entry.id },
+            props: { entry },
+          }));
+        } catch {
+          return [];
+        }
+      })
+    )
+  ).flat();
+}
+
+// Recibir la entrada como prop
+const { entry } = Astro.props;
+
+// Para Astro v5 con glob loader, renderizamos directamente el body
+const rawContent = entry.body || '';
+const headings: any[] = [];
+
+// Mapeo de nombres de colecciones para display
+const collectionDisplayNames = {
+  'proyecto': 'Proyecto',
+  'trasfondo': 'Trasfondo', 
+  'atlas': 'Atlas',
+  'personajes': 'Personajes',
+  'diegesis': 'Diégesis',
+  'aventuras': 'Aventuras',
+  'media': 'Media'
+} as const;
+
+const collectionName = collectionDisplayNames[Astro.params.collection as keyof typeof collectionDisplayNames] || Astro.params.collection;
+---
+
+<BaseLayout 
+  title={entry.data.titulo}
+  description={entry.data.descripcion}
+  currentPath={Astro.url.pathname}
+>
+  <MarkdownLayout 
+    titulo={entry.data.titulo}
+    descripcion={entry.data.descripcion}
+    collection={collectionName}
+    headings={headings}
+    tags={entry.data.tags}
+    fecha={entry.data.fecha ? new Date(entry.data.fecha) : undefined}
+    carpeta={entry.data.carpeta}
+  >
+    <div set:html={rawContent} />
+  </MarkdownLayout>
+</BaseLayout> 

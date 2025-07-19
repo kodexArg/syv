@@ -1,0 +1,175 @@
+/* Importación de fuentes de Google Fonts - DEBE estar antes de @import "tailwindcss" */
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600&family=Source+Sans+3:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap');
+
+@import "tailwindcss";
+
+/* Configuración del tema - Tailwind CSS 4 genera automáticamente todas las clases de utilidad */
+@theme {
+  /* Colores militares - marrones */
+  --color-military-50: #f7f6f4;
+  --color-military-100: #ebe8e1;
+  --color-military-200: #d6d0c3;
+  --color-military-300: #bdb29e;
+  --color-military-400: #a6967b;
+  --color-military-500: #8d7c63;
+  --color-military-600: #726350;
+  --color-military-700: #5c4f42;
+  --color-military-800: #4a4137;
+  --color-military-900: #3e372f;
+
+  /* Colores oliva - verdes */
+  --color-olive-50: #f6f7f2;
+  --color-olive-100: #e9ecdf;
+  --color-olive-200: #d4dac1;
+  --color-olive-300: #b8c299;
+  --color-olive-400: #9ba972;
+  --color-olive-500: #7d8f52;
+  --color-olive-600: #62713e;
+  --color-olive-700: #4c5633;
+  --color-olive-800: #3e472d;
+  --color-olive-900: #353d28;
+
+  /* Colores salvia */
+  --color-sage-50: #f4f6f4;
+  --color-sage-100: #e5eae6;
+  --color-sage-200: #ccd5ce;
+  --color-sage-300: #a7b9aa;
+  --color-sage-400: #7c9a81;
+  --color-sage-500: #5a7c60;
+  --color-sage-600: #46634c;
+  --color-sage-700: #39503e;
+  --color-sage-800: #304134;
+  --color-sage-900: #29362d;
+
+  /* Fuentes personalizadas - optimizadas para Tailwind 4 */
+  --font-serif: 'Crimson Text', Georgia, 'Times New Roman', serif;
+  --font-sans: 'Source Sans 3', Inter, system-ui, sans-serif;
+  --font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace;
+}
+
+/* Estilos base usando @apply con clases de utilidad generadas automáticamente */
+body {
+  @apply font-serif bg-stone-50 text-military-800 leading-relaxed;
+}
+
+/* Estilos para anchor links generados por rehype-autolink-headings */
+.anchor-link {
+  @apply text-olive-600 decoration-transparent hover:decoration-olive-400 transition-colors duration-200;
+}
+
+/* Estilos mejorados para prose en contenido markdown */
+.prose-military {
+  --tw-prose-body: theme(colors.military.700);
+  --tw-prose-headings: theme(colors.military.800);
+  --tw-prose-links: theme(colors.olive.600);
+  --tw-prose-bold: theme(colors.military.800);
+  --tw-prose-counters: theme(colors.military.600);
+  --tw-prose-bullets: theme(colors.olive.400);
+  --tw-prose-hr: theme(colors.military.200);
+  --tw-prose-quotes: theme(colors.military.600);
+  --tw-prose-quote-borders: theme(colors.olive.400);
+  --tw-prose-captions: theme(colors.military.500);
+  --tw-prose-code: theme(colors.military.800);
+  --tw-prose-pre-code: theme(colors.military.100);
+  --tw-prose-pre-bg: theme(colors.military.900);
+  --tw-prose-th-borders: theme(colors.military.200);
+  --tw-prose-td-borders: theme(colors.military.200);
+}
+
+/* Títulos usando clases de utilidad generadas automáticamente */
+h1 {
+  @apply font-sans text-3xl md:text-4xl lg:text-5xl font-bold mb-6 leading-tight text-military-800;
+}
+
+h2 {
+  @apply font-sans text-2xl md:text-3xl font-semibold mb-5 mt-8 leading-tight text-military-700;
+}
+
+h3 {
+  @apply font-sans text-xl md:text-2xl font-semibold mb-4 mt-6 leading-tight text-military-600;
+}
+
+h4 {
+  @apply font-sans text-lg md:text-xl font-medium mb-3 mt-5 text-military-600;
+}
+
+h5 {
+  @apply font-sans text-base md:text-lg font-medium mb-3 mt-4 text-military-500;
+}
+
+h6 {
+  @apply font-sans text-sm md:text-base font-medium mb-2 mt-3 text-military-500;
+}
+
+/* Párrafos y texto */
+p {
+  @apply mb-4 text-lg leading-relaxed text-military-700;
+}
+
+/* Enlaces */
+a {
+  @apply text-olive-600 underline decoration-olive-300 transition-colors duration-200 hover:text-olive-700 hover:decoration-olive-500;
+}
+
+/* Listas */
+ul, ol {
+  @apply mb-4 text-lg text-military-700;
+}
+
+ul {
+  @apply list-disc list-outside ml-6;
+}
+
+ol {
+  @apply list-decimal list-outside ml-6;
+}
+
+li {
+  @apply mb-2 leading-relaxed;
+}
+
+/* Citas */
+blockquote {
+  @apply pl-6 py-2 my-6 italic rounded-r-lg border-l-4 border-olive-400 bg-sage-50 text-military-600;
+}
+
+/* Código */
+code {
+  @apply px-2 py-1 rounded text-sm font-mono bg-military-100 text-military-800;
+}
+
+pre {
+  @apply p-4 rounded-lg overflow-x-auto my-4 bg-military-900 text-military-100;
+}
+
+pre code {
+  @apply p-0 bg-transparent text-military-100;
+}
+
+/* Elementos de separación */
+hr {
+  @apply my-8 border-military-200;
+}
+
+/* Tablas */
+table {
+  @apply w-full border-collapse my-6 border border-military-200;
+}
+
+th {
+  @apply px-4 py-2 text-left font-semibold bg-military-100 border border-military-200 text-military-800;
+}
+
+td {
+  @apply px-4 py-2 border border-military-200 text-military-700;
+}
+
+/* Elementos de formulario */
+input, textarea, select {
+  @apply rounded px-3 py-2 border border-military-300 focus:outline-none focus:ring-2 focus:ring-olive-500 focus:border-olive-500;
+}
+
+/* Botones */
+button {
+  @apply px-4 py-2 rounded bg-olive-600 text-white focus:outline-none focus:ring-2 focus:ring-olive-500 transition-colors duration-200 hover:bg-olive-700;
+} 

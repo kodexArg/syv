@@ -1,0 +1,13 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+---
+description: 
+globs: ["**/*.md"]
+alwaysApply: true
+---
+# Regla de mantenimiento: Metadatos en archivos .md
+
+Finalmente, tras cualquier cambio en un archivo `.md`, revisa si los metadatos (front matter YAML) requieren ser editados o actualizados para reflejar el contenido. Si es necesario, actualízalos de acuerdo a 0_proyecto/guias-para-colaboradores/guia-de-metadatos.md.

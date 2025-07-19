@@ -1,0 +1,67 @@
+---
+import Navbar from './partials/Navbar.astro';
+import Sidebar from './partials/Sidebar.astro';
+import Footer from './partials/Footer.astro';
+import '../styles/global.css';
+
+export interface Props {
+  title?: string;
+  description?: string;
+  currentPath?: string;
+}
+
+const { 
+  title = 'Subordinación y Valor', 
+  description = 'Universo de ficción argentino ambientado en el año 2178. Una Confederación clérico-militar donde rige el Anatema Mecánico y la Santa Inquisición Argentina.',
+  currentPath = Astro.url.pathname 
+} = Astro.props;
+
+const fullTitle = title === 'Subordinación y Valor' ? title : `${title} - Subordinación y Valor`;
+---
+
+<!DOCTYPE html>
+<html lang="es" class="h-full">
+<head>
+  <meta charset="UTF-8">
+  <meta name="description" content={description}>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="generator" content={Astro.generator}>
+  
+  <!-- Metadatos específicos para Argentina -->
+  <meta name="geo.region" content="AR">
+  <meta name="geo.country" content="Argentina">
+  <meta name="language" content="es-AR">
+  
+  <!-- Open Graph -->
+  <meta property="og:title" content={fullTitle}>
+  <meta property="og:description" content={description}>
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="es_AR">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content={fullTitle}>
+  <meta name="twitter:description" content={description}>
+  
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+  <title>{fullTitle}</title>
+</head>
+
+<body class="font-serif text-military-800 min-h-full bg-stone-50">
+  <!-- Barra superior -->
+  <Navbar currentPath={currentPath} />
+  
+  <!-- Barra lateral -->
+  <Sidebar />
+  
+  <!-- Contenido principal -->
+  <main class="pt-12 pb-12 min-h-screen">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+      <slot />
+    </div>
+  </main>
+  
+  <!-- Footer -->
+  <Footer />
+</body>
+</html> 
