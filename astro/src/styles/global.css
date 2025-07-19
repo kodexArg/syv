@@ -360,6 +360,100 @@
     @apply text-military-500 block py-1 pl-4 no-underline hover:text-military-800;
   }
 
+  /* === Clases de utilidad para elementos comunes === */
+  
+  .icon-text-link {
+    @apply flex items-center gap-2 no-underline transition-colors duration-200;
+  }
+
+  .icon-text-link:hover {
+    @apply text-military-800;
+  }
+
+  .page-header {
+    @apply border-b border-military-200 pb-8 mb-8;
+  }
+
+  .page-title {
+    @apply text-4xl font-bold text-military-900 mb-4 font-sans;
+  }
+
+  .page-description {
+    @apply text-xl text-military-600 leading-relaxed;
+  }
+
+  .content-grid {
+    @apply grid gap-8;
+  }
+
+  .content-grid.with-sidebar {
+    @apply grid-cols-[1fr_15rem];
+  }
+
+  .content-section {
+    @apply mb-8;
+  }
+
+  .icon-badge {
+    @apply inline-flex items-center gap-2 px-3 py-1 rounded-full text-sm font-medium;
+  }
+
+  .icon-badge.primary {
+    @apply bg-olive-100 text-olive-800;
+  }
+
+  .icon-badge.secondary {
+    @apply bg-military-100 text-military-800;
+  }
+
+  .card-grid {
+    @apply grid gap-4 mt-8;
+  }
+
+  .card-grid.responsive {
+    @apply grid-cols-[repeat(auto-fill,minmax(20rem,1fr))];
+  }
+
+  .content-card {
+    @apply block p-4 bg-white border border-military-200 rounded-md no-underline transition-colors duration-150;
+  }
+
+  .content-card:hover {
+    @apply border-olive-400;
+  }
+
+  .content-card .title {
+    @apply font-medium text-military-800 mb-1 m-0;
+  }
+
+  .content-card .description {
+    @apply text-sm text-military-600 m-0;
+  }
+
+  .nav-links {
+    @apply flex flex-col gap-4;
+  }
+
+  .nav-links.horizontal {
+    @apply flex-row;
+  }
+
+  .nav-links a {
+    @apply px-4 py-2 rounded bg-olive-600 text-white no-underline text-center transition-colors duration-200 hover:bg-olive-700;
+  }
+
+  .center-content {
+    @apply max-w-4xl mx-auto;
+  }
+
+  .center-content.narrow {
+    @apply max-w-2xl;
+  }
+
+  .center-content.wide {
+    @apply max-w-6xl;
+  }
+
   @media (max-width: 767px) {
     .sidebar {
       @apply w-64 -translate-x-64;
