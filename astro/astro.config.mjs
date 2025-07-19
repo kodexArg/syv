@@ -5,8 +5,8 @@ import rehypeSlug from 'rehype-slug';
 import rehypeAutolinkHeadings from 'rehype-autolink-headings';
 
 export default defineConfig({
-  site: 'https://kodexArg.github.io/syv',
-  base: '/',
+  site: 'https://cesped.github.io/syv',
+  base: '/syv',
   
   integrations: [
     mdx({

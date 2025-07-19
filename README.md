@@ -107,7 +107,7 @@ El repositorio incluye un workflow de GitHub Actions en `.github/workflows/deplo
 
 1. Se ejecuta automáticamente en push a las ramas `work` o `main`
 2. Construye el sitio desde el directorio `astro/` usando TypeScript
-3. Despliega automáticamente en `https://kodexArg.github.io/syv/`
+3. Despliega automáticamente en `https://cesped.github.io/syv/`
 
 **Configuración requerida:**
 - Asegurar que la opción **Pages** del repositorio esté configurada para usar *GitHub Actions*
