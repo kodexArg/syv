@@ -58,7 +58,7 @@ for (const config of collectionsConfig) {
       });
     }
   } catch (error) {
-    console.warn(`No se pudo cargar la colección: ${config.key}`, error);
+    // Colección no disponible
   }
 }
 ---
@@ -103,34 +103,4 @@ for (const config of collectionsConfig) {
   </div>
 </aside>
 
-<script>
-  document.addEventListener('DOMContentLoaded', () => {
-    const sidebarToggle = document.getElementById('sidebar-toggle');
-    const sidebar = document.getElementById('sidebar');
-    const main = document.getElementById('main-content');
-    const layoutContainer = document.querySelector('.layout-container');
-
-    function toggleSidebar() {
-      const isOpen = sidebar?.classList.contains('sidebar-open');
-      
-      if (isOpen) {
-        sidebar?.classList.remove('sidebar-open');
-        main?.classList.remove('main-shifted');
-        layoutContainer?.classList.remove('sidebar-open');
-      } else {
-        sidebar?.classList.add('sidebar-open');
-        main?.classList.add('main-shifted');
-        layoutContainer?.classList.add('sidebar-open');
-      }
-    }
-
-    sidebarToggle?.addEventListener('click', toggleSidebar);
-    
-    // En pantallas medianas+, mostrar sidebar por defecto
-    if (window.innerWidth >= 768) {
-      sidebar?.classList.add('sidebar-open');
-      main?.classList.add('main-shifted');
-      layoutContainer?.classList.add('sidebar-open');
-    }
-  });
-</script> 
+ 

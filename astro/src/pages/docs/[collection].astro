@@ -32,7 +32,7 @@ let entries: any[] = [];
 try {
   entries = await getCollection(collectionName as any);
 } catch (error) {
-  console.warn(`No se pudo cargar la colección: ${collectionName}`, error);
+  // Colección no disponible
 }
 ---
 

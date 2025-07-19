@@ -1,4 +1,6 @@
 ---
+import SidebarToggle from '../../components/ui/SidebarToggle.astro';
+
 export interface Props {
   currentPath?: string;
   navigationStructure: any[];
@@ -57,6 +59,8 @@ const breadcrumbs = generateBreadcrumbs(currentPath);
 ---
 
 <nav class="navbar">
+  <SidebarToggle />
+
   <div class="breadcrumbs">
     {breadcrumbs.map((crumb, index) => (
       <div class="breadcrumb-item">

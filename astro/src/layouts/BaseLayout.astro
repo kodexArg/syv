@@ -3,7 +3,7 @@ import Navbar from './partials/Navbar.astro';
 import Sidebar from './partials/Sidebar.astro';
 import Footer from './partials/Footer.astro';
 import '../styles/global.css';
-import { getCollection } from 'astro:content';
+
 
 export interface Props {
   title?: string;
@@ -19,31 +19,7 @@ const {
 
 const fullTitle = title === 'Subordinación y Valor' ? title : `${title} - Subordinación y Valor`;
 
-const collectionsConfig = [
-  { key: 'proyecto', name: 'Proyecto', icon: 'folder' },
-  { key: 'trasfondo', name: 'Trasfondo', icon: 'book' },
-  { key: 'atlas', name: 'Atlas', icon: 'map' },
-  { key: 'personajes', name: 'Personajes', icon: 'users' },
-  { key: 'diegesis', name: 'Diégesis', icon: 'document' },
-  { key: 'aventuras', name: 'Aventuras', icon: 'lightning' },
-  { key: 'media', name: 'Media', icon: 'photo' }
-];
-
-const navigationStructure = [];
-
-for (const config of collectionsConfig) {
-  try {
-    const entries = await getCollection(config.key as any);
-    if (entries.length > 0) {
-      navigationStructure.push({
-        ...config,
-        entries
-      });
-    }
-  } catch (error) {
-    console.warn(`No se pudo cargar la colección: ${config.key}`, error);
-  }
-}
+const navigationStructure: any[] = [];
 ---
 
 <!DOCTYPE html>
@@ -68,10 +44,6 @@ for (const config of collectionsConfig) {
   <Navbar currentPath={currentPath} navigationStructure={navigationStructure} />
   
   <div class="layout-container">
-    <button id="sidebar-toggle" class="sidebar-toggle">
-      <i class="fas fa-bars"></i>
-    </button>
-    
     <Sidebar />
     
     <main id="main-content" class="main-content">

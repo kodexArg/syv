@@ -140,173 +140,89 @@
     --tw-prose-th-borders: var(--color-military-200);
     --tw-prose-td-borders: var(--color-military-200);
   }
-}
 
-@layer utilities {
-  /* Layout principal */
   .navbar {
-    @apply font-sans bg-stone-50 border-b border-military-200;
-    position: fixed;
-    top: 0;
-    width: 100%;
-    height: 3rem;
-    z-index: 50;
-    display: flex;
-    align-items: center;
-    padding: 0 1rem;
+    @apply font-sans bg-stone-50 border-b border-military-200 fixed top-0 w-full h-12 z-50 flex items-center justify-between px-4;
+  }
+
+  .sidebar-toggle-navbar {
+    @apply bg-olive-600 text-white border-none w-8 h-8 rounded cursor-pointer flex items-center justify-center transition-colors duration-200 hover:bg-olive-700;
+  }
+
+  .sidebar-toggle-navbar i {
+    @apply text-sm;
   }
 
   .breadcrumbs {
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
+    @apply flex items-center gap-2;
   }
 
   .breadcrumb-item {
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
+    @apply flex items-center gap-2;
   }
 
   .breadcrumb-separator {
-    @apply text-military-400;
-    font-size: 0.75rem;
+    @apply text-military-400 text-xs;
   }
 
   .breadcrumb-item a {
-    @apply text-military-600;
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
-    text-decoration: none;
-    font-size: 0.875rem;
-  }
-
-  .breadcrumb-item a:hover {
-    @apply text-military-800;
+    @apply text-military-600 flex items-center gap-2 no-underline text-sm hover:text-military-800;
   }
 
   .layout-container {
-    position: relative;
-    padding-top: 3rem;
-  }
-
-  .sidebar-toggle {
-    position: fixed;
-    left: 0;
-    top: 3rem;
-    width: 1rem;
-    height: 3rem;
-    background: var(--color-olive-600);
-    color: white;
-    border: none;
-    z-index: 45;
-    cursor: pointer;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    transition: all 0.3s ease;
-  }
-
-  .sidebar-toggle:hover {
-    background: var(--color-olive-700);
-    width: 1.5rem;
+    @apply relative pt-12;
   }
 
   .sidebar {
-    @apply font-sans bg-stone-50 border-r border-military-200;
-    position: fixed;
-    left: 0;
-    top: 3rem;
-    width: 20rem;
-    height: calc(100vh - 3rem);
-    transform: translateX(-20rem);
-    transition: transform 0.3s ease;
-    z-index: 40;
-    overflow-y: auto;
+    @apply font-sans bg-stone-50 border-r border-military-200 fixed left-0 top-12 w-80 h-[calc(100vh-3rem)] -translate-x-80 transition-transform duration-300 z-40 overflow-y-auto;
   }
 
   .sidebar-open {
-    transform: translateX(0);
+    @apply translate-x-0;
   }
 
   .main-content {
-    min-height: calc(100vh - 6rem);
-    transition: margin-left 0.3s ease;
-    padding: 2rem;
-    margin-left: 1rem;
+    @apply min-h-[calc(100vh-6rem)] transition-[margin-left] duration-300 p-8 ml-4;
   }
 
   .main-shifted {
-    margin-left: 21rem;
+    @apply ml-[21rem];
   }
 
-  /* Sidebar visible por defecto en pantallas medianas+ */
   @media (min-width: 768px) {
     .sidebar {
-      transform: translateX(0);
+      @apply translate-x-0;
     }
     
     .main-content {
-      margin-left: 21rem;
-    }
-    
-    .sidebar-toggle {
-      left: 20rem;
+      @apply ml-[21rem];
     }
   }
 
   .footer {
-    @apply font-sans bg-stone-50 border-t border-military-200;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
-    height: 3rem;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 1rem;
-    z-index: 40;
+    @apply font-sans bg-stone-50 border-t border-military-200 fixed bottom-0 w-full h-12 flex items-center justify-center gap-4 z-40;
   }
 
   .footer a {
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
-    text-decoration: none;
+    @apply flex items-center gap-2 no-underline;
   }
 
   .footer i {
-    font-size: 1rem;
+    @apply text-base;
   }
 
-  /* Componentes específicos */
   .home-content {
-    max-width: 50rem;
-    margin: 0 auto;
-    text-align: center;
+    @apply max-w-4xl mx-auto text-center;
   }
 
   .start-links {
-    display: flex;
-    flex-direction: column;
-    gap: 1rem;
-    margin-top: 2rem;
+    @apply flex flex-col gap-4 mt-8;
   }
 
   .start-links a {
-    @apply px-4 py-2 rounded bg-olive-600 text-white;
-    text-decoration: none;
-    display: block;
-    max-width: 20rem;
-    margin: 0 auto;
+    @apply px-4 py-2 rounded bg-olive-600 text-white no-underline block max-w-80 mx-auto hover:bg-olive-700;
   }
 
-  .start-links a:hover {
-    @apply bg-olive-700;
-  }
-
-  /* Sidebar navegación */
   .sidebar h2 {
     @apply text-lg font-semibold mb-2 text-military-800;
   }
@@ -316,78 +232,47 @@
   }
 
   .sidebar nav > div {
-    margin-bottom: 1rem;
+    @apply mb-4;
   }
 
   .sidebar h3 {
-    @apply text-sm font-medium mb-2 text-military-800;
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
+    @apply text-sm font-medium mb-2 text-military-800 flex items-center gap-2;
   }
 
   .sidebar nav div > div {
-    margin-left: 1rem;
+    @apply ml-4;
   }
 
   .sidebar nav a {
-    @apply text-sm text-military-600;
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
-    padding: 0.25rem 0;
-    text-decoration: none;
+    @apply text-sm text-military-600 flex items-center gap-2 py-1 no-underline hover:text-military-800;
   }
 
-  .sidebar nav a:hover {
-    @apply text-military-800;
-  }
-
-  /* Páginas de colección */
   .collection-page {
-    max-width: 60rem;
-    margin: 0 auto;
+    @apply max-w-4xl mx-auto;
   }
 
   .collection-badge {
-    @apply inline-flex items-center px-3 py-1 rounded-full text-sm font-medium bg-olive-100 text-olive-800;
-    gap: 0.5rem;
-    margin-bottom: 1rem;
+    @apply inline-flex items-center px-3 py-1 rounded-full text-sm font-medium bg-olive-100 text-olive-800 gap-2 mb-4;
   }
 
   .documents-list {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(20rem, 1fr));
-    gap: 1rem;
-    margin-top: 2rem;
+    @apply grid grid-cols-[repeat(auto-fill,minmax(20rem,1fr))] gap-4 mt-8;
   }
 
   .document-card {
-    @apply block p-4 bg-white border border-military-200 rounded-md;
-    display: flex;
-    align-items: flex-start;
-    gap: 1rem;
-    text-decoration: none;
-    transition: border-color 0.15s ease;
-  }
-
-  .document-card:hover {
-    @apply border-olive-400;
+    @apply block p-4 bg-white border border-military-200 rounded-md flex items-start gap-4 no-underline transition-colors duration-150 hover:border-olive-400;
   }
 
   .document-card h3 {
-    @apply font-medium text-military-800 mb-1;
-    margin: 0;
+    @apply font-medium text-military-800 mb-1 m-0;
   }
 
   .document-card p {
-    @apply text-sm text-military-600;
-    margin: 0;
+    @apply text-sm text-military-600 m-0;
   }
 
   .empty-state {
-    text-align: center;
-    padding: 3rem 0;
+    @apply text-center py-12;
   }
 
   .empty-state h3 {
@@ -398,37 +283,28 @@
     @apply text-military-600;
   }
 
-  /* Layout de documentos */
   .document-layout {
-    max-width: 70rem;
-    margin: 0 auto;
+    @apply max-w-6xl mx-auto;
   }
 
   .document-header {
-    border-bottom: 1px solid var(--color-military-200);
-    padding-bottom: 2rem;
-    margin-bottom: 2rem;
+    @apply border-b border-military-200 pb-8 mb-8;
   }
 
   .document-header .description {
-    @apply text-xl text-military-600;
-    margin-top: 1rem;
+    @apply text-xl text-military-600 mt-4;
   }
 
   .document-grid {
-    display: grid;
-    grid-template-columns: 1fr 15rem;
-    gap: 2rem;
+    @apply grid grid-cols-[1fr_15rem] gap-8;
   }
 
   .document-content {
-    min-width: 0;
+    @apply min-w-0;
   }
 
   .document-toc {
-    position: sticky;
-    top: 4rem;
-    height: fit-content;
+    @apply sticky top-16 h-fit;
   }
 
   .document-toc nav {
@@ -436,78 +312,52 @@
   }
 
   .document-toc h3 {
-    @apply text-sm font-semibold mb-3 text-military-800;
-    border-bottom: 1px solid var(--color-military-200);
-    padding-bottom: 0.5rem;
-    margin: 0;
+    @apply text-sm font-semibold mb-3 text-military-800 border-b border-military-200 pb-2 m-0;
   }
 
   .document-toc ul {
-    list-style: none;
-    margin: 0;
-    padding: 0;
+    @apply list-none m-0 p-0;
   }
 
   .document-toc li {
-    margin: 0;
+    @apply m-0;
   }
 
   .toc-h2 {
-    @apply text-military-600 font-medium;
-    display: block;
-    padding: 0.25rem 0;
-    text-decoration: none;
+    @apply text-military-600 font-medium block py-1 no-underline hover:text-military-800;
   }
 
   .toc-h3 {
-    @apply text-military-500;
-    display: block;
-    padding: 0.25rem 0 0.25rem 1rem;
-    text-decoration: none;
+    @apply text-military-500 block py-1 pl-4 no-underline hover:text-military-800;
   }
 
-  .toc-h2:hover, .toc-h3:hover {
-    @apply text-military-800;
-  }
-
-  /* Responsive */
   @media (max-width: 767px) {
     .sidebar {
-      width: 16rem;
-      transform: translateX(-16rem);
+      @apply w-64 -translate-x-64;
     }
     
     .main-content {
-      margin-left: 1rem;
+      @apply ml-4;
     }
     
     .main-shifted {
-      margin-left: 17rem;
-    }
-    
-    .sidebar-toggle {
-      left: 0;
-    }
-    
-    .sidebar-open .sidebar-toggle {
-      left: 16rem;
+      @apply ml-[17rem];
     }
 
     .documents-list {
-      grid-template-columns: 1fr;
+      @apply grid-cols-1;
     }
 
     .document-grid {
-      grid-template-columns: 1fr;
+      @apply grid-cols-1;
     }
 
     .document-toc {
-      order: -1;
-      position: static;
+      @apply order-first static;
     }
 
     .start-links a {
-      max-width: none;
+      @apply max-w-none;
     }
   }
 } 

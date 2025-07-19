@@ -1,0 +1,66 @@
+---
+// Componente para el botón toggle del sidebar
+---
+
+<button id="toggle-sidebar" class="sidebar-toggle-navbar" title="Mostrar Sidebar">
+  <i id="sidebar-icon" class="fas fa-bars"></i>
+</button>
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    const toggleSidebar = document.getElementById('toggle-sidebar');
+    const sidebarIcon = document.getElementById('sidebar-icon');
+    const sidebar = document.getElementById('sidebar');
+    const main = document.getElementById('main-content');
+
+    function updateSidebarState() {
+      const isOpen = sidebar?.classList.contains('sidebar-open');
+      
+      if (isOpen) {
+        // Sidebar visible -> mostrar ícono para CERRAR
+        if (sidebarIcon) {
+          sidebarIcon.className = 'fas fa-times';
+          sidebarIcon.parentElement?.setAttribute('title', 'Ocultar Sidebar');
+        }
+      } else {
+        // Sidebar oculto -> mostrar ícono para ABRIR  
+        if (sidebarIcon) {
+          sidebarIcon.className = 'fas fa-bars';
+          sidebarIcon.parentElement?.setAttribute('title', 'Mostrar Sidebar');
+        }
+      }
+    }
+
+    function toggleSidebarFromButton() {
+      const isOpen = sidebar?.classList.contains('sidebar-open');
+      
+      if (isOpen) {
+        // Ocultar sidebar
+        sidebar?.classList.remove('sidebar-open');
+        main?.classList.remove('main-shifted');
+      } else {
+        // Mostrar sidebar
+        sidebar?.classList.add('sidebar-open');
+        main?.classList.add('main-shifted');
+      }
+      
+      updateSidebarState();
+    }
+
+    // Event listener para el botón
+    toggleSidebar?.addEventListener('click', toggleSidebarFromButton);
+    
+    // Configuración inicial
+    if (window.innerWidth >= 768) {
+      // En pantallas medianas+, mostrar sidebar por defecto
+      sidebar?.classList.add('sidebar-open');
+      main?.classList.add('main-shifted');
+    } else {
+      // En pantallas pequeñas, ocultar sidebar por defecto
+      sidebar?.classList.remove('sidebar-open');
+      main?.classList.remove('main-shifted');
+    }
+    
+    updateSidebarState();
+  });
+</script> 
