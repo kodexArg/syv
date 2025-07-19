@@ -1,8 +1,7 @@
 import { defineCollection, z } from 'astro:content';
 import { glob } from 'astro/loaders';
 
-// Schema ultra simple para testing
-const simpleSchema = z.object({
+const documentSchema = z.object({
   titulo: z.string(),
   carpeta: z.string(),
   descripcion: z.string(),
@@ -14,55 +13,54 @@ const simpleSchema = z.object({
   alerta_spoiler: z.string().optional(),
 }).passthrough();
 
-// Solo una colección para testing
 export const collections = {
   'proyecto': defineCollection({
     loader: glob({ 
       pattern: '**/*.md',
       base: '../0_proyecto' 
     }),
-    schema: simpleSchema,
+    schema: documentSchema,
   }),
   'trasfondo': defineCollection({
     loader: glob({
       pattern: '**/*.md',
       base: '../1_trasfondo'
     }),
-    schema: simpleSchema,
+    schema: documentSchema,
   }),
   'atlas': defineCollection({
     loader: glob({
       pattern: '**/*.md',
       base: '../2_atlas'
     }),
-    schema: simpleSchema,
+    schema: documentSchema,
   }),
   'personajes': defineCollection({
     loader: glob({
       pattern: '**/*.md',
       base: '../3_personajes'
     }),
-    schema: simpleSchema,
+    schema: documentSchema,
   }),
   'diegesis': defineCollection({
     loader: glob({
       pattern: '**/*.md',
       base: '../4_diegesis'
     }),
-    schema: simpleSchema,
+    schema: documentSchema,
   }),
   'aventuras': defineCollection({
     loader: glob({
       pattern: '**/*.md',
       base: '../5_aventuras'
     }),
-    schema: simpleSchema,
+    schema: documentSchema,
   }),
   'media': defineCollection({
     loader: glob({
       pattern: '**/*.md',
       base: '../6_media'
     }),
-    schema: simpleSchema,
+    schema: documentSchema,
   }),
 };

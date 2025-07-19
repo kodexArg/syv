@@ -3,6 +3,7 @@ import Navbar from './partials/Navbar.astro';
 import Sidebar from './partials/Sidebar.astro';
 import Footer from './partials/Footer.astro';
 import '../styles/global.css';
+import { getCollection } from 'astro:content';
 
 export interface Props {
   title?: string;
@@ -17,6 +18,66 @@ const {
 } = Astro.props;
 
 const fullTitle = title === 'Subordinación y Valor' ? title : `${title} - Subordinación y Valor`;
+
+const collectionsConfig = [
+  { key: 'proyecto', name: 'Proyecto', icon: 'folder' },
+  { key: 'trasfondo', name: 'Trasfondo', icon: 'book' },
+  { key: 'atlas', name: 'Atlas', icon: 'map' },
+  { key: 'personajes', name: 'Personajes', icon: 'users' },
+  { key: 'diegesis', name: 'Diégesis', icon: 'document' },
+  { key: 'aventuras', name: 'Aventuras', icon: 'lightning' },
+  { key: 'media', name: 'Media', icon: 'photo' }
+];
+
+function organizeByFolders(entries: any[]) {
+  const organized: Record<string, { url: string; items: any[] }> = {};
+  
+  for (const entry of entries) {
+    const pathParts = entry.id.split('/');
+    const folder = pathParts.length > 1 ? pathParts[0] : '_root';
+    
+    if (!organized[folder]) {
+      organized[folder] = { url: '', items: [] };
+    }
+    
+    organized[folder].items.push({
+      ...entry,
+      displayName: entry.data.titulo || entry.id.split('/').pop(),
+      url: `/docs/${entry.collection}/${entry.id}`,
+      description: entry.data.descripcion
+    });
+  }
+  
+  for (const folder in organized) {
+    organized[folder].items.sort((a, b) => 
+      a.displayName.localeCompare(b.displayName, 'es', { numeric: true })
+    );
+    if (organized[folder].items.length > 0) {
+      organized[folder].url = organized[folder].items[0].url;
+    }
+  }
+  
+  return organized;
+}
+
+const navigationStructure = [];
+
+for (const config of collectionsConfig) {
+  try {
+    const entries = await getCollection(config.key as any);
+    
+    if (entries.length > 0) {
+      const organizedFolders = organizeByFolders(entries);
+      
+      navigationStructure.push({
+        ...config,
+        organized: organizedFolders
+      });
+    }
+  } catch (error) {
+    console.warn(`No se pudo cargar la colección: ${config.key}`, error);
+  }
+}
 ---
 
 <!DOCTYPE html>
@@ -27,18 +88,15 @@ const fullTitle = title === 'Subordinación y Valor' ? title : `${title} - Subor
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="generator" content={Astro.generator}>
   
-  <!-- Metadatos específicos para Argentina -->
   <meta name="geo.region" content="AR">
   <meta name="geo.country" content="Argentina">
   <meta name="language" content="es-AR">
   
-  <!-- Open Graph -->
   <meta property="og:title" content={fullTitle}>
   <meta property="og:description" content={description}>
   <meta property="og:type" content="website">
   <meta property="og:locale" content="es_AR">
   
-  <!-- Twitter Card -->
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content={fullTitle}>
   <meta name="twitter:description" content={description}>
@@ -48,20 +106,16 @@ const fullTitle = title === 'Subordinación y Valor' ? title : `${title} - Subor
 </head>
 
 <body class="font-serif text-military-800 min-h-full bg-stone-50">
-  <!-- Barra superior -->
-  <Navbar currentPath={currentPath} />
+  <Navbar currentPath={currentPath} navigationStructure={navigationStructure} />
   
-  <!-- Barra lateral -->
   <Sidebar />
   
-  <!-- Contenido principal -->
   <main class="pt-12 pb-12 min-h-screen">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
       <slot />
     </div>
   </main>
   
-  <!-- Footer -->
   <Footer />
 </body>
 </html> 

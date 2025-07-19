@@ -15,18 +15,17 @@ const collectionsConfig = [
 
 // Función para organizar entradas por carpetas
 function organizeByFolders(entries: any[]) {
-  const organized: Record<string, any[]> = {};
+  const organized: Record<string, { url: string; items: any[] }> = {};
   
   for (const entry of entries) {
-    // Usar entry.id en lugar de entry.slug que no existe
     const pathParts = entry.id.split('/');
     const folder = pathParts.length > 1 ? pathParts[0] : '_root';
     
     if (!organized[folder]) {
-      organized[folder] = [];
+      organized[folder] = { url: '', items: [] };
     }
     
-    organized[folder].push({
+    organized[folder].items.push({
       ...entry,
       displayName: entry.data.titulo || entry.id.split('/').pop(),
       url: `/docs/${entry.collection}/${entry.id}`,
@@ -34,11 +33,14 @@ function organizeByFolders(entries: any[]) {
     });
   }
   
-  // Ordenar entradas dentro de cada carpeta por nombre
+  // Ordenar entradas dentro de cada carpeta y asignar URL a la carpeta (primer elemento)
   for (const folder in organized) {
-    organized[folder].sort((a, b) => 
+    organized[folder].items.sort((a, b) => 
       a.displayName.localeCompare(b.displayName, 'es', { numeric: true })
     );
+    if (organized[folder].items.length > 0) {
+      organized[folder].url = organized[folder].items[0].url;
+    }
   }
   
   return organized;
@@ -52,11 +54,11 @@ for (const config of collectionsConfig) {
     const entries = await getCollection(config.key as any);
     
     if (entries.length > 0) {
-      const organized = organizeByFolders(entries);
+      const organizedFolders = organizeByFolders(entries);
       
       navigationStructure.push({
         ...config,
-        organized
+        organized: organizedFolders
       });
     }
   } catch (error) {
@@ -91,17 +93,20 @@ for (const config of collectionsConfig) {
           </h3>
           
           <div class="ml-4 space-y-1">
-            {Object.entries(section.organized).map(([folderName, items]) => (
+            {Object.entries(section.organized).map(([folderName, folderData]) => (
               <div>
                 {folderName !== '_root' && (
-                  <div class="text-xs font-medium text-military-600 mb-2 flex items-center">
+                  <a 
+                    href={folderData.url} 
+                    class="text-xs font-medium text-military-600 mb-2 flex items-center hover:text-military-800 transition-colors duration-150"
+                  >
                     <Icon name="folder-solid" size="sm" class="mr-1 text-sage-500" />
                     {folderName}
-                  </div>
+                  </a>
                 )}
                 
                 <div class={folderName !== '_root' ? 'ml-4 space-y-1' : 'space-y-1'}>
-                  {items.map(item => (
+                  {folderData.items.map(item => (
                     <a 
                       href={item.url}
                       class="block text-sm px-2 py-2 rounded text-military-600 hover:text-military-800 hover:bg-military-50 transition-colors duration-150 group"

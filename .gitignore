@@ -1,7 +1,10 @@
 # build output
 dist/
+astro/dist/
+
 # generated types
 .astro/
+astro/.astro/
 
 # dependencies
 node_modules/
@@ -23,11 +26,13 @@ pnpm-debug.log*
 # jetbrains setting folder
 .idea/
 
+# VSCode settings (keeping extensions and launch configs)
+.vscode/settings.json
+
 # Archivos temporales de editores
 *~
 *.swp
 *.swo
-.vscode/settings.json
 
 # Archivos de backup
 *.bak
@@ -35,3 +40,6 @@ pnpm-debug.log*
 
 # Logs generales
 *.log
+
+# package-lock.json (opcional, mantener si se usa npm)
+# astro/package-lock.json

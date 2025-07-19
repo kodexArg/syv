@@ -1,7 +1,6 @@
 ---
-description: 
-globs: 
-alwaysApply: true
+globs: *.md
+alwaysApply: false
 ---
 ---
 titulo: Regla de uso obligatorio de guías de colaboración

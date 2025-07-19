@@ -1,4 +1,3 @@
-// @ts-check
 import { defineConfig } from 'astro/config';
 import mdx from '@astrojs/mdx';
 import tailwindcss from '@tailwindcss/vite';
@@ -6,23 +5,19 @@ import rehypeSlug from 'rehype-slug';
 import rehypeAutolinkHeadings from 'rehype-autolink-headings';
 
 export default defineConfig({
-  // Configuración del sitio
   site: 'https://kodexArg.github.io/syv',
   base: '/',
   
-  // Integraciones
   integrations: [
     mdx({
       rehypePlugins: [rehypeSlug, rehypeAutolinkHeadings]
     })
   ],
   
-  // Procesamiento de Markdown
   markdown: {
     rehypePlugins: [rehypeSlug, rehypeAutolinkHeadings]
   },
   
-  // Configuración de Vite
   vite: {
     plugins: [tailwindcss()],
     resolve: {

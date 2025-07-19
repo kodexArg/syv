@@ -48,6 +48,7 @@ npm run preview      # Previsualiza la build localmente
 
 ```
 /
+├── .vscode/                  # Configuración de VSCode (extensiones, launch.json)
 ├── astro/                    # Aplicación web TypeScript
 │   ├── src/
 │   │   ├── components/       # Componentes UI reutilizables
@@ -81,19 +82,19 @@ El proyecto utiliza un sistema avanzado de colecciones de Astro que organiza aut
 - **Carga dinámica**: Utiliza `glob()` loader para cargar archivos markdown
 - **Esquemas flexibles**: Validación de metadatos con Zod
 - **Aliases configurados**: Acceso directo a carpetas de contenido (`@proyecto`, `@trasfondo`, etc.)
-- **Rutas dinámicas**: Generación automática de páginas en `/docs/[collection]/[...slug]`
+- **Rutas dinámicas**: Generación automática de páginas para `/docs/[collection]/[...slug]`.
 
 ### Navegación inteligente
 
-- **Sidebar dinámico**: Organización automática por carpetas y colecciones
-- **Breadcrumbs**: Navegación contextual en la barra superior
+- **Sidebar dinámico**: Organización automática por carpetas y colecciones, con enlaces a los primeros documentos.
+- **Breadcrumbs**: Navegación contextual en la barra superior, con enlaces a los primeros documentos.
 - **Tabla de contenidos**: TOC automático para documentos markdown
 - **Iconografía consistente**: Sistema de iconos SVG integrado
 
 ### Características avanzadas
 
 - **Tipografía optimizada**: Fuentes Google Fonts (Crimson Text + Source Sans 3)
-- **Tema personalizado**: Paleta de colores militares/oliva coherente con el universo
+- **Tema personalizado en CSS**: Paleta de colores militares/oliva definida con variables CSS en `@layer theme` para fácil edición y coherencia con el universo.
 - **Metadatos enriquecidos**: Soporte completo para front matter YAML
 - **SEO optimizado**: Meta tags, Open Graph y Twitter Cards
 - **Responsive design**: Adaptado para todos los dispositivos
