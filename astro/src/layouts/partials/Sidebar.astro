@@ -108,12 +108,29 @@ for (const config of collectionsConfig) {
     const sidebarToggle = document.getElementById('sidebar-toggle');
     const sidebar = document.getElementById('sidebar');
     const main = document.getElementById('main-content');
+    const layoutContainer = document.querySelector('.layout-container');
 
     function toggleSidebar() {
-      sidebar?.classList.toggle('sidebar-open');
-      main?.classList.toggle('main-shifted');
+      const isOpen = sidebar?.classList.contains('sidebar-open');
+      
+      if (isOpen) {
+        sidebar?.classList.remove('sidebar-open');
+        main?.classList.remove('main-shifted');
+        layoutContainer?.classList.remove('sidebar-open');
+      } else {
+        sidebar?.classList.add('sidebar-open');
+        main?.classList.add('main-shifted');
+        layoutContainer?.classList.add('sidebar-open');
+      }
     }
 
     sidebarToggle?.addEventListener('click', toggleSidebar);
+    
+    // En pantallas medianas+, mostrar sidebar por defecto
+    if (window.innerWidth >= 768) {
+      sidebar?.classList.add('sidebar-open');
+      main?.classList.add('main-shifted');
+      layoutContainer?.classList.add('sidebar-open');
+    }
   });
 </script> 
