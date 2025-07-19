@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;1,400&family=Source+Sans+3:wght@300;400;500;600&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
 
 @import "tailwindcss";
-@plugin "@tailwindcss/typography";
 
 @theme {
   --color-military-50: #f6f7f4;
@@ -150,24 +149,82 @@
   }
 
   .prose-content {
-    @apply prose prose-lg max-w-none;
-    --tw-prose-body: var(--color-military-700);
-    --tw-prose-headings: var(--color-military-800);
-    --tw-prose-links: var(--color-olive-600);
-    --tw-prose-bold: var(--color-military-800);
-    --tw-prose-counters: var(--color-military-600);
-    --tw-prose-bullets: var(--color-olive-400);
-    --tw-prose-hr: var(--color-military-200);
-    --tw-prose-quotes: var(--color-military-600);
-    --tw-prose-quote-borders: var(--color-olive-400);
-    --tw-prose-captions: var(--color-military-500);
-    --tw-prose-code: var(--color-military-800);
-    --tw-prose-pre-code: var(--color-military-100);
-    --tw-prose-pre-bg: var(--color-military-900);
-    --tw-prose-th-borders: var(--color-military-200);
-    --tw-prose-td-borders: var(--color-military-200);
-    --tw-prose-invert-body: var(--color-military-200);
-    --tw-prose-invert-headings: white;
+    @apply max-w-none;
+    /* Estilos de prose personalizados sin depender del plugin typography */
+    color: var(--color-military-700);
+    line-height: 1.7;
+  }
+
+  .prose-content h1,
+  .prose-content h2,
+  .prose-content h3,
+  .prose-content h4,
+  .prose-content h5,
+  .prose-content h6 {
+    color: var(--color-military-800);
+    font-weight: 600;
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+  }
+
+  .prose-content p {
+    margin-bottom: 1em;
+  }
+
+  .prose-content a {
+    color: var(--color-olive-600);
+    text-decoration: underline;
+  }
+
+  .prose-content a:hover {
+    color: var(--color-olive-700);
+  }
+
+  .prose-content strong {
+    color: var(--color-military-800);
+    font-weight: 600;
+  }
+
+  .prose-content ul,
+  .prose-content ol {
+    margin: 1em 0;
+    padding-left: 1.5em;
+  }
+
+  .prose-content li {
+    margin: 0.5em 0;
+  }
+
+  .prose-content blockquote {
+    border-left: 4px solid var(--color-olive-400);
+    background-color: var(--color-sage-50);
+    padding: 1em 1.5em;
+    margin: 1.5em 0;
+    font-style: italic;
+    color: var(--color-military-600);
+  }
+
+  .prose-content code {
+    background-color: var(--color-military-100);
+    color: var(--color-military-800);
+    padding: 0.25em 0.5em;
+    border-radius: 0.25rem;
+    font-size: 0.875em;
+  }
+
+  .prose-content pre {
+    background-color: var(--color-military-900);
+    color: var(--color-military-100);
+    padding: 1em;
+    border-radius: 0.5rem;
+    overflow-x: auto;
+    margin: 1em 0;
+  }
+
+  .prose-content pre code {
+    background-color: transparent;
+    color: inherit;
+    padding: 0;
   }
 
   .navbar {
