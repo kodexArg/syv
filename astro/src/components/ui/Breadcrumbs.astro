@@ -1,0 +1,68 @@
+---
+export interface Props {
+  currentPath?: string;
+}
+
+const { currentPath = "/" } = Astro.props;
+
+function generateBreadcrumbs(path: string) {
+  if (path === "/" || path === "") return [{ name: "Inicio", path: "/", icon: "fas fa-home" }];
+  
+  const segments = path.split("/").filter(Boolean);
+  const breadcrumbs = [{ name: "Inicio", path: "/", icon: "fas fa-home" }];
+  
+  if (segments[0] === "docs" && segments.length > 1) {
+    const collectionName = segments[1];
+    const collectionIcons = {
+      'proyecto': 'fas fa-folder',
+      'trasfondo': 'fas fa-book',
+      'atlas': 'fas fa-map',
+      'personajes': 'fas fa-users',
+      'diegesis': 'fas fa-file-alt',
+      'aventuras': 'fas fa-bolt',
+      'media': 'fas fa-image'
+    };
+    
+    const displayNames = {
+      'proyecto': 'Proyecto',
+      'trasfondo': 'Trasfondo', 
+      'atlas': 'Atlas',
+      'personajes': 'Personajes',
+      'diegesis': 'Diégesis',
+      'aventuras': 'Aventuras',
+      'media': 'Media'
+    };
+    
+    breadcrumbs.push({
+      name: displayNames[collectionName as keyof typeof displayNames] || collectionName,
+      path: `/docs/${collectionName}`,
+      icon: collectionIcons[collectionName as keyof typeof collectionIcons] || 'fas fa-folder'
+    });
+    
+    if (segments.length > 2) {
+      const lastSegment = segments[segments.length - 1];
+      breadcrumbs.push({
+        name: lastSegment.charAt(0).toUpperCase() + lastSegment.slice(1).replace(/-/g, ' '),
+        path: currentPath,
+        icon: 'fas fa-file'
+      });
+    }
+  }
+  
+  return breadcrumbs;
+}
+
+const breadcrumbs = generateBreadcrumbs(currentPath);
+---
+
+<div class="breadcrumbs">
+  {breadcrumbs.map((crumb, index) => (
+    <div class="breadcrumb-item">
+      {index > 0 && <i class="fas fa-chevron-right breadcrumb-separator"></i>}
+      <a href={crumb.path}>
+        <i class={crumb.icon}></i>
+        {crumb.name}
+      </a>
+    </div>
+  ))}
+</div> 
