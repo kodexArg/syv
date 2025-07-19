@@ -327,7 +327,7 @@
   /* === Estilos personalizados para el header de Markdown === */
   
   .markdown-header {
-    @apply bg-gradient-to-r from-sage-50 to-military-50 border border-military-100 rounded-lg mb-6 shadow-sm;
+    @apply bg-gradient-to-r from-sage-100 to-military-50 border border-military-200 rounded-lg mb-12 shadow-sm;
   }
 
   .markdown-header-content {
