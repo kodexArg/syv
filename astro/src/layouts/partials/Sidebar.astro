@@ -26,7 +26,7 @@ function organizeByFolders(entries: any[]) {
     organized[folder].items.push({
       ...entry,
       displayName: entry.data.titulo || entry.id.split('/').pop(),
-      url: `/docs/${entry.collection}/${entry.id}`,
+      url: `docs/${entry.collection}/${entry.id}`,
       description: entry.data.descripcion
     });
   }

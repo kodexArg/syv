@@ -54,7 +54,7 @@ try {
 
     <div class="documents-list">
       {entries.map(entry => (
-        <a href={`/docs/${entry.collection}/${entry.id}`} class="document-card">
+        <a href={`docs/${entry.collection}/${entry.id}`} class="document-card">
           <Icon name="document-solid" size="sm" />
           <div>
             <h3>{entry.data.titulo || entry.id.split('/').pop()}</h3>
