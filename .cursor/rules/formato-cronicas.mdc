@@ -1,0 +1,122 @@
+---
+description: cronología
+globs: 
+alwaysApply: false
+---
+# Formato y Estilo para Crónicas Históricas
+
+Cuando generes contenido para archivos de cronología del universo Subordinación y Valor, aplica estas reglas estrictas:
+
+## Contexto Narrativo
+
+**Perspectiva temporal**: Redacta desde el año 2178, como historiador de Ciudad Dársena.
+
+**Limitaciones de fuentes**: Usa ÚNICAMENTE fuentes físicas disponibles en 2178:
+- Documentos arqueológicos recuperados
+- Y otras pruebas arqueológicas
+- Testimonios orales transmitidos generacionalmente  
+- Fotografías físicas deterioradas
+- Artefactos y evidencia material
+
+**Prohibiciones absolutas**:
+- NO mencionar fuentes digitales (destruidas por el Anatema Mecánico)
+- NO citar Internet o medios electrónicos
+- NO usar información que solo existiría en formato digital
+
+## Estructura de Documentos
+
+### Jerarquía de Títulos
+
+**Nivel 1**: Título de la era histórica
+- Usar UNO por archivo
+- Debe coincidir con el nombre del archivo
+- Ejemplo: `# Los Años del Caos (2029-2035)`
+
+**Nivel 2**: Años específicos
+- Marcar años concretos dentro de la era
+- Formato: `## [Año]`
+- Ejemplos: `## 2030`, `## 2045`
+- No se requieren todos los años, sólo los que tengan contenido.
+
+**Nivel 3**: Artículos y eventos, lo más **IMPORTANTE**.
+- Títulos atractivos que capturen el momento histórico
+- Usar para eventos específicos, desarrollos sociales, cambios políticos
+- Ejemplos: `### La Caída de las Telecomunicaciones`, `### Los Últimos Científicos`
+
+### Marcado de Eventos Críticos (Hitos)
+
+Para eventos de máxima relevancia histórica que cambiaron el curso de la historia:
+
+**Formato obligatorio**:
+```markdown
+### **hito** [Nombre del Evento] del [Fecha Más Precisa Posible]
+```
+
+**Criterios para usar "hito"**:
+- Eventos que marcaron el fin o inicio de una era
+- Catástrofes o cambios irreversibles
+- Fechas precisas documentadas arqueológicamente
+- Impacto directo en el presente (2178)
+
+**Ejemplos correctos**:
+- `### **hito** El Fin de los Secretos del 4 de Abril de 2061`
+- `### **hito** Revolución de Octubre del '34`
+- `### **hito** La Gran Purga Digital de Marzo de 2048`
+
+**Cuándo NO usar "hito"**:
+- Procesos graduales sin fecha específica
+- Eventos menores o locales
+- Información incierta o especulativa
+
+### Extensión por Relevancia
+- **Eventos críticos**: 3-5 párrafos detallados
+- **Eventos importantes**: 2-3 párrafos  
+- **Información contextual**: 1-2 párrafos
+- **Notas menores**: 1 párrafo
+- **Sin información**: Cuando sólo tengas el título y no conozcas el contenido, escribe 'Sin contenido.'
+
+## Estilo de Escritura
+
+**Tono**: Historiador académico objetivo pero consciente de limitaciones documentales. Informal, como una wikipedia.
+
+**Perspectiva geográfica**:
+- Información genérica y vaga para lugares fuera de latinoamérica, incluso poproniendo diferentes posibilidades.
+- Información genérica y sesgada para eventos internacionales.
+- Información precisa para Argentina, donde podrás incluso mencionar qué había antes o el nombre de tal o cual calle o lugar.
+
+**Lenguaje**:
+- Formal, informativo, accesible.
+- Como una Wikipedia.
+- Reconoce incertidumbres: "Los registros sugieren...", "Según testimonios..."
+- Informa sobre eventos que deben ser censurados por orden de la SIA
+- Evita especulación sin fundamento
+- Menciona cuando la información es incompleta o contradictoria
+
+## Elementos Obligatorios
+
+1. **Tags de años**: Incluir años relevantes en metadatos
+2. **Referencias implícitas**: Mencionar tipo de fuente cuando sea relevante
+3. **Sesgo documental**: Reconocer cuando la información es limitada o sesgada
+4. **Continuidad narrativa**: Conectar eventos con consecuencias posteriores conocidas
+
+## Formato de Referencias
+
+Para mencionar facciones u organizaciones, usa **negrita** en el texto y mantén consistencia en la nomenclatura a lo largo del documento.
+
+Ejemplo: Los **Arpistas** establecieron redes de comunicación mientras los **Guardianes de la Memoria** consolidaban su influencia en Barrio Norte.
+
+## Ejemplos de buenos artículos:
+
+```
+## 2029
+
+### Presagios del Colapso
+
+El mundo llegó al 2029 arrastrando las promesas rotas de la década anterior. 
+
+Documentos recuperados de las ruinas de un instituto científico en Østerbro, Copenhague —posiblemente el complejo académico ubicado cerca del Parque Fælled— dan fe de la preocupación de los científicos de la época, que desesperados documentaban cómo sus advertencias eran ignoradas y sus presagios se cumplían con precisión. El colapso de los ecosistemas más frágiles ya afectaba por esos años de una manera u otra a todos los habitantes del planeta.
+
+Estos estudios, sepultados en las ruinas de Copenhague y milagrosamente recuperadas por el equipo de arqueología de la Universidad Católica Argentina en misión S.A.N.T.A., son una prueba más de la dificultad que enfrentaba la humanidad de esos años para diferenciar entre la verdad y la mentira.
+```
+
+
