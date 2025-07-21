@@ -35,7 +35,7 @@ function generateBreadcrumbs(path: string) {
     
     breadcrumbs.push({
       name: displayNames[collectionName as keyof typeof displayNames] || collectionName,
-      path: `docs/${collectionName}`,
+      path: `/docs/${collectionName}`,
       icon: collectionIcons[collectionName as keyof typeof collectionIcons] || 'fas fa-folder'
     });
     
