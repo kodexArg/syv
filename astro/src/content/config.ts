@@ -1,79 +1,20 @@
-import { defineCollection, z } from 'astro:content';
+import { defineCollection } from 'astro:content';
 import { glob } from 'astro/loaders';
+import { z } from 'astro:content';
+import { 
+  DOCUMENTS_SCHEMA, 
+  DOCUMENTS_SCHEMA_KEYS, 
+  DEFAULT_ICON, 
+  DEFAULT_BREADCRUMB_ICON, 
+  PATH_PREFIX,
+  FRONTMATTER_SCHEMA 
+} from './constants';
 
-const documentSchema = z.object({
-  title: z.string(),
-  folder: z.string(),
-  description: z.string(),
-  tags: z.array(z.string()).optional(),
-  region: z.string().optional(),
-  date: z.string().optional(),
-  name: z.string().optional(),
-  factions: z.array(z.string()).optional(),
-  spoiler_alert: z.string().optional(),
-}).passthrough();
-
-export const COLLECTIONS_CONFIG = {
-  proyecto: {
-    name: 'Proyecto',
-    path: '../0_proyecto',
-
-    icon: 'folder',
-    breadcrumbIcon: 'fas fa-folder'
-  },
-  trasfondo: {
-    name: 'Trasfondo',
-    path: '../1_trasfondo',
-
-    icon: 'book',
-    breadcrumbIcon: 'fas fa-book'
-  },
-  atlas: {
-    name: 'Atlas',
-    path: '../2_atlas',
-
-    icon: 'map',
-    breadcrumbIcon: 'fas fa-map'
-  },
-  personajes: {
-    name: 'Personajes',
-    path: '../3_personajes',
-
-    icon: 'users',
-    breadcrumbIcon: 'fas fa-users'
-  },
-  diegesis: {
-    name: 'Diégesis',
-    path: '../4_diegesis',
-
-    icon: 'document',
-    breadcrumbIcon: 'fas fa-file-alt'
-  },
-  aventuras: {
-    name: 'Aventuras',
-    path: '../5_aventuras',
-
-    icon: 'lightning',
-    breadcrumbIcon: 'fas fa-bolt'
-  },
-  media: {
-    name: 'Media',
-    path: '6_media',
-
-    icon: 'photo',
-    breadcrumbIcon: 'fas fa-image'
-  }
-} as const;
-
-export type CollectionKey = keyof typeof COLLECTIONS_CONFIG;
-export const COLLECTION_KEYS = Object.keys(COLLECTIONS_CONFIG) as CollectionKey[];
-export const COLLECTION_CONFIGURATIONS = Object.values(COLLECTIONS_CONFIG);
-
-class CollectionConfig {
-  private config: typeof COLLECTIONS_CONFIG[CollectionKey];
+export class DocumentSchema {
+  private config: any;
 
   constructor(key: string) {
-    this.config = COLLECTIONS_CONFIG[key as CollectionKey];
+    this.config = DOCUMENTS_SCHEMA[key as keyof typeof DOCUMENTS_SCHEMA];
   }
 
   getName(): string {
@@ -81,29 +22,77 @@ class CollectionConfig {
   }
 
   getIcon(): string {
-    return this.config?.icon || 'document';
+    return this.config?.icon || DEFAULT_ICON;
   }
 
   getBreadcrumbIcon(): string {
-    return this.config?.breadcrumbIcon || 'fas fa-folder';
+    return this.config?.breadcrumbIcon || DEFAULT_BREADCRUMB_ICON;
   }
 
   getPath(): string {
-    return `../${this.config?.path}`;
+    return `${PATH_PREFIX}${this.config?.path}`;
+  }
+
+  static getCollectionKeys(): string[] {
+    return DOCUMENTS_SCHEMA_KEYS;
+  }
+
+  static getAllCollections(): Record<string, { name: string; path: string; icon: string; breadcrumbIcon: string }> {
+    return DOCUMENTS_SCHEMA;
   }
 }
 
-export const getCollectionConfig = (key: string) => new CollectionConfig(key);
+export class FrontmatterSchema {
+  static getSchema() {
+    const schemaObject: any = {};
+    
+    Object.entries(FRONTMATTER_SCHEMA).forEach(([key, type]) => {
+      switch (type) {
+        case 'string':
+          schemaObject[key] = z.string();
+          break;
+        case 'string_optional':
+          schemaObject[key] = z.string().optional();
+          break;
+        case 'array_optional':
+          schemaObject[key] = z.array(z.string()).optional();
+          break;
+      }
+    });
+    
+    return z.object(schemaObject).passthrough();
+  }
+}
 
+export function getDocumentConfig(key: string): DocumentSchema {
+  return new DocumentSchema(key);
+}
+
+/**
+ * Define automáticamente todas las secciones del worldbuilding:
+ * - 'trasfondo': Historia, cronología y contexto del universo
+ * - 'atlas': Geografía, ciudades como Dársena y Córdoba, tecnologías
+ * - 'personajes': Protagonistas, secundarios y figuras del mundo
+ * - 'diegesis': Relatos, crónicas y cartas del universo narrativo
+ * - 'aventuras': Escenarios y campañas
+ * - 'media': Archivos multimedia como imágenes, videos y sonidos
+ */
 export const collections = Object.fromEntries(
-  Object.entries(COLLECTIONS_CONFIG).map(([key, config]) => [
-    key,
+  // Itera sobre cada sección del proyecto (trasfondo, personajes, atlas...)
+  DocumentSchema.getCollectionKeys().map((collectionKey) => [
+    // Clave de la colección (ej: 'personajes' para acceder a Damián, Paco el Puntero, etc.)
+    collectionKey,
+    
+    // Configuración de Astro para cada sección del worldbuilding
     defineCollection({
-      loader: glob({
-        pattern: '**/*.md',
-        base: getCollectionConfig(key).getPath()
+      // Busca archivos markdown en carpetas numeradas del proyecto (1_trasfondo/, 3_personajes/, etc.)
+      loader: glob({ 
+        pattern: '**/*.md', // Encuentra recursivamente archivos como 'damian.md', 'tecnologia-prohibida.md'
+        base: `./src/content/${getDocumentConfig(collectionKey).getPath().replace('../', '')}` // Ruta a carpetas como '../3_personajes/'
       }),
-      schema: documentSchema,
-    })
+      
+      // Valida metadatos específicos del proyecto: tags, facciones, personajes, fechas del 2178
+      schema: FrontmatterSchema.getSchema(),
+    }),
   ])
 );

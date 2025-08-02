@@ -1,18 +1,18 @@
 ---
 import { getCollection, type CollectionEntry, render } from 'astro:content';
-import { COLLECTION_KEYS, getCollectionConfig, type CollectionKey } from '../../../content/config';
+import { MarkdownCollectionSchema, getCollectionConfig } from '../../../content/config';
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 import MarkdownLayout from '../../../layouts/MarkdownLayout.astro';
 
 interface Props {
-  entry: CollectionEntry<CollectionKey>;
+  entry: CollectionEntry<any>;
 }
 
 export const getStaticPaths = async () => {
   const paths = await Promise.all(
-    COLLECTION_KEYS.map(async (collectionKey) => {
+    MarkdownCollectionSchema.getCollectionKeys().map(async (collectionKey) => {
       try {
-        const entries = await getCollection(collectionKey);
+        const entries = await getCollection(collectionKey as any);
         return entries.map((entry) => ({
           params: { collection: collectionKey, slug: entry.id },
           props: { entry },
@@ -33,18 +33,18 @@ const collectionName = getCollectionConfig(Astro.params.collection || '').getNam
 ---
 
 <BaseLayout 
-  title={entry.data.title}
-  description={entry.data.description}
+  title={entry.data.titulo}
+  description={entry.data.descripcion}
   currentPath={Astro.url.pathname}
 >
   <MarkdownLayout 
-    title={entry.data.title}
-    description={entry.data.description}
+    title={entry.data.titulo}
+    description={entry.data.descripcion}
     collection={collectionName}
     headings={headings}
     tags={entry.data.tags}
-    date={entry.data.date ? new Date(entry.data.date) : undefined}
-    folder={entry.data.folder}
+    date={entry.data.fecha ? new Date(entry.data.fecha) : undefined}
+    folder={entry.data.carpeta}
   >
     <Content />
   </MarkdownLayout>

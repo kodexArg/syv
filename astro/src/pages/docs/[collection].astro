@@ -1,17 +1,17 @@
 ---
 import { getCollection, type CollectionEntry } from 'astro:content';
-import { COLLECTION_KEYS, getCollectionConfig, type CollectionKey } from '../../content/config';
+import { MarkdownCollectionSchema, getCollectionConfig } from '../../content/config';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import Icon from '../../components/ui/Icon.astro';
 
 export const getStaticPaths = () => 
-  COLLECTION_KEYS.map((collectionKey) => ({
+  MarkdownCollectionSchema.getCollectionKeys().map((collectionKey) => ({
     params: { collection: collectionKey },
     props: { collectionKey },
   }));
 
 interface Props {
-  collectionKey: CollectionKey;
+  collectionKey: string;
 }
 
 const { collectionKey } = Astro.props;
@@ -20,7 +20,7 @@ const collectionConfig = getCollectionConfig(collectionKey);
 const fullName = collectionConfig.getName();
 const icon = collectionConfig.getIcon();
 
-const entries: CollectionEntry<CollectionKey>[] = await getCollection(collectionKey).catch(() => []);
+const entries: CollectionEntry<any>[] = await getCollection(collectionKey as any).catch(() => []);
 ---
 
 <BaseLayout 
@@ -49,10 +49,10 @@ const entries: CollectionEntry<CollectionKey>[] = await getCollection(collection
             <Icon name="document-solid" size="sm" />
             <div>
               <h3 class="font-medium text-military-800 mb-1 m-0">
-                {entry.data.title || entry.id.split('/').pop()}
+                {entry.data.titulo || entry.id.split('/').pop()}
               </h3>
-              {entry.data.description && (
-                <p class="text-sm text-military-600 m-0">{entry.data.description}</p>
+              {entry.data.descripcion && (
+                <p class="text-sm text-military-600 m-0">{entry.data.descripcion}</p>
               )}
             </div>
           </a>

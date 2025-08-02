@@ -1,6 +1,6 @@
 ---
 import { getCollection } from 'astro:content';
-import { COLLECTIONS_CONFIG, getCollectionConfig } from '../../content/config';
+import { DocumentSchema, getDocumentConfig } from '../../content/config';
 import Icon from '../../components/ui/Icon.astro';
 
 interface NavigationItem {
@@ -26,9 +26,9 @@ const organizeByFolders = (entries: any[]): Record<string, OrganizedFolder> => {
     }
     
     organized[folder].items.push({
-      displayName: entry.data.title || entry.id.split('/').pop(),
+      displayName: entry.data.titulo || entry.id.split('/').pop(),
       url: `/docs/${entry.collection}/${entry.id}/`,
-      description: entry.data.description
+      description: entry.data.descripcion
     });
   }
   
@@ -45,13 +45,13 @@ const organizeByFolders = (entries: any[]): Record<string, OrganizedFolder> => {
 };
 
 const estructuraNavegacion = (await Promise.all(
-  Object.entries(COLLECTIONS_CONFIG).map(async ([key, config]) => {
+  Object.entries(DocumentSchema.getAllCollections()).map(async ([key, config]) => {
     try {
       const entries = await getCollection(key as any);
       
       if (entries.length === 0) return null;
       
-      const collectionConfig = getCollectionConfig(key);
+      const collectionConfig = getDocumentConfig(key);
 
       return {
         key,
