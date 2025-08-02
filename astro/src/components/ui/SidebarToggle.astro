@@ -60,16 +60,24 @@
       });
     }
     
-    // Estado inicial
-    const isDesktop = window.innerWidth >= 768;
-    const wasClosedByUser = sessionStorage.getItem('sidebarClosedByUser') === 'true';
-    
-    if (isDesktop && !wasClosedByUser) {
-      openSidebar();
-    } else {
-      sidebar?.classList.remove('sidebar-open');
-      main?.classList.remove('main-with-sidebar');
-      updateIcon();
+    // Función para manejar cambios de tamaño de pantalla
+    function handleResize() {
+      const isDesktop = window.innerWidth >= 768;
+      const wasClosedByUser = sessionStorage.getItem('sidebarClosedByUser') === 'true';
+      
+      if (isDesktop && !wasClosedByUser) {
+        // Pantalla grande: mostrar sidebar automáticamente
+        openSidebar();
+      } else if (!isDesktop) {
+        // Pantalla pequeña: ocultar sidebar automáticamente
+        closeSidebar();
+      }
     }
+    
+    // Event listener para cambios de tamaño de pantalla
+    window.addEventListener('resize', handleResize);
+    
+    // Estado inicial
+    handleResize();
   });
 </script>
