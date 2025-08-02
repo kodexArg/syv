@@ -13,37 +13,37 @@ const { titulo, descripcion, collection, headings, tags, fecha, carpeta } = Astr
 const tocHeadings = headings.filter(h => h.depth >= 2 && h.depth <= 3);
 ---
 
-<article class="document-layout">
-  <header class="markdown-header">
-    <div class="markdown-header-content">
-      <div class="markdown-title-section">
-        <p class="markdown-title">
+<article class="max-w-6xl mx-auto">
+  <header class="bg-gradient-to-r from-sage-100 to-military-50 border border-military-200 rounded-lg mb-12 shadow-sm">
+    <div class="p-4 flex flex-col gap-3">
+      <div class="flex flex-col gap-1">
+        <p class="font-sans text-lg text-military-900 m-0 leading-tight">
           <strong>{titulo}</strong>: {descripcion && descripcion}
         </p>
       </div>
       
       {tags && tags.length > 0 && (
-        <div class="markdown-tags">
+        <div class="flex flex-wrap gap-2">
           {tags.map(tag => (
-            <span class="markdown-tag">{tag}</span>
+            <span class="inline-flex items-center px-2 py-1 rounded-full text-xs font-medium bg-military-200 text-military-700 border border-military-300">{tag}</span>
           ))}
         </div>
       )}
     </div>
   </header>
 
-  <div class="document-grid">
-    <main class="document-content prose-content">
+  <div class="grid grid-cols-[1fr_15rem] gap-8 md:grid-cols-1">
+    <main class="min-w-0 prose-content">
       <slot />
     </main>
     
     {tocHeadings.length > 0 && (
-      <aside class="document-toc">
-        <nav>
-          <h3>En esta página</h3>
-          <ul>
+      <aside class="sticky top-16 h-fit md:order-first md:static">
+        <nav class="bg-stone-50 border border-military-200 rounded-lg p-4">
+          <h3 class="text-sm font-semibold mb-3 text-military-800 border-b border-military-200 pb-2 m-0">En esta página</h3>
+          <ul class="list-none m-0 p-0">
             {tocHeadings.map(heading => (
-              <li>
+              <li class="m-0">
                 <a href={`#${heading.slug}`} class={heading.depth === 2 ? 'toc-h2' : 'toc-h3'}>
                   {heading.text}
                 </a>
@@ -54,4 +54,4 @@ const tocHeadings = headings.filter(h => h.depth >= 2 && h.depth <= 3);
       </aside>
     )}
   </div>
-</article> 
+</article>

@@ -255,35 +255,7 @@
     @apply text-military-600 flex items-center gap-2 no-underline text-sm hover:text-military-800;
   }
 
-  .layout-container {
-    @apply relative pt-12;
-  }
 
-  .sidebar {
-    @apply font-sans bg-stone-50 border-r border-military-200 fixed left-0 top-12 w-80 h-[calc(100vh-3rem)] -translate-x-80 transition-transform duration-300 z-40 overflow-y-auto;
-  }
-
-  .sidebar.sidebar-open {
-    @apply translate-x-0;
-  }
-
-  .main-content {
-    @apply min-h-[calc(100vh-6rem)] p-8 ml-4 transition-[margin-left] duration-300;
-  }
-
-  .main-content.main-with-sidebar {
-    @apply ml-[21rem];
-  }
-
-  @media (max-width: 767px) {
-    .sidebar {
-      @apply w-64 -translate-x-64;
-    }
-    
-    .main-content.main-with-sidebar {
-      @apply ml-4;
-    }
-  }
 
   .footer {
     @apply font-sans bg-stone-50 border-t border-military-200 fixed bottom-0 w-full h-12 flex items-center justify-center gap-4 z-40;
@@ -297,143 +269,11 @@
     @apply text-base;
   }
 
-  .home-content {
-    @apply max-w-4xl mx-auto text-center;
-  }
 
-  .start-links {
-    @apply flex flex-col gap-4 mt-8;
-  }
 
-  .start-links a {
-    @apply px-4 py-2 rounded bg-olive-600 text-white no-underline block max-w-80 mx-auto hover:bg-olive-700;
-  }
 
-  .sidebar h2 {
-    @apply text-lg font-semibold mb-2 text-military-800;
-  }
 
-  .sidebar p {
-    @apply text-sm text-military-600 mb-4;
-  }
 
-  .sidebar nav > div {
-    @apply mb-4;
-  }
-
-  .sidebar h3 {
-    @apply text-sm font-medium mb-2 text-military-800 flex items-center gap-2;
-  }
-
-  .sidebar nav div > div {
-    @apply ml-4;
-  }
-
-  .sidebar nav a {
-    @apply text-sm text-military-600 flex items-center gap-2 py-1 no-underline hover:text-military-800;
-  }
-
-  .collection-page {
-    @apply max-w-4xl mx-auto;
-  }
-
-  .collection-badge {
-    @apply inline-flex items-center px-3 py-1 rounded-full text-sm font-medium bg-olive-100 text-olive-800 gap-2 mb-4;
-  }
-
-  .documents-list {
-    @apply grid grid-cols-[repeat(auto-fill,minmax(20rem,1fr))] gap-4 mt-8;
-  }
-
-  .document-card {
-    @apply block p-4 bg-white border border-military-200 rounded-md flex items-start gap-4 no-underline transition-colors duration-150 hover:border-olive-400;
-  }
-
-  .document-card h3 {
-    @apply font-medium text-military-800 mb-1 m-0;
-  }
-
-  .document-card p {
-    @apply text-sm text-military-600 m-0;
-  }
-
-  .empty-state {
-    @apply text-center py-12;
-  }
-
-  .empty-state h3 {
-    @apply text-lg font-medium text-military-800 mb-2;
-  }
-
-  .empty-state p {
-    @apply text-military-600;
-  }
-
-  .document-layout {
-    @apply max-w-6xl mx-auto;
-  }
-
-  .document-header {
-    @apply border-b border-military-200 pb-8 mb-8;
-  }
-
-  .document-header .description {
-    @apply text-xl text-military-600 mt-4;
-  }
-
-  /* === Estilos personalizados para el header de Markdown === */
-  
-  .markdown-header {
-    @apply bg-gradient-to-r from-sage-100 to-military-50 border border-military-200 rounded-lg mb-12 shadow-sm;
-  }
-
-  .markdown-header-content {
-    @apply p-4 flex flex-col gap-3;
-  }
-
-  .markdown-title-section {
-    @apply flex flex-col gap-1;
-  }
-
-  .markdown-title {
-    @apply font-sans text-lg text-military-900 m-0 leading-tight;
-  }
-
-  .markdown-tags {
-    @apply flex flex-wrap gap-2;
-  }
-
-  .markdown-tag {
-    @apply inline-flex items-center px-2 py-1 rounded-full text-xs font-medium bg-military-200 text-military-700 border border-military-300;
-  }
-
-  .document-grid {
-    @apply grid grid-cols-[1fr_15rem] gap-8;
-  }
-
-  .document-content {
-    @apply min-w-0;
-  }
-
-  .document-toc {
-    @apply sticky top-16 h-fit;
-  }
-
-  .document-toc nav {
-    @apply bg-stone-50 border border-military-200 rounded-lg p-4;
-  }
-
-  .document-toc h3 {
-    @apply text-sm font-semibold mb-3 text-military-800 border-b border-military-200 pb-2 m-0;
-  }
-
-  .document-toc ul {
-    @apply list-none m-0 p-0;
-  }
-
-  .document-toc li {
-    @apply m-0;
-  }
 
   .toc-h2 {
     @apply text-military-600 font-medium block py-1 no-underline hover:text-military-800;
@@ -537,29 +377,5 @@
     @apply max-w-6xl;
   }
 
-  @media (max-width: 767px) {
-    .sidebar {
-      @apply w-64 -translate-x-64;
-    }
-    
-    .main-content {
-      @apply ml-4;
-    }
 
-    .documents-list {
-      @apply grid-cols-1;
-    }
-
-    .document-grid {
-      @apply grid-cols-1;
-    }
-
-    .document-toc {
-      @apply order-first static;
-    }
-
-    .start-links a {
-      @apply max-w-none;
-    }
-  }
-} 
+}
