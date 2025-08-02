@@ -8,76 +8,78 @@
 
 <script>
   document.addEventListener('DOMContentLoaded', () => {
-    const toggleButton = document.getElementById('toggle-sidebar');
-    const sidebarIcon = document.getElementById('sidebar-icon');
-    const sidebar = document.getElementById('sidebar');
-    const main = document.getElementById('main-content');
+    const elements = {
+      button: document.getElementById('toggle-sidebar'),
+      icon: document.getElementById('sidebar-icon'),
+      sidebar: document.getElementById('sidebar'),
+      main: document.getElementById('main-content')
+    };
 
-    function updateIcon() {
-      const isVisible = sidebar?.classList.contains('sidebar-open');
-      
-      if (sidebarIcon) {
-        sidebarIcon.className = isVisible ? 'fas fa-times' : 'fas fa-bars';
-        toggleButton?.setAttribute('title', isVisible ? 'Ocultar Sidebar' : 'Mostrar Sidebar');
+    const state = {
+      get isOpen() {
+        return elements.sidebar?.classList.contains('sidebar-open') || false;
+      },
+      get isDesktop() {
+        return window.innerWidth >= 768;
+      },
+      get wasClosedByUser() {
+        return sessionStorage.getItem('sidebarClosedByUser') === 'true';
       }
-    }
+    };
 
-    function closeSidebar() {
-      sidebar?.classList.remove('sidebar-open');
-      main?.classList.remove('main-with-sidebar');
-      sessionStorage.setItem('sidebarClosedByUser', 'true');
-      updateIcon();
-    }
-
-    function openSidebar() {
-      sidebar?.classList.add('sidebar-open');
-      main?.classList.add('main-with-sidebar');
-      sessionStorage.removeItem('sidebarClosedByUser');
-      updateIcon();
-    }
-
-    function toggleSidebar() {
-      const willBeOpen = !sidebar?.classList.contains('sidebar-open');
+    function updateUI() {
+      if (!elements.icon || !elements.button) return;
       
-      if (willBeOpen) {
-        openSidebar();
+      const isVisible = state.isDesktop ? !state.wasClosedByUser : state.isOpen;
+      elements.icon.className = isVisible ? 'fas fa-times' : 'fas fa-bars';
+      elements.button.setAttribute('title', isVisible ? 'Ocultar Sidebar' : 'Mostrar Sidebar');
+    }
+
+    function setSidebarState(open: boolean) {
+      if (!elements.sidebar || !elements.main) return;
+      
+      elements.sidebar.classList.toggle('sidebar-open', open);
+      elements.main.classList.toggle('main-with-sidebar', open);
+      
+      if (open) {
+        sessionStorage.removeItem('sidebarClosedByUser');
       } else {
-        closeSidebar();
+        sessionStorage.setItem('sidebarClosedByUser', 'true');
+      }
+      
+      updateUI();
+    }
+
+    function handleToggle() {
+      setSidebarState(!state.isOpen);
+    }
+
+    function handleLinkClick(event: Event) {
+      const target = event.target as HTMLElement;
+      const link = target?.closest('a');
+      if (link?.href && !state.isDesktop) {
+        setSidebarState(false);
       }
     }
 
-    // Event listeners
-    toggleButton?.addEventListener('click', toggleSidebar);
-    
-    if (sidebar) {
-      sidebar.addEventListener('click', (event) => {
-        const target = event.target as HTMLElement;
-        const link = target.closest('a');
-        
-        if (link && link.href) {
-          closeSidebar();
-        }
-      });
-    }
-    
-    // Función para manejar cambios de tamaño de pantalla
     function handleResize() {
-      const isDesktop = window.innerWidth >= 768;
-      const wasClosedByUser = sessionStorage.getItem('sidebarClosedByUser') === 'true';
-      
-      if (isDesktop && !wasClosedByUser) {
-        // Pantalla grande: mostrar sidebar automáticamente
-        openSidebar();
-      } else if (!isDesktop) {
-        // Pantalla pequeña: ocultar sidebar automáticamente
-        closeSidebar();
+      if (state.isDesktop) {
+        if (state.wasClosedByUser) {
+          setSidebarState(false);
+        } else {
+          elements.sidebar?.classList.remove('sidebar-open');
+          elements.main?.classList.remove('main-with-sidebar');
+          updateUI();
+        }
+      } else {
+        setSidebarState(false);
       }
     }
-    
-    // Event listener para cambios de tamaño de pantalla
+
+    elements.button?.addEventListener('click', handleToggle);
+    elements.sidebar?.addEventListener('click', handleLinkClick);
     window.addEventListener('resize', handleResize);
     
-    // Estado inicial
     handleResize();
   });
 </script>
