@@ -1,67 +1,69 @@
 ---
 import { getCollection } from 'astro:content';
-import { CONFIGURACIONES_COLECCIONES } from '../../content/config';
+import { COLLECTIONS_CONFIG, getCollectionConfig } from '../../content/config';
 import Icon from '../../components/ui/Icon.astro';
 
-interface ElementoNavegacion {
+interface NavigationItem {
   displayName: string;
   url: string;
   description?: string;
 }
 
-interface CarpetaOrganizada {
+interface OrganizedFolder {
   url: string;
-  items: ElementoNavegacion[];
+  items: NavigationItem[];
 }
 
-const organizarPorCarpetas = (entradas: any[]): Record<string, CarpetaOrganizada> => {
-  const organizado: Record<string, CarpetaOrganizada> = {};
+const organizeByFolders = (entries: any[]): Record<string, OrganizedFolder> => {
+  const organized: Record<string, OrganizedFolder> = {};
   
-  for (const entrada of entradas) {
-    const partesDeLaRuta = entrada.id.split('/');
-    const carpeta = partesDeLaRuta.length > 1 ? partesDeLaRuta[0] : '_root';
+  for (const entry of entries) {
+    const pathParts = entry.id.split('/');
+    const folder = pathParts.length > 1 ? pathParts[0] : '_root';
     
-    if (!organizado[carpeta]) {
-      organizado[carpeta] = { url: '', items: [] };
+    if (!organized[folder]) {
+      organized[folder] = { url: '', items: [] };
     }
     
-    organizado[carpeta].items.push({
-      displayName: entrada.data.titulo || entrada.id.split('/').pop(),
-      url: `/docs/${entrada.collection}/${entrada.id}/`,
-      description: entrada.data.descripcion
+    organized[folder].items.push({
+      displayName: entry.data.title || entry.id.split('/').pop(),
+      url: `/docs/${entry.collection}/${entry.id}/`,
+      description: entry.data.description
     });
   }
   
-  for (const carpeta in organizado) {
-    organizado[carpeta].items.sort((a, b) => 
+  for (const folder in organized) {
+    organized[folder].items.sort((a, b) => 
       a.displayName.localeCompare(b.displayName, 'es', { numeric: true })
     );
-    if (organizado[carpeta].items.length > 0) {
-      organizado[carpeta].url = organizado[carpeta].items[0].url;
+    if (organized[folder].items.length > 0) {
+      organized[folder].url = organized[folder].items[0].url;
     }
   }
   
-  return organizado;
+  return organized;
 };
 
 const estructuraNavegacion = (await Promise.all(
-  Object.entries(CONFIGURACIONES_COLECCIONES).map(async ([clave, config]) => {
+  Object.entries(COLLECTIONS_CONFIG).map(async ([key, config]) => {
     try {
-      const entradas = await getCollection(clave as any);
+      const entries = await getCollection(key as any);
       
-      if (entradas.length === 0) return null;
+      if (entries.length === 0) return null;
       
+      const collectionConfig = getCollectionConfig(key);
+
       return {
-        clave,
-        nombreCompleto: config.nombreCompleto,
-        icono: config.icono,
-        carpetasOrganizadas: organizarPorCarpetas(entradas)
+        key,
+        fullName: collectionConfig.getName(),
+        icon: collectionConfig.getIcon(),
+        organizedFolders: organizeByFolders(entries)
       };
     } catch {
       return null;
     }
   })
-)).filter((seccion): seccion is NonNullable<typeof seccion> => seccion !== null);
+)).filter((section): section is NonNullable<typeof section> => section !== null);
 ---
 
 <aside 
@@ -75,35 +77,35 @@ const estructuraNavegacion = (await Promise.all(
     </header>
     
     <nav>
-      {estructuraNavegacion.map((seccion) => (
+      {estructuraNavegacion.map((section) => (
         <section class="mb-4">
           <h3 class="text-sm font-medium mb-2 text-military-800 flex items-center gap-2">
-            <Icon name={seccion.icono} />
-            {seccion.nombreCompleto}
+            <Icon name={section.icon} />
+            {section.fullName}
           </h3>
           
           <div class="ml-4">
-            {Object.entries(seccion.carpetasOrganizadas).map(([nombreCarpeta, datosCarpeta]) => (
+            {Object.entries(section.organizedFolders).map(([folderName, folderData]) => (
               <div>
-                {nombreCarpeta !== '_root' && (
+                {folderName !== '_root' && (
                   <a 
-                    href={datosCarpeta.url} 
+                    href={folderData.url} 
                     class="text-sm text-military-600 flex items-center gap-2 py-1 no-underline hover:text-military-800 transition-colors"
                   >
                     <Icon name="folder-solid" size="sm" />
-                    {nombreCarpeta}
+                    {folderName}
                   </a>
                 )}
                 
-                <div class={nombreCarpeta !== '_root' ? 'ml-4' : ''}>
-                  {datosCarpeta.items.map((elemento) => (
+                <div class={folderName !== '_root' ? 'ml-4' : ''}>
+                  {folderData.items.map((element) => (
                     <a 
-                      href={elemento.url} 
-                      title={elemento.description} 
+                      href={element.url} 
+                      title={element.description} 
                       class="text-sm text-military-600 flex items-center gap-2 py-1 no-underline hover:text-military-800 transition-colors"
                     >
                       <Icon name="document-solid" size="sm" />
-                      <span>{elemento.displayName}</span>
+                      <span>{element.displayName}</span>
                     </a>
                   ))}
                 </div>

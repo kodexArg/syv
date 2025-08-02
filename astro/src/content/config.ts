@@ -2,92 +2,106 @@ import { defineCollection, z } from 'astro:content';
 import { glob } from 'astro/loaders';
 
 const documentSchema = z.object({
-  titulo: z.string(),
-  carpeta: z.string(),
-  descripcion: z.string(),
+  title: z.string(),
+  folder: z.string(),
+  description: z.string(),
   tags: z.array(z.string()).optional(),
   region: z.string().optional(),
-  fecha: z.string().optional(),
-  nombre: z.string().optional(),
-  facciones: z.array(z.string()).optional(),
-  alerta_spoiler: z.string().optional(),
+  date: z.string().optional(),
+  name: z.string().optional(),
+  factions: z.array(z.string()).optional(),
+  spoiler_alert: z.string().optional(),
 }).passthrough();
 
-export const COLECCIONES_CONFIG = {
+export const COLLECTIONS_CONFIG = {
   proyecto: {
-    nombreCompleto: 'Proyecto',
-    carpetaNumerada: '0_proyecto',
-    rutaBase: '../0_proyecto',
-    icono: 'folder',
-    iconoBreadcrumb: 'fas fa-folder'
+    name: 'Proyecto',
+    path: '../0_proyecto',
+
+    icon: 'folder',
+    breadcrumbIcon: 'fas fa-folder'
   },
   trasfondo: {
-    nombreCompleto: 'Trasfondo',
-    carpetaNumerada: '1_trasfondo',
-    rutaBase: '../1_trasfondo',
-    icono: 'book',
-    iconoBreadcrumb: 'fas fa-book'
+    name: 'Trasfondo',
+    path: '../1_trasfondo',
+
+    icon: 'book',
+    breadcrumbIcon: 'fas fa-book'
   },
   atlas: {
-    nombreCompleto: 'Atlas',
-    carpetaNumerada: '2_atlas',
-    rutaBase: '../2_atlas',
-    icono: 'map',
-    iconoBreadcrumb: 'fas fa-map'
+    name: 'Atlas',
+    path: '../2_atlas',
+
+    icon: 'map',
+    breadcrumbIcon: 'fas fa-map'
   },
   personajes: {
-    nombreCompleto: 'Personajes',
-    carpetaNumerada: '3_personajes',
-    rutaBase: '../3_personajes',
-    icono: 'users',
-    iconoBreadcrumb: 'fas fa-users'
+    name: 'Personajes',
+    path: '../3_personajes',
+
+    icon: 'users',
+    breadcrumbIcon: 'fas fa-users'
   },
   diegesis: {
-    nombreCompleto: 'Diégesis',
-    carpetaNumerada: '4_diegesis',
-    rutaBase: '../4_diegesis',
-    icono: 'document',
-    iconoBreadcrumb: 'fas fa-file-alt'
+    name: 'Diégesis',
+    path: '../4_diegesis',
+
+    icon: 'document',
+    breadcrumbIcon: 'fas fa-file-alt'
   },
   aventuras: {
-    nombreCompleto: 'Aventuras',
-    carpetaNumerada: '5_aventuras',
-    rutaBase: '../5_aventuras',
-    icono: 'lightning',
-    iconoBreadcrumb: 'fas fa-bolt'
+    name: 'Aventuras',
+    path: '../5_aventuras',
+
+    icon: 'lightning',
+    breadcrumbIcon: 'fas fa-bolt'
   },
   media: {
-    nombreCompleto: 'Media',
-    carpetaNumerada: '6_media',
-    rutaBase: '../6_media',
-    icono: 'photo',
-    iconoBreadcrumb: 'fas fa-image'
+    name: 'Media',
+    path: '6_media',
+
+    icon: 'photo',
+    breadcrumbIcon: 'fas fa-image'
   }
 } as const;
 
-export type ClaveColeccion = keyof typeof COLECCIONES_CONFIG;
-export const CLAVES_COLECCIONES = Object.keys(COLECCIONES_CONFIG) as ClaveColeccion[];
-export const CONFIGURACIONES_COLECCIONES = Object.values(COLECCIONES_CONFIG);
+export type CollectionKey = keyof typeof COLLECTIONS_CONFIG;
+export const COLLECTION_KEYS = Object.keys(COLLECTIONS_CONFIG) as CollectionKey[];
+export const COLLECTION_CONFIGURATIONS = Object.values(COLLECTIONS_CONFIG);
 
-export const obtenerConfigColeccion = (clave: string) => 
-  COLECCIONES_CONFIG[clave as ClaveColeccion];
+class CollectionConfig {
+  private config: typeof COLLECTIONS_CONFIG[CollectionKey];
 
-export const obtenerNombreCompleto = (clave: string): string => 
-  obtenerConfigColeccion(clave)?.nombreCompleto || clave;
+  constructor(key: string) {
+    this.config = COLLECTIONS_CONFIG[key as CollectionKey];
+  }
 
-export const obtenerIcono = (clave: string): string => 
-  obtenerConfigColeccion(clave)?.icono || 'document';
+  getName(): string {
+    return this.config?.name || '';
+  }
 
-export const obtenerIconoBreadcrumb = (clave: string): string => 
-  obtenerConfigColeccion(clave)?.iconoBreadcrumb || 'fas fa-folder';
+  getIcon(): string {
+    return this.config?.icon || 'document';
+  }
+
+  getBreadcrumbIcon(): string {
+    return this.config?.breadcrumbIcon || 'fas fa-folder';
+  }
+
+  getPath(): string {
+    return `../${this.config?.path}`;
+  }
+}
+
+export const getCollectionConfig = (key: string) => new CollectionConfig(key);
 
 export const collections = Object.fromEntries(
-  Object.entries(COLECCIONES_CONFIG).map(([clave, config]) => [
-    clave,
+  Object.entries(COLLECTIONS_CONFIG).map(([key, config]) => [
+    key,
     defineCollection({
       loader: glob({
         pattern: '**/*.md',
-        base: config.rutaBase
+        base: getCollectionConfig(key).getPath()
       }),
       schema: documentSchema,
     })

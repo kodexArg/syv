@@ -1,21 +1,21 @@
 ---
 import { getCollection, type CollectionEntry, render } from 'astro:content';
-import { CLAVES_COLECCIONES, obtenerNombreCompleto, type ClaveColeccion } from '../../../content/config';
+import { COLLECTION_KEYS, getCollectionConfig, type CollectionKey } from '../../../content/config';
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 import MarkdownLayout from '../../../layouts/MarkdownLayout.astro';
 
 interface Props {
-  entrada: CollectionEntry<ClaveColeccion>;
+  entry: CollectionEntry<CollectionKey>;
 }
 
 export const getStaticPaths = async () => {
-  const rutas = await Promise.all(
-    CLAVES_COLECCIONES.map(async (claveColeccion) => {
+  const paths = await Promise.all(
+    COLLECTION_KEYS.map(async (collectionKey) => {
       try {
-        const entradas = await getCollection(claveColeccion);
-        return entradas.map((entrada) => ({
-          params: { collection: claveColeccion, slug: entrada.id },
-          props: { entrada },
+        const entries = await getCollection(collectionKey);
+        return entries.map((entry) => ({
+          params: { collection: collectionKey, slug: entry.id },
+          props: { entry },
         }));
       } catch {
         return [];
@@ -23,28 +23,28 @@ export const getStaticPaths = async () => {
     })
   );
   
-  return rutas.flat();
+  return paths.flat();
 };
 
-const { entrada } = Astro.props;
+const { entry } = Astro.props;
 
-const { Content, headings } = await render(entrada);
-const nombreColeccion = obtenerNombreCompleto(Astro.params.collection || '');
+const { Content, headings } = await render(entry);
+const collectionName = getCollectionConfig(Astro.params.collection || '').getName();
 ---
 
 <BaseLayout 
-  title={entrada.data.titulo}
-  description={entrada.data.descripcion}
+  title={entry.data.title}
+  description={entry.data.description}
   currentPath={Astro.url.pathname}
 >
   <MarkdownLayout 
-    titulo={entrada.data.titulo}
-    descripcion={entrada.data.descripcion}
-    collection={nombreColeccion}
+    title={entry.data.title}
+    description={entry.data.description}
+    collection={collectionName}
     headings={headings}
-    tags={entrada.data.tags}
-    fecha={entrada.data.fecha ? new Date(entrada.data.fecha) : undefined}
-    carpeta={entrada.data.carpeta}
+    tags={entry.data.tags}
+    date={entry.data.date ? new Date(entry.data.date) : undefined}
+    folder={entry.data.folder}
   >
     <Content />
   </MarkdownLayout>
