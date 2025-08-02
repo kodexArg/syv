@@ -1,13 +1,12 @@
 ---
-import { getCollection, type CollectionEntry } from 'astro:content';
-import { MarkdownCollectionSchema, getCollectionConfig } from '../../content/config';
+import { DocumentSchema, getDocumentConfig } from '../../content/config';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import Icon from '../../components/ui/Icon.astro';
 
 export const getStaticPaths = () => 
-  MarkdownCollectionSchema.getCollectionKeys().map((collectionKey) => ({
-    params: { collection: collectionKey },
-    props: { collectionKey },
+  DocumentSchema.generateAllStaticPaths().map(({ params }) => ({
+    params,
+    props: { collectionKey: params.collection },
   }));
 
 interface Props {
@@ -16,11 +15,11 @@ interface Props {
 
 const { collectionKey } = Astro.props;
 
-const collectionConfig = getCollectionConfig(collectionKey);
+const collectionConfig = getDocumentConfig(collectionKey);
 const fullName = collectionConfig.getName();
 const icon = collectionConfig.getIcon();
 
-const entries: CollectionEntry<any>[] = await getCollection(collectionKey as any).catch(() => []);
+const entries = await collectionConfig.getCollectionEntries();
 ---
 
 <BaseLayout 
@@ -41,17 +40,17 @@ const entries: CollectionEntry<any>[] = await getCollection(collectionKey as any
 
     {entries.length > 0 ? (
       <div class="grid grid-cols-[repeat(auto-fill,minmax(20rem,1fr))] gap-4 mt-8 md:grid-cols-1">
-        {entries.map((entry) => (
+        {entries.map((entry: any) => (
           <a 
-            href={`/docs/${entry.collection}/${entry.id}/`} 
+            href={collectionConfig.getEntryUrl(entry)} 
             class="p-4 bg-white border border-military-200 rounded-md flex items-start gap-4 no-underline transition-colors duration-150 hover:border-olive-400"
           >
             <Icon name="document-solid" size="sm" />
             <div>
               <h3 class="font-medium text-military-800 mb-1 m-0">
-                {entry.data.titulo || entry.id.split('/').pop()}
+                {collectionConfig.getEntryTitle(entry)}
               </h3>
-              {entry.data.descripcion && (
+              {entry.data?.descripcion && (
                 <p class="text-sm text-military-600 m-0">{entry.data.descripcion}</p>
               )}
             </div>

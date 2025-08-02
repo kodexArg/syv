@@ -1,45 +1,33 @@
 ---
-import { getCollection, type CollectionEntry, render } from 'astro:content';
-import { MarkdownCollectionSchema, getCollectionConfig } from '../../../content/config';
+import { type CollectionEntry, render } from 'astro:content';
+import { DocumentSchema, getDocumentConfig } from '../../../content/config';
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 import MarkdownLayout from '../../../layouts/MarkdownLayout.astro';
 
 interface Props {
-  entry: CollectionEntry<any>;
+  entry: any;
 }
 
 export const getStaticPaths = async () => {
-  const paths = await Promise.all(
-    MarkdownCollectionSchema.getCollectionKeys().map(async (collectionKey) => {
-      try {
-        const entries = await getCollection(collectionKey as any);
-        return entries.map((entry) => ({
-          params: { collection: collectionKey, slug: entry.id },
-          props: { entry },
-        }));
-      } catch {
-        return [];
-      }
-    })
-  );
-  
-  return paths.flat();
+  return await DocumentSchema.generateAllDynamicPaths();
 };
 
-const { entry } = Astro.props;
+const { entry } = Astro.props as Props;
+const collectionConfig = getDocumentConfig(Astro.params.collection || '');
 
 const { Content, headings } = await render(entry);
-const collectionName = getCollectionConfig(Astro.params.collection || '').getName();
+const collectionName = collectionConfig.getName();
+const entryTitle = collectionConfig.getEntryTitle(entry);
 ---
 
 <BaseLayout 
-  title={entry.data.titulo}
-  description={entry.data.descripcion}
+  title={entryTitle}
+  description={entry.data?.descripcion}
   currentPath={Astro.url.pathname}
 >
   <MarkdownLayout 
-    title={entry.data.titulo}
-    description={entry.data.descripcion}
+    title={entryTitle}
+    description={entry.data?.descripcion}
     collection={collectionName}
     headings={headings}
     tags={entry.data.tags}

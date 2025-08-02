@@ -12,11 +12,14 @@ import {
 
 export class DocumentSchema {
   private config: any;
+  private key: string;
 
   constructor(key: string) {
+    this.key = key;
     this.config = DOCUMENTS_SCHEMA[key as keyof typeof DOCUMENTS_SCHEMA];
   }
 
+  // Instance methods
   getName(): string {
     return this.config?.name || '';
   }
@@ -33,12 +36,78 @@ export class DocumentSchema {
     return `${PATH_PREFIX}${this.config?.path}`;
   }
 
+  getKey(): string {
+    return this.key;
+  }
+
+  generateStaticPaths(): { params: { collection: string } }[] {
+    return [{ params: { collection: this.key } }];
+  }
+
+  async generateDynamicPaths(): Promise<{ params: { collection: string; slug: string } }[]> {
+    const { getCollection } = await import('astro:content');
+    try {
+      const entries = await getCollection(this.key as any);
+      return entries.map((entry: any) => ({
+        params: {
+          collection: this.key,
+          slug: entry.id
+        }
+      }));
+    } catch {
+      return [];
+    }
+  }
+
+  async getCollectionEntries(): Promise<any[]> {
+    const { getCollection } = await import('astro:content');
+    try {
+      return await getCollection(this.key as any);
+    } catch {
+      return [];
+    }
+  }
+
+  getEntryTitle(entry: any): string {
+    return entry.data?.titulo || entry.id.split('/').pop() || 'Untitled';
+  }
+
+  getEntryUrl(entry: any): string {
+    return `/docs/${entry.collection}/${entry.id}/`;
+  }
+
+  async getEntryFromParams(slug: string): Promise<any | null> {
+    const entries = await this.getCollectionEntries();
+    return entries.find(entry => entry.id === slug) || null;
+  }
+
+  // Static methods
   static getCollectionKeys(): string[] {
     return DOCUMENTS_SCHEMA_KEYS;
   }
 
   static getAllCollections(): Record<string, { name: string; path: string; icon: string; breadcrumbIcon: string }> {
     return DOCUMENTS_SCHEMA;
+  }
+
+  static generateAllStaticPaths(): { params: { collection: string } }[] {
+    return DOCUMENTS_SCHEMA_KEYS.map(key => ({ params: { collection: key } }));
+  }
+
+  static async generateAllDynamicPaths(): Promise<{ params: { collection: string; slug: string }; props: { entry: any } }[]> {
+    const paths: { params: { collection: string; slug: string }; props: { entry: any } }[] = [];
+    
+    for (const key of DOCUMENTS_SCHEMA_KEYS) {
+      const schema = new DocumentSchema(key);
+      const entries = await schema.getCollectionEntries();
+      const collectionPaths = entries.map((entry: any) => ({
+        params: { collection: key, slug: entry.id },
+        props: { entry },
+      }));
+      paths.push(...collectionPaths);
+    }
+    
+    return paths;
   }
 }
 
