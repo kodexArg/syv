@@ -54,7 +54,7 @@ try {
 
     <div class="grid grid-cols-[repeat(auto-fill,minmax(20rem,1fr))] gap-4 mt-8 md:grid-cols-1">
       {entries.map(entry => (
-        <a href={`/docs/${entry.collection}/${entry.id}`} class="p-4 bg-white border border-military-200 rounded-md flex items-start gap-4 no-underline transition-colors duration-150 hover:border-olive-400">
+        <a href={`/docs/${entry.collection}/${entry.id}/`} class="p-4 bg-white border border-military-200 rounded-md flex items-start gap-4 no-underline transition-colors duration-150 hover:border-olive-400">
           <Icon name="document-solid" size="sm" />
           <div>
             <h3 class="font-medium text-military-800 mb-1 m-0">{entry.data.titulo || entry.id.split('/').pop()}</h3>
