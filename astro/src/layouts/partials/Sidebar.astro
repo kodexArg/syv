@@ -1,103 +1,116 @@
 ---
 import { getCollection } from 'astro:content';
+import { CONFIGURACIONES_COLECCIONES } from '../../content/config';
 import Icon from '../../components/ui/Icon.astro';
 
-const collectionsConfig = [
-  { key: 'proyecto', name: 'Proyecto', icon: 'folder' },
-  { key: 'trasfondo', name: 'Trasfondo', icon: 'book' },
-  { key: 'atlas', name: 'Atlas', icon: 'map' },
-  { key: 'personajes', name: 'Personajes', icon: 'users' },
-  { key: 'diegesis', name: 'Diégesis', icon: 'document' },
-  { key: 'aventuras', name: 'Aventuras', icon: 'lightning' },
-  { key: 'media', name: 'Media', icon: 'photo' }
-];
+interface ElementoNavegacion {
+  displayName: string;
+  url: string;
+  description?: string;
+}
 
-function organizeByFolders(entries: any[]) {
-  const organized: Record<string, { url: string; items: any[] }> = {};
+interface CarpetaOrganizada {
+  url: string;
+  items: ElementoNavegacion[];
+}
+
+const organizarPorCarpetas = (entradas: any[]): Record<string, CarpetaOrganizada> => {
+  const organizado: Record<string, CarpetaOrganizada> = {};
   
-  for (const entry of entries) {
-    const pathParts = entry.id.split('/');
-    const folder = pathParts.length > 1 ? pathParts[0] : '_root';
+  for (const entrada of entradas) {
+    const partesDeLaRuta = entrada.id.split('/');
+    const carpeta = partesDeLaRuta.length > 1 ? partesDeLaRuta[0] : '_root';
     
-    if (!organized[folder]) {
-      organized[folder] = { url: '', items: [] };
+    if (!organizado[carpeta]) {
+      organizado[carpeta] = { url: '', items: [] };
     }
     
-    organized[folder].items.push({
-      ...entry,
-      displayName: entry.data.titulo || entry.id.split('/').pop(),
-      url: `/docs/${entry.collection}/${entry.id}/`,
-      description: entry.data.descripcion
+    organizado[carpeta].items.push({
+      displayName: entrada.data.titulo || entrada.id.split('/').pop(),
+      url: `/docs/${entrada.collection}/${entrada.id}/`,
+      description: entrada.data.descripcion
     });
   }
   
-  for (const folder in organized) {
-    organized[folder].items.sort((a, b) => 
+  for (const carpeta in organizado) {
+    organizado[carpeta].items.sort((a, b) => 
       a.displayName.localeCompare(b.displayName, 'es', { numeric: true })
     );
-    if (organized[folder].items.length > 0) {
-      organized[folder].url = organized[folder].items[0].url;
+    if (organizado[carpeta].items.length > 0) {
+      organizado[carpeta].url = organizado[carpeta].items[0].url;
     }
   }
   
-  return organized;
-}
+  return organizado;
+};
 
-const navigationStructure = [];
-
-for (const config of collectionsConfig) {
-  try {
-    const entries = await getCollection(config.key as any);
-    
-    if (entries.length > 0) {
-      const organizedFolders = organizeByFolders(entries);
+const estructuraNavegacion = (await Promise.all(
+  Object.entries(CONFIGURACIONES_COLECCIONES).map(async ([clave, config]) => {
+    try {
+      const entradas = await getCollection(clave as any);
       
-      navigationStructure.push({
-        ...config,
-        organized: organizedFolders
-      });
+      if (entradas.length === 0) return null;
+      
+      return {
+        clave,
+        nombreCompleto: config.nombreCompleto,
+        icono: config.icono,
+        carpetasOrganizadas: organizarPorCarpetas(entradas)
+      };
+    } catch {
+      return null;
     }
-  } catch (error) {
-    // Colección no disponible
-  }
-}
+  })
+)).filter((seccion): seccion is NonNullable<typeof seccion> => seccion !== null);
 ---
 
-<aside id="sidebar" class="font-sans bg-stone-50 border-r border-military-200 fixed left-0 top-12 w-80 h-[calc(100vh-3rem)] -translate-x-80 transition-transform duration-300 z-40 overflow-y-auto md:w-64 md:translate-x-0 [&.sidebar-open]:translate-x-0">
+<aside 
+  id="sidebar" 
+  class="font-sans bg-stone-50 border-r border-military-200 fixed left-0 top-12 w-80 h-[calc(100vh-3rem)] -translate-x-80 transition-transform duration-300 z-40 overflow-y-auto md:w-64 md:translate-x-0 [&.sidebar-open]:translate-x-0"
+>
   <div class="p-4">
-    <h2 class="text-lg font-semibold mb-2 text-military-800">Documentación</h2>
-    <p class="text-sm text-military-600 mb-4">Subordinación y Valor</p>
+    <header class="mb-4">
+      <h2 class="text-lg font-semibold mb-2 text-military-800">Documentación</h2>
+      <p class="text-sm text-military-600">Subordinación y Valor</p>
+    </header>
     
     <nav>
-      {navigationStructure.map((section) => (
-        <div class="mb-4">
+      {estructuraNavegacion.map((seccion) => (
+        <section class="mb-4">
           <h3 class="text-sm font-medium mb-2 text-military-800 flex items-center gap-2">
-            <Icon name={section.icon} />
-            {section.name}
+            <Icon name={seccion.icono} />
+            {seccion.nombreCompleto}
           </h3>
           
           <div class="ml-4">
-            {Object.entries(section.organized).map(([folderName, folderData]) => (
+            {Object.entries(seccion.carpetasOrganizadas).map(([nombreCarpeta, datosCarpeta]) => (
               <div>
-                {folderName !== '_root' && (
-                  <a href={folderData.url} class="text-sm text-military-600 flex items-center gap-2 py-1 no-underline hover:text-military-800">
+                {nombreCarpeta !== '_root' && (
+                  <a 
+                    href={datosCarpeta.url} 
+                    class="text-sm text-military-600 flex items-center gap-2 py-1 no-underline hover:text-military-800 transition-colors"
+                  >
                     <Icon name="folder-solid" size="sm" />
-                    {folderName}
+                    {nombreCarpeta}
                   </a>
                 )}
                 
-                <div class="ml-4">
-                  {folderData.items.map(item => (
-                    <a href={item.url} title={item.description} class="text-sm text-military-600 flex items-center gap-2 py-1 no-underline hover:text-military-800">
+                <div class={nombreCarpeta !== '_root' ? 'ml-4' : ''}>
+                  {datosCarpeta.items.map((elemento) => (
+                    <a 
+                      href={elemento.url} 
+                      title={elemento.description} 
+                      class="text-sm text-military-600 flex items-center gap-2 py-1 no-underline hover:text-military-800 transition-colors"
+                    >
                       <Icon name="document-solid" size="sm" />
-                      <span>{item.displayName}</span>
+                      <span>{elemento.displayName}</span>
                     </a>
                   ))}
                 </div>
               </div>
             ))}
           </div>
-        </div>
+        </section>
       ))}
     </nav>
   </div>

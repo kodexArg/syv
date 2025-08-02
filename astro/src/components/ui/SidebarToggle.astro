@@ -1,9 +1,13 @@
 ---
-// Componente simplificado para toggle del sidebar
 ---
 
-<button id="toggle-sidebar" class="bg-olive-600 text-white border-none w-8 h-8 rounded cursor-pointer flex items-center justify-center transition-colors duration-200 hover:bg-olive-700" title="Sidebar">
-  <i id="sidebar-icon" class="fas fa-bars text-sm"></i>
+<button 
+  id="toggle-sidebar" 
+  class="bg-olive-600 text-white border-none w-8 h-8 rounded cursor-pointer flex items-center justify-center transition-colors duration-200 hover:bg-olive-700" 
+  title="Sidebar"
+  aria-label="Toggle sidebar"
+>
+  <i id="sidebar-icon" class="fas fa-bars text-sm" aria-hidden="true"></i>
 </button>
 
 <script>
@@ -13,11 +17,11 @@
       icon: document.getElementById('sidebar-icon'),
       sidebar: document.getElementById('sidebar'),
       main: document.getElementById('main-content')
-    };
+    } as const;
 
     const state = {
       get isOpen() {
-        return elements.sidebar?.classList.contains('sidebar-open') || false;
+        return elements.sidebar?.classList.contains('sidebar-open') ?? false;
       },
       get isDesktop() {
         return window.innerWidth >= 768;
@@ -27,15 +31,16 @@
       }
     };
 
-    function updateUI() {
+    const updateUI = () => {
       if (!elements.icon || !elements.button) return;
       
       const isVisible = state.isDesktop ? !state.wasClosedByUser : state.isOpen;
       elements.icon.className = isVisible ? 'fas fa-times' : 'fas fa-bars';
       elements.button.setAttribute('title', isVisible ? 'Ocultar Sidebar' : 'Mostrar Sidebar');
-    }
+      elements.button.setAttribute('aria-label', isVisible ? 'Ocultar sidebar' : 'Mostrar sidebar');
+    };
 
-    function setSidebarState(open: boolean) {
+    const setSidebarState = (open: boolean) => {
       if (!elements.sidebar || !elements.main) return;
       
       elements.sidebar.classList.toggle('sidebar-open', open);
@@ -48,21 +53,19 @@
       }
       
       updateUI();
-    }
+    };
 
-    function handleToggle() {
-      setSidebarState(!state.isOpen);
-    }
+    const handleToggle = () => setSidebarState(!state.isOpen);
 
-    function handleLinkClick(event: Event) {
+    const handleLinkClick = (event: Event) => {
       const target = event.target as HTMLElement;
       const link = target?.closest('a');
       if (link?.href && !state.isDesktop) {
         setSidebarState(false);
       }
-    }
+    };
 
-    function handleResize() {
+    const handleResize = () => {
       if (state.isDesktop) {
         if (state.wasClosedByUser) {
           setSidebarState(false);
@@ -74,7 +77,7 @@
       } else {
         setSidebarState(false);
       }
-    }
+    };
 
     elements.button?.addEventListener('click', handleToggle);
     elements.sidebar?.addEventListener('click', handleLinkClick);

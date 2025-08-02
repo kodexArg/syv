@@ -1,58 +1,51 @@
 ---
 import { getCollection, type CollectionEntry, render } from 'astro:content';
+import { CLAVES_COLECCIONES, obtenerNombreCompleto, type ClaveColeccion } from '../../../content/config';
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 import MarkdownLayout from '../../../layouts/MarkdownLayout.astro';
 
-type Props = {
-  entry: CollectionEntry<'proyecto' | 'trasfondo' | 'atlas' | 'personajes' | 'diegesis' | 'aventuras' | 'media'>;
-};
-
-export async function getStaticPaths() {
-  const collections = ['proyecto', 'trasfondo', 'atlas', 'personajes', 'diegesis', 'aventuras', 'media'] as const;
-  return (
-    await Promise.all(
-      collections.map(async (collectionName) => {
-        try {
-          const entries = await getCollection(collectionName);
-          return entries.map((entry) => ({
-            params: { collection: collectionName, slug: entry.id },
-            props: { entry },
-          }));
-        } catch {
-          return [];
-        }
-      })
-    )
-  ).flat();
+interface Props {
+  entrada: CollectionEntry<ClaveColeccion>;
 }
 
-const { entry } = Astro.props;
+export const getStaticPaths = async () => {
+  const rutas = await Promise.all(
+    CLAVES_COLECCIONES.map(async (claveColeccion) => {
+      try {
+        const entradas = await getCollection(claveColeccion);
+        return entradas.map((entrada) => ({
+          params: { collection: claveColeccion, slug: entrada.id },
+          props: { entrada },
+        }));
+      } catch {
+        return [];
+      }
+    })
+  );
+  
+  return rutas.flat();
+};
 
-// Renderizar el contenido markdown y extraer headings
-const { Content, headings } = await render(entry);
+const { entrada } = Astro.props;
 
-const collectionDisplayNames = {
-  'proyecto': 'Proyecto', 'trasfondo': 'Trasfondo', 'atlas': 'Atlas', 'personajes': 'Personajes',
-  'diegesis': 'Diégesis', 'aventuras': 'Aventuras', 'media': 'Media'
-} as const;
-
-const collectionName = collectionDisplayNames[Astro.params.collection as keyof typeof collectionDisplayNames] || Astro.params.collection;
+const { Content, headings } = await render(entrada);
+const nombreColeccion = obtenerNombreCompleto(Astro.params.collection || '');
 ---
 
 <BaseLayout 
-  title={entry.data.titulo}
-  description={entry.data.descripcion}
+  title={entrada.data.titulo}
+  description={entrada.data.descripcion}
   currentPath={Astro.url.pathname}
 >
   <MarkdownLayout 
-    titulo={entry.data.titulo}
-    descripcion={entry.data.descripcion}
-    collection={collectionName}
+    titulo={entrada.data.titulo}
+    descripcion={entrada.data.descripcion}
+    collection={nombreColeccion}
     headings={headings}
-    tags={entry.data.tags}
-    fecha={entry.data.fecha ? new Date(entry.data.fecha) : undefined}
-    carpeta={entry.data.carpeta}
+    tags={entrada.data.tags}
+    fecha={entrada.data.fecha ? new Date(entrada.data.fecha) : undefined}
+    carpeta={entrada.data.carpeta}
   >
     <Content />
   </MarkdownLayout>
-</BaseLayout> 
+</BaseLayout>
