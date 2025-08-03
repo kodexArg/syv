@@ -47,31 +47,38 @@
 
 @layer base {
   body {
-    @apply font-serif bg-stone-50 text-military-800 leading-relaxed;
+    @apply bg-stone-50 text-military-800 leading-relaxed;
+    font-family: var(--font-ubuntu);
   }
 
   h1 {
-    @apply font-sans text-4xl font-bold text-military-900 mb-6 mt-8 leading-tight tracking-tight;
+    @apply text-4xl font-bold text-military-900 mb-6 mt-8 leading-tight tracking-tight;
+    font-family: var(--font-ubuntu);
   }
 
   h2 {
-    @apply font-sans text-3xl font-semibold text-military-800 mb-4 mt-8 leading-tight border-b border-military-200 pb-2;
+    @apply text-3xl font-semibold text-military-800 mb-4 mt-8 leading-tight border-b border-military-200 pb-2;
+    font-family: var(--font-ubuntu);
   }
 
   h3 {
-    @apply font-sans text-2xl font-medium text-military-800 mb-3 mt-6 leading-snug;
+    @apply text-2xl font-medium text-military-800 mb-3 mt-6 leading-snug;
+    font-family: var(--font-ubuntu);
   }
 
   h4 {
-    @apply font-sans text-xl font-medium text-military-700 mb-2 mt-4 leading-snug;
+    @apply text-xl font-medium text-military-700 mb-2 mt-4 leading-snug;
+    font-family: var(--font-ubuntu);
   }
 
   h5 {
-    @apply font-sans text-lg font-medium text-military-700 mb-2 mt-3;
+    @apply text-lg font-medium text-military-700 mb-2 mt-3;
+    font-family: var(--font-ubuntu);
   }
 
   h6 {
-    @apply font-sans text-base font-medium text-military-600 mb-2 mt-3 uppercase tracking-wide;
+    @apply text-base font-medium text-military-600 mb-2 mt-3 uppercase tracking-wide;
+    font-family: var(--font-ubuntu);
   }
 
   p {

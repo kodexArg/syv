@@ -1,0 +1,77 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Icon from '../components/ui/Icon.astro';
+---
+
+<BaseLayout 
+  title="Página no encontrada"
+  description="La página que buscas no existe en el universo de Subordinación y Valor"
+  currentPath="/404"
+>
+  <div class="max-w-4xl mx-auto text-center py-16">
+    <div class="mb-8">
+      <Icon name="document" size="lg" class="mx-auto mb-4 text-military-400" />
+      <h1 class="text-6xl font-bold text-military-800 mb-4">404</h1>
+      <h2 class="text-2xl font-semibold text-military-700 mb-6">Documento no encontrado</h2>
+      <p class="text-lg text-military-600 mb-8 max-w-2xl mx-auto">
+        La página que buscas no existe en los archivos de la Confederación. 
+        Puede que haya sido clasificada por la Santa Inquisición Argentina o que el enlace esté incorrecto.
+      </p>
+    </div>
+
+    <div class="bg-sage-50 border border-military-200 rounded-lg p-6 mb-8 max-w-2xl mx-auto">
+      <h3 class="text-lg font-semibold text-military-800 mb-4 flex items-center justify-center gap-2">
+        <Icon name="map" size="sm" />
+        ¿Qué puedes hacer?
+      </h3>
+      <div class="space-y-3 text-left">
+        <div class="flex items-start gap-3">
+          <Icon name="book" size="sm" class="mt-1 text-olive-600" />
+          <div>
+            <strong class="text-military-800">Explorar el Trasfondo:</strong>
+            <span class="text-military-600"> Conoce la historia de la Confederación y el Anatema Mecánico</span>
+          </div>
+        </div>
+        <div class="flex items-start gap-3">
+          <Icon name="users" size="sm" class="mt-1 text-olive-600" />
+          <div>
+            <strong class="text-military-800">Conocer Personajes:</strong>
+            <span class="text-military-600"> Descubre a Damián, Paco el Puntero y otros habitantes</span>
+          </div>
+        </div>
+        <div class="flex items-start gap-3">
+          <Icon name="map" size="sm" class="mt-1 text-olive-600" />
+          <div>
+            <strong class="text-military-800">Visitar el Atlas:</strong>
+            <span class="text-military-600"> Explora Ciudad Dársena y otras locaciones del 2178</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <nav class="flex flex-col sm:flex-row gap-4 justify-center">
+      <a 
+        href="/" 
+        class="px-6 py-3 rounded bg-olive-600 text-white no-underline hover:bg-olive-700 transition-colors duration-200 flex items-center gap-2 justify-center"
+      >
+        <Icon name="folder" size="sm" />
+        Volver al Inicio
+      </a>
+      <a 
+        href="/docs/trasfondo/trasfondo/" 
+        class="px-6 py-3 rounded border border-military-300 text-military-700 no-underline hover:bg-military-50 transition-colors duration-200 flex items-center gap-2 justify-center"
+      >
+        <Icon name="book" size="sm" />
+        Explorar Trasfondo
+      </a>
+    </nav>
+
+    <div class="mt-12 text-sm text-military-500">
+      <p>Si crees que esto es un error, puedes reportarlo en nuestro 
+        <a href="https://github.com/kodexArg/syv" target="_blank" rel="noopener noreferrer" class="text-olive-600 hover:text-olive-700">
+          repositorio de GitHub
+        </a>
+      </p>
+    </div>
+  </div>
+</BaseLayout>

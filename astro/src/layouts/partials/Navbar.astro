@@ -10,7 +10,7 @@ export interface Props {
 const { currentPath = "/" } = Astro.props;
 ---
 
-<nav class="font-sans bg-stone-50 border-b border-military-200 fixed top-0 w-full h-12 z-50 flex items-center justify-between px-4">
+<nav class="bg-stone-50 border-b border-military-200 fixed top-0 w-full h-12 z-50 flex items-center justify-between px-4" style="font-family: var(--font-ubuntu)">
   <SidebarToggle />
   <Breadcrumbs currentPath={currentPath} />
   <div></div>
