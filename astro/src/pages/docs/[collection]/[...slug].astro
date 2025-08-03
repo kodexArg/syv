@@ -1,6 +1,6 @@
 ---
-import { type CollectionEntry, render } from 'astro:content';
-import { DocumentSchema, getDocumentConfig } from '../../../content/config';
+import { getCollection, render } from 'astro:content';
+import { DOCUMENTS_SCHEMA, DOCUMENTS_SCHEMA_KEYS } from '../../../content/constants';
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 import MarkdownLayout from '../../../layouts/MarkdownLayout.astro';
 
@@ -9,15 +9,31 @@ interface Props {
 }
 
 export const getStaticPaths = async () => {
-  return await DocumentSchema.generateAllDynamicPaths();
+  const paths: { params: { collection: string; slug: string }; props: { entry: any } }[] = [];
+  
+  for (const collectionKey of DOCUMENTS_SCHEMA_KEYS) {
+    try {
+      const entries = await getCollection(collectionKey as any);
+      const collectionPaths = entries.map((entry: any) => ({
+        params: { collection: collectionKey, slug: entry.id },
+        props: { entry },
+      }));
+      paths.push(...collectionPaths);
+    } catch {
+      // Skip collections that don't exist
+    }
+  }
+  
+  return paths;
 };
 
 const { entry } = Astro.props as Props;
-const collectionConfig = getDocumentConfig(Astro.params.collection || '');
+const collectionKey = Astro.params.collection || '';
+const collectionData = DOCUMENTS_SCHEMA[collectionKey as keyof typeof DOCUMENTS_SCHEMA];
 
 const { Content, headings } = await render(entry);
-const collectionName = collectionConfig.getName();
-const entryTitle = collectionConfig.getEntryTitle(entry);
+const collectionName = collectionData?.name || '';
+const entryTitle = entry.data?.titulo || entry.id.split('/').pop() || 'Untitled';
 ---
 
 <BaseLayout 

@@ -157,7 +157,7 @@ export const collections = Object.fromEntries(
       // Busca archivos markdown en carpetas numeradas del proyecto (1_trasfondo/, 3_personajes/, etc.)
       loader: glob({ 
         pattern: '**/*.md', // Encuentra recursivamente archivos como 'damian.md', 'tecnologia-prohibida.md'
-        base: `./src/content/${getDocumentConfig(collectionKey).getPath().replace('../', '')}` // Ruta a carpetas como '../3_personajes/'
+        base: `../${DOCUMENTS_SCHEMA[collectionKey as keyof typeof DOCUMENTS_SCHEMA]?.path}` // Ruta relativa desde astro/ a carpetas como '1_trasfondo/', '3_personajes/'
       }),
       
       // Valida metadatos específicos del proyecto: tags, facciones, personajes, fechas del 2178

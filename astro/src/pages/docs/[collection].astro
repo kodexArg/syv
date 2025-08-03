@@ -1,12 +1,13 @@
 ---
-import { DocumentSchema, getDocumentConfig } from '../../content/config';
+import { getCollection } from 'astro:content';
+import { DOCUMENTS_SCHEMA, DOCUMENTS_SCHEMA_KEYS } from '../../content/constants';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import Icon from '../../components/ui/Icon.astro';
 
 export const getStaticPaths = () => 
-  DocumentSchema.generateAllStaticPaths().map(({ params }) => ({
-    params,
-    props: { collectionKey: params.collection },
+  DOCUMENTS_SCHEMA_KEYS.map((collection) => ({
+    params: { collection },
+    props: { collectionKey: collection },
   }));
 
 interface Props {
@@ -15,11 +16,16 @@ interface Props {
 
 const { collectionKey } = Astro.props;
 
-const collectionConfig = getDocumentConfig(collectionKey);
-const fullName = collectionConfig.getName();
-const icon = collectionConfig.getIcon();
+const collectionData = DOCUMENTS_SCHEMA[collectionKey as keyof typeof DOCUMENTS_SCHEMA];
+const fullName = collectionData?.name || '';
+const icon = collectionData?.icon || 'document';
 
-const entries = await collectionConfig.getCollectionEntries();
+let entries: any[] = [];
+try {
+  entries = await getCollection(collectionKey as any);
+} catch {
+  entries = [];
+}
 ---
 
 <BaseLayout 
@@ -42,13 +48,13 @@ const entries = await collectionConfig.getCollectionEntries();
       <div class="grid grid-cols-[repeat(auto-fill,minmax(20rem,1fr))] gap-4 mt-8 md:grid-cols-1">
         {entries.map((entry: any) => (
           <a 
-            href={collectionConfig.getEntryUrl(entry)} 
+            href={`/docs/${entry.collection}/${entry.id}/`}
             class="p-4 bg-white border border-military-200 rounded-md flex items-start gap-4 no-underline transition-colors duration-150 hover:border-olive-400"
           >
             <Icon name="document-solid" size="sm" />
             <div>
               <h3 class="font-medium text-military-800 mb-1 m-0">
-                {collectionConfig.getEntryTitle(entry)}
+                {entry.data?.titulo || entry.id.split('/').pop() || 'Untitled'}
               </h3>
               {entry.data?.descripcion && (
                 <p class="text-sm text-military-600 m-0">{entry.data.descripcion}</p>
