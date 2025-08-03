@@ -1,5 +1,5 @@
 ---
-import { getCollectionConfig } from '../../content/config';
+import { DOCUMENTS_SCHEMA } from '../../content/constants';
 
 interface Props {
   currentPath?: string;
@@ -24,11 +24,14 @@ const generateBreadcrumbs = (path: string): BreadcrumbItem[] => {
   if (segments[0] === "docs" && segments.length > 1) {
     const collectionKey = segments[1];
     
-    breadcrumbs.push({
-      name: getCollectionConfig(collectionKey).getName(),
-      path: `/docs/${collectionKey}/`,
-      icon: getCollectionConfig(collectionKey).getBreadcrumbIcon()
-    });
+    const collectionConfig = DOCUMENTS_SCHEMA[collectionKey as keyof typeof DOCUMENTS_SCHEMA];
+    if (collectionConfig) {
+      breadcrumbs.push({
+        name: collectionConfig.name,
+        path: `/docs/${collectionKey}/`,
+        icon: collectionConfig.breadcrumbIcon
+      });
+    }
     
     if (segments.length > 2) {
       const lastSegment = segments[segments.length - 1];
