@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import Icon from '../components/ui/Icon.astro';
+import { homeUrl, docsUrl } from '../utils/url';
 ---
 
 <BaseLayout 
@@ -51,18 +52,17 @@ import Icon from '../components/ui/Icon.astro';
 
     <nav class="flex flex-col sm:flex-row gap-4 justify-center">
       <a 
-        href="/" 
+        href={homeUrl()} 
         class="px-6 py-3 rounded bg-olive-600 text-white no-underline hover:bg-olive-700 transition-colors duration-200 flex items-center gap-2 justify-center"
       >
         <Icon name="folder" size="sm" />
         Volver al Inicio
       </a>
       <a 
-        href="/docs/trasfondo/trasfondo/" 
+        href={docsUrl('trasfondo', 'trasfondo')} 
         class="px-6 py-3 rounded border border-military-300 text-military-700 no-underline hover:bg-military-50 transition-colors duration-200 flex items-center gap-2 justify-center"
       >
         <Icon name="book" size="sm" />
-        Explorar Trasfondo
       </a>
     </nav>
 

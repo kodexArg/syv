@@ -3,6 +3,7 @@ import { getCollection } from 'astro:content';
 import { DOCUMENTS_SCHEMA, DOCUMENTS_SCHEMA_KEYS } from '../../content/constants';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import Icon from '../../components/ui/Icon.astro';
+import { docsUrl } from '../../utils/url';
 
 export const getStaticPaths = () => 
   DOCUMENTS_SCHEMA_KEYS.map((collection) => ({
@@ -47,8 +48,8 @@ try {
     {entries.length > 0 ? (
       <div class="grid grid-cols-[repeat(auto-fill,minmax(20rem,1fr))] gap-4 mt-8 md:grid-cols-1">
         {entries.map((entry: any) => (
-          <a 
-            href={`/docs/${entry.collection}/${entry.id}/`}
+          <a
+            href={docsUrl(entry.collection, entry.id)}
             class="p-4 bg-white border border-military-200 rounded-md flex items-start gap-4 no-underline transition-colors duration-150 hover:border-olive-400"
           >
             <Icon name="document-solid" size="sm" />

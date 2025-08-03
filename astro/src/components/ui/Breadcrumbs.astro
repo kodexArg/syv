@@ -1,5 +1,6 @@
 ---
 import { DOCUMENTS_SCHEMA } from '../../content/constants';
+import { withBase, docsUrl, homeUrl } from '../../utils/url';
 
 interface Props {
   currentPath?: string;
@@ -15,11 +16,11 @@ const { currentPath = "/" } = Astro.props;
 
 const generateBreadcrumbs = (path: string): BreadcrumbItem[] => {
   if (path === "/" || path === "") {
-    return [{ name: "Home", path: "/", icon: "fas fa-home" }];
+    return [{ name: "Home", path: homeUrl(), icon: "fas fa-home" }];
   }
   
   const segments = path.split("/").filter(Boolean);
-  const breadcrumbs: BreadcrumbItem[] = [{ name: "Home", path: "/", icon: "fas fa-home" }];
+  const breadcrumbs: BreadcrumbItem[] = [{ name: "Home", path: homeUrl(), icon: "fas fa-home" }];
   
   if (segments[0] === "docs" && segments.length > 1) {
     const collectionKey = segments[1];
@@ -28,7 +29,7 @@ const generateBreadcrumbs = (path: string): BreadcrumbItem[] => {
     if (collectionConfig) {
       breadcrumbs.push({
         name: collectionConfig.name,
-        path: `/docs/${collectionKey}/`,
+        path: docsUrl(collectionKey),
         icon: collectionConfig.breadcrumbIcon
       });
     }
@@ -37,7 +38,7 @@ const generateBreadcrumbs = (path: string): BreadcrumbItem[] => {
       const lastSegment = segments[segments.length - 1];
       breadcrumbs.push({
         name: lastSegment.charAt(0).toUpperCase() + lastSegment.slice(1).replace(/-/g, ' '),
-        path: currentPath,
+        path: withBase(currentPath),
         icon: 'fas fa-file'
       });
     }
