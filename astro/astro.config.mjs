@@ -6,6 +6,7 @@ import rehypeAutolinkHeadings from 'rehype-autolink-headings';
 
 export default defineConfig({
   site: 'https://kodexArg.github.io',
+  base: '/syv',
   trailingSlash: 'always',
   
   integrations: [
