@@ -43,3 +43,7 @@ pnpm-debug.log*
 
 # package-lock.json (opcional, mantener si se usa npm)
 # astro/package-lock.json
+
+# Claude Code files (versionar configuración compartida)
+.claude/settings.local.json
+# El resto de .claude/ se versionará (settings, hooks, skills, commands, REFERENCE)
