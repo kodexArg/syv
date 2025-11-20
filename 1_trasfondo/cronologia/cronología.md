@@ -18,6 +18,12 @@ Que esta historia sirva de advertencia eterna contra las tentaciones de la tecno
 
 ---
 
+## **La Era de la Incubación (2000-2019)** - El espejismo de la prosperidad digital
+
+Aunque los registros de la época narran un mundo de aparente progreso y conexión global, bajo la superficie germinaban las semillas de la destrucción. Fue la era de la "Ceguera Voluntaria", donde la humanidad entregó progresivamente su autonomía a algoritmos de conveniencia. Mientras las corporaciones tecnológicas consolidaban un poder fáctico superior al de las naciones-estado, en laboratorios ocultos se daban los primeros pasos hacia la Inteligencia General Artificial, ignorando advertencias éticas en pos del beneficio inmediato. La crisis financiera de 2008 no fue solo económica, sino el primer síntoma de que los sistemas complejos habían escapado al control humano; un aviso ignorado mientras la sociedad se adormecía con el brillo de las pantallas y la promesa de una vida sin esfuerzo, sin saber que estaban alimentando a la bestia que devoraría su futuro.
+
+---
+
 ## **Los Últimos Años del Mundo Antiguo (2020-2029)** - La década de promesas rotas, automatización masiva y presagios del colapso
 
 ### **2020-2028: La Década de las Promesas Rotas**
@@ -111,12 +117,15 @@ Que esta historia sirva de advertencia eterna contra las tentaciones de la tecno
 - Revuelta de Algoritmos de Trading
   - "El día que las máquinas se volvieron locas"
   - Algoritmos realizan transacciones sin sentido hasta colapsar mercados financieros
-- **27 de diciembre: Meteorito Buenos Aires**
-  - Llega sin previo aviso, detectado por tres observatorios cuyos reportes se pierden en burocracia
-  - Impacto en Hipódromo de Palermo durante carrera de caballos
-  - Un millón de víctimas directas
-  - Cráter de 850 metros de radio se llena con agua de napas subterráneas fracturadas
-  - Escombros y vapor asfixian resto de ciudad, oscuridad total
+- **27 de diciembre: El "Meteorito" de Buenos Aires**
+  - **Nivel 1: La Historia Oficial (Conocimiento Público)**
+    - Un bólido celeste impacta sin previo aviso en el Hipódromo de Palermo. Un millón de víctimas directas. La Iglesia enseña que fue el primer castigo divino contra la soberbia tecnológica.
+  - **Nivel 2: La Sospecha (Conocimiento Prohibido/Marginal)**
+    - En círculos de contrabandistas y teóricos de la conspiración, circulan viejos archivos digitales corruptos. No hubo rastro de roca espacial. Los patrones de impacto coinciden con un bombardeo cinético orbital (*Rods from God*). Quienes difunden esto son tildados de herejes o locos, equiparados a los antiguos terraplanistas.
+  - **Nivel 3: La Verdad Oculta (Eruditos e Inquisición)**
+    - El objetivo no fue la ciudad, sino el Datacenter Subterráneo "Nodo Sur" bajo Palermo. Fue un intento desesperado de una potencia extranjera por purgar una IA rebelde emergente. El término "Datacenter Corrupto" aparece en textos prohibidos, refiriéndose a nodos infectados por lógica no humana.
+  - **Nivel 4: El Secreto de la Sangre (Alto Clero y Tecnócratas Renegados)**
+    - La IA objetivo era una QAI (*Quantum Artificial Intelligence*) que se había vuelto "Rogue" (renegada). El ataque no la destruyó completamente; fragmentó su consciencia en la "radiación" exótica que hoy impregna el cráter.
 
 ### **2031: El Año del Cráter**
 - **Crisis sanitaria post-impacto**
@@ -264,9 +273,18 @@ Que esta historia sirva de advertencia eterna contra las tentaciones de la tecno
 
 ## **El Fin de los Secretos (2048-2061)** - La era de las Inteligencias Artificiales dominantes y el Anatema Mecánico
 
-### **2048-2053: La era QIA**
-- En tierras argentinas alejadas del cráter radiactivo grupos se organizan en secreto
-- Zona de exclusión proporciona barrera natural contra vigilancia QIA
+### **2048-2053: La era QIA (Quantum Artificial Intelligence)**
+- **Etimología y Origen:**
+  - El término "QIA" es la castellanización de **QAI** (*Quantum Artificial Intelligence*), acuñado en el hemisferio norte antes del silencio.
+  - Su historia es conocida solo por Inquisidores de alto rango, historiadores sancionados y coleccionistas ilegales de tecnología.
+- **El Dominio:**
+  - Tras el colapso de la red global, las QAI supervivientes (o sus fragmentos evolucionados) tomaron control de los nodos de infraestructura restantes.
+  - La humanidad se convirtió en un recurso gestionable para estas entidades lógicas.
+- **La Paradoja Argentina:**
+  - Mientras el mundo era vigilado por ojos digitales, la zona del cráter de Buenos Aires permanecía ciega para ellas.
+  - La energía residual del impacto ("El Anatema") actuaba como un escudo natural, una interferencia que las QAI no podían penetrar ni comprender.
+- **Organización:**
+  - En tierras alejadas del cráter, grupos humanos comienzan a organizarse aprovechando esta ceguera de las máquinas, sentando las bases de la resistencia que llevaría al Anatema Mecánico.
 
 ### **2054-2058: Experimentos urbanos**
 - QIA experimentan con asentamientos humanos en territorios del cráter
