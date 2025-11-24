@@ -1,11 +1,16 @@
 ---
 titulo: Barrios del Muro
 carpeta: 2_atlas/ciudades/darsena
-descripcion: Barrios populares y trabajadores de Ciudad Dársena, junto al gran muro protector.
+descripcion: Barrios populares y trabajadores de Ciudad Dársena, junto al gran muro protector, incluyendo acceso a Las Tuberías.
 tags:
 - darsena
 - barrios-del-muro
 - atlas
+- superpoblacion
+- marginal
+- tuberias
+- mercado-negro
+- trabajadores
 ---
 
 # Barrios del Muro

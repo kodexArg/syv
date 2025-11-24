@@ -1,9 +1,16 @@
 ---
 titulo: El Clima en 2178 - La Nube Roja y la Niebla Perpetua
 carpeta: 2_atlas/climas
-descripcion: Descripción del clima global y regional en el año 2178.
+descripcion: Descripción del clima global y regional en el año 2178, incluyendo fenómeno de Nube Roja y condiciones regionales.
 tags:
 - atlas
+- clima
+- nube-roja
+- darsena
+- cordoba
+- mendoza
+- temperatura
+- precipitacion
 ---
 
 # El Clima en la Confederación Argentina (2178)

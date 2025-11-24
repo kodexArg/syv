@@ -1,11 +1,17 @@
 ---
 titulo: Zona Residencial de Alta Sociedad (Barrios del Norte)
 carpeta: 2_atlas/ciudades/darsena
-descripcion: Barrios exclusivos de la élite darsenense, ubicados en el norte de la ciudad.
+descripcion: Barrios exclusivos de la élite darsenense, ubicados en el norte de la ciudad, con seguridad privada y lujos.
 tags:
 - darsena
 - barrio-norte
 - atlas
+- elite
+- opulencia
+- seguridad-privada
+- jardines
+- lujo
+- mazones
 ---
 
 # Zona Residencial de Alta Sociedad (Barrios del Norte)

@@ -5,7 +5,9 @@ descripcion: Capital de facto de la Confederación Argentina, centro político, 
 tags:
 - darsena
 - atlas
-region: Argentina, Ciudad Dársena
+- capital
+- confederacion
+- niebla-perpetua
 ---
 
 # Ciudad Dársena
@@ -31,7 +33,7 @@ El poder en Dársena se asienta sobre un trípode de facciones dominantes que co
 -   **Gremio de Comercio**: Agrupa a todos los negociantes de la ciudad, desde tenderos hasta magnates del mercado negro. Controla las redes comerciales que se extienden más allá de los muros, operando con un pragmatismo que a menudo choca con la rigidez de la Iglesia.
 
 Bajo esta estructura de poder, bulle una sociedad clandestina en los márgenes:
--   **Facciones Proscritas**: Grupos como la **Resistencia Subterránea**, los anarquistas, y los creyentes de **Los Umbanda** operan en secreto, principalmente desde los [[Barrios del Muro]] y [[Las Tuberías]].
+-   **Facciones Proscritas**: Grupos como la **Resistencia Subterránea**, los anarquistas, y movimientos religiosos heterodoxos operan en secreto, principalmente desde los [[Barrios del Muro]] y [[Las Tuberías]], escapando del control teológico de la Iglesia oficial.
 -   **Redes Ocultas**: Los **Criptógrafos** (hackers), los **Masones** y los **Arpistas** (preservadores del conocimiento) forman redes de influencia y secretos que son cazados y a la vez reclutados por el Estado y la Iglesia.
 -   **Parias y Criminales**: **Refugiados** sin ciudadanía y parias viven bajo la amenaza de los **Traficantes de Almas**, que operan en el corazón de las zonas más desfavorecidas.
 

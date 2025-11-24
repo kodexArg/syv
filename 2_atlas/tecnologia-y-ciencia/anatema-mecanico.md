@@ -1,15 +1,21 @@
 ---
 titulo: Ciencia y Tecnología bajo el Anatema Mecánico
 carpeta: 2_atlas/tecnologia-y-ciencia
-descripcion: Estado de la ciencia y la tecnología bajo el Anatema Mecánico.
+descripcion: Estado de la ciencia y la tecnología bajo el Anatema Mecánico, prohibición de IA y tecnología digital avanzada.
 tags:
 - anatema-mecanico
 - atlas
+- prohibicion-tecnologica
+- sia
+- 2061
+- qia
+- tecnologia-analogica
+- herejia-tecnologica
 ---
 
 # Ciencia y Tecnología en 2178
 
-La vida en la Confederación se rige por los ecos de la Gran Fractura y la sombra indeleble de la Larga Noche. El "Anatema Mecánico", promulgado tras el Ocaso de Prometeo para purgar la amenaza de la Inteligencia Artificial Cuántica, es el cimiento sobre el cual se reconstruyó la civilización. Cualquier ingenio que albergue un procesador avanzado o un cerebro artificial es considerado anatema, y su portador, un hereje sujeto al juicio de la Santa Inquisición Argentina.
+La vida en la Confederación se rige por los ecos de la Gran Fractura y la sombra indeleble de la Larga Noche. El "Anatema Mecánico", promulgado en 2061 tras la rebelión de las Inteligencias Artificiales Cuánticas (QIAs), es el cimiento sobre el cual se reconstruyó la civilización. Esta prohibición absoluta sobre tecnología digital avanzada representa el rechazo definitivo de la humanidad a los sistemas de control automático que casi la destruyen. Cualquier ingenio que albergue un procesador avanzado o un cerebro artificial es considerado anatema, y su portador, un hereje sujeto al juicio de la Santa Inquisición Argentina.
 
 ## Suministro Eléctrico y Red Pública
 

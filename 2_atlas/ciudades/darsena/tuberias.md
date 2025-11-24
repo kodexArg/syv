@@ -1,11 +1,17 @@
 ---
 titulo: Las Tuberías
 carpeta: 2_atlas/ciudades/darsena
-descripcion: Laberinto subterráneo bajo Ciudad Dársena, refugio de marginados y proscritos.
+descripcion: Laberinto subterráneo bajo Ciudad Dársena, refugio de marginados y proscritos, mundo sin ley con 500k habitantes.
 tags:
 - darsena
 - tuberias
 - atlas
+- subterraneo
+- sin-ley
+- resistencia
+- mercado-negro
+- anarquia
+- parias
 ---
 
 # Las Tuberías

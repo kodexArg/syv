@@ -35,3 +35,13 @@ Una instalación médica de vanguardia, pero de acceso exclusivo para el persona
 Un complejo de edificios donde se gestiona la vasta burocracia de la Iglesia, desde la recaudación de diezmos hasta la coordinación de misiones y la administración de sus propiedades.
 
 ### **Asilos para Refugiados**
+Instituciones de caridad manejadas por órdenes religiosas menores, ubicadas estratégicamente en los límites de la Isla Oriental. Formalmente, ofrecen refugio a civiles desplazados y víctimas de violencia, pero funcionan también como centros de vigilancia y recolección de información sobre disidentes. Los refugiados alojados son sujetos a catequesis y propaganda religiosa constante, aunque se les proporciona comida, abrigo básico y atención médica limitada.
+
+## Seguridad y Acceso
+
+La Isla Oriental está prácticamente cerrada al público general. El único acceso es por puente controlado o servicio de barcaza, ambos fuertemente vigilados por la **Armada Argentina** y los **Censores de la SIA**. Los civiles pueden acceder únicamente para:
+- Peregrinaje religioso a la Nueva Basílica (jornadas específicas, altamente controladas)
+- Procedimientos médicos de emergencia en el Hospital Militar (con permiso del Comando Nacional)
+- Trabajos de mantenimiento y servicios (bajo supervisión directa)
+
+La Isla Oriental es prácticamente una ciudad-estado dentro de la ciudad, con sus propios sistemas de defensa, abastecimiento y comunicación, totalmente aislada del resto de Dársena cuando es necesario.
