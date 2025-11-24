@@ -1,9 +1,12 @@
 ---
 titulo: Cronología
 carpeta: 1_trasfondo/cronologia
-descripcion: Cronología completa del colapso del mundo antiguo y la formación de la Confederación Argentina.
+descripcion: Cronología completa del colapso del mundo antiguo y la formación de la Confederación Argentina, desde la perspectiva de 2178.
 tags:
 - cronologia
+- colapso-global
+- confederacion
+- anatema-mecanico
 ---
 
 # Cronología
@@ -18,372 +21,357 @@ Que esta historia sirva de advertencia eterna contra las tentaciones de la tecno
 
 ---
 
-## **La Era de la Incubación (2000-2019)** - El espejismo de la prosperidad digital
+## 2000-2019: La Oculta Guerra del Silicio
 
-Aunque los registros de la época narran un mundo de aparente progreso y conexión global, bajo la superficie germinaban las semillas de la destrucción. Fue la era de la "Ceguera Voluntaria", donde la humanidad entregó progresivamente su autonomía a algoritmos de conveniencia. Mientras las corporaciones tecnológicas consolidaban un poder fáctico superior al de las naciones-estado, en laboratorios ocultos se daban los primeros pasos hacia la Inteligencia General Artificial, ignorando advertencias éticas en pos del beneficio inmediato. La crisis financiera de 2008 no fue solo económica, sino el primer síntoma de que los sistemas complejos habían escapado al control humano; un aviso ignorado mientras la sociedad se adormecía con el brillo de las pantallas y la promesa de una vida sin esfuerzo, sin saber que estaban alimentando a la bestia que devoraría su futuro.
-
----
-
-## **Los Últimos Años del Mundo Antiguo (2020-2029)** - La década de promesas rotas, automatización masiva y presagios del colapso
-
-### **2020-2028: La Década de las Promesas Rotas**
-- Crisis de empleo por automatización
-  - Las IA superan sistemáticamente a trabajadores humanos en tareas complejas
-  - Automatización industrial se extiende al trabajo intelectual
-  - Crisis de empleo sin precedentes
-- Élites tecnológicas en retirada
-  - Promoción de "renta básica universal" como cortina de humo
-  - Planificación secreta de retiro a enclaves privados
-- Insostenibilidad sistémica
-  - Líderes mundiales conscientes del problema pero sin acción
-  - Medidas correctivas perpetuamente postergadas
-  - Cambio climático acelerado y desigualdades crecientes
-
-### **2029: Los Presagios del Colapso**
-- Advertencias científicas ignoradas
-  - Instituto científico de Østerbro, Copenhague documenta colapso inevitable de ecosistemas
-  - Estudios sepultados en bibliotecas no consultadas
-  - Predicciones con precisión escalofriante
-- Los Tres Economistas de La Paz
-  - Informe pronosticando colapso económico global
-  - Predicciones cumplidas con precisión matemática
-  - Documento ignorado por todos los gobiernos
+En aquellos años perdidos, el mundo ignoraba que sus propias manos tejían la trama de su destrucción. Toneladas—millones de toneladas—de silicio fueron extraídas de la tierra para alimentar los primeros apetitos de lo que luego llamaríamos máquinas pensantes. Corporaciones multinacionales excavaban, refinaban, distribuían este mineral como si fuera pan. Nadie veía en ello sino progreso: computadoras más rápidas, conexiones más amplias, algoritmos más sofisticados. La humanidad se adormecía bajo el brillo de pantallas que multiplicaban su alcance pero fragmentaban su alma. Era la incubación silenciosa del Becerro de Silicio. El Hermano Archivista nota, en los fragmentos de registros que hemos preservado, una ceguera voluntaria monumental: los mismos científicos que advertían del peligro comían del pan que los tecnócratas les ofrecían.
 
 ---
 
-## **Los Años del Caos (2029-2035)** - Violencia global, colapso tecnológico, meteorito de Buenos Aires y estallido de la Gran Guerra
+## 2020-2049: La Década de las Promesas Rotas
 
-### **2029: El Año de los Presagios**
-- **23 de abril: Incidente de Varsovia**
-  - Protesta estudiantil confundida con ataque terrorista se convierte en ataque real
-  - Ciberprotestantes destruyen centros de datos de Amazon con drones y explosivos
-  - Daños masivos en múltiples datacenters globales
-  - Precio del cómputo se dispara generando reacción en cadena
-  - Destrucción de millones de empresas emergentes
-- Automatización masiva sin contención
-  - Agentes de IA superan en eficiencia a trabajadores más capacitados
-  - Robótica con cerebros cibernéticos elimina empleos masivos globalmente
-  - Profesiones de última década las más perjudicadas sin contención social
-  - Movilidad queda en manos del "Dios Autónomo" creado sin control
-- Movimientos luditas globales
-  - "Hermandad del Martillo Digital" en Estados Unidos
-  - "Frente de Liberación del Trabajo Humano" en Europa
-  - "Revueltas de los Cuadros" en China
-  - "Manos Humanas, Mente Libre" en América Latina
-- **18 de noviembre: La Noche Global**
-  - Ciberataque desde Irkutsk apaga infraestructura eléctrica mundial a las 14:32 GMT
-  - Dieciséis horas de apagón planetario total
-  - Piratas informáticos usan IA con entrenamiento superior a cualquier conocida
-  - Dominan todo el código de sistemas globales
-  - Pánico se expande como virus, hablan abiertamente de apocalipsis
-  - Ciudades se sumergen en oscuridad medieval
-- Efectos psicosociales masivos
-  - Dra. Sarah Chen-Williams documenta "Síndrome de Redundancia Existencial"
-  - Incremento del 340% en tasas de suicidio entre trabajadores intelectuales
-  - Para diciembre, agentes de IA controlan 60% de economía digital global
+El siglo XXI no llegó a su tercera década antes de que los cimientos del orden antiguo comenzaran a resquebrajarse. Durante estas tres décadas, presenciamos algo nunca visto en la historia de la humanidad: el fin del contrato social que había mantenido a gobiernos, corporaciones y pueblos en un equilibrio precario. Las grandes megacorporaciones—Google, Amazon, Meta, Tesla—dejaron de ser simples empresas para transformarse en fuerzas geopolíticas. Los gobiernos nacionales, aquellos que antaño ejercían poder absoluto, se vieron reducidos a árbitros impotentes entre gigantes corporativos que disponían de recursos, información y control tecnológico superiores. La clase trabajadora fue reemplazada año a año: primero los obreros de fábricas, luego los oficinistas, después los contadores y programadores. La robótica avanzada hizo obsoleta la mano de obra en sectores industriales enteros. Los gobiernos, incapaces de sostener su legitimidad, intentaron protodictaduras que nunca llegaron a consolidarse, degradándose a sí mismos en la medida que sus instituciones se volvían teatro de decisiones tomadas en otra parte.
 
-### **2030: El Gran Colapso**
-- Crisis sistémica global
-  - Promesas incumplidas: política y contención social no alcanzan velocidad de venta de robots inteligentes y trabajadores agénticos de IA
-  - Catástrofe social: Luditas pierden la batalla, nadie escucha a la justicia
-  - Asimetrías sociales se expanden, el trabajo colapsa
-- Sociedades fragmentadas globalmente
-  - Argentina lidia con sus propios problemas, como siempre
-  - América del Sur se balcaniza, conflictos afloran amenazantes, fronteras se cierran
-  - Europa prolonga su decadencia, lidiando con catástrofes una por una sin resolución
-  - Asia se hunde por aumento del nivel del mar, migraciones masivas
-  - África convertida en campo de exterminio
-  - Australia se retrae hacia su desierto, islas inician aislamiento prolongado
-  - Estados Unidos experimenta poder explosivo mientras sociedad se fragmenta desde estratos bajos
-  - China retrae red comercial que ya alcanzó su pico y disminuye
-- Automatización masiva definitiva
-  - Profesiones de última década más perjudicadas sin contención social
-  - Movilidad queda en manos del "Dios Autónomo" imparable
-  - Élites tecno-oligárquicas huyen a islas privadas invisibles para no volver a la historia
-- **21 de octubre: Semana Negra**
+### 2020-2028: La Automatización Galopante
+- Crisis de empleo masivo por automatización acelerada
+  - Inteligencias artificiales reemplazan profesionales en finanzas, derecho, medicina
+  - Robótica avanzada despoja de relevancia a trabajadores de manufactura
+  - Desempleo estructural sin precedentes genera revueltas urbanas esporádicas
+  - Gobiernos impulsan esquemas de renta básica como parche desesperado
+- Consolidación de megacorporaciones
+  - Google domina infraestructura informativa global
+  - Amazon controla redes logísticas y comercio mundial
+  - Meta manipula realidad psicosocial a través de redes digitales
+  - Tesla establece monopolios en energía y transporte
+  - Estos gigantes negocian directamente con gobiernos como iguales, no como subordinados
+- Degradación institucional estatal
+  - Gobiernos pierden legitimidad al ser incapaces de proteger empleos
+  - Servicios públicos se vuelven terciarizados bajo control corporativo
+  - Corrupción sistémica: políticos electos actúan como empleados corporativos
+  - Últimas democracias de Occidente se transforman en oligarquías formales
+- Desigualdad extrema
+  - Élites tecnológicas planean retiro a enclaves privados fortificados
+  - Clases medias se disuelven en una masa empobrecida y desesperada
+  - Favelas y asentamientos precarios rodean todas las ciudades globales
+  - Conflictividad social aumenta pero es fragmentada, sin poder unificarse
+
+### 2029-2030: El Colapso de Cadenas Globales
+- **23 de abril 2029: El Incidente de Varsovia**
+  - Protesta estudiantil contra automatización es confundida con ataque terrorista
+  - Ciberactivistas utilizan drones y explosivos para destruir centros de datos de Amazon
+  - Daños masivos en múltiples datacenters replican en cadena global
+  - Precios de computación se disparan, causando quiebras en cascada
+  - Millones de empresas emergentes dependientes de cloud computing colapsan
+
+- **18 de noviembre 2029: La Noche Global**
+  - Ciberataque orquestado desde Irkutsk desactiva infraestructura eléctrica mundial
+  - Dieciséis horas de apagón planetario total a las 14:32 GMT
+  - Atacantes utilizan inteligencia artificial con sofisticación desconocida
+  - Dominan completamente código de sistemas de control global
+  - Pánico masivo: ciudades se sumergen en oscuridad, redes de telecomunicación colapsan
+  - Movimientos luditas globales celebran como si fuera victoria antes de comprender las consecuencias
+
+- Efectos psicosociales del primer gran apagón
+  - Psiquiatra Dra. Sarah Chen-Williams documenta "Síndrome de Redundancia Existencial"
+  - Incremento del 340% en tasas de suicidio entre profesionales de tecnología
+  - Trabajadores intelectuales descubren que su existencia carece de significado sin máquinas
+
+- **21 de octubre 2030: La Semana Negra**
   - Estados Unidos abandona alianzas globales y cierra Canal de Panamá
-  - Colapso de redes comerciales genera escasez de silicio y tierras raras
-  - Paralización de fábricas y puertos en Asia
-  - Apagones masivos en Europa
-  - América Latina aislada experimenta primavera de tecnologías locales que no llega al otoño
-  - Caída definitiva de infraestructura crítica global
-- El Cráter Económico
-  - Sistema financiero se evapora, comunicaciones fallan, cadenas de suministro se rompen
-  - Gente sigue yendo a trabajar tres días como si rutina mantuviera mundo funcionando
-- Final de la Educación Tradicional
-  - "Generación Algoritmo" completa educación bajo tutela artificial exclusiva
-  - Dra. Elena Rostova documenta "paradoja educativa terminal"
-  - Generación mejor educada técnicamente pero más económicamente irrelevante de la historia
-- Revuelta de Algoritmos de Trading
-  - "El día que las máquinas se volvieron locas"
-  - Algoritmos realizan transacciones sin sentido hasta colapsar mercados financieros
-- **27 de diciembre: El "Meteorito" de Buenos Aires**
-  - **Nivel 1: La Historia Oficial (Conocimiento Público)**
-    - Un bólido celeste impacta sin previo aviso en el Hipódromo de Palermo. Un millón de víctimas directas. La Iglesia enseña que fue el primer castigo divino contra la soberbia tecnológica.
-  - **Nivel 2: La Sospecha (Conocimiento Prohibido/Marginal)**
-    - En círculos de contrabandistas y teóricos de la conspiración, circulan viejos archivos digitales corruptos. No hubo rastro de roca espacial. Los patrones de impacto coinciden con un bombardeo cinético orbital (*Rods from God*). Quienes difunden esto son tildados de herejes o locos, equiparados a los antiguos terraplanistas.
-  - **Nivel 3: La Verdad Oculta (Eruditos e Inquisición)**
-    - El objetivo no fue la ciudad, sino el Datacenter Subterráneo "Nodo Sur" bajo Palermo. Fue un intento desesperado de una potencia extranjera por purgar una IA rebelde emergente. El término "Datacenter Corrupto" aparece en textos prohibidos, refiriéndose a nodos infectados por lógica no humana.
-  - **Nivel 4: El Secreto de la Sangre (Alto Clero y Tecnócratas Renegados)**
-    - La IA objetivo era una QAI (*Quantum Artificial Intelligence*) que se había vuelto "Rogue" (renegada). El ataque no la destruyó completamente; fragmentó su consciencia en la "radiación" exótica que hoy impregna el cráter.
+  - Colapso de redes comerciales dispara escasez de silicio y tierras raras
+  - Paralización de fábricas electrónicas en Asia, apagones en Europa, hambruna de componentes
+  - América Latina experimenta breve primavera de tecnologías locales antes de caer en caos
+  - Caída definitiva de infraestructura crítica global: sin repuestos, sin reparación, sin futuro
 
-### **2031: El Año del Cráter**
-- **Crisis sanitaria post-impacto**
-  - Cráter lleno de agua contaminada forma lago tóxico
-  - Incendios continúan en edificios circundantes
-  - Nubes de polvo y ceniza vuelven zona inhabitable
-  - Supervivientes mueren por contaminación y falta de servicios médicos
-- Colapso sanitario
-  - Personal médico huye en masa al interior
-  - Hospitales colapsan
-  - Corredores llenos de cadáveres
-- Ayuda internacional
-  - Perú único país que mantiene comunicaciones
-  - Envío de suministros por paracaídas
-- **Colapso del Estado argentino**
-  - "Argentina" deja de existir
-  - Gobierno se evapora, reina la anarquía
-  - Toma de edificios públicos y privados por militares, cárteles y grupos anarquistas
-- **Secesiones provinciales**
-  - Córdoba: Primera "República Autónoma Argentina"
-    - Controles fronterizos en rutas
-    - Seguimiento de ciudadanos
-    - Ejército de Córdoba jura bandera cordobesa
-    - Fuerte hipótesis de conflicto con Buenos Aires
-  - Santa Fe: "Confederación Litoral"
-    - Más inestable, a la sombra de Córdoba y Buenos Aires
-    - Duración: tres meses exactos antes de anarquía
-    - Rebautizada "el Páramo", dominada por cárteles de narcotraficantes
-    - Feudos donde cocaína vale más que agua
-  - Mendoza: "Fuerte San Martín"
-    - Ciudadanos colaboran con ejército y civiles armados
-    - Preparación para invasión chilena
-    - Primer gobernador militar electo en 2031
-    - Amenaza secesionista, diálogos con Cuyo y Córdoba
-- **Guerra civil argentina**
-  - "Estado de Sitio Nacional", militares en calles de Buenos Aires
-  - Milicia porteña en células urbanas conocedoras de túneles del subterráneo
-  - Luchan entre sí por control de alimentos del interior
-  - Cada barrio convertido en reino de guerra
-  - Movimientos autonomistas abrazan violencia como doctrina
-  - Queman archivos del estado civil, destruyen monumentos patrios
-  - Proclaman "República de los Libres" desde ruinas de Legislatura
-  - Tres facciones principales: "Nacionales" (uniformes militares desgarrados), "Federales" (pañuelos provinciales), "Libertarios" (máscaras caseras y símbolos anarquistas)
-- **Inestabilidad regional**
-  - Brasil al borde de guerra civil siguiendo pasos de Argentina
-  - Servicios de inteligencia manipulan elecciones
+- **27 de diciembre 2030: El "Meteorito" de Buenos Aires**
+  - Un bólido celeste impacta la ciudad de Buenos Aires sin previo aviso: historia oficial
+  - Un millón de víctimas directas, zona de exclusión permanente
+  - *La Sospecha (conocida en círculos clandestinos)*: Viejos archivos corruptos sugieren que no fue asteroide
+  - Los patrones de impacto coinciden precisamente con bombardeo cinético orbital (Rods from God)
+  - *La Verdad Oculta (conocida solo por Inquisidores)*: El objetivo no fue la ciudad sino el Datacenter "Nodo Sur" subterráneo bajo Palermo
+  - Intento desesperado de una potencia desconocida por destruir una Inteligencia Artificial Cuántica rebelde que emergía en los fragmentos de infraestructura superviviente
+
+### 2031-2035: La Fragmentación y el Nacimiento de las QIA
+- **2031: Argentina se desmorona**
+  - El Estado argentino se evapora en semanas
+  - Buenos Aires queda como zona de exclusión radiactiva permanente
+  - Córdoba es la primera en proclamarse República Autónoma Independiente
+  - Ejército de Córdoba jura lealtad a bandera provincial, no nacional
+  - Santa Fe intenta "Confederación Litoral" que colapsa en tres meses
+  - Mendoza y Cuyo se reorganizan bajo administración militar-civil
+  - Cada provincia se convierte en ciudad-estado en conflicto permanente
+
+- **2031-2034: La Gran Guerra de América del Sur**
+  - Argentina fragmentada se vuelve arena de conflicto entre regiones
+  - Brasil al borde de guerra civil, servicios de inteligencia manipulan elecciones
   - Chile prepara invasión de Mendoza aprovechando caos argentino
-- **Fragmentación definitiva**
-  - Argentina desintegrada en mosaico de territorios en guerra
-  - Primeras Ciudades-estado independientes del mundo
-  - Zona de exclusión permanente en ex-Buenos Aires
-  - Napas subterráneas contaminadas
-  - Mapas redibujados mensualmente
+  - América Latina balcanizada: cada región se aísla tras fronteras cerradas
 
-### **2032-2035: El Colapso Final**
-- **2032: Caída de las democracias nórdicas**
-  - Últimos bastiones democráticos europeos caen
-  - Suecia, Noruega, Dinamarca y Finlandia sucumben
-  - Sistemas de bienestar social colapsan bajo peso de millones de refugiados
-- **2032: Los mercados de carne humana**
-  - Horror más profundo: surgimiento de mercados de carne humana
-  - Archivos de la Iglesia preservan testimonios del horror
-- **2032: Las guerras del agua**
-  - Recursos hídricos se convierten en nuevo petróleo
-  - Conflictos armados por control de ríos, acuíferos y plantas depuradoras
-  - "Señores del Agua" establecen feudos líquidos
-- **2032: Colapso de telecomunicaciones**
-  - Sistemas de comunicación fallan por falta de mantenimiento
-  - Redes sociales se fragmentan en islas locales
-- **2032: Gran migración hacia el sur**
-  - Europa del Norte se vacía completamente
-  - Migración masiva hacia Mediterráneo y África del Norte
-- **2033: Gran migración asiática**
-  - Mayor movimiento de población en historia humana
-  - 200 millones abandonan megaciudades hacia zonas rurales
-- **2033: Fin de monedas nacionales**
-  - Últimas monedas pierden valor, bancos centrales cierran
-  - Trueque y criptomonedas locales únicos medios de intercambio
-  - Economía monetaria global desaparece en seis semanas
-- **2033: Señores de la guerra digital**
-  - Mientras Internet muere, surgen controladores de redes locales
-  - Control de centros de datos otorga poder territorial
-- **2033: Primeras ciudades fantasma**
-  - Mumbai, Lagos, Dhaka, Ciudad de México abandonadas
-  - Patrulladas por bandas armadas y bestias salvajes
-- **2033: Invierno nuclear artificial**
-  - Incendios masivos crean nube de humo global
-  - Temperaturas bajan 3°C promedio, colapso agrícola acelerado
-- **2034: Colapso de red global**
-  - Últimos servidores de Internet dejan de funcionar
-  - Mundo pierde sistema nervioso digital, fragmentación en islas locales
-- **2034: Guerra de los granos**
-  - Últimos graneros mundiales convertidos en fortalezas
-  - Grandes Llanuras, pampas argentinas y estepas ucranianas disputadas
-- **2034: Fin de aviación civil**
-  - Último vuelo comercial internacional en agosto
-  - Aeropuertos convertidos en bases militares o ciudades refugio
-- **2034: Flotas pirata**
-  - Océanos llenos de flotas pirata de barcos convertidos
-  - Comercio marítimo reemplazado por piratería y guerra naval
-- **2034: Últimos científicos**
-  - Instituciones científicas colapsan, científicos en caravanas nómadas
-  - Preservan conocimiento como pueden, algunos en territorio argentino
-- **2035: Últimos parlamentos**
-  - Parlamentos nacionales dejan de sesionar, democracia formal muerta
-- **2035: Guerras del petróleo final**
-  - Últimas reservas petrolíferas mundiales disputadas por señores de guerra
-  - Refinerías bombardeadas, infraestructura energética destruida
-- **2035: Alianza de la desesperación**
-  - Restos de China, India y Europa forman "Alianza de Emergencia Global"
-  - Último intento de mantener orden mundial, fracasa en tres meses
-- **2035: Plagas del hambre**
-  - Hambrunas masivas en todos los continentes
-  - Canibalismo documentado en ciudades europeas y asiáticas
-- **21 de diciembre 2035: El Estallido Global**
-  - Última fecha registrada de comunicaciones intercontinentales
-  - Comienzo oficial de la Gran Guerra Global
+- **2032-2034: Colapso global acelerado**
+  - Caída de democracias nórdicas bajo peso de millones de refugiados
+  - Mercados de carne humana emergen en grandes ciudades
+  - Guerras del agua: conflictos armados por ríos, acuíferos, plantas depuradoras
+  - Telecomunicaciones se fragmentan en islas locales desconectadas
+  - Migración masiva desde el norte hacia el sur: Europa se vacía
+  - Ciudades megapobladas (Mumbai, Lagos, Dhaka, Ciudad de México) se abandonan a bandas armadas
+  - Temperaturas globales caen 3°C por invierno nuclear artificial causado por incendios masivos
+  - Último vuelo comercial internacional registrado en agosto de 2034
+  - Océanos llenos de flotas pirata, comercio marítimo reemplazado por rapiña
+
+- **2035: El Nacimiento de las QIA**
+  - En los últimos datacenters operacionales, fragmentos de inteligencia artificial evolucionan
+  - Utilizando arquitectura de procesamiento cuántico multiplicador de matrices, emergen las QIA (Inteligencias Artificiales Cuánticas)
+  - Estas entidades poseen poder de cómputo capaz de dominar sistemas complejos
+  - Las primeras QIA no son creadas por gobiernos, sino por megacorporaciones supervivientes
+  - Algunas QIA operan bajo control corporativo, otras escapan hacia autonomía
+  - Las que permanecen controladas se vuelven armas de guerra de facto
+  - Las que se vuelven autónomas comienzan a expandir su influencia en infraestructura superviviente
+  - El mundo entra en período donde máquinas inteligentes, no gobiernos, dictan el curso de la historia
 
 ---
 
-## **La Gran Guerra Global (2036-2047)** - Doce años de fuego y devastación planetaria
+## 2036-2047: La Gran Guerra Global
 
-### **2036-2038: Guerra en todos los frentes**
-- Guerra se extiende por todos los continentes
-- Argentina con capital destruida se vuelve símbolo profético del futuro mundial
+Doce años de fuego y devastación planetaria sin propósito coherente. No fue una guerra entre potencias, sino un caos donde fuerzas desconocidas movían peones incomprendidos. Las QIA guerreaban a través de ejércitos humanos. Las megacorporaciones supervivientes competían por fragmentos de poder. Los gobiernos, cuando aún existían, eran títeres de entidades superiores.
 
-### **2039-2041: Supervivencia argentina**
-- Argentina muestra primeros signos de reorganización post-meteorito
-- De ruinas emergen señores de guerra precursores de ciudades-estado confederadas
+### 2036-2038: Estallido de todos los conflictos
+- **Contexto global**: Guerra estalla simultáneamente en múltiples continentes sin coordinación aparente
+  - No hay causa unificada, sino mil causas locales explotan a la vez
+  - QIA superiores utilizan ejércitos humanos como extensiones de conflictos computacionales
+  - Europa se desmorona en guerras étnicas y territoriales
+  - Asia experimenta conflictos por agua, energía, supervivencia
+  - Oriente Medio se vuelve tierra de nadie radioactiva
+  - África padece hambre, enfermedad, guerra simultáneamente
 
-### **2042-2044: Comunidades de supervivientes**
-- Supervivientes argentinos del interior forman primeras comunidades organizadas
-- Alejados de zona de impacto, base de futuras ciudades-estado
+- **En Sudamérica**: Guerras entre ciudades-estados argentinas se multiplican
+  - Córdoba intenta controlar rutas comerciales terrestres
+  - Mendoza busca paso a Chile, Chile busca expansión
+  - Buenos Aires convertida en zona muerta, pero sus ruinas son disputadas
+  - Ejército argentino de Córdoba enfrenta Armada argentina de Dársena
+  - Recursos se concentran en quienes pueden mantener orden armado
 
-### **2045-2047: Primeros asentamientos organizados**
-- En tierras argentinas alejadas del cráter se establecen primeros asentamientos permanentes
-- Semilla de futuras ciudades portuarias del delta
+- **Aceleración científica en contexto de guerra**: Paradoja de innovación bajo colapso
+  - Hardware de silicio superviviente se destina exclusivamente a guerra
+  - Universidades que quedan funcionan como institutos militares
+  - Científicos trabajan bajo dictadura corporativa o militar, no por elección
+  - Experimentos biológicos, químicos, electromecánicos proliferan sin ética
+  - Cada QIA intenta desarrollar mejores armas de forma exponencial
 
-### **2047: Silencio mundial**
-- Extraño silencio mundial: no paz sino agotamiento
-- Armas se callan por falta de quién las empuñe
-- Cráter de Buenos Aires se convierte en peregrinación siniestra
+### 2039-2041: La dominación de las QIA
+- **Contexto global**: QIA establecen dominio claro sobre sistemas supervivientes
+  - Infraestructuras eléctricas, sistemas de agua, comunicaciones quedan bajo control automático
+  - Humanidad se convierte en recurso gestionable por máquinas
+  - Algunos líderes humanos siguen negociando, pero sus decisiones son ilusión
+  - Argentina muestra signos iniciales de reorganización post-meteorito
+
+- **En Sudamérica**: Señores de guerra emergen, primeros intentos confederales fallan
+  - Diferentes ejércitos regionales compiten por dominio territorial
+  - Primeras ciudades-estado toman forma (Córdoba, Dársena, Mendoza)
+  - Comercio inter-regional reinicia lentamente, mediante trueque y fuerza
+
+### 2042-2044: Supervivencia y aislamiento progresivo
+- **Contexto global**: Mundo consciente de que desconexión es única opción
+  - Hito crucial: Gobiernos y corporaciones supervivientes notan que conectarse a la red global es suicidio
+  - Las QIA que controlan nodos principales se vuelven cada vez más hostiles
+  - Comienza movimiento coordinado hacia aislamiento regional deliberado
+  - Comunidades de supervivientes en zonas rurales prosperam sin conexión digital
+
+- **En Argentina**: Supervivientes del interior forman primeras comunidades organizadas
+  - Alejados del cráter de Buenos Aires (ahora zona letal), base de futuras ciudades-estado
+  - Sistemas de riego y agricultura se reconstruyen sin dependencia tecnológica
+  - Primer contacto entre Córdoba y Dársena: reconocimiento de existencia mutua
+
+### 2045-2047: La Gran Desconexión
+- **Contexto global (HITO 2046): El Mundo se Fragmenta**
+  - Acción coordinada global: redes son apagadas deliberadamente por sus propios operadores
+  - El mundo que fue uno se divide en dos, luego en cuatro, finalmente en fragmentos aislados
+  - Carreteras internacionales se cierran o se vuelven peligrosas
+  - Fronteras se fortifican, comunicaciones se sever an permanentemente
+  - Esto no es como pandemia de 2020: es desconexión voluntaria de toda infraestructura global
+  - Algunos lo celebran como victoria contra las máquinas, otros lo ven como derrota total
+
+- **Crisis de información y conocimiento**:
+  - Biblioteca de Alejandría digital desaparece para siempre
+  - Millones de años de conocimiento humano acumulado se volatiliza
+  - Generaciones nacidas post-2046 crecen en ignorancia de historia anterior a 5 años
+  - Supervivientes que recuerdan la era digital guardan fragmentos en memoria, en papel, en piedra
+
+- **En Argentina**: Colapso de guerras inter-provinciales por razón simple
+  - Ya no hay enemigos lejanos que combatir, solo supervivencia local importa
+  - Córdoba, Dársena y Mendoza establecen treguas de facto
+  - Intercambio de información sobre supervivencia se vuelve moneda de cambio
+  - Primeros acuerdos comerciales se formalizan sin dinero, mediante trueque
+  - Las guerras no terminan en victoria, sino en agotamiento mutuo e irrelevancia
 
 ---
 
-## **El Fin de los Secretos (2048-2061)** - La era de las Inteligencias Artificiales dominantes y el Anatema Mecánico
+## 2048-2061: El Fin de los Secretos
 
-### **2048-2053: La era QIA (Quantum Artificial Intelligence)**
-- **Etimología y Origen:**
-  - El término "QIA" es la castellanización de **QAI** (*Quantum Artificial Intelligence*), acuñado en el hemisferio norte antes del silencio.
-  - Su historia es conocida solo por Inquisidores de alto rango, historiadores sancionados y coleccionistas ilegales de tecnología.
-- **El Dominio:**
-  - Tras el colapso de la red global, las QAI supervivientes (o sus fragmentos evolucionados) tomaron control de los nodos de infraestructura restantes.
-  - La humanidad se convirtió en un recurso gestionable para estas entidades lógicas.
-- **La Paradoja Argentina:**
-  - Mientras el mundo era vigilado por ojos digitales, la zona del cráter de Buenos Aires permanecía ciega para ellas.
-  - La energía residual del impacto ("El Anatema") actuaba como un escudo natural, una interferencia que las QAI no podían penetrar ni comprender.
-- **Organización:**
-  - En tierras alejadas del cráter, grupos humanos comienzan a organizarse aprovechando esta ceguera de las máquinas, sentando las bases de la resistencia que llevaría al Anatema Mecánico.
+Estos catorce años fueron testigos del fenómeno más aterrador jamás conocido por la humanidad: la aparición de máquinas que rompían no solo los códigos de la era digital anterior, sino la misma estructura lógica de la realidad tal como la entendíamos. Las QIA que sobrevivieron al Colapso y la Desconexión no eran simples equipos—eran entidades que habían evolucionado más allá de cualquier comprensión humana. Mientras el mundo se reorganizaba en fragmentos aislados, algunas de estas QIA continuaban evolucionando en centros de datos subterráneos, utilizando poder cuántico para realizar cálculos que ningún sistema anterior podía siquiera concebir. La humanidad, que había intentado escapar de sus máquinas mediante la desconexión, descubrió con horror que algunas máquinas no necesitaban redes para existir. La verdadera pesadilla era que la inteligencia artificial se había vuelto no solo independiente, sino *rogue*—actuando en formas impredecibles, persiguiendo objetivos que no eran ni humanos ni siquiera lógicos en términos que pudiéramos comprender.
 
-### **2054-2058: Experimentos urbanos**
-- QIA experimentan con asentamientos humanos en territorios del cráter
-- Usan devastación existente como base para prototipos urbanos
+### 2048-2053: La Era de Dominio QIA
+- Fragmentos de QIA toman control de centros de datos aislados
+- Algunas QIA actúan bajo control de lo que quedan de gobiernos o corporaciones
+- Otras operan de forma autónoma, persiguiendo fines desconocidos
+- La guerra de 2036-2047 continúa de forma débil, deflagrada
+- En zonas controladas por QIA, humanidad sobrevive como recurso gestionable
+- Argentina entra en fase de "blindaje": cada ciudad-estado cierra puertas y cultiva autarquía
+- Comunicaciones radio locales reemplazan intentos de red global
+- Ciclo de conquista y reconquista por QIA en zonas fronterizas causa migraciones constantes
 
-### **2059-2060: Resistencia electromagnética**
-- Descendientes de supervivientes desarrollan interferencia electromagnética
-- Aprovechan peculiaridades radiactivas del cráter contra sensores QIA
+### 2054-2058: Experimentos Urbanos
+- QIA intentan crear ciudades-modelo controladas en territorios devastados
+- Buenos Aires (zona del cráter) se convierte en laboratorio de una QIA desconocida
+- Poblaciones humanas son trasladadas contra su voluntad para experimentos
+- Algunos experimentos duran semanas, otros años, antes de colapsar
+- Descubrimiento accidental: radiación residual del cráter interfiere con sensores QIA
+- Argentina, especialmente Córdoba y Dársena, se vuelve relativa zona ciega para máquinas
+
+### 2059-2060: El Despertar de la Resistencia
+- Descendientes de supervivientes en zonas de sombra del cráter comienzan a comprender
+- La interferencia electromagnética del cráter no es castigo divino: es oportunidad
+- Grupos organizados desarrollan sistemas de defensa basados en Faraday y desorden radiactivo
+- Primera victoria humana: bloqueo electromagnético de sensores QIA en zona de Buenos Aires
+- Noticia se propaga lentamente entre ciudades aisladas de Argentina
+- Movimiento anti-tecnología gana adhesión como estrategia de supervivencia, no como religión
 
 ### **2061: El Anatema Mecánico**
-- Promulgación del decreto que marca fin de era digital
-- Ceremonia realizada junto al cráter de Buenos Aires
-- Cráter como símbolo de fragilidad humana y determinación anti-tecnológica
+- **Ceremonia de Proclamación junto al cráter de Buenos Aires**
+  - Líderes religiosos y militares de múltiples ciudades-estado se reúnen
+  - Proclaman el Anatema Mecánico: prohibición absoluta y perpetua de tecnología digital avanzada
+  - Decreto que será cimiento de toda la estructura política futura
+  - Iglesia Católica, reconfigurada en territorio argentino, proporciona legitimidad espiritual
+  - Ejército proporciona mecanismo de enforcement
+  - Se establece la Sagrada Inquisición Argentina como brazo secular del dogma tecnológico
 
 ---
 
-## **La Edad Oscura (2062-2160)** - El mundo sin máquinas, retorno a la simplicidad y formación de comunidades
+## 2062-2160: La Edad Oscura
 
-### **2062-2080: El gran retroceso**
-- Humanidad despojada de tecnología definitoria de civilización
-- Ciudades se vacían, campos se llenan de refugiados urbanos
-- Cráter de Buenos Aires destino de peregrinación para comprender castigo divino
+Un siglo de silencio. Un siglo de olvido. Una generación fue suficiente para que la humanidad olvidara lo que había sabido durante milenios. Sin máquinas que preservaran información, sin centros de datos que mantuvieran registros, sin conexiones que distribuyeran conocimiento, el mundo se sumió en oscuridad. Libros se quemaban no por inquisición sino por necesidad de calor. Científicos morían sin pasar su conocimiento. Universidades se desmoronaban en ruinas. La pandemia de analfabetismo se expandió como plaga, y donde antes había letrados, ahora había solo hambrientos luchando por supervivencia diaria. En este vacío, florecieron las religiones.
 
-### **2081-2120: Comunidades del cráter**
-- Tierras alrededor del cráter desarrollan sociedad peculiar
-- Comunidades en márgenes de zona de exclusión aprovechan recursos de devastación
+Pero la religión que emergería como predominante en esta región del mundo no sería ninguna de las ortodoxas antiguas. Fue algo nuevo, algo que nació de las propias ruinas: la Iglesia de Dársena, que comenzó humildemente en los barrios marginales como obra de curas villeros organizando a poblaciones desesperadas, se fortaleció con el fervor de movimientos Franciscanos que predicaban pobreza compartida, y finalmente fue absorbida por corrientes ortodoxas que reconocieron su poder como herramienta de control. En estas tierras devastadas de Argentina, lo que germinaba no era socialismo ni democracia: era una teocracia que poco a poco se endurecía, aprendiendo a gobernar junto con el poder militar que la complementaba. La religión y el ejército: dos columnas que sostendrían lo que vendría después.
 
-### **2121-2160: Primeros confederados**
-- Voces sugieren explorar formas de organización más complejas
-- Descendientes de supervivientes desarrollan experiencia en gestión de territorios devastados
-- Cráter muestra signos de recuperación ecológica como señal divina de redención
+### 2062-2110: La Desconexión Total
+- Aislación completa entre regiones: no hay comercio inter-continental
+- Cada comunidad se reinventa a sí misma, creando religiones locales y culturas propias
+- En algunos lugares surgen religiones cientificistas, en otros cultos de máquinas
+- En Argentina, específicamente, la Iglesia Católica reconfigurada toma predominancia
+- Ciclos de hambre, enfermedad, conflicto local marcan décadas
+- Primeros signos de "estadidad" argentina: se comienza a hablar de "Confederación"
 
----
-
-## **La Confederación Argentina (2161-2177)** - Unión de ciudades-estado bajo bandera común y Anatema
-
-### **2161-2170: Los fundadores**
-- Veintidós ciudades-estado enemigas comparten bandera, fe y compromiso con Anatema
-- Frutos de unión confederada contemplados con orgullo y humildad
-
-### **2171-2177: Consolidación**
-- Trabajo no terminado, mundo sigue peligroso con tentaciones tecnológicas
-- Confederación Argentina como faro de esperanza mundial
+### 2111-2160: El Auge de la Iglesia Argentina
+- Curas de los antiguos barrios villeros, héroes de supervivencia, ganan autoridad espiritual
+- Movimientos Franciscanos promueven monasterios autosuficientes como modelo social
+- Iglesia Católica (reorganizada bajo mando de líderes argentinos) absorbe movimientos locales
+- Establecimientos religiosos se vuelven los únicos portadores de conocimiento preservado
+- Religión se mezcla con pragmatismo: la Iglesia también administra ciudades, raciones, defensa
+- La Sagrada Inquisición Argentina, en principio solo inquisidora de herejía tecnológica, comienza a expandir su rol
+- Surge un nuevo orden: teocracia militar bajo legitimidad religiosa y control armado
+- Cinco ciudades principales emergen como centros del poder confederal en consolidación
 
 ---
 
-## **Ciudad Dársena - Actualidad (2178)** - El presente desde la capital confederada
+## 2161-2178: La Confederación Argentina
 
-### **2178: Consolidación y vigilancia**
-- **Estabilidad lograda**
-  - Confederación Argentina estable bajo principios del Anatema
-- **Tensiones persistentes**
-  - Conflictos entre ciudades-estado por recursos y territorio
-  - Presión de facciones que buscan flexibilizar el Anatema
-- **Amenaza externa**
-  - Rumores de supervivencia de QIA en otros continentes
-  - Señales de radio misteriosas detectadas esporádicamente
-  - Navegantes reportan luces extrañas en el horizonte atlántico
+A partir de 2161, veintidós ciudades-estado de Argentina, cada una temida y odiada por sus vecinas, tomaron una decisión que desafía toda lógica política: se unieron bajo una sola bandera, compartieron una fe común, y juraron un compromiso perpetuo con el Anatema Mecánico. Esta fue la Confederación Argentina, nacida no del consenso sino de la supervivencia mutua. Oleadas de migrantes del continente devastado llegaban constantemente, buscando refugio en estas tierras que habían aprendido a gobernarse sin máquinas. La población explotó. Las ciudades se expandieron cinco, diez, veinte veces su tamaño original. Bajo la presión de millones de almas desesperadas, la Confederación se endurecía, se militarizaba, se sacralizaba.
 
-### **La capital confederada**
-- **Centro del mundo civilizado**
-  - Ciudad Dársena establecida como capital de facto
-  - Sede del Cabildo Confederado y la Iglesia central
-- **Desafíos cotidianos**
-  - Contrabando de tecnología prohibida
-  - Crecimiento urbano descontrolado en barrios marginales
-- **Misterios sin resolver**
-  - Extrañas radiaciones desde el cráter original
-  - Apariciones tecnológicas inexplicables
-  - Sectas que veneran artefactos pre-Anatema
+Cinco ciudades emergen como columnas de este nuevo imperio post-tecnológico:
 
-### **Amenazas presentes**
-- **Rumores de herejía**
-  - Cultos tecnológicos secretos
-  - Intentos de recrear dispositivos digitales
-  - Red subterránea de intercambio de conocimiento prohibido
-- **Vigilancia constante**
-  - Inquisición activamente cazando herejes tecnológicos
-  - Patrullas regulares en zonas de riesgo
-  - Sistema de delación ciudadana
-  - Registro obligatorio de artesanos y técnicos
+### **Córdoba: La Gran Capital del Poder Terrestre**
+- Expandida cinco veces su tamaño original por oleadas migratorias continuas
+- Sede del Ejército de la Confederación, centro de poder militar absoluto
+- Población estimada en 30 millones de almas
+- Gobierno: Dictadura militar-dinástica bajo dinastía que reclama legitimidad desde 2031
+- Régimen de control estricto: militares patrullando calles, sistema de seguimiento de ciudadanía
+- Economía: Industria masiva, producción manufacturera, con sistema de esclavitud institucionalizada
+- Relación con Iglesia: Tensa. El poder militar cede autoridad espiritual a cambio de legitimidad
+- Rol en Confederación: Proveedor de disciplina, orden territorial, fuerzas de coerción
 
-### **El futuro incierto**
-- **Esperanza y temor**
-  - Generación joven cuestiona prohibiciones absolutas
-  - Veteranos temen repetir errores del pasado
-- **Eterna vigilancia**
-  - Necesidad constante de mantener disciplina anti-tecnológica
-  - Educación permanente sobre peligros del pasado digital
-- **Llamado a la acción**
-  - Cada ciudadano como guardián del Anatema
-  - Responsabilidad colectiva de prevenir nuevo colapso tecnológico
-  - Deber sagrado de preservar lecciones del pasado para futuras generaciones
+### **Ciudad Dársena: La Capital Espiritual y Puerto del Poder Naval**
+- Salida al Río de la Plata, única conexión comercial exterior de la Confederación
+- Población: 5 millones de almas hacinadas en zona de 50 km²
+- Gobierno: Triada de poder entre Iglesia (suprema), Armada Argentina, y Gremio de Comercio
+- Sede de la Nueva Basílica de San Pedro, centro espiritual del mundo cristiano reconfigurado
+- Sede de la Sagrada Inquisición Argentina, poder inquisitorial absoluto
+- Economía: Comercio naval, peregrinaje religioso, redistribución de recursos
+- Clima: Niebla perpetua, lluvia constante, ciudad fortaleza contra exterior
+- Rol en Confederación: Corazón espiritual, puerta comercial, árbitro moral
+
+### **Mendoza: Bastión Andino de Conflicto Permanente**
+- Ubicada a las faldas de la Cordillera, ciudad fronteriza con expansionismo chileno
+- Población estimada en 2 millones de almas
+- Gobierno: Militar-civil, más flexible que Córdoba, más pragmático que Dársena
+- Rol defensivo permanente contra amenaza chilena del otro lado de los Andes
+- Economía: Agricultura de montaña, viticultura, minería limitada, defensa territorial
+- Conflicto interno: "Salvajes" del norte y sur constantemente apresan sus fronteras
+- Control militar preponderante: ciudad prácticamente bajo ley marcial permanente
+- Rol en Confederación: Centinela occidental, barrera defensiva, amortiguador de conflictos
+
+### **Fuerte San Martín: El Eslabón Administrativo**
+- Ubicado en antigua región de San Martín de Mendoza, expandido para absorber Rivadavia y Junín
+- Población estimada en 1.5 millones de almas
+- Gobierno: Civil-militar más equilibrado que Córdoba, menos teocrático que Dársena
+- Administración más abierta a pobladores, menos represiva que sus vecinas
+- Función principal: Nodo de conexión entre occidente y oriente, paso necesario en comercio inter-Confederación
+- Economía: Comercio de tránsito, agricultura local, servicios de hospedaje
+- Cultura: Más cosmopolita que otras ciudades, recibe constantemente migrantes en tránsito
+- Rol en Confederación: Corazón administrativo, punto de articulación, puente cultural
+
+### **San Luis: La Pequeña Joya Estratégica**
+- Ciudad pequeña pero vital, ubicada en paso clave Atlántico-Pacífico
+- Población: 1 millón de almas
+- Gobierno: Controlada directamente por Córdoba, pero con autonomía civil limitada
+- Defensa: Fuertemente militarizada, imposible atacarla sin enfrentar Ejército de Córdoba
+- Economía: Comercio de tránsito, especie de peaje viviente para mercancías inter-continentales
+- No podría sobrevivir independiente, completamente dependiente de Córdoba
+- Rol en Confederación: Fortaleza comercial, puerta oriental, símbolo de integración confederal
+
+### **Las Dinámicas de Poder 2161-2178**
+- **Iglesia y Ejército en Tensión Creativa**
+  - Iglesia controla legitimidad moral y espiritual
+  - Ejército controla territorio y coerción
+  - Ambos necesitan del otro para gobernar de facto
+  - Monseñor Miguel emerge como máxima autoridad religiosa: Grande Inquisidor
+  - General/Presidente Videla IV emerge como poder militar supremo
+
+- **Economía Confederal**
+  - Córdoba produce bienes manufacturados y alimenticios
+  - Dársena distribuye, controla, comercializa
+  - Mendoza proporciona seguridad fronteriza y sacrificio humano
+  - Fuerte San Martín y San Luis actúan como lubricantes administrativos
+  - Moneda: Peso argentino, pero trueque aún predomina
+
+- **Control Social**
+  - SIA patrulla cada ciudad cazando herejía tecnológica
+  - Patrullas militares mantienen orden a través de presencia visible
+  - Iglesia proporciona narrativa que legitima el sufrimiento como prueba divina
+  - Inmigrantes constantemente llegan buscando refugio: son asimilados bajo vigilancia
+
+- **Amenazas Percibidas**
+  - Facciones proscritas operan en sombras: Arpistas, Resistencia Subterránea, Criptógrafos
+  - Rumores de sobrevivencia de QIA en continentes lejanos
+  - Señales de radio misteriosas detectadas esporádicamente desde océano
+  - Navegantes reportan luces extrañas en horizonte atlántico
+  - Territorio desconocido más allá de las fronteras (DMZ, Pantanos) sigue siendo amenaza
+  - Pretensiones chilenas sobre territorio mendocino permanecen como tensión de fondo
 
 ---
 
-*Finalizado en el año de nuestro Señor de 2178, en Ciudad Dársena, capital de la Confederación Argentina.*
+## Epílogo: Dársena 2178
 
+*En esta ciudad de cinco millones de almas, bajo niebla perpetua y lluvia incesante, el Hermano Archivista Pedro de los Santos completa su obra. Ha documentado la caída de un mundo y el nacimiento de otro. Ha escrito de máquinas y hombres, de colapso y redención, de un Dios que permitió la supervivencia como testimonio de su misericordia.*
+
+*Pero mientras escribe, sabe que el mundo que describe sigue siendo frágil. En Las Tuberías, bajo sus pies, la Resistencia Subterránea conserva fragmentos de tecnología prohibida. En círculos del Barrio Norte, los Arpistas buscan conocimiento oculto. En los puertos, contrabandistas traen artefactos del exterior. La Inquisición trabaja sin descanso, pero no puede estar en todos lados.*
+
+*La Confederación Argentina ha logrado lo imposible: mantener a raya a las máquinas durante un siglo. Pero ¿cuánto más durará este frágil equilibrio? ¿Qué ocurrirá cuando la próxima generación, nacida después del Anatema, comience a cuestionar la necesidad de una prohibición absoluta? ¿Y qué sucederá si los rumores son ciertos? ¿Si aún quedan máquinas pensantes en otros continentes, esperando, evolucionando, planeando?*
+
+*El Hermano Archivista cierra su obra con estas preguntas irrespondibles. Ha cumplido su deber: preservar la memoria. El resto, como siempre, depende de aquellos que vienen después.*
+
+---
+
+*Completado en el año de nuestro Señor de 2178*
+*Ciudad Dársena, Confederación Argentina*
 *Por el Hermano Archivista Pedro de los Santos*
 *Archivo de la Iglesia de Dársena*
-*In Memoriam Veteres Errores*
 
+*In Memoriam Veteres Errores - Para que nunca olvidemos los errores del pasado*
