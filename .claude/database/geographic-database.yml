@@ -1,0 +1,1292 @@
+# ============================================================================
+# BASE DE DATOS GEOGRÁFICA - SUBORDINACIÓN Y VALOR (SyV)
+# ============================================================================
+# Sistema de Geolocalización para el Universo de SyV
+# Año de Referencia: 2178
+# Coordinadas: Sistema relativo (0,0 centrado en Ciudad Dársena)
+#
+# ESTRUCTURA:
+# 1. GLOBAL - Información genérica del mundo post-Colapso
+# 2. CONFEDERACIÓN ARGENTINA - Ciudad-estados clave
+# 3. CIUDADES - Detalles extensos de ubicaciones principales
+# ============================================================================
+
+metadata:
+  version: "1.0"
+  last_updated: "2178"
+  coordinate_system: "Relative Grid (0,0 = Ciudad Dársena Centro)"
+  scale: "1 coordinate unit ≈ 1 km"
+  primary_year: 2178
+  creator: "Geolocation Skill - SyV Worldbuilding"
+
+# ============================================================================
+# SECCIÓN 1: GLOBAL
+# ============================================================================
+global:
+  description: "Descripción genérica de la configuración actual del planeta Tierra en 2178"
+
+  planetary_status:
+    name: "Tierra Post-Colapso 2178"
+    population_estimated: "800 millones - 1 billón (altamente fragmentado)"
+    governance: "Balcanización extrema - miles de comunidades independientes"
+    technology_level: "Retro-industrial con restricciones de IA"
+
+  climate_phenomenon:
+    name: "La Nube Roja"
+    cause: "Intervención geo-ingenieril global con partículas estratosféricas reflectantes"
+    effect: "Atenuación de calentamiento extremo pero oscurecimiento parcial"
+    visual_characteristic: "Tinte rojizo/anaranjado en el cielo, especialmente en amaneceres/atardeceres"
+    intensity_notes: "Luz solar difusa y filtrada"
+
+  continental_overview:
+    continents:
+      - name: "Europa"
+        status: "Balcanizada"
+        description: "Fragmentada en miles de comunidades independientes"
+        estimated_population: "300M+"
+        power_centers: "Localizados, sin hegemonía global"
+        trade_status: "Comercio limitado y selectivo"
+
+      - name: "África"
+        status: "Renacimiento Bantú"
+        description: "Recuperación cultural y política desde el sur"
+        estimated_population: "200M+"
+        power_centers: "Emergentes, base en África subsahariana"
+        trade_status: "Moderado, algunos puertos activos"
+
+      - name: "Asia"
+        status: "Declinante e Aislada"
+        description: "Poblaciones aisladas, tecnología degradada"
+        estimated_population: "150M+"
+        power_centers: "Vestigios de centros urbanos antiguos"
+        trade_status: "Mínimo, contacto limitado"
+
+      - name: "América del Norte"
+        status: "Desiertos Irradiados"
+        description: "Zonas contaminadas por antigua actividad nuclear"
+        estimated_population: "<50M (nómadas/aislados)"
+        power_centers: "Ninguno significativo"
+        trade_status: "Prácticamente nulo"
+
+      - name: "América Central"
+        status: "Relativa Estabilidad"
+        description: "Zonas más estables con organización local"
+        estimated_population: "50M-100M"
+        power_centers: "Ciudades-estado locales débiles"
+        trade_status: "Limitado, regional"
+
+      - name: "América del Sur"
+        status: "Confederación Argentina (Dominante)"
+        description: "Centro de poder en la región, basado en la Argentina"
+        estimated_population: "50M+ (Argentina), resto fragmentado"
+        power_centers: "Dársena, Córdoba, Mendoza"
+        trade_status: "Comercio controlado con otros poderes"
+
+  global_power_dynamics:
+    - name: "Confederación Argentina"
+      influence_sphere: "Sudamérica, contacto selectivo con otras regiones"
+      trade_capacity: "Moderada (naval y aérea)"
+      military_capability: "Superior en la región"
+
+    - name: "Renacimiento Bantú (África)"
+      influence_sphere: "África subsahariana y contactos oceánicos"
+      trade_capacity: "Emergente"
+      military_capability: "Regional"
+
+    - name: "Fragmentos Europeos"
+      influence_sphere: "Localizados en Europa"
+      trade_capacity: "Muy limitada"
+      military_capability: "Variado, generalmente débil"
+
+# ============================================================================
+# SECCIÓN 2: CONFEDERACIÓN ARGENTINA
+# ============================================================================
+confederacion_argentina:
+
+  overview:
+    name: "Confederación Argentina"
+    established: 2061
+    population: 50+ millones
+    governance: "Confederación de 22 ciudad-estados bajo hegemonía compartida"
+    capital_de_facto: "Ciudad Dársena"
+    military_capital: "Córdoba"
+    description: "Alianza de ciudad-estados autónomas en Argentina que mantiene la estabilidad política y comercial a través de un delicado equilibrio de poder entre Dársena (poder naval/religioso) y Córdoba (poder militar/industrial)"
+
+  territorial_span:
+    north_boundary: "Límite difuso con Paraguay/Brasil (Tierras Baldías)"
+    south_boundary: "Mendoza y región de Cuyo"
+    east_boundary: "Océano Atlántico y Río de la Plata"
+    west_boundary: "Cordillera de los Andes (Mendoza/Uspallata)"
+    approximate_area: "1,000+ km² (zona controlada directa)"
+
+  climate_zones:
+    zone_1:
+      name: "Dársena (Litoral Húmedo)"
+      characteristics: "Niebla perpetua, altísima humedad, clima subtropical modificado"
+      summer_temp: "28-38°C (sensación térmica >45°C)"
+      winter_temp: "5-15°C con lloviznas constantes"
+      precipitation: "Extrema, tormentas violentas"
+      visibility: "Muy pobre, promedio <200m"
+
+    zone_2:
+      name: "Córdoba (Continental Interior)"
+      characteristics: "Clima continental, más seco que Dársena"
+      summer_temp: "25-40°C"
+      winter_temp: "0-15°C, heladas nocturnas comunes"
+      precipitation: "Moderada, tormentas veraniegos violentas"
+      visibility: "Buena a regular"
+
+    zone_3:
+      name: "Mendoza/Cuyo (Árido Andino)"
+      characteristics: "Árido a semiárido, fuertemente influenciado por Andes"
+      summer_temp: "15-28°C (variación extrema diaria)"
+      winter_temp: "Muy variable según altitud"
+      precipitation: "Muy escasa, errática"
+      wind_phenomenon: "Viento Zonda intenso y recurrente"
+
+  major_city_states:
+
+    # ===== CIUDAD DÁRSENA =====
+    ciudad_darsena:
+      coordinates:
+        x: 0
+        y: 0
+      name: "Ciudad Dársena"
+      type: "Metrópolis - Capital de facto"
+      population: 5,000,000
+      area_km2: 50
+      description: "Centro de poder político, religioso y naval. Fortaleza de hormigón y fe comprimida entre muro y río."
+      founded: 2040 (como refugio tras el colapso de Buenos Aires)
+      governing_structure: "Triada de poder: Iglesia, Armada Argentina, Gremio de Comercio"
+      religion: "Catolicismo post-colapso bajo hegemonía papal moderna"
+      technology_stance: "Restrictivo, dogmático (SIA - Sagrada Inquisición Argentina)"
+      economy: "Comercio naval, peregrinaje religioso, control de distribución"
+      strategic_role: "Control del Río de la Plata, acceso marítimo, poder religioso global"
+      climate: "Litoral Húmedo - Niebla perpetua, lluvia constante, extrema humedad"
+      connection_to_cordoba: "400 km al oeste, rivales estratégicos, alianza controlada"
+      connection_to_mendoza: "1000+ km al oeste, débil contacto, nula influencia"
+
+      subsections: "Ver sección CIUDADES - Ciudad Dársena"
+
+    # ===== REPÚBLICA AUTÓNOMA DE CÓRDOBA =====
+    republica_cordoba:
+      coordinates:
+        x: -400
+        y: 0
+      name: "República Autónoma de Córdoba"
+      type: "Megalópolis - Poder Militar/Industrial"
+      population: 30,000,000
+      area_km2: 800
+      description: "Gigante industrial y terrestre. Centro de producción, orden militar y autosuficiencia. Principal rival equilibrador de Dársena."
+      founded: 2031 (primera república autónoma argentina post-colapso)
+      governing_structure: "Dictadura militar-dinástica bajo familia Videla"
+      religion: "Catolicismo pragmático, papel influyente pero no dominante"
+      technology_stance: "Pragmático, controlado pero innovador"
+      economy: "Industrial masiva, autosuficiencia, esclavitud institucionalizada"
+      strategic_role: "Poder militar terrestre, producción industrial, contrapeso a Dársena"
+      climate: "Continental Interior - Más seco, temperaturas extremas, tormentas violentas"
+      military_capacity: "Superior en poder terrestre y aéreo de la Confederación"
+      connection_to_darsena: "400 km al este, rivales con alianza forzada"
+      connection_to_mendoza: "600 km al oeste, contacto estratégico débil"
+
+      subsections: "Ver sección CIUDADES - República Autónoma de Córdoba"
+
+    # ===== MENDOZA / FUERTE SAN MARTÍN =====
+    mendoza:
+      coordinates:
+        x: -900
+        y: -100
+      name: "Mendoza / Fuerte San Martín (Ex San Martín de Mendoza)"
+      type: "Ciudad-estado Regional - Poder Andino"
+      population: 2,000,000 (estimado)
+      area_km2: 200
+      description: "Centro regional en las estribaciones andinas. Control de rutas terrestres a Sudamérica central. Importante para comercio de altura."
+      founded: 2050 (reorganización post-colapso como fortaleza)
+      name_history: "Originalmente San Martín de Mendoza; rebautizada como 'Fuerte San Martín' durante consolidación confederativa"
+      governing_structure: "Gobernación militar-civil con autonomía moderada"
+      religion: "Catolicismo pragmático"
+      technology_stance: "Restrictivo pero pragmático"
+      economy: "Agricultura de altura, minería limitada, puerta a Sudamérica central"
+      strategic_role: "Control de paso andino, conexión con poderes regionales externos"
+      climate: "Árido Andino - Vientos Zonda intensos, altitud variable (hasta 2000+ msnm)"
+      military_capacity: "Fuerte regional, débil contra poderes principales"
+      connection_to_cordoba: "600 km al este, influencia moderada"
+      connection_to_darsena: "1000+ km al este, contacto débil"
+
+      districts:
+        - name: "Uspallata (Valle Alto Andino)"
+          coordinates:
+            x: -950
+            y: -150
+          altitude: 2000 msnm
+          description: "Valle de alta montaña, acceso a pasos cordilleranos"
+          population: 150,000
+          climate: "Amplitud térmica diaria extrema: días 15-28°C, noches 5-10°C"
+          resources: "Agua limitada (deglaciación errática), minerales"
+
+    # ===== OTRAS CIUDAD-ESTADOS (19 restantes, sin detalle específico) =====
+    otras_ciudades_confederacion:
+      total_count: 19
+      description: "Restantes ciudad-estados de la Confederación Argentina mencionados pero no documentados específicamente"
+      distribution: "Dispersadas entre Dársena, Córdoba y Mendoza"
+      general_characteristics:
+        - "Poblaciones entre 100k - 1M"
+        - "Control político compartido entre facción local y hegemonías de Dársena/Córdoba"
+        - "Economías especializadas (agricultura, minería, manufactura)"
+        - "Autonomía limitada en asuntos externos"
+
+  contested_and_peripheral_zones:
+
+    crater_zone:
+      coordinates:
+        x: 50
+        y: 100
+      name: "El Cráter (Zona de Exclusión)"
+      description: "Ex Buenos Aires, zona de catástrofe nuclear/radiactiva"
+      radius: "850m de zona muerta"
+      status: "Completamente prohibida, vigilada, automatizada"
+      hazard: "Radiación residual, inestabilidad estructural"
+      accessibility: "Ninguna (excepto patrullas militares blindadas)"
+      historical_significance: "Sitio de la Gran Explosión que destruyó Buenos Aires (2035)"
+
+    dmz_western:
+      coordinates:
+        x: -100
+        y: 0
+      name: "DMZ (Zona Desmilitarizada Occidental)"
+      area_km2: 50
+      description: "Ruinas despejadas al oeste del muro de Dársena, inhabitables de facto"
+      hazard_level: "Extremo - francotiradores, radiación residual"
+      population: "0 permanente (salvajes ocasionales)"
+      control: "Comando Nacional de Dársena (vigilancia letal)"
+      notable_feature: "El Bazar del Muro - mercado precario tolerado"
+
+    pantanos_south:
+      coordinates:
+        x: -50
+        y: -200
+      name: "Los Pantanos (Sur)"
+      area_km2: "Incierto, extenso"
+      description: "Laberinto de marismas, ruinas anegadas, vegetación mutada"
+      hazard_level: "Extremo - desconocido, anómalo"
+      population: "Desconocida, rumores de supervivientes"
+      control: "De facto: ninguno (fuera de alcance)"
+      notable_features:
+        - "Reportes de barcazas lejanas"
+        - "Rumores de criaturas anómalas"
+        - "Posible hogar de comunidades aisladas"
+        - "Recursos extraños no documentados"
+      accessibility: "Virtualmente imposible desde Dársena"
+
+    tierras_baldias:
+      coordinates:
+        x: -500
+        y: -500
+      name: "Tierras Baldías (Exterior)"
+      description: "Vastos territorios sin ley fuera de la Confederación"
+      hazard_level: "Extremo - anómalo, salvaje, descontrolado"
+      population: "Poblaciones nómadas, tribus de 'salvajes'"
+      control: "Ninguno - zonas de choque entre facciones"
+      economic_significance: "Fuente de esclavos y recursos para Córdoba"
+      accessibility: "Cara y peligrosa"
+
+    delta_region:
+      coordinates:
+        x: 50
+        y: -100
+      name: "Delta del Río de la Plata"
+      description: "Región de canales, islas y agua contaminada"
+      hazard_level: "Alto - contaminación acuática, inestabilidad"
+      population: "Pequeños asentamientos flotantes"
+      control: "Armada Argentina (patrullas)"
+      notable_features:
+        - "Islas del Tigre - región arqueológica"
+        - "Puerto secundario de Dársena"
+        - "Zona de contrabando selectivo"
+
+    ribera_occidental:
+      coordinates:
+        x: -150
+        y: 50
+      name: "Ribera Occidental (Zona Marginal)"
+      description: "Franja occidental del Río de la Plata"
+      hazard_level: "Moderado-Alto"
+      population: "Asentamientos marginales, refugiados"
+      control: "Débil - patrullas ocasionales"
+      economic_significance: "Contrabando, refugio de proscritos"
+
+# ============================================================================
+# SECCIÓN 3: CIUDADES
+# ============================================================================
+ciudades:
+
+  # =========================================================================
+  # CIUDAD DÁRSENA - SECCIÓN COMPLETA Y DETALLADA
+  # =========================================================================
+  ciudad_darsena:
+
+    overview:
+      name: "Ciudad Dársena"
+      coordinates:
+        center_x: 0
+        center_y: 0
+        center_label: "Isla Oriental (Basílica)"
+      population: 5,000,000
+      area_km2: 50
+      population_density: 100,000 per km²
+      founded: 2040
+      climate: "Litoral Húmedo Post-Colapso"
+      governing_body: "Triada de Poder: Iglesia Católica / Armada Argentina / Gremio de Comercio"
+      official_religion: "Catolicismo con hegemonía papal"
+
+      description: |
+        Ciudad Dársena es el corazón político, religioso y naval de la Confederación Argentina.
+        Erigida sobre las ruinas de Buenos Aires, comprimida entre un muro de 15 metros y el Río de la Plata,
+        es una fortaleza de hormigón y fe bajo vigilancia constante. La ciudad vive bajo un cielo casi siempre
+        cubierto, con niebla perpetua y lloviznas eternas. Opresión, control dogmático y peregrinaje religioso
+        definen su carácter.
+
+      strategic_significance: |
+        - Centro del poder naval regional
+        - Sede de la Nueva Basílica (máximo centro religioso post-colapso)
+        - Hub comercial internacional (controlado)
+        - Base de la Armada Argentina
+        - Punto de peregrinaje mundial
+
+      key_statistics:
+        population_breakdown:
+          zona_militar_eclesiastica: 200_000
+          microcentro: 300_000
+          zona_centro: 300_000
+          zona_residencial_alta: 50_000
+          barrios_del_muro: 3_500_000
+          tuberias_subterraneas: 500_000
+          fuera_del_muro: 150_000
+
+        economic_sectors:
+          religion_pilgrimage: "40%"
+          naval_trade: "35%"
+          government_administration: "15%"
+          black_market_underground: "10%"
+
+        water_access: "Río de la Plata (contaminado, no potable)"
+        food_source: "Torres Hidropónicas (Zona Centro) - 80% de producción"
+
+    detailed_zones:
+
+      # ----- ZONA MILITAR Y ECLESIÁSTICA (ISLA ORIENTAL) -----
+      zona_militar_eclesiastica:
+        name: "Zona Militar y Eclesiástica (Isla Oriental)"
+        coordinates:
+          center_x: 2
+          center_y: 2
+          boundaries:
+            north: 2.5
+            south: 1.5
+            east: 2.5
+            west: 1.5
+        area_km2: 1
+        population: 200_000
+        access_control: "Altísimo - canal fortificado, guardias constantes"
+        description: "Separada del resto por canal custodiado, bastión de orden, fe y poder militar. Inaccesible para la mayoría. Sede del poder supremo."
+        subsectors:
+          - name: "Zona Eclesiástica (Norte de la Isla)"
+            description: "Centro religioso supremo"
+            key_locations:
+              - name: "Nueva Basílica de San Pedro"
+                type: "Monumento religioso"
+                significance: "Reconstruida con ruinas traídas del Vaticano, máximo centro espiritual de la Confederación"
+                architecture: "Mezcla de ruinas vaticanas y arquitectura post-colapso"
+                accessibility: "Peregrinaje permitido con control religioso estricto"
+
+              - name: "Archivo Secreto"
+                type: "Búnker subterráneo"
+                location: "Bajo la Basílica"
+                description: "Repositorio de conocimiento prohibido y artefactos paranormales"
+                accessibility: "Solo élite de la Iglesia"
+
+              - name: "Parques de la Isla"
+                type: "Espacio verde"
+                significance: "Única área verde extensa de Dársena, reservada para élite"
+                area: "~0.2 km²"
+                atmosphere: "Refugio de paz en medio del caos urbano"
+
+          - name: "Zona Militar (Sur de la Isla)"
+            description: "Centro de operaciones militares"
+            key_locations:
+              - name: "Fortaleza de la Luz"
+                type: "Centro de operaciones militar"
+                function: "Entrenamiento de unidades especiales, comandancia de operaciones"
+                coordinates_internal:
+                  x: 2
+                  y: 1.5
+                features:
+                  - "Campo de entrenamiento intensivo"
+                  - "Arsenal y depósitos militares"
+                  - "Centros de detención"
+                  - "Autosuficiencia interna"
+                access: "Restringido a militares y personal autorizado"
+
+              - name: "Faro de la SIA"
+                type: "Sede administrativa"
+                organization: "Sagrada Inquisición Argentina"
+                function: "Control de herejía, disidencia, fenómenos paranormales"
+                visual_landmark: "Faro con luz permanente, símbolo de vigilancia eterna"
+                coordinates_internal:
+                  x: 2.2
+                  y: 1.7
+                internal_features:
+                  - "Archivos de vigilancia"
+                  - "Salas de interrogatorio"
+                  - "Cuarteles de Censores e Inquisidores"
+
+              - name: "Muelles Internos"
+                type: "Instalación portuaria militar"
+                function: "Logística militar, comercio de élite"
+                control: "Comando Nacional (con corrupción selectiva)"
+                activity_level: "Hervidero de actividad oficial"
+
+              - name: "Hospital Militar y Eclesiástico"
+                type: "Instalación médica de vanguardia"
+                access: "Solo militares e iglesia"
+                specialization: "Heridas de combate, aflicciones anómalas"
+
+              - name: "Oficinas Administrativas del Clero"
+                type: "Burocracia religiosa"
+                functions:
+                  - "Recaudación de diezmos"
+                  - "Coordinación de misiones"
+                  - "Administración de propiedades"
+
+      # ----- MICROCENTRO -----
+      microcentro:
+        name: "Microcentro"
+        coordinates:
+          center_x: -1
+          center_y: 0
+          boundaries:
+            north: 1
+            south: -2
+            east: 1
+            west: -3
+        area_km2: 5 (compartida con Zona Centro)
+        population: 300_000 (residentes) + 1M (trabajadores diarios)
+        access_control: "Moderado - vigilancia constante"
+        atmosphere: "Caos perpetuo, burocracia entrelazada con comercio clandestino"
+        description: "Corazón neurálgico de Dársena. Centro administrativo y comercial. Mezcla de opulencia antigua y estructuras improvisadas."
+
+        key_locations:
+
+          - name: "Edificio de la Aduana Nacional (Antigua Casa Rosada)"
+            type: "Centro administrativo"
+            coordinates_internal:
+              x: -1.2
+              y: 0.5
+            function: "Gestión de flujo de bienes y personas, control comercial"
+            characteristics: "Sobrecargado, laberíntico, caótico"
+            factions_interested:
+              - faction: "Iluminati"
+                interest: "Influencia en tecnología, información privilegiada"
+              - faction: "Gremio de Comerciantes"
+                interest: "Negociación de permisos y aranceles"
+            atmosphere: "Burocracia asfixiante"
+
+          - name: "Paseo San Martín"
+            type: "Mercado callejero extenso"
+            coordinates_internal:
+              x: -0.8
+              y: -0.5
+            description: "Laberinto de puestos y vendedores. Territorio neutral de convergencia comercial."
+            offerings: "Alimentos, ropa, piezas mecánicas, artefactos recuperados"
+            faction_usage:
+              - "Mazones intercambian conocimiento y bienes culturales"
+            status: "Neutral, tolerado por autoridades"
+
+          - name: "Plaza de los Susurros"
+            type: "Plaza comercial/espía"
+            coordinates_internal:
+              x: -1
+              y: -1
+            description: "Punto de encuentro para espías, informantes, contrabandistas"
+            atmosphere: "Secretismo, mercado de información"
+            offerings: "Chismes políticos, inteligencia, contrabando discreto"
+            business_model: "Transacciones clandestinas tras apariencia de café"
+
+          - name: "Torre de Señales"
+            type: "Infraestructura de comunicación/vigilancia"
+            coordinates_internal:
+              x: -1.5
+              y: 0
+            function: "Coordinación de vigilancia, comunicaciones visuales (humo, banderas, heliógrafos)"
+            strategic_importance: "Vital para coordinación de fuerzas de seguridad"
+            vulnerability: "Objetivo de grupos de resistencia"
+
+          - name: "Centro de Salud Pública"
+            type: "Hospital público"
+            coordinates_internal:
+              x: -0.5
+              y: -0.8
+            description: "Principal hospital de Dársena"
+            capacity: "Perpetuamente abarrotado"
+            resources: "Crónicamente insuficientes"
+            accessibility: "Única opción para la mayoría de la población"
+            conditions: "Prueba de paciencia y resistencia"
+
+      # ----- ZONA CENTRO -----
+      zona_centro:
+        name: "Zona Centro"
+        coordinates:
+          center_x: 0.5
+          center_y: -1
+          boundaries:
+            north: 1
+            south: -2
+            east: 2
+            west: -1
+        area_km2: 5 (compartida con Microcentro)
+        population: 300_000 (residentes) + 1M (trabajadores diarios)
+        function: "Producción de alimentos, educación controlada, transporte"
+        description: "Motor de Dársena. Dedicado a sustentación de población. Innovación permitida bajo vigilancia religiosa y estatal."
+        atmosphere: "Funcional, monumental, dominado por grandes estructuras"
+
+        key_locations:
+
+          - name: "Torres Hidropónicas"
+            type: "Granjas verticales industriales"
+            coordinates_internal:
+              x: 1
+              y: -1.2
+            description: "Dos enormes rascacielos reconvertidos en granjas"
+            significance: "Vitales para supervivencia - producen 80% de alimentos de Dársena"
+            original_purpose: "Era pre-bélica"
+            control: "Gremio de Ingenieros (mantenimiento)"
+            surrounding: "Mercados improvisados con productos frescos"
+            infrastructure: "Compleja maquinaria de irrigación, luz artificial, control climático"
+
+          - name: "Academia de Ciencias de Dársena (Universidad)"
+            type: "Institución educativa superior"
+            coordinates_internal:
+              x: 0.2
+              y: -0.5
+            description: "Principal centro de enseñanza superior de la ciudad"
+            enrollment: "Superpoblada, recursos limitados"
+            curriculum: "Enfocado en estudios prácticos: ingeniería, medicina, agronomía, teología"
+            balance: "Delicado equilibrio entre conocimiento permitido y herejía"
+            governance: "Educadores y Científicos teológicos bajo supervisión"
+
+          - name: "El Laberinto de Neón"
+            type: "Mercado negro de reputación neutral"
+            coordinates_internal:
+              x: 1.2
+              y: -1.5
+            location: "Callejones tras las Torres Hidropónicas"
+            description: "Mercado negro tolerado de facto por autoridades"
+            offerings: "Tecnología rara, información, bienes prohibidos"
+            control: "De facto: independiente (tolerancia forzada)"
+
+          - name: "Mercado Central"
+            type: "Centro comercial regulado"
+            coordinates_internal:
+              x: 0
+              y: -1.2
+            description: "Más organizado y regulado que Paseo San Martín"
+            governance: "Gremio de Comerciantes (casi control total)"
+            function: "Distribución de bienes de consumo"
+            offerings: "Productos básicos a precios controlados"
+
+          - name: "Estación Central de Transporte"
+            type: "Nudo de movilidad urbana"
+            coordinates_internal:
+              x: 0.8
+              y: -0.8
+            description: "Vital para conectar zonas de la ciudad"
+            transportation_modes:
+              - "Autobuses blindados"
+              - "Trenes de superficie"
+            atmosphere: "Caos perpetuo de viajeros, guardias, transportistas"
+            significance: "Reflejo de actividad incesante de Dársena"
+
+          - name: "Complejo de Viviendas Colectivas"
+            type: "Vivienda residencial"
+            coordinates_internal:
+              x: 0.3
+              y: -0.3
+            description: "Bloques de apartamentos para trabajadores de clase media"
+            density: "Alta pero menos extrema que Barrios del Muro"
+            conditions: "Básicas pero funcionales"
+
+      # ----- ZONA RESIDENCIAL DE ALTA SOCIEDAD (BARRIOS DEL NORTE) -----
+      zona_residencial_alta:
+        name: "Zona Residencial de Alta Sociedad (Barrios del Norte)"
+        coordinates:
+          center_x: 1
+          center_y: 2
+          boundaries:
+            north: 2.8
+            south: 1.2
+            east: 1.8
+            west: 0.2
+        area_km2: 3
+        population: 50_000
+        access_control: "Extremadamente restrictivo - muros internos, seguridad privada"
+        description: "Oasis de opulencia y tranquilidad. Hogar de la élite. Lujos impensables en resto de ciudad."
+        architecture: "Edificaciones bajas, jardines en azoteas, aislamiento"
+        atmosphere: "Refugio fortificado de la élite"
+
+        key_locations:
+
+          - name: "Jardines del Norte"
+            type: "Parques privados de lujo"
+            coordinates_internal:
+              x: 1
+              y: 2.3
+            description: "Extensos parques privados, único espacio verde arbolado oeste de Dársena"
+            significance: "Remanso de paz para la élite"
+            setting: "Mansiones fortificadas y aisladas"
+            lifestyle: "Estilo de vida perdido del viejo mundo"
+            security: "Vigilancia privada constante"
+
+          - name: "Club de la Élite"
+            type: "Centro social exclusivo"
+            coordinates_internal:
+              x: 0.8
+              y: 2.1
+            description: "Donde se cierran los verdaderos tratos de poder de la Confederación"
+            atmosphere: "Licores añejos, humo de puros, discreción absoluta"
+            decisions_made: "Políticas y económicas que afectan a millones"
+            access: "Solo invitados de familias de élite"
+
+          - name: "Ateneo Cultural"
+            type: "Centro de arte y cultura"
+            coordinates_internal:
+              x: 1.2
+              y: 1.8
+            sponsorship: "Mazones"
+            description: "Reunión de intelectuales y artistas de alta sociedad"
+            activities:
+              - "Conciertos privados"
+              - "Exhibiciones de arte pre-bélico"
+            significance: "Centro de influencia cultural de la facción Mazones"
+
+          - name: "Clínicas Privadas"
+            type: "Instalaciones médicas de lujo"
+            coordinates_internal:
+              x: 0.5
+              y: 2
+            description: "Discretas, dispersas por la zona"
+            service_level: "Más alta calidad disponible"
+            cost: "Exorbitante"
+            treatment: "Medicina personalizada y avanzada"
+
+          - name: "Mercado Negro de Lujo"
+            type: "Comercio clandestino de élite"
+            coordinates_internal:
+              x: 1.3
+              y: 2.2
+            description: "Secreto a voces entre la élite"
+            location: "Lugares clandestinos y eventos privados"
+            offerings:
+              - "Tecnología pre-bélica"
+              - "Alimentos importados exóticos"
+              - "Obras de arte censuradas"
+            restriction: "Acceso solo a élite con conexiones"
+
+          - name: "Escuela Privada de Élite"
+            type: "Institución educativa exclusiva"
+            coordinates_internal:
+              x: 0.6
+              y: 2.4
+            description: "Educación de máxima calidad para hijos de élite"
+            security: "Medidas de seguridad fuertes"
+            purpose: "Perpetuación del poder mediante conexiones sociales"
+
+          - name: "Museo Anónimo"
+            type: "Colección de arte privada"
+            coordinates_internal:
+              x: 1.1
+              y: 1.6
+            description: "Repositorio clandestino de arte y conocimiento censurado"
+            access: "Extremadamente restringido"
+
+      # ----- BARRIOS DEL MURO -----
+      barrios_del_muro:
+        name: "Barrios del Muro"
+        coordinates:
+          center_x: -2
+          center_y: -1.5
+          boundaries:
+            north: -0.5
+            south: -2.5
+            east: -0.5
+            west: -3.5
+        area_km2: 5
+        population: 3_500_000
+        population_density: 700_000 per km²
+        access_control: "Vigilancia constante, patrullas frecuentes"
+        description: "Primera línea y última defensa de Dársena. Hacinamiento extremo. Hogar de trabajadores, desplazados y marginados."
+        atmosphere: "Opresión, vigilancia brutal, vida al borde"
+        housing: "Viviendas apiladas, incluso bajo tierra, laberinto caótico"
+
+        key_locations:
+
+          - name: "Mercado Subterráneo de Antigua Estación"
+            type: "Mercado y punto de acceso subterráneo"
+            coordinates_internal:
+              x: -1.8
+              y: -1.2
+            location: "Antigua estación de metro abandonada"
+            description: "Corazón comercial de Barrios del Muro, bullicioso, caótico"
+            significance: "Punto de acceso principal a Las Tuberías"
+            atmosphere: "Abarrotado, luz parpadeante, todo se vende"
+            control: "Punteros (líderes de bandas locales) ejercen poder"
+            offerings: "Bienes de primera necesidad, contrabando, servicios ilegales"
+            economy: "Moneda oficial + trueque + reliquias del viejo mundo"
+
+          - name: "El Bazar del Muro"
+            type: "Mercado de frontera"
+            coordinates_internal:
+              x: -2.8
+              y: -1
+            location: "DMZ teórica al otro lado del muro"
+            description: "Punto de encuentro comercial y cultural, punto de contacto peligroso con exterior"
+            control: "Facciones rivales: Refugiados del Exterior, Resistencia Subterránea"
+            business: "Arriesgado y violento"
+            strategic_importance: "Contacto con mundo exterior"
+
+          - name: "Las Tuberías (Acceso Principal)"
+            type: "Red subterránea"
+            coordinates_internal:
+              x: -1.5
+              y: -1.5
+            description: "Mayor densidad y población de toda la red subterránea bajo aquí"
+            settlement: "Microsociedades con reglas propias"
+            control: "Complejo - bandas de controladores de peaje vs. autogestión comunitaria"
+            significance: "Caldo de cultivo para crimen y resistencia"
+            accessibility: "Múltiples puntos de acceso desde mercados y callejones"
+
+          - name: "Centros de Salud Comunitarios"
+            type: "Instalaciones médicas improvisadas"
+            coordinates_internal:
+              x: -2.2
+              y: -0.8
+            description: "Improvisadas en edificios abandonados"
+            staff: "Voluntarios, médicos caídos en desgracia"
+            resources: "Mínimos, condiciones precarias"
+            mission: "Atender población abrumada por enfermedades y violencia"
+
+          - name: "Zonas de Desguace"
+            type: "Depósitos de reciclaje"
+            coordinates_internal:
+              x: -3.2
+              y: -1.8
+            description: "Vastas áreas de acumulación de desechos"
+            workers: "Recuperadores ('Cirujas')"
+            activity: "Desmontaje y clasificación para reutilización"
+            economics: "Trabajo peligroso, mal pagado, pero esencial"
+
+          - name: "Plazas de Mercado Informal"
+            type: "Mercados improvisados"
+            coordinates_internal:
+              x: -2
+              y: -1.8
+            description: "Patios de edificios o intersecciones amplias"
+            control: "Punteros cobran 'impuestos' de protección"
+            dynamics: "Fluidos y cambiantes"
+            economy: "Intercambios a pequeña escala"
+
+          - name: "Cocinas Colectivas y Refugios"
+            type: "Espacios comunitarios"
+            coordinates_internal:
+              x: -2.5
+              y: -1.2
+            description: "Espacios de solidaridad y supervivencia comunitaria"
+            function: "Distribución de alimentos, refugio temporal"
+            organization: "Comunitaria, informal"
+
+      # ----- LAS TUBERÍAS -----
+      las_tuberias:
+        name: "Las Tuberías"
+        coordinates:
+          center_x: -1.5
+          center_y: -1.5
+          depth: "0 to -200m (variable)"
+          boundaries:
+            north_extent: "Bajo Zona Militar hasta Barrios del Muro"
+            south_extent: "Bajo Barrios del Muro hacia Pantanos"
+            east_extent: "Bajo Río de la Plata"
+            west_extent: "Bajo DMZ"
+        area_km2: "Incierta, estimada 30+ (distribución subterránea)"
+        population: 500_000
+        access_control: "Ninguno oficial (zona sin ley)"
+        description: "Laberinto subterráneo de túneles de metro, cloacas y excavaciones. Mundo en sí mismo. Red sin ley que alberga marginados y proscritos."
+        origin: "Infraestructura de mantenimiento pre-bélica, reacondicionada y expandida"
+        atmosphere: "Oscuridad, desorden, humanidad resiliente"
+
+        structure:
+          major_corridors:
+            - "Red de metro antiguo (parcialmente funcional)"
+            - "Sistema de alcantarillado (modificado para habitación)"
+            - "Túneles de servicio y conductos de utilidades"
+          lighting: "Tubos LED reciclados, parpadeantes, inadecuados"
+          air_quality: "Mezcla de humedad, moho, aceite quemado, comida callejera"
+          architecture: "Caótico, modificado constantemente por habitantes"
+
+        key_locations:
+
+          - name: "El Mercado de Antigua Estación"
+            type: "Centro comercial subterráneo"
+            coordinates_internal:
+              x: -1.5
+              y: -1.5
+              depth: -40
+            description: "Corazón comercial de Las Tuberías"
+            origin: "Vasta estación de metro abandonada"
+            activity: "Bulliciosa, caótica, todo se vende aquí"
+            offerings: "Alimentos, drogas, tecnología prohibida, mano de obra"
+            access_points:
+              - "Mercado de Antigua Estación (Barrios del Muro, arriba)"
+              - "Múltiples accesos desde túneles laterales"
+            control: "Bandas locales + comerciantes independientes"
+
+          - name: "El Bazar del Muro (Subterráneo)"
+            type: "Punto de comercio de frontera"
+            coordinates_internal:
+              x: -2.5
+              y: -1
+              depth: -60
+            description: "Antaño próspero punto de encuentro con exterior"
+            current_status: "Sombra de lo que fue"
+            control: "Banda local (control precario)"
+            traffic: "Limitado y decreciente"
+            existence: "Pende de un hilo ante creciente atención de Seguridad Nacional"
+
+          - name: "El Oasis"
+            type: "Santuario secreto"
+            coordinates_internal:
+              x: -1
+              y: -2
+              depth: -150
+            description: "Jardín secreto en las profundidades"
+            water_source: "Manantial natural"
+            ecosystem: "Fauna fúngica única"
+            significance: "Santuario de paz celosamente protegido"
+            access: "Solo para pocos conocedores"
+            atmosphere: "Contraste absoluto con resto de túneles"
+
+          - name: "Talleres Ocultos"
+            type: "Laboratorios de restauración"
+            coordinates_internal:
+              x: -1.3
+              y: -1.8
+              depth: -80
+            description: "Talleres secretos de preservación y reparación"
+            specialization: "Artefactos tecnológicos pre-bélicos"
+            inhabitants: "Criptógrafos, arqueólogos saqueadores, ingenieros clandestinos"
+            access: "Extremadamente restringido"
+
+          - name: "Asentamientos Residenciales"
+            type: "Vivienda improvisada"
+            coordinates_internal: "Dispersados por toda la red"
+            construction: "Chapas oxidadas, plásticos desgastados, reciclados"
+            density: "Modulada por control territorial de bandas"
+            life_expectancy: "Supervivencia día a día"
+
+          - name: "Sectores Controlados por Bandas"
+            type: "Territorios de crimen organizado"
+            coordinates_internal: "Múltiples puntos de control"
+            control_method: "Peajes obligatorios, protección coercitiva"
+            businesses: "Tráfico de drogas, esclavitud, robo, extorsión"
+            violence: "Constante, brutal"
+
+          - name: "Comunidades Autogestionadas"
+            type: "Espacios de resistencia cooperativa"
+            coordinates_internal: "Sectores sin control de bandas"
+            governance: "Comunitaria, asamblearia"
+            focus: "Ayuda mutua, educación clandestina, preservación cultural"
+            factions: "Resistencia Subterránea, Shipibo-Conibo, comunidades de fe alternativa"
+
+        population_groups:
+          - name: "Refugiados y Parias"
+            description: "Escapados de vigilancia de superficie"
+            population: "200k+"
+
+          - name: "Resistencia Subterránea"
+            description: "Anarquistas y disidentes organizados"
+            population: "5k-10k"
+
+          - name: "Ladrones y Contrabandistas"
+            description: "Diversas bandas organizadas"
+            population: "30k-50k"
+
+          - name: "Traficantes de Almas"
+            description: "Criminales especializados en esclavitud"
+            population: "2k-5k"
+
+          - name: "Criptógrafos y Arqueólogos Saqueadores"
+            description: "Hackers y buscadores de tecnología prohibida"
+            population: "1k-2k"
+
+          - name: "Shipibo-Conibo"
+            description: "Comunidades tribales ancestrales"
+            population: "10k+"
+
+          - name: "Cazadores de Pesadillas"
+            description: "Especialistas en lo paranormal"
+            population: "1k-3k"
+
+      # ----- FUERA DEL MURO -----
+      fuera_del_muro:
+        name: "Fuera del Muro"
+        coordinates:
+          center_x: -1
+          center_y: -0.5
+          boundaries: "Más allá del perímetro del muro en todas direcciones"
+        area_km2: "Indefinida (vasto exterior)"
+        population: 150_000 (estimado, disperso)
+        access_control: "Controlado desde dentro, peligroso desde fuera"
+        description: "Mundo salvaje y sin ley más allá de murallas. No es tanto una zona como un concepto: el vasto exterior peligroso."
+
+        main_regions:
+
+          - name: "El Puerto (Zona Norte Extramuros)"
+            coordinates:
+              x: 0
+              y: 2
+            description: "Área militarizada al norte de Dársena"
+            control: "Comando Nacional + Armada Argentina"
+            access_by_land: "El Paso del Cráter (único punto de entrada terrestre controlada)"
+            infrastructure:
+              - "Puertos militares principales"
+              - "Cuarteles de Armada"
+              - "Prisión de máxima seguridad"
+              - "Campos de entrenamiento extensos"
+              - "Campos de cultivo a cielo abierto (operados por prisioneros)"
+            strategic_importance: "Base principal de operaciones de la Armada Argentina"
+            commercial_activity: "Puertos Exo-Muro (comercio caótico, control disputado)"
+            actors:
+              - "Comando Nacional"
+              - "Armada Argentina"
+              - "Gremio de Transportistas"
+              - "Contrabandistas"
+
+          - name: "DMZ (Zona Desmilitarizada Occidental)"
+            coordinates:
+              x: -1.5
+              y: -0.2
+            area_km2: 50
+            description: "Desierto de ruinas al oeste del muro"
+            habitability: "De facto inhabitables"
+            hazards: "Francotiradores, radiación residual"
+            population: "Ninguno permanente, salvajes ocasionales"
+            control: "Comando Nacional (vigilancia letal)"
+            notable_feature: "El Bazar del Muro - mercado precario tolerado bajo control"
+            terrain: "Escombros, estructuras colapadas, contaminación"
+
+          - name: "Los Pantanos (Sur)"
+            coordinates:
+              x: -1
+              y: -3
+            area_km2: "Incierto, extenso"
+            description: "Laberinto de marismas, ruinas anegadas, vegetación mutada"
+            habitability: "Considerados inhabitables"
+            hazard_level: "Extremo"
+            knowledge: "Casi nulo - territorio sin exploración oficial"
+            rumors:
+              - "Barcazas lejanas (reportadas por guardias)"
+              - "Criaturas anómalas"
+              - "Comunidades de supervivientes aisladas"
+              - "Recursos extraños no documentados"
+            population: "Desconocida, posible refugio de proscritos"
+            official_stance: "Ignorado / no intervenido"
+            accessibility: "Virtualmente imposible desde Dársena"
+
+          - name: "Puertos Exo-Muro"
+            coordinates:
+              x: 0.5
+              y: 1.5
+            type: "Zona portuaria semi-independiente"
+            description: "Vital para comercio exterior y logística militar"
+            control: "Disputado entre Comando Nacional, Gremio de Transportistas, Contrabandistas"
+            activity: "Barcos atracando, carga/descarga, comercio frenético"
+            hazards: "Río de la Plata contaminado, conflictos comerciales"
+            population: "20k-50k (flotante)"
+
+          - name: "Prisión y Campos de Entrenamiento"
+            coordinates:
+              x: 0
+              y: 1
+            type: "Instalación penitenciaria"
+            description: "Centros penitenciarios de máxima seguridad"
+            conditions: "Brutalidad, desesperanza"
+            labor: "Prisioneros utilizados en proyectos peligrosos"
+            training_camps: "Entrenamiento militar más duro de la Confederación"
+            purpose: "Preparar soldados para horrores del mundo exterior"
+
+          - name: "La Frontera de los Pantanos"
+            coordinates:
+              x: -1.5
+              y: -2.5
+            description: "Límite vago entre Dársena y Los Pantanos"
+            control: "Prácticamente ninguno"
+            hazards: "Extremos, desconocidos"
+            purpose: "Punto de avanzada de vigilancia ocasional"
+
+  # =========================================================================
+  # REPÚBLICA AUTÓNOMA DE CÓRDOBA - SECCIÓN DETALLADA
+  # =========================================================================
+  republica_cordoba:
+
+    overview:
+      name: "República Autónoma de Córdoba"
+      coordinates:
+        center_x: -400
+        center_y: 0
+        center_label: "Plaza Central"
+      population: 30,000,000
+      area_km2: 800
+      population_density: 37_500 per km²
+      founded: 2031 (primera república autónoma post-colapso)
+      climate: "Continental Interior - Continental y Seco"
+      governing_body: "Dictadura militar-dinástica - Familia Videla"
+
+      description: |
+        La República Autónoma de Córdoba es una megalópolis industrial y fortaleza militar terrestre.
+        Centro de producción industrial masiva, autosuficiencia y poder militar continental. Gobernada
+        con mano de hierro por la dinastía Videla desde su consolidación, Córdoba es modelo de orden
+        y eficiencia en contraste con el dogmatismo de Dársena.
+
+      strategic_significance: |
+        - Mayor poder militar terrestre de la Confederación
+        - Centro industrial y productivo supremo
+        - Autosuficiencia económica casi total
+        - Contrapeso militar a poder naval de Dársena
+        - Expansión territorial continua hacia Tierras Baldías
+
+      key_statistics:
+        population_breakdown:
+          "Clase trabajadora (vivienda organizada)": 15_000_000
+          "Esclavos de Justicia (fábricas)": 8_000_000
+          "Salvajes (agricultura esclava)": 5_000_000
+          "Élite militar-administrativa": 2_000_000
+
+        economic_sectors:
+          manufacturing: "45%"
+          agriculture: "25%"
+          military_logistics: "20%"
+          government_administration: "10%"
+
+        primary_industries:
+          - "Refinerías y fábricas de procesamiento"
+          - "Manufactura metalúrgica"
+          - "Reciclaje industrial"
+          - "Agricultura esclava de campos abiertos"
+          - "Minería limitada"
+
+        military_strength:
+          - "Ejército terrestre supremo de la Confederación"
+          - "Fuerza Aérea importante"
+          - "Tecnología militar avanzada"
+          - "Capacidad de proyección continental"
+
+    urban_structure:
+      description: "Megalópolis descentralizada sin único centro urbano"
+      model: "Red de múltiples centros barriales con especialización funcional"
+      features:
+        - "Cada centro barrial con área comercial, residencial e industrial"
+        - "Zonas industriales altamente contaminantes separadas de vivienda"
+        - "Sistema de tranvías eléctricos eficiente"
+        - "Gran red de avenidas (congestionadas por vehículos eléctricos privados)"
+
+    key_zones:
+      zona_industrial_sur:
+        name: "Zona Industrial Sur"
+        coordinates:
+          x: -400
+          y: -200
+        description: "Centro de refinerías y manufactura masiva"
+        population: 5_000_000 (mayoría esclavos)
+        area_km2: 300
+        industrial_focus: "Refinerías, procesamiento de petróleo, metalurgia"
+        pollution_level: "Extrema - aire tóxico, agua contaminada"
+        working_conditions: "Brutales para esclavitud, pagas bajas para obreros libres"
+
+      zona_agricola_este:
+        name: "Zona Agrícola Este"
+        coordinates:
+          x: -350
+          y: 100
+        description: "Campos de cultivo a cielo abierto operados por esclavos"
+        area_km2: 400
+        population: 3_000_000 (esclavos principalmente)
+        crops: "Alimentos básicos para autoabastecimiento"
+        conditions: "Trabajo forzado bajo vigilancia militar"
+
+      zona_residencial_norte:
+        name: "Zona Residencial Norte"
+        coordinates:
+          x: -400
+          y: 150
+        description: "Vivienda organizada para clase trabajadora libre"
+        population: 10_000_000
+        area_km2: 150
+        conditions: "Confort relativo comparado con Dársena, pero bajo control militar"
+        urban_planning: "Eficiente, funcional, monotonía de diseño"
+
+      zona_administrativa_central:
+        name: "Zona Administrativa Central"
+        coordinates:
+          x: -400
+          y: 0
+        description: "Centro de poder político y militar"
+        population: 1_000_000
+        area_km2: 50
+        key_buildings:
+          - name: "Palacio Presidencial (Familia Videla)"
+            description: "Sede del poder ejecutivo dictatorial"
+          - name: "Comando General del Ejército"
+            description: "Cuartel general del poder militar"
+          - name: "Comisaría de Seguridad Nacional"
+            description: "Vigilancia y represión"
+          - name: "Bolsa Comercial de Córdoba"
+            description: "Regulación de comercio interno"
+
+      zona_militar_oeste:
+        name: "Zona Militar Oeste"
+        coordinates:
+          x: -450
+          y: -50
+        description: "Instalaciones militares, cuarteles, campos de entrenamiento"
+        population: 500_000 (militares y familias)
+        area_km2: 200
+        facilities:
+          - "Campos de entrenamiento intenso"
+          - "Arsenal y depósitos militares"
+          - "Instalaciones de investigación militar"
+          - "Bases aéreas"
+
+  # =========================================================================
+  # MENDOZA / FUERTE SAN MARTÍN
+  # =========================================================================
+  mendoza:
+
+    overview:
+      name: "Mendoza / Fuerte San Martín"
+      coordinates:
+        center_x: -900
+        center_y: -100
+        center_label: "Plaza Central"
+      population: 2_000_000
+      area_km2: 200
+      founded: 2050
+      climate: "Árido Andino con Viento Zonda"
+      governing_body: "Gobernación militar-civil con autonomía moderada"
+
+      description: |
+        Ciudad-estado regional ubicada en las estribaciones andinas. Control de rutas terrestres
+        a Sudamérica central. Centro de comercio de altura y puerta a territorios desconocidos.
+        Importante punto estratégico de expansión y exploración.
+
+      strategic_significance: |
+        - Control de pasos andinos
+        - Conexión con poderes regionales externos
+        - Exploración de Tierras Andinas
+        - Punto de salida terrestre de la Confederación
+
+      climate_zones:
+        vallesis_bajos:
+          name: "Valles Bajos"
+          altitude: "500-1000 msnm"
+          temperature: "Moderada, verano 25-30°C, invierno 5-15°C"
+          precipitation: "Escasa, vientos fuertes"
+
+        uspallata_alto:
+          name: "Uspallata (Valle Alto)"
+          altitude: "1800-2200 msnm"
+          temperature: "Fría, amplitud térmica extrema (días 15-28°C, noches 5-10°C)"
+          precipitation: "Muy escasa, nieve ocasional"
+          wind: "Zonda cálido y seco intenso"
+
+    key_districts:
+      centro_urbano:
+        name: "Centro Urbano de Mendoza"
+        coordinates:
+          x: -900
+          y: -100
+        population: 800_000
+        area_km2: 50
+        description: "Núcleo administrativo y comercial"
+        infrastructure: "Mercados, cuarteles, instituciones de gobierno"
+
+      uspallata:
+        name: "Uspallata (Valle Alto Andino)"
+        coordinates:
+          x: -950
+          y: -150
+        population: 300_000
+        altitude: 2000 msnm
+        area_km2: 80
+        description: "Puesto avanzado de altura en los Andes"
+        resources: "Agua limitada (deglaciación), posibles minerales"
+        climate: "Montaña alta, extremo y hostil"
+        strategic_role: "Exploración y control de paso"
+
+      zona_agricola:
+        name: "Zona Agrícola (Valles Fértiles)"
+        coordinates:
+          x: -880
+          y: -80
+        population: 600_000
+        area_km2: 60
+        description: "Agricultura de riego en valles"
+        resources: "Agua de ríos cordilleranos (errática), cultivos especializados"
+
+      zona_militar:
+        name: "Zona Militar"
+        coordinates:
+          x: -920
+          y: -120
+        population: 300_000
+        area_km2: 10
+        description: "Instalaciones defensivas y de vigilancia"
+
+# ============================================================================
+# NOTAS Y REFERENCIAS DE VALIDACIÓN
+# ============================================================================
+validation_notes:
+
+  geolocation_system:
+    reference_point: "Ciudad Dársena, Centro (Isla Oriental - Basílica)"
+    coordinate_system: "Relativo - Grilla cartesiana 2D"
+    scale_notes: "1 unidad de coordenada ≈ 1 km aproximadamente (escala variable)"
+    depth_notation: "Túneles subterráneos notados con valor de profundidad (-metros)"
+    maritime_boundaries: "Río de la Plata como límite este de Dársena"
+
+  accuracy_disclaimers:
+    - "Muchas distancias son estimadas basadas en descripciones narrativas, no en mediciones precisas"
+    - "Poblaciones son extrapolaciones de información textual y pueden variar"
+    - "Coordenadas de zonas subterráneas son aproximadas - la red de Tuberías es laberíntica y mal mapeada"
+    - "Información sobre territorios exteriores es basada en rumores y avistamientos no confirmados"
+    - "El clima y las condiciones pueden variar estacionalmente"
+
+  canon_references:
+    - "Información compilada de archivos de atlas: darsena.md, cordoba.md, clima-2178.md, etc."
+    - "Cruzada con narrativas de facciones y descripciones geográficas"
+    - "Validada contra REFERENCE.md para consistencia de nombres y ubicaciones"
+    - "Incluye detalles paranormales / anómalos mencionados en canon"
+
+  update_frequency:
+    - "Se recomienda actualizar cuando nuevas ubicaciones sean documentadas"
+    - "Validar contra nuevos eventos de cronología que puedan afectar geografía"
+    - "Revisar cuando se creen nuevas facciones o se modifique control territorial"
+    - "Actualizar clima si cambios globales o regionales ocurren"
+
+  skill_integration_notes:
+    - "Esta base de datos debe ser consultada por el skill de geolocalización para todas las validaciones"
+    - "El skill debe verificar nuevas ubicaciones contra esta estructura jerárquica"
+    - "Distancias y relaciones espaciales deben usarse para validar coherencia narrativa"
+    - "Las restricciones de acceso y controles deben informar restricciones de trama"
+    - "Climas documentados deben validarse para coherencia atmosférica en narrativa"
+
+# ============================================================================
+# FIN DE LA BASE DE DATOS GEOGRÁFICA
+# ============================================================================
