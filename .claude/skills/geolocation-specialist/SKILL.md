@@ -65,7 +65,7 @@ Esta es la **fuente de verdad única** para toda información geográfica del ca
 - Dársena: Niebla perpetua, humedad extrema (80-100%), lluvia constante
 - Córdoba: Continental, más seco, temperaturas extremas
 - Mendoza: Árido Andino, vientos Zonda, agua errática
-- Pantanos: Desconocido, anómalo, inhabitable
+- Marismas de Sangre (El Pantano): Desconocido, anómalo, inhabitable
 
 ### 3. Validación de Movimiento y Viajes
 
@@ -106,7 +106,7 @@ Esta es la **fuente de verdad única** para toda información geográfica del ca
 - ✅ Alianzas y rivalidades respetan canon establecido
 
 **Ejemplo**:
-- Dársena: Iglesia + Armada + Gremio (triada de poder)
+- Dársena: Iglesia (Oriental) + Armada (Puerto Madero) + Gremio (Centro Cívico)
 - Córdoba: Dictadura Videla + Ejército (poder centralizado)
 - Mendoza: Gobernación militar-civil (autonomía relativa)
 - Tuberías: Anarquía + bandas + auto-gobierno (poder fragmentado)
@@ -139,13 +139,14 @@ Esta es la **fuente de verdad única** para toda información geográfica del ca
 ### Ciudades (Nivel Detallado - Dársena y Córdoba)
 
 #### Ciudad Dársena (Detalles Extensos)
-- **Zona Militar y Eclesiástica (Isla Oriental)**: Poder supremo, 200k habitantes
-- **Microcentro**: Comercio y administración, 300k residentes + 1M trabajadores
-- **Zona Centro**: Producción y educación, 300k residentes + 1M trabajadores
-- **Barrios del Norte**: Élite residencial, 50k habitantes
+- **Dársena Oriental**: Zona exclusiva y militar (ZDM FFAA, Catedral, Bº Las Gaviotas, Bº Los Patos)
+- **Centro Cívico**: Gobierno y administración central
+- **Puerto Madero**: Zona comercial y portuaria principal
+- **Bº Norte**: Élite residencial
 - **Barrios del Muro**: Clase trabajadora, 3.5M habitantes (5 km²)
+- **ZDM Fuerza Aérea**: Base militar norte. Incluye Gran Cráter y franja de seguridad exterior.
 - **Las Tuberías**: Subterráneo sin ley, 500k habitantes (~200m profundidad)
-- **Fuera del Muro**: Exterior, 150k habitantes dispersos
+- **Fuera del Muro**: Exterior, 150k habitantes dispersos (Tierras Baldías)
 
 #### República de Córdoba (Detalles Extensos)
 - **Zona Industrial Sur**: Refinerías y manufactura, 5M (mayoría esclavos)
@@ -246,7 +247,7 @@ Esta es la **fuente de verdad única** para toda información geográfica del ca
 - **Ubicación geográfica**: "Los Pantanos", "DMZ", "Tierras Baldías"
 
 ### Sistema de Coordenadas
-- **Centro**: (0, 0) = Isla Oriental, Dársena (Nueva Basílica)
+- **Centro**: (0, 0) = Dársena Oriental (Catedral)
 - **Eje X**: Oeste = negativo, Este = positivo (aprox. 1 unidad = 1 km)
 - **Eje Y**: Sur = negativo, Norte = positivo (aprox. 1 unidad = 1 km)
 - **Profundidad**: Túneles = -metros bajo superficie
@@ -261,15 +262,15 @@ Esta es la **fuente de verdad única** para toda información geográfica del ca
 - Dársena ↔ Córdoba: 400 km (10 días a caballo)
 - Córdoba ↔ Mendoza: 600 km (15 días a caballo)
 - Dársena ↔ Mendoza: 1000+ km (25+ días a caballo)
-- Dársena ↔ Pantanos: 200+ km (40+ días a pie)
+- Dársena ↔ Marismas de Sangre: 2 km (Límite sur)
 
 ## Restricciones y Límites Críticos
 
 ### Dársena
-- **Muro**: Barrera de 15m que divide ciudad
-- **Límite oeste**: DMZ letal (francotiradores)
-- **Límite sur**: Los Pantanos (desconocidos, letales)
-- **Límite este**: Río de la Plata (contaminado)
+- **Muro**: Barrera de 15m que divide ciudad de Tierras Baldías
+- **Límite oeste**: Tierras Baldías (Mar de concreto, cementerio de edificios hasta el horizonte)
+- **Límite sur**: Marismas de Sangre (Oficial) / "El Pantano" (Común)
+- **Límite este**: Mar (Río de la Plata, conocido comúnmente como "Mar")
 - **Profundidad máxima (Tuberías)**: ~200m
 - **Población máxima**: 5M (límite de Hidropónicas)
 
@@ -292,9 +293,9 @@ Esta es la **fuente de verdad única** para toda información geográfica del ca
 - **Acceso**: Solo desde Barrios del Muro y puntos dispersos
 
 ### Exterior
-- **DMZ**: Zona letal de vigilancia (francotiradores)
-- **Pantanos**: Territorio sin ley, desconocido, anómalo
-- **Tierras Baldías**: Salvaje, controlado débilmente por Córdoba
+- **ZDM**: Zona de Muerte/Desmilitarizada. Incluye Cráter y franja exterior. Control diurno por francotiradores.
+- **Marismas de Sangre**: Nombre oficial. "El Pantano" para locales. Territorio anómalo.
+- **Tierras Baldías**: Mar de concreto, cementerio de edificios, horrores y supervivientes olvidados.
 - **Clima variable**: Desde árido hasta tropical
 
 ## Preguntas de Validación Rápida

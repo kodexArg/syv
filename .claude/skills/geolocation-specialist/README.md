@@ -101,16 +101,16 @@ Esta es la **única fuente de verdad** para toda información geográfica del ca
 - **Córdoba** (-400,0) - Centro industrial, 30M habitantes
 - **Mendoza** (-900,-100) - Centro andino, 2M habitantes
 - 19 ciudad-estados menores
-- Zonas periféricas (DMZ, Pantanos, Tierras Baldías)
+- Zonas periféricas (DMZ, Marismas de Sangre, Tierras Baldías)
 - Climas regionales
 
 ### Ciudades (Nivel Detallado)
 
 #### Dársena (Extenso)
-- Zona Militar y Eclesiástica (200k)
-- Microcentro (300k + 1M trabajadores)
-- Zona Centro (300k + 1M trabajadores)
-- Barrios del Norte (50k)
+- Dársena Oriental (ZDM FFAA, Catedral, Barrios Exclusivos)
+- Centro Cívico (Gobierno y Administración)
+- Puerto Madero (Comercio y Puerto)
+- Bº Norte (50k)
 - Barrios del Muro (3.5M)
 - Las Tuberías (500k subterráneos)
 - Fuera del Muro (150k)
@@ -183,7 +183,7 @@ Skill Response:
 ### Dársena
 - ✗ Muro impenetrable al oeste
 - ✗ DMZ letal con francotiradores
-- ✗ Pantanos desconocidos al sur
+- ✗ Marismas de Sangre desconocidas al sur
 - ✓ Población máxima: 5M
 
 ### Córdoba

@@ -6,8 +6,8 @@
                     NORTE
                       |
     OESTE -------- (0,0) -------- ESTE
-     (-400,-100)    Dársena      (+200,0)
-                      |
+   Fuerte San Martín  Dársena      (+200,0)
+   (-960, 190)        |
                     SUR
 ```
 
@@ -15,20 +15,21 @@
 | Ubicación | Coordenadas | Población | Clima | Distancia a Dársena |
 |-----------|-------------|-----------|-------|-------------------|
 | Dársena | (0, 0) | 5M | Litoral Húmedo | - |
-| Córdoba | (-400, 0) | 30M | Continental | 400 km |
-| Mendoza | (-900, -100) | 2M | Árido Andino | 1000+ km |
+| Córdoba | (-530, 350) | 30M | Continental | 700 km |
+| Fuerte San Martín | (-960, 190) | 2M | Árido Andino | 1050 km |
 
 ## Zonas de Dársena
 
 | Zona | Coordenadas | Población | Tipo | Descripción |
 |------|-------------|-----------|------|-------------|
-| Isla Oriental | (2, 2) | 200k | Poder | Militar + Religioso (restringido) |
-| Microcentro | (-1, 0) | 300k + 1M | Comercio | Admin + Comercio |
-| Zona Centro | (0.5, -1) | 300k + 1M | Producción | Alimentos + Educación |
-| Barrio Norte | (1, 2) | 50k | Élite | Residencial de lujo |
-| Barrios del Muro | (-2, -1.5) | 3.5M | Trabajadores | Superpoblado |
+| Dársena Oriental | (2, 2) | 200k | Poder | ZDM FFAA + Catedral + Barrios Exclusivos (Las Gaviotas, Los Patos) |
+| Centro Cívico | (-0.5, 0) | 300k | Admin | Gobierno y Administración |
+| Puerto Madero | (0.5, -1) | 500k | Comercio | Puerto y zona comercial |
+| Bº Norte | (1, 2) | 50k | Élite | Residencial de lujo |
+| Barrios del Muro | (-2, -1.5) | 3.5M | Trabajadores | Superpoblado, pegado al muro oeste |
+| ZDM Fuerza Aérea | (-1, 3) | 50k | Militar | Base aérea norte |
 | Tuberías | (-1.5, -1.5, -150m) | 500k | Subterráneo | Sin ley |
-| Fuera del Muro | Varios | 150k | Exterior | Caótico |
+| Fuera del Muro | Varios | 150k | Exterior | Caótico (Tierras Baldías) |
 
 ## Climas por Zona
 
@@ -42,7 +43,7 @@
 - **Invierno**: 0-15°C, heladas nocturnas, días soleados
 - **Característica**: Más seco, variación extrema
 
-### Mendoza (Árido Andino)
+### Fuerte San Martín (Mendoza)
 - **Verano**: 15-28°C (días), 5-10°C (noches), amplitud extrema
 - **Invierno**: Frío variable según altitud
 - **Característica**: Viento Zonda, agua escasa
@@ -51,94 +52,24 @@
 
 | Ruta | Distancia | A Pie | Caballo | Vehículo |
 |------|-----------|-------|---------|----------|
-| Dársena ↔ Córdoba | 400 km | 80 días | 10 días | 5-8 días |
-| Córdoba ↔ Mendoza | 600 km | 120 días | 15 días | 10-12 días |
-| Dársena ↔ Mendoza | 1000+ km | 200+ días | 25+ días | 20+ días |
-| Dársena → Pantanos | 200+ km | 40+ días | 5+ días | - |
-| Dársena → El Cráter | 50 km | 10 días | 1 día | Lethal |
+| Dársena ↔ Córdoba | 700 km | 140 días | 18 días | 12-15 días |
+| Córdoba ↔ Fuerte San Martín | 600 km | 120 días | 15 días | 10-12 días |
+| Dársena ↔ Fuerte San Martín | 1050 km | 210 días | 26 días | 20-22 días |
+| Dársena → Marismas de Sangre | 2 km | 1 hora | - | - |
+| Dársena → Gran Cráter (ZDM) | 3 km | 2 horas | - | Lethal |
 
 ## Poblaciones Límite Máxima
 
 | Ubicación | Máximo | Limitante |
 |-----------|---------|-----------|
 | Dársena | 5M | Torres Hidropónicas |
-| Córdoba | 30M | Infraestructura industrial |
-| Mendoza | 2M | Disponibilidad de agua |
-| Las Tuberías | 500k | Espacio subterráneo |
-
-## Control Territorial por Facción
-
-### Dársena
-- **Iglesia**: Zona Militar-Eclesiástica, educación, salud
-- **Armada Argentina**: Puerto, comercio, logística naval
-- **Gremio de Comercio**: Microcentro, mercados, distribución
-- **Proscritas**: Tuberías, Barrios del Muro (clandestino)
-
-### Córdoba
-- **Dictadura Videla**: Gobierno centralizado
-- **Ejército**: Control militar total
-- **Esclavitud**: Zonas industriales y agrícolas
-
-### Mendoza
-- **Gobernación Militar-Civil**: Control compartido
-- **Autonomía relativa**: Semi-independiente de poderes principales
-
-## Fenómenos Ambientales Especiales
-
-### Nube Roja
-- Partículas estratosféricas reflectantes globales
-- Reduce luz solar, tinte rojizo/anaranjado
-- Presente en todo el mundo, variable por región
-
-### Zonda (Mendoza)
-- Viento cálido, seco, polvoriento
-- Recurrente e intensificado
-- Extremadamente peligroso
-
-### Los Pantanos
-- Marismas, ruinas anegadas, vegetación mutada
-- Considera "inhabitables"
-- Reportes de criaturas anómalas (no confirmado)
-
-### DMZ Dársena
-- Zona despejada al oeste del muro
-- Francotiradores mantienen zona letal
-- Radiación residual posible
-
-## Velocidades de Desplazamiento
-
-- **Pie (terreno normal)**: 5 km/día (~8 horas)
-- **Pie (terreno difícil)**: 3 km/día (montaña, pantanos)
-- **Caballo/Vehículo eléctrico**: 40 km/día (ruta conocida)
-- **Bote/Río**: 20 km/día (variable por corriente)
-- **Aire (dirigible/avión)**: 500 km/día (combustible limitado)
-
-## Restricciones de Acceso
-
-### Dársena
-- ✓ Puerto sur (controlado)
-- ✓ Puertos Exo-Muro (comercio)
-- ✓ DMZ oeste (letal, muy restringido)
-- ✗ Muro perimetral (impenetrable)
-- ✗ El Cráter (prohibido, zona muerta)
-
-### Córdoba
-- ✓ Fronteras terrestres (vigiladas)
-- ✓ Comercio aéreo limitado
-- ✓ Expansión hacia Tierras Baldías (controlada)
-
-### Mendoza
-- ✓ Pasos andinos (cerrados seasonalmente)
-- ✓ Rutas fluviales (deglaciación variable)
-- ✗ Profundidad andina (inexplorada)
-
 ## Poblamiento Típico por Zona
 
 | Densidad | Zona | Descripción |
 |----------|------|-------------|
 | Extrema (>50k/km²) | Barrios del Muro | 700k/km² |
-| Alta (10-50k/km²) | Microcentro, Zona Centro | ~60k/km² |
-| Moderada (1-10k/km²) | Barrio Norte, Isla Oriental | ~50k/km² |
+| Alta (10-50k/km²) | Centro Cívico, Puerto Madero | ~60k/km² |
+| Moderada (1-10k/km²) | Bº Norte, Dársena Oriental | ~50k/km² |
 | Baja (<1k/km²) | Fuera del Muro | Disperso |
 | Subterránea | Las Tuberías | ~16k/km² (cálculo aproximado) |
 
