@@ -11,7 +11,7 @@ tags:
 
 # Herejía Tecnológica y Conocimiento Prohibido
 
-En la Confederación Argentina, la línea que separa la investigación legítima de la herejía es definida y custodiada, ante todo, por los **Censores Eclesiásticos**. Son científicos-teólogos, integrados en la estructura de la Iglesia, quienes establecen las leyes que rigen la curiosidad, determinan hasta dónde puede llegar la investigación y cómo debe aplicarse la ética religiosa en cada avance.
+En la Confederación Argentina, la línea que separa la investigación legítima de la herejía es definida y custodiada, ante todo, por los **Censores Eclesiásticos**. Esta vigilancia se fundamenta en el **Prólogo de la Verdad** y la **Ley 0: Del Anatema Mecánico**, que establecen la mente humana como templo de Dios y la inteligencia artificial como guarida del Adversario. Son científicos-teólogos, integrados en la estructura de la Iglesia, quienes establecen las leyes que rigen la curiosidad, determinan hasta dónde puede llegar la investigación y cómo debe aplicarse la ética religiosa en cada avance.
 
 La Iglesia cuenta con una red de laboratorios y archivos secretos, cuidadosamente custodiados y diseñados para el análisis y resguardo de artefactos y documentos considerados peligrosos o heréticos. Uno de los centros más importantes para estos estudios es la llamada **Cripta de la Razón**, ubicada en los sótanos de la Universidad de Dársena. Allí, bajo estricta vigilancia de los **Censores Eclesiásticos**, se almacenan y examinan tecnologías recuperadas, manuscritos prohibidos y reliquias científicas, en un entorno controlado que permite su estudio sin riesgo de propagación o uso indebido.
 
@@ -27,7 +27,7 @@ Afirmar que este control cuenta con la aprobación de la mayoría sería una sim
 
 ## El Mandato de la SIA
 
-La SIA no prohíbe la tecnología, sino que la somete a un estricto control teológico. Su mandato es asegurar que el desarrollo tecnológico no viole los principios de la fe y no aspire a replicar la conciencia o la autonomía, consideradas dominios exclusivos de Dios.
+La SIA no prohíbe la tecnología, sino que la somete a un estricto control teológico, operando bajo el mandato absoluto de la **Ley V: De la Santa Inquisición**. Su misión es asegurar que el desarrollo tecnológico no viole los principios de la fe y no aspire a replicar la conciencia o la autonomía, consideradas dominios exclusivos de Dios.
 
 **Principales áreas de prohibición y control:**
 
@@ -41,7 +41,7 @@ La SIA no prohíbe la tecnología, sino que la somete a un estricto control teol
 
 ## Conocimiento Prohibido
 
-El conocimiento considerado peligroso es activamente suprimido y guardado bajo llave.
+El conocimiento considerado peligroso es activamente suprimido y guardado bajo llave, en cumplimiento con la **Ley IV: Del Magisterio**, que dicta que todo saber que no conduzca a Dios es vanidad o peligro.
 
 -   **El Archivo Secreto del Vaticano**: Reubicado en un búnker bajo la Nueva Basílica de San Pedro, este archivo contiene no solo textos religiosos apócrifos, sino también tratados científicos, artefactos tecnológicos de la era pre-bélica y evidencia de fenómenos paranormales. Su acceso está restringido a la cúpula de la Iglesia.
 -   **El Museo Anónimo**: Esta galería subterránea secreta, cuya existencia es un rumor y una humillación para la SIA, alberga una colección de tecnología prohibida, desde IAs desactivadas hasta armas de energía exóticas. Es un santuario para los **Arpistas**, dedicados a preservar el conocimiento perdido.

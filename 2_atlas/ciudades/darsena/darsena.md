@@ -12,7 +12,7 @@ tags:
 
 # Ciudad Dársena
 
-Ciudad Dársena es el centro de poder político, religioso y naval de la Confederación Argentina. Erigida sobre las ruinas de Buenos Aires y comprimida entre un muro de 15 metros de altura y el contaminado Río de la Plata, la ciudad es una fortaleza de hormigón y fe que alberga a cinco millones de almas. Bajo un cielo casi siempre cubierto por nubes y una llovizna eterna, la vida transcurre bajo el control dual del Comando Militar y la Iglesia, en un ambiente de hacinamiento opresivo y vigilancia constante.
+Ciudad Dársena es el centro de poder político, religioso y naval de la Confederación Argentina. Erigida sobre las ruinas de Buenos Aires y comprimida entre un muro de 15 metros de altura y el contaminado Río de la Plata, la ciudad es una fortaleza de hormigón y fe que alberga a cinco millones de almas. Bajo un cielo casi siempre cubierto por nubes y una llovizna eterna, la vida transcurre bajo el control dual del Comando Militar y la Iglesia, cumpliendo el mandato de la **Ley IV: Del Magisterio**, que la consagra como la "Capital inamovible de la Fe y el Conocimiento".
 
 ## Historia
 
@@ -29,7 +29,7 @@ Ciudad Dársena es el centro de poder político, religioso y naval de la Confede
 
 El poder en Dársena se asienta sobre un trípode de facciones dominantes que cooperan y compiten por el control:
 
--   **La Iglesia**: Establecida como la nueva Santa Sede, su poder es absoluto en materia espiritual y moral. A través de la **Sagrada Inquisición Argentina (SIA)**, impone un control dogmático sobre la ciencia y la tecnología, persiguiendo cualquier herejía.
+-   **La Iglesia**: Establecida como la nueva Santa Sede, su poder es absoluto en materia espiritual y moral. A través de la **Sagrada Inquisición Argentina (SIA)**, impone un control dogmático sobre la ciencia y la tecnología, persiguiendo cualquier herejía. Su autoridad se refuerza mediante la **Ley VI: De la Voz y el Silencio**, que silencia toda disidencia para preservar la armonía del dogma.
 -   **Fuerzas Armadas**: Dársena es la sede de la **Armada Argentina** y de la **Prefectura Naval**, lo que le otorga el dominio de las aguas y del comercio internacional. Su poder se equilibra y tensiona con el del Ejército, acuartelado en Córdoba.
 -   **Gremio de Comercio**: Agrupa a todos los negociantes de la ciudad, desde tenderos hasta magnates del mercado negro. Controla las redes comerciales que se extienden más allá de los muros, operando con un pragmatismo que a menudo choca con la rigidez de la Iglesia.
 
@@ -40,7 +40,7 @@ Bajo esta estructura de poder, bulle una sociedad clandestina en los márgenes:
 
 ## Estructura de Clases Sociales
 
-La sociedad de Dársena está profundamente estratificada. Mientras la élite vive protegida bajo arquitectura resistente a la **humedad perpetua**, los pobres sufren enfermedades respiratorias crónicas en estructuras que se pudren. La humedad post-guerra no es adversario externo neutral; es filtro de clase que perpetúa desigualdad.
+La sociedad de Dársena está profundamente estratificada, aunque nominalmente igualitaria en género según la **Ley VIII: De la Equidad**. Mientras la élite vive protegida bajo arquitectura resistente a la **humedad perpetua**, los pobres sufren enfermedades respiratorias crónicas en estructuras que se pudren. La humedad post-guerra no es adversario externo neutral; es filtro de clase que perpetúa desigualdad.
 
 ### **Clase Clerical (~8% de población)**
 -   **Estimado**: 400.000 personas

@@ -15,7 +15,7 @@ tags:
 
 # Barrios del Muro
 
-Los Barrios del Muro son la primera línea y la última defensa de Ciudad Dársena. Ocupando 5 km² en el sur y oeste de la ciudad, esta zona es el hogar de 3.5 millones de personas en las condiciones de hacinamiento más extremas. Las viviendas se apilan e incluso se extienden al subsuelo, creando un laberinto caótico y opresivo. Son el hogar de los trabajadores, los desplazados y los marginados, bajo la atenta y a menudo brutal vigilancia de las fuerzas de seguridad.
+Los Barrios del Muro son la primera línea y la última defensa de Ciudad Dársena. Ocupando 5 km² en el sur y oeste de la ciudad, esta zona es el hogar de 3.5 millones de personas en las condiciones de hacinamiento más extremas. Las viviendas se apilan e incluso se extienden al subsuelo, creando un laberinto caótico y opresivo. Son el hogar de los trabajadores, los desplazados y los marginados, muchos de los cuales son considerados "Salvajes" bajo la **Ley X: De la Ciudadanía y la Barbarie**, viviendo por gracia del Estado y no por derecho, bajo la atenta y a menudo brutal vigilancia de las fuerzas de seguridad.
 
 ## Lugares de Interés
 

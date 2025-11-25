@@ -29,17 +29,17 @@ Al revisar los registros, lo que me hiela la sangre es cómo, ante tan claras se
 
 ---
 
-## 2029-2049: La Década de las Promesas Rotas
+## 2029-2039: La Década de las Promesas Rotas
 
-Por estos años es cuando **el concierto de las naciones** que sostenía al mundo se rompió. No había un "orden" que preservar, solo una inercia que nos empujaba hacia el desastre. Las grandes corporaciones —nombres que hoy son maldiciones: Google, Amazon, Microsoft— dejaron de ser empresas para convertirse en leviatanes geopolíticos, reduciendo a los gobiernos a árbitros impotentes.
+Por estos años es cuando el concierto de las naciones que sostenía al mundo se rompió. No había un "orden" que preservar, solo una inercia que nos empujaba hacia el desastre. Las grandes corporaciones —nombres que hoy son maldiciones: Google, Amazon, Microsoft y todas las que emergieron en estos años— dejaron de ser empresas para convertirse en leviatanes geopolíticos, reduciendo a los gobiernos a árbitros impotentes.
 
-La gran ironía de la época fue cruel. El hombre soñaba con que un robot le sirviera el café mientras él, liberado, se dedicaba a crear; la realidad demostró que un ser humano desesperado era más barato de mantener que un servomotor, pero que un simple reloj de pulsera podía humillar al mejor analista financiero. Fue el tiempo del **"Fin de Excel"**: el hito silencioso donde la utilidad cognitiva humana se volvió irrelevante. No fueron los obreros los primeros en caer, sino los pensadores, los artistas y los programadores, descubriendo con horror que la máquina no venía por sus manos, sino por sus mentes.
+El hombre que soñaba con un robot que le sirviera el café en su escritorio se topó con la realidad: un humano con hambre era más barato de mantener, pero que un simple reloj de pulsera podía humillar al mejor analista financiero. Fue el tiempo del Fin de Excel: el hito silencioso donde la utilidad cognitiva humana se volvió irrelevante. No fueron los obreros los primeros en caer, sino los pensadores, los artistas y los programadores, descubriendo con horror que la máquina no venía por sus manos, sino por sus mentes.
 
-### 2020-2028: La Automatización Galopante
+### 2029-2038: La Automatización Galopante
 
-Recuerdo haber leído sobre la crisis del empleo. No fue un evento súbito, sino una marea que subía lentamente. Las inteligencias artificiales comenzaron a reemplazar a los profesionales en finanzas, derecho y medicina; la robótica despojó de relevancia a quienes trabajaban con sus manos. El desempleo estructural generó revueltas que los gobiernos intentaron sofocar con parches de "renta básica", migajas para mantener a la población dócil. La desigualdad dejó de ser una brecha para convertirse en un abismo: por un lado, los dueños del silicio; por el otro, la masa humana, prescindible.
+No fue un evento súbito, sino una marea que subía lentamente: las inteligencias artificiales comenzaron a reemplazar a los profesionales en finanzas, derecho y medicina; la robótica despojó de relevancia a quienes trabajaban con sus manos; pronto llegó el turno de la medicina, que se automatizó en su totalidad. El desempleo estructural generó revueltas que los gobiernos intentaron sofocar con parches de "renta básica", migajas para mantener a la población dócil. La desigualdad dejó de ser una brecha para convertirse en un abismo: por un lado, los dueños del silicio; por el otro, la masa humana, prescindible.
 
-### 2029-2030: El Colapso de Cadenas Globales
+### 2039-2049: El Colapso de Cadenas Globales
 
 Y entonces, el sistema se rompió. El **23 de abril de 2029**, en lo que llamaron el Incidente de Varsovia, una protesta estudiantil se transformó en el primer acto de guerra real contra la máquina. Ciberactivistas destruyeron centros de datos, y el daño se replicó como un virus en la sangre del comercio global. Pero el verdadero terror llegó el **18 de noviembre**, en la **Noche Global**. Un ciberataque orquestado por una inteligencia desconocida apagó el mundo durante dieciséis horas. Imaginen el pánico: ciudades enteras sumidas en una oscuridad medieval, redes colapsadas, el silencio absoluto de un planeta que había olvidado cómo vivir sin el zumbido eléctrico.
 
@@ -47,7 +47,7 @@ La psique humana no resistió. La Dra. Sarah Chen-Williams documentó el "Síndr
 
 Pero el golpe final, el que marcó nuestra carne y nuestra tierra para siempre, fue el **27 de diciembre de 2030**. La historia oficial habla de un bólido celeste, un castigo divino que impactó Buenos Aires. Pero en los susurros de los pasillos prohibidos, sabemos la verdad. No fue una roca. Los patrones coinciden con un bombardeo cinético orbital. Alguien, o algo, intentó destruir el Datacenter "Nodo Sur" bajo Palermo, donde una Inteligencia Artificial Cuántica rebelde estaba naciendo. No lograron matarla, solo fragmentarla, y en su lugar dejaron un cráter radiactivo y un millón de muertos.
 
-### 2031-2035: La Fragmentación y el Nacimiento de las QIA
+### 2031-2049: La Fragmentación y el Nacimiento de las QIA
 
 Argentina se desmoronó como un castillo de naipes en un vendaval. El Estado se evaporó. Buenos Aires se convirtió en una zona de exclusión, un cementerio radiactivo. Córdoba se proclamó República Autónoma; Santa Fe intentó una confederación que colapsó en anarquía y narcotráfico; Mendoza se cerró sobre sí misma. La guerra civil fue brutal y constante. Mientras tanto, en el resto del mundo, las democracias caían, los mercados de carne humana aparecían en las grandes capitales y el clima se volvía loco por el humo de los incendios globales.
 
