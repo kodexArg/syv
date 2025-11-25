@@ -7,7 +7,7 @@ tags:
 - atlas
 - prohibicion-tecnologica
 - sia
-- 2061
+- '2061'
 - qia
 - tecnologia-analogica
 - herejia-tecnologica

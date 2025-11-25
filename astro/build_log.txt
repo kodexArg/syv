@@ -1,0 +1,18 @@
+
+> astro@0.0.1 build
+> astro build
+
+20:18:36 [content] Syncing content
+[InvalidContentEntryDataError] atlas ÔåÆ tecnologia-y-ciencia/anatema-mecanico data does not match collection schema.
+
+  tags.4**: **tags.4: Expected type `"string"`, received `"number"`
+
+  Hint:
+    See https://docs.astro.build/en/guides/content-collections/ for more information on content schemas.
+  Error reference:
+    https://docs.astro.build/en/reference/errors/invalid-content-entry-data-error/
+  Location:
+    C:\Users\gcave\Dev\syv\2_atlas\tecnologia-y-ciencia\anatema-mecanico.md:0:0
+  Stack trace:
+    at getEntryDataAndImages (file:///C:/Users/gcave/Dev/syv/astro/node_modules/astro/dist/content/utils.js:157:26)
+    at async syncData (C:/Users/gcave/Dev/syv/astro/node_modules/astro/dist/content/loaders/glob.js:97:28)
