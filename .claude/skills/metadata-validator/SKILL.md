@@ -54,6 +54,7 @@ facciones:
 alerta-spoilers: "Texto de advertencia sobre información sensible"
 ```
 
+
 ### Convenciones de Formato
 
 1. **Idioma**: TODO en español, minúsculas
@@ -110,6 +111,7 @@ Detectar y corregir:
 - Tags duplicados → Eliminar duplicados
 - Campo `facciones` faltante en personajes → Agregar (vacío o poblado)
 - Ruta absoluta en `carpeta` → Convertir a relativa
+
 
 ## Categorías de Tags
 
@@ -207,6 +209,7 @@ guia, aventura, investigacion
 - ✅ SIEMPRE relativa desde raíz del proyecto
 - ✅ Ejemplos: `3_personajes/principales`, `1_trasfondo/cronologia`
 
+
 ## Workflows
 
 ### Validar Archivo Existente
@@ -273,6 +276,7 @@ guia, aventura, investigacion
    Tags nuevos (CREAR solo si necesario):
    - [nuevo-concepto] (⚠️ Verificar si realmente necesario)
    ```
+
 
 ## Ejemplos de Validación
 

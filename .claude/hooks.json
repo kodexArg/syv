@@ -76,6 +76,15 @@
         ]
       },
       {
+        "matcher": "Write|Edit.*(1_trasfondo|2_atlas|3_personajes|4_diegesis)/.*\\.md$",
+        "hooks": [
+          {
+            "type": "prompt",
+            "prompt": "🔒 RECORDATORIO: SISTEMA PERMISOS\n\nAcabas de editar/crear contenido de worldbuilding.\n\n¿Contiene información sensible? Considera:\n- 🔐☠️ SECRETO MORTAL: ¿Destruiría credibilidad de facción/ubicación?\n- 🔐 SECRETO DISCIPLINARIO: ¿Requiere especialización?\n- 📖 SABER POPULAR: ¿Lo sabe la población local?\n\nSi sí, ejecuta:\n  /mark-permissions\n\nPara validar existentes:\n  /validate-permissions\n\nReferencia: PERMISOS_SPEC.md"
+          }
+        ]
+      },
+      {
         "matcher": "Edit|Write.*\\.md$",
         "hooks": [
           {
