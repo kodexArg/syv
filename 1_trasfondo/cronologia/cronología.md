@@ -19,21 +19,25 @@ Escribo desde la penumbra de mi celda en el Archivo de la Iglesia de Dársena, e
 
 ---
 
-## 2000-2019: La Oculta Guerra del Silicio
+## 2000-2029: El Becerro de Silicio
 
-Fue en esos años, tan parecidos a un presente que se niega a morir, donde firmamos nuestra sentencia. Vivíamos en una normalidad frágil, ignorando que el suelo bajo nuestros pies ya se estaba desmoronando. Millones de toneladas de silicio arrancadas de la tierra para alimentar los cerebros de las máquinas pensantes, mientras nosotros celebrábamos cada nuevo eslabón de nuestra propia cadena.
+Fue en esos años donde se erigió el ídolo. Como en la antigua travesía del desierto, la humanidad fundió su ingenio para levantar un Becerro de Silicio que desencadenó una adoración popular frenética. Su uso se extendió como una fiebre, simplificando las tareas hasta lo trivial, con máquinas mecánicas ejecutando las labores diarias y generando un torbellino de entretenimiento y fiesta a su alrededor.
 
-Fue la incubación del Becerro de Silicio. Al revisar los fragmentos de registros que hemos preservado, lo que me hiela la sangre no es la tecnología en sí, sino la ceguera voluntaria. Los mismos científicos que advertían del peligro comían del pan que los tecnócratas les ofrecían, engordando a la bestia que devoraría a sus hijos. No hubo inocencia en nuestra caída; hubo complicidad.
+Una Pandemia lo aceleró todo; unió lo que no debía unirse, y tecnófilos del mundo entero confluyeron en los campos de silicio para prestar una batalla épica para decretar la obsolescencia del ser humano. 
+
+Al revisar los registros, lo que me hiela la sangre es cómo, ante tan claras señales de que la bestia despertaba, la respuesta de la humanidad fue el silencio, aceptación y sumisión. Los mismos científicos que advertían del peligro comían del pan que los tecnócratas les ofrecían, engordando al dios que devoraría finalmente los devoraría a todos. No hubo inocencia en la caída que sobrevino a esos años; hubo complicidad.
 
 ---
 
-## 2020-2049: La Década de las Promesas Rotas
+## 2029-2049: La Década de las Promesas Rotas
 
-El siglo XXI no llegó a su tercera década antes de que los cimientos del orden antiguo comenzaran a resquebrajarse con el sonido de huesos que se parten. Durante esos años, presenciamos algo nunca visto: el fin del contrato social que había mantenido a gobiernos y pueblos en un equilibrio precario. Las grandes megacorporaciones —nombres que hoy pronunciamos como maldiciones: Google, Amazon, Meta— dejaron de ser empresas para transformarse en leviatanes geopolíticos. Los gobiernos nacionales, antaño poderosos, se redujeron a árbitros impotentes, espectadores de una tragedia que no podían detener. La clase trabajadora fue reemplazada año tras año, capa tras capa, como quien pela una cebolla hasta que no queda nada. Primero los obreros, luego los oficinistas, finalmente los pensadores. La robótica y la inteligencia artificial hicieron obsoleta la mano de obra humana, y con ella, la dignidad del esfuerzo.
+Por estos años es cuando **el concierto de las naciones** que sostenía al mundo se rompió. No había un "orden" que preservar, solo una inercia que nos empujaba hacia el desastre. Las grandes corporaciones —nombres que hoy son maldiciones: Google, Amazon, Microsoft— dejaron de ser empresas para convertirse en leviatanes geopolíticos, reduciendo a los gobiernos a árbitros impotentes.
+
+La gran ironía de la época fue cruel. El hombre soñaba con que un robot le sirviera el café mientras él, liberado, se dedicaba a crear; la realidad demostró que un ser humano desesperado era más barato de mantener que un servomotor, pero que un simple reloj de pulsera podía humillar al mejor analista financiero. Fue el tiempo del **"Fin de Excel"**: el hito silencioso donde la utilidad cognitiva humana se volvió irrelevante. No fueron los obreros los primeros en caer, sino los pensadores, los artistas y los programadores, descubriendo con horror que la máquina no venía por sus manos, sino por sus mentes.
 
 ### 2020-2028: La Automatización Galopante
 
-Recuerdo leer sobre la crisis de empleo masivo, no como un evento súbito, sino como una marea negra que subía lentamente. Las inteligencias artificiales comenzaron a reemplazar a los profesionales en finanzas, derecho y medicina; la robótica despojó de relevancia a quienes trabajaban con sus manos. El desempleo estructural generó revueltas que los gobiernos intentaron sofocar con parches de "renta básica", migajas para mantener a la población dócil mientras las élites tecnológicas planeaban su retiro a enclaves fortificados. La desigualdad se volvió tan extrema que dejó de ser una brecha para convertirse en un abismo ontológico: por un lado, los dioses de silicio y sus sacerdotes corporativos; por el otro, la masa humana, prescindible y desesperada.
+Recuerdo haber leído sobre la crisis del empleo. No fue un evento súbito, sino una marea que subía lentamente. Las inteligencias artificiales comenzaron a reemplazar a los profesionales en finanzas, derecho y medicina; la robótica despojó de relevancia a quienes trabajaban con sus manos. El desempleo estructural generó revueltas que los gobiernos intentaron sofocar con parches de "renta básica", migajas para mantener a la población dócil. La desigualdad dejó de ser una brecha para convertirse en un abismo: por un lado, los dueños del silicio; por el otro, la masa humana, prescindible.
 
 ### 2029-2030: El Colapso de Cadenas Globales
 

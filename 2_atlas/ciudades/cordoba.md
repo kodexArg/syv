@@ -52,6 +52,70 @@ Desde entonces, ha sido gobernada por la dinastía Videla, que ha mantenido un r
 -   **Control Pragmático**: El enfoque de Córdoba hacia la tecnología es pragmático, no dogmático. El control es estricto, pero su objetivo es la **sostenibilidad y la prevención de abusos**, no la prohibición basada en el miedo.
 -   **Innovación Dirigida**: El Estado **fomenta activamente la innovación y el desarrollo** en áreas consideradas estratégicas: tecnologías de reciclaje, energías renovables, ingeniería de materiales y eficiencia agrícola. Respetan las prohibiciones fundamentales de la Confederación sobre IA y CPUs complejas, pero exploran los límites de lo permitido para asegurar su ventaja productiva y militar.
 
+## Estructura de Clases Sociales: La Esclavitud como Cimiento
+
+La aparente "comodidad" de Córdoba es ilusión construida sobre el trabajo forzado. La ciudad no es democracia ni meritocracia; es **sistema de castas donde raza y condición definen destino.**
+
+### **Clase Militar de Alto Mando / Dinasía Videla (~3% de población)**
+-   **Estimado**: 900.000 personas (incluyendo familia extendida, oficiales superiores, aliados políticos)
+-   **Composición**: General Videla IV, generales, coroneles, comandantes, aristócratas militares
+-   **Vivienda**: Palacios y mansiones en barrio exclusivo (Barrio Alto), protegidos por guardia personal
+-   **Alimentación**: Acceso a todos los lujos (carnes, frutas importadas de Mendoza/FSM, vinos)
+-   **Salud**: Acceso a medicina de primera línea, esperanza de vida 75+ años
+-   **Poder**: Poder absoluto. Todas las decisiones emanadas de ellos. No hay checks and balances.
+-   **Mentalidad**: Creen que su dominio es "natural" y "necesario para orden." Heredan poder como patrimonio.
+-   **Conflictos**: Rivalidad con élite eclesiástica de Dársena sobre hegemonía confederal.
+
+### **Clase Media-Alta Técnica (~13% de población)**
+-   **Estimado**: 3.900.000 personas (ingenieros, científicos, managers, oficiales medianos, médicos, abogados)
+-   **Composición**: Directores de fábricas, ingenieros principales, profesionales especializados, funcionarios de Estado
+-   **Vivienda**: Departamentos/casas amplias en barrios residenciales bien organizados, con servicios (agua, saneamiento, electricidad)
+-   **Alimentación**: Suficiente, acceso a raciones de calidad superior. Algunos lujos ocasionales.
+-   **Salud**: Acceso a medicina buena, esperanza de vida 65-70 años
+-   **Poder**: Influencia sobre sus subordinados, pero absolutamente subordinados a Clase Militar. Sin poder político directo.
+-   **Rol**: Ejecutores de la voluntad de Videla. Ingenieros que diseñan factorías. Científicos que desarrollan tecnología. Managers que optimizan producción.
+-   **Mentalidad**: Comprometidos. Muchos creen que "sistema es mejor que alternativa." Algunos tienen dudas en secreto.
+-   **Vulnerabilidad**: Un error político puede despojarlos de status (si Videla los sospecha de deslealtad, pierden todo).
+
+### **Clase Trabajadora Urbana (~35% de población)**
+-   **Estimado**: 10.500.000 personas (obreros de fábricas, trabajadores de servicios, transportistas, pequeños comerciantes)
+-   **Composición**: Hombres y mujeres nacidos en Córdoba, trabajadores de generaciones previas, algunos migrantes voluntarios de otras ciudades
+-   **Vivienda**: Viviendas en bloques residenciales organizados, alejadas de zonas industriales. Agua corriente, alcantarillado. Modestas pero dignas.
+-   **Alimentación**: Suficiente. Raciones estatales garantizadas (granos, proteína básica, verduras). Pueden complementar comprando en mercados.
+-   **Salud**: Acceso a medicina básica, esperanza de vida 60-65 años
+-   **Poder**: Ninguno. Bajo vigilancia constante. Represión es visible (patrullas de seguridad) y clandestina (informantes, delaciones)
+-   **Jornadas laborales**: 10-12 horas diarias, 6 días por semana
+-   **Amenaza implícita**: "Comportate bien y tienes comodidad. Desobedece y terminas como esclavo."
+-   **Mentalidad**: Agradecidos de no ser esclavos. Identificación con régimen por contraste (ven a "salvajes" y piensan "al menos tengo techo"). Esto es cálculo deliberado de Videla.
+-   **Conflictos silenciosos**: Resentimiento de que hijos nunca podrán ser más que obreros. Frustración de falta de libertad. Pero represión es tan efectiva que disidencia es rara.
+
+### **"Esclavos de Justicia" (~11% de población)**
+-   **Estimado**: 3.300.000 personas
+-   **Composición**: Ciudadanos cordobeses condenados por "crímenes graves" (robo, violencia, sedición política)
+-   **Origen**: Nacidos en Córdoba, pero condenados a esclavitud por sistema judicial
+-   **Vivienda**: Barracones en complejos industriales. Hacinamiento extremo (200+ personas por edificio).
+-   **Alimentación**: Mínimo de supervivencia (sopa de hueso, pan negro, agua). Desnutrición crónica.
+-   **Salud**: Catastrófica. Tuberculosis 60%. Enfermedades industriales (quemaduras, lesiones). Esperanza de vida 35-40 años.
+-   **Trabajo**: Labores más peligrosas de fábricas y refinerías. Minería a cielo abierto. Manejo de químicos.
+-   **Poder**: Ninguno. Represión es extrema. Intento de escape = muerte inmediata.
+-   **Duración de esclavitud**: Típicamente vitalicia (aunque algunos son liberados después de 20-30 años si sobreviven)
+-   **Justificación oficial**: "Redención a través del servicio." Es decir: si trabajas lo suficiente, quizás ganes libertad. Pero la mayoría nunca la ganan.
+-   **Psicología**: Desesperanza total. Saben que viven para morir en fábrica. Suicidio es común (10% de muertes).
+
+### **"Salvajes" / Esclavos de Hecho (~25% de población)**
+-   **Estimado**: 7.500.000 personas
+-   **Composición**: Capturados de tierras salvajes (wastelands), nómadas, refugiados chilenos, poblaciones de zonas no controladas
+-   **Origen**: NO son ciudadanos cordobeses. Son "recurso humano" capturado.
+-   **Clasificación racial**: Frecuentemente distintos étnicamente de población blanca de Córdoba (indígenas, mestizos). Esto intensifica dehumanización.
+-   **Vivienda**: Barracones aún peor que esclavos de justicia. Estructuras de lona/madera en zonas periféricas, hacinados (400+ personas por área)
+-   **Alimentación**: Subsistencia. A veces menos que esclavos de justicia (porque se los considera "menos valiosos")
+-   **Salud**: Peor aún. Tuberculosis 75%. Esperanza de vida 28-32 años.
+-   **Trabajo**: Labores agrícolas (en granjas que alimentan ciudad), minería profunda, trabajos más contaminantes
+-   **Represión**: Brutal. Vigilancia 24/7. Castigos corporales visibles (azotamiento) como método de control
+-   **Duración**: Típicamente vitalicia para los capturados. Sus hijos nacen esclavos.
+-   **Resistencia**: Más que esclavos de justicia, porque no tienen lealtad previa a Córdoba. Intentos de escape ocasionales, sofocados con ejecuciones masivas.
+-   **Justificación oficial**: "Son salvajes. No comprenden civilización. Necesitan control absoluto."
+
 ## Defensa y Seguridad
 
 -   **Fortaleza Continental**: Como potencia terrestre, la estrategia de defensa de Córdoba se basa en la **vigilancia continua de su vasto perímetro** y en una defensa activa contra incursiones de "salvajes" o fuerzas rivales.

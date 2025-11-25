@@ -17,7 +17,8 @@ Ciudad Dársena es el centro de poder político, religioso y naval de la Confede
 ## Historia
 
 -   **Década 2020-2030**: En los años previos al colapso, Buenos Aires ya construía el muro que hoy define a Dársena, inicialmente como una barrera para segregar las crecientes desigualdades sociales.
--   **2035-2040**: Una bomba devasta Buenos Aires, marcando el inicio de la Gran Guerra Global para Argentina. El muro protege el núcleo de la futura ciudad, que nace de las ruinas y se consolida como una fortaleza gobernada por la aristocracia local.
+-   **27 de diciembre de 2030**: Un bombardeo cinético orbital devasta Buenos Aires (atentado contra el Datacenter QIA bajo Palermo), marcando el inicio de la crisis terminal. El muro protege el núcleo de la futura ciudad, que nace de las ruinas calcinadas.
+-   **2031-2047**: La Gran Guerra Global consume Argentina. Córdoba y Dársena se enfrentan en guerra civil fragmentada mientras el caos global destruye infraestructura. Dársena se consolida como fortaleza gobernada por aristocracia local y la incipiente Iglesia.
 -   **2040-2050**: Comienza la reconstrucción y un período de reclusión. En 2054, las ruinas de la Basílica de San Pedro son trasladadas desde el Vaticano, estableciendo a Dársena como el nuevo centro del poder eclesiástico.
 -   **2050-2060**: La aparición de la Inteligencia Artificial Quiescente (QAI) pone fin a la era tecnológica. En Dársena nace la Sagrada Inquisición Argentina (SIA) como brazo armado de la Iglesia contra la herejía científica. La ciudad-estado se declara autónoma.
 -   **2060-2070**: Se construyen las Torres Hidropónicas para sostener a la población. Tras una década de pujas políticas, la aristocracia local cede el poder a una nueva alianza: el Ejército Argentino (con sede en Córdoba) y la Iglesia. Este evento marca el inicio de la Confederación Argentina.
@@ -36,6 +37,81 @@ Bajo esta estructura de poder, bulle una sociedad clandestina en los márgenes:
 -   **Facciones Proscritas**: Grupos como la **Resistencia Subterránea**, los anarquistas, y movimientos religiosos heterodoxos operan en secreto, principalmente desde los [[Barrios del Muro]] y [[Las Tuberías]], escapando del control teológico de la Iglesia oficial.
 -   **Redes Ocultas**: Los **Criptógrafos** (hackers), los **Masones** y los **Arpistas** (preservadores del conocimiento) forman redes de influencia y secretos que son cazados y a la vez reclutados por el Estado y la Iglesia.
 -   **Parias y Criminales**: **Refugiados** sin ciudadanía y parias viven bajo la amenaza de los **Traficantes de Almas**, que operan en el corazón de las zonas más desfavorecidas.
+
+## Estructura de Clases Sociales
+
+La sociedad de Dársena está profundamente estratificada. Mientras la élite vive protegida bajo arquitectura resistente a la **humedad perpetua**, los pobres sufren enfermedades respiratorias crónicas en estructuras que se pudren. La humedad post-guerra no es adversario externo neutral; es filtro de clase que perpetúa desigualdad.
+
+### **Clase Clerical (~8% de población)**
+-   **Estimado**: 400.000 personas
+-   **Composición**: Sacerdotes, monjas, monjes, obispos, cardenales. Desde Monseñor Miguel (Gran Inquisidor) hasta curas de barrio en villas.
+-   **Vivienda**: Conventos, monasterios, celdas en catedrales. Protegidas contra humedad mediante drenaje, techos estructurados, materiales nobles.
+-   **Alimentación**: Mejor que promedio (acceso a alimentos importados de Mendoza, FSM).
+-   **Salud**: Acceso a medicina (aunque limitada); tasa de tuberculosis 5% (vs 30% en pobres).
+-   **Poder**: Control espiritual absoluto sobre población. La SIA es su brazo armado.
+-   **Paradoja**: Votos de pobreza pero vida de comodidad. Justificado teológicamente como "renuncia espiritual, no material."
+-   **Conflictos internos**: Tensión entre ala progresista (Arpistas infiltrados) y ala tradicionalista (Inquisición pura).
+
+### **Clase Académica (~5% de población)**
+-   **Estimado**: 250.000 personas
+-   **Composición**: Maestros, escribas, archivistas, médicos, ingenieros electromecánicos, historiadores. Muchos son **Arpistas** (preservadores de conocimiento antiguo).
+-   **Vivienda**: Viviendas modestas pero estruturadas, frecuentemente anexas a bibliotecas/escuelas/hospitales.
+-   **Alimentación**: Suficiente, a través de salarios estatales.
+-   **Salud**: Acceso a medicina mejor que promedio; tasa de tuberculosis 8%.
+-   **Poder**: Influencia intelectual. Control de memoria histórica (qué se enseña, qué se preserva).
+-   **Conflicto existencial**: Comprometidos entre deseo de preservar conocimiento "peligroso" y necesidad de obedecer Anatema Mecánico.
+-   **Riesgos**: Perseguidos por SIA si se descubre que preservan tecnología prohibida. Muchos tienen doble vida clandestina.
+
+### **Clase Marina (~10% de población)**
+-   **Estimado**: 500.000 personas
+-   **Composición**: Marineros, capitanes, astilleros, trabajadores de puerto, pescadores. Desde almirantes hasta grumetes.
+-   **Vivienda**: Alojamientos navales (estructurados, drenados), casas en barrios cercanos al puerto (más húmedas que ideal).
+-   **Alimentación**: Regulada militarmente (raciones), acceso a proteína de pescado.
+-   **Salud**: Tasa de enfermedades respiratorias moderada (25%, por exposición constante al aire húmedo marino), acceso a medicina militar.
+-   **Poder**: Control del comercio internacional (único punto de entrada/salida de ciudad). Poder militar naval.
+-   **Dinámicas internas**: Tensión constante con Ejército (Córdoba) sobre jurisdicción. Armada es "guardián de Dársena," Ejército es "autoridad suprema" - estructura ambigua genera conflictos.
+-   **Lealtades complejas**: Muchos marineros tienen contactos con Arpistas (tráfico de libros, tecnología antigua). Algunos son Criptógrafos clandestinos.
+
+### **Clase Media-Baja Urbana (~27% de población)**
+-   **Estimado**: 1.350.000 personas
+-   **Composición**: Comerciantes pequeños, artesanos, empleados administrativos, trabajadores de servicios, guardia civil.
+-   **Vivienda**: Viviendas de adobe/ladrillo estructurado en zonas medias (Barrio Centro, Parque Patricios). Modestas pero con techos y drenaje.
+-   **Alimentación**: Dependiente de acceso al comercio; no hay garantía. Hambre estacional.
+-   **Salud**: Acceso limitado a medicina; tasa de tuberculosis 18%.
+-   **Poder**: Ninguno formal. Influencia local a través de gremios (informales, no reconocidos legalmente).
+-   **Vulnerabilidad**: Clase más frágil—un desastre (enfermedad, desempleo) los empuja a pobreza extrema.
+
+### **Pobreza Extrema / Marginales (~50% de población)**
+-   **Estimado**: 2.500.000 personas
+-   **Composición**: Habitantes de [[Barrios del Muro]], [[Las Tuberías]], refugiados, sin ciudadanía formal. Trabajadores precarios, mendigos, criminales, disidentes políticos.
+-   **Vivienda**: Chabolas de lona, cartón, madera podrida. Ubicadas en zonas de máxima humedad (alrededor del río, en tuberías subterráneas). Estructuras que literalmente se pudren con los años.
+-   **Alimentación**: Inseguridad alimentaria crónica. Comen descartes de mercados, "sopa de hueso" de carnicerías, alimentos robados. Hambre es condición normal.
+-   **Salud**: Catastrófica. Tasa de tuberculosis 40%. Micosis pulmonar 45%. Dermatitis fúngica crónica 60%. Esperanza de vida 42-45 años (vs 60+ en clases media).
+-   **Poder**: Ninguno. Control mediante represión visible (patrullas SIA, Guardia Civil) y clandestina (informantes, delaciones).
+-   **Realidad de la humedad**: La niebla perpetua de Dársena que otros ven como "mágica" o "divina" es para pobres una maldición. Aire húmedo todo el tiempo favorece hongos. Viviendas húmedas todo el tiempo favorecen enfermedades. No hay escape.
+
+## Impacto de la Humedad Post-Guerra en Clases Sociales
+
+### **Humedad en Dársena: 85-95% relativa (+20% desde 2030)**
+
+La humedad post-guerra aumentó en Dársena relativamente menos que otras ciudades (solo +20%), porque la ciudad ya era naturalmente húmeda. **Pero las consecuencias son devastadoras porque se concentran en quien no puede escapar.**
+
+### **Para las Clases Superiores (Clerical, Académica, Marina Alta)**
+-   **Vivienda protegida**: Conventos con drenaje, casas con ventilación, estructuras elevadas
+-   **Salud preservada**: Acceso a medicinas, espacios secos, aire controlado
+-   **Humedad es "belleza"**: Niebla vista como fenómeno poético/divino (ver "Niebla Perpetua" en climas)
+-   **Resultado**: Viven vidas relativamente normales, sin comprometer por clima
+
+### **Para las Clases Pobres (Marginales, Barrios del Muro)**
+-   **Vivienda imposible de secar**: Lona y cartón NO protegen. Agua cae dentro. Moho crece en paredes.
+-   **Salud destrozada**: Hongos respiratorios, tuberculosis, dermatitis. Niños con tos crónica a los 5 años.
+-   **Humedad es "castigo divino"**: Interpretación religiosa: pobres están condenados porque son pecadores
+-   **Resultado**: Ciclo de enfermedad perpetua. Madre con tuberculosis tiene hijo con tuberculosis.
+
+### **La Verdad Incómoda**
+La humedad post-guerra NO es asesino democrático. Es **arma de clase**. Si fueras rico, tendrías casa seca. Eres pobre, tendrías casa que gotea. Sistema permite que dos realidades coexistan bajo mismo cielo.
+
+Esto es por qué SIA persigue "herejía tecnológica" con tal fervor—si pobres tuvieran acceso a tecnología de deshumidificación o calefacción, podrían escapar su destino. El Anatema Mecánico **protege la desigualdad estructural**.
 
 ## Zonas Principales
 
