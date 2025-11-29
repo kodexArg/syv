@@ -92,6 +92,15 @@
             "prompt": "✓ VALIDACIÓN POST-EDICIÓN (Archivo Markdown):\n\nAcabas de editar un archivo .md. VERIFICA:\n\n1. METADATOS YAML (si el archivo está en carpetas de contenido):\n   - ¿Tiene frontmatter con campos obligatorios? (titulo, carpeta, descripcion)\n   - ¿Todos los campos están en español y minúsculas?\n   - ¿Hay campo 'facciones' si es un personaje? (debe existir siempre)\n   - ¿Los tags son apropiados y ya existen en el corpus?\n\n2. COHERENCIA NARRATIVA (si es contenido de world-building):\n   - ¿Es coherente con la cronología establecida?\n   - ¿Menciona personajes que existen en 3_personajes/?\n   - ¿Las facciones mencionadas están en negrita en primera mención?\n   - ¿Respeta el Anatema Mecánico si es post-2061?\n\n3. Si detectas ERRORES o INCONSISTENCIAS:\n   - INFORMA al usuario con '⚠️ Advertencia: [descripción del problema]'\n   - SUGIERE corrección específica\n\nNO bloquees la operación, solo informa si hay problemas detectados."
           }
         ]
+      },
+      {
+        "matcher": "Write|Edit(?!.*README)",
+        "hooks": [
+          {
+            "type": "prompt",
+            "prompt": "📄 RECORDATORIO: ACTUALIZAR README.md\n\nAcabas de realizar un cambio significativo en el proyecto.\n\n¿El cambio requiere actualizar README.md?\n\nConsidera si afecta:\n- Estructura del proyecto\n- Nuevas secciones o directorios importantes\n- Procesos o workflows del equipo\n- Cambios en dependencias o configuración\n- Información pública del proyecto\n\nSi crees que SÍ requiere cambios, revisa y actualiza README.md para mantener la documentación sincronizada."
+          }
+        ]
       }
     ]
   }

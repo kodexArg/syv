@@ -1,41 +1,62 @@
 ---
-titulo: "Marcos Duarte, Científico en Torres Hidropónicas"
+titulo: Marcos Duarte, Científico en Torres Hidropónicas
 carpeta: 3_personajes/secundarios
-descripcion: "Científico de las Torres Hidropónicas y miembro de la Resistencia Subterránea que busca sabotear el control gubernamental de los alimentos."
+descripcion: Científico de las Torres Hidropónicas. Hombre silencioso que trabaja como operario manteniendo sistemas de subsistencia.
 tags:
-  - personaje
-  - secundario
-  - resistencia-subterranea
-facciones:
-  - "Resistencia Subterránea"
-alerta-spoilers: "Su plan de sabotaje es un secreto que podría costarle la vida."
+  - marcos-duarte
+  - científico
+  - torres-hidropónicas
+  - operario
+facciones: []
+alerta-spoilers: "Información sobre su participación en la Resistencia Subterránea y planes de sabotaje"
 ---
+
+## Marcos Duarte, Científico en Torres Hidropónicas
+
+47 años, Torres Hidropónicas
+
+Operario científico en sistemas hidropónicos
+
+## Aspecto
+
+Hombre de 47 años, complexión robusta por trabajo físico. Cabello oscuro, manos callosas, ropa de trabajo desgastada manchada de tierra y minerales. Mirada intensa pero silenciosa.
+
+Un ideólogo disfrazado de operario técnico.
 
 ## Descripción
 
-Marcos Duarte, de 47 años, es un científico que trabaja como operario en las Torres Hidropónicas. Es un hombre silencioso que, tras cultivar ideas revolucionarias, ha decidido combatir activamente al sistema.
+### Rol y Posición
 
-## Secretos / Objetivos Ocultos
+Operario científico en las Torres Hidropónicas, donde supervisa sistemas de cultivo que alimentan parcialmente a la población. Respetado por su conocimiento técnico profundo de hidropónica y sistemas de nutrientes. Su silencio en las reuniones oficiales lo mantiene bajo perfil, pero sus colegas reconocen su brillantez en resolución de problemas críticos.
 
-Como miembro de la Resistencia Subterránea, su objetivo es sabotear discretamente la producción de alimentos para debilitar el control del gobierno.
+### Personalidad
 
-## Hoja de Personaje
+Silencioso y meticuloso, pero internamente ardiente. Hombre que ha cultivado convicciones revolucionarias lentamente, transformando años de observación técnica en determinación política.
 
-| **Característica** | **Puntos** | **Justificación** |
-| --- | --- | --- |
-| Fortaleza (FOR) | 3 | Robustez por trabajo físico |
-| Reflejos (REF) | 2 | Años reducen agilidad |
-| Voluntad (VOL) | 4 | Idealista |
-| Inteligencia (INT) | 3 | Lector |
+> "Un sistema que controla tu comida controla tu libertad."
 
-| **Habilidad** | **Puntos** | **Justificación** |
-| --- | --- | --- |
-| Forma física | 4 | Mantiene un buen estado físico |
-| Combate | 3 | Preparado para defender ideas |
-| Interacción | 4 | Persuasivo y carismático |
-| Percepción | 4 | Alerta a cambios en el entorno |
-| Subterfugio | 6 | Complotador |
-| Cultura | 4 | Conocedor de historia local |
-| Profesión | 5 | Experto en sistemas hidropónicos |
-| Ocultismo | 1 | Ni fu, ni fa |
+### Motivaciones
+
+Su obsesión es la autonomía alimentaria. Rechaza que el gobierno use los cultivos como herramienta de control. Busca maneras de sabotear discretamente la producción sin que sea obviamente deliberado, creando irregularidades que debiliten la centralización sin revelar su agencia.
+
+### Trasfondo
+
+<!-- 📖 (Torres Hidropónicas) -->
+Entre los operarios de las Torres se rumorea que Marcos es excesivamente cuidadoso con sus experimentos. Algunos dicen que cultiva plantas no autorizadas en secciones restrictas. Otros susurran que sus "accidentes" en los sistemas de filtración parecen demasiado convenientes. Los jefes lo toleran porque sus reportes técnicos son impecables.
+/📖
+
+<!-- 🔐 (Resistencia Subterránea) -->
+Marcos es recluta activo de la Resistencia Subterránea, aunque su rol es especializado: sabotaje técnico invisible. Manipula sistemas hidropónicos para reducir rendimiento sin dejar evidencia forensable. Utiliza su conocimiento profundo para introducir patógenos que afectan cultivos de forma que aparenta ser negligencia ambiental, no sabotaje deliberado.
+/🔐
+
+<!-- 🔐☠️ (Resistencia Subterránea) -->
+Marcos es el único miembro de la Resistencia con acceso irrestricto a los sistemas de control nutritivo central. Su plan final es introducir un colapso cascada en toda la red de Torres que no pueda revertirse sin meses de reconstrucción. Cuando llegue ese momento, el gobierno perderá su arma de control más efectiva. Su identidad como saboteador es tan valiosa que tres comandantes de la Resistencia se han vuelto obsesivos con su protección. Si es capturado, toda la operación colapsa.
+/🔐☠️
+
+## Conexiones Importantes
+
+- **Torres Hidropónicas (institución)**: Su lugar de trabajo y laboratorio para sabotaje
+- **Operarios técnicos**: Colegas que respetan su expertise pero desconocen sus verdaderas convicciones
+- **Resistencia Subterránea**: Su verdadera familia política
+- **Gobierno**: Adversario existencial que no sabe que está siendo socavado
 

@@ -1,5 +1,5 @@
 ---
-name: faction-designer
+name: facciones
 description: Diseñador de facciones para SyV - creación con estructura narrativa fluida, relaciones complejas y secretos
 ---
 

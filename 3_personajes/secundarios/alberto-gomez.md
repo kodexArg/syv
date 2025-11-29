@@ -1,30 +1,58 @@
 ---
-titulo: "Alberto Gómez, Ferretero del centro"
+titulo: Alberto Gómez, Ferretero del Centro
 carpeta: 3_personajes/secundarios
-descripcion: "Encargado de una ferretería en el centro, que oculta la muerte del dueño para mantener el negocio a flote."
+descripcion: Encargado de una ferretería en el centro, que mantiene el negocio funcionando tras la muerte del dueño.
 tags:
-  - personaje
-  - secundario
+  - alberto-gomez
   - comerciante
+  - ferretero
+  - centro
 facciones: []
-alerta-spoilers: "El hecho de que el dueño de la ferretería está muerto es un secreto que Alberto guarda celosamente."
+alerta-spoilers: "Oculta la muerte del dueño y ha notado ventas sospechosas de materiales para tecnología prohibida"
 ---
+
+## Alberto Gómez, el Ferretero
+
+49 años, Centro
+
+Encargado de ferretería
+
+## Aspecto
+
+Hombre de mediana edad con una expresión que mezcla determinación y el peso de un secreto. Las sombras de preocupación se marcan en su rostro cuando cree que nadie lo observa. Viste ropa de trabajo funcional, manchada por años de manipular herramientas y materiales.
+
+Un hombre común que sostiene una mentira para sobrevivir.
 
 ## Descripción
 
-Alberto Gómez, de 49 años, atiende una ferretería en el centro de la ciudad. Sin embargo, la tienda no es suya.
+### Rol y Posición
 
-## Trasfondo
+Atiende una ferretería en el centro de la ciudad. Para el mundo exterior, es simplemente el empleado de confianza que maneja el negocio cuando el dueño está ausente.
 
-Tras la muerte del dueño original hace semanas, Alberto ha mantenido el negocio abierto, ocultando el fallecimiento para que tanto él como sus compañeros puedan conservar su fuente de ingresos.
+### Personalidad
 
-Recientemente, ha notado que ciertos productos, como las bobinas de cobre, se venden a un ritmo inusual. Sospecha que estos artículos podrían estar siendo utilizados para fabricar tecnologías prohibidas, pero prefiere no indagar demasiado.
+Pragmático y observador. Es un hombre que ha aprendido a mantener la boca cerrada y los ojos abiertos. Prefiere no hacer olas ni indagar demasiado en cosas que podrían traerle problemas, pero su conciencia no está completamente dormida.
 
-## Secretos
+### Motivaciones
 
-El dueño de la ferretería ha muerto, y Alberto lleva adelante la mentira para mantener el negocio.
+Su prioridad es mantener el negocio funcionando para que tanto él como sus compañeros conserven su fuente de ingresos. En un mundo donde el trabajo escasea, está dispuesto a sostener una mentira para proteger esos empleos.
 
-**Aporte a la historia:** Alberto ha mantenido el negocio abierto tras la muerte del dueño original y ha observado cómo ciertos productos se venden a un ritmo inusual (bobinas de cobre). Después de ser interrogado, revela que estos artículos podrían estar siendo utilizados para tecnologías prohibidas.
+### Trasfondo
 
-```
-Close-up portrait, depth of field, a 49-year-old man, his expression a complex mix of determination and secrecy, shadows of neon dance across his face, hinting at the burden he carries. In the heart of a cyberpunk city, he stands guard over a secret within the hardware store, sustaining a lie to protect his livelihood and those of his colleagues.
+<!-- 📖 (Conocimiento Público) -->
+Alberto Gómez lleva años trabajando en la ferretería del centro. Es conocido por ser confiable y discreto, un comerciante que no hace preguntas innecesarias.
+/📖
+
+<!-- 🔐 (Conocimiento Especializado) -->
+Hace semanas, el dueño de la ferretería murió. Alberto ha mantenido el negocio abierto ocultando deliberadamente el fallecimiento. Ha conseguido que sus compañeros colaboren con la mentira, conscientes todos de que revelar la verdad significaría perder sus empleos cuando el negocio se cierre o sea reclamado por herederos.
+/🔐
+
+<!-- 🔐☠️ (Secreto Mortal) -->
+Recientemente, Alberto ha notado que ciertos productos se venden a un ritmo inusual: bobinas de cobre, componentes electrónicos específicos, materiales aislantes. Los clientes que compran estos artículos son siempre diferentes, pero hay un patrón. Alberto sospecha fuertemente que estos materiales están siendo utilizados para fabricar tecnologías prohibidas por el Anatema Mecánico. Sabe que debería reportarlo, pero tiene demasiado miedo de las consecuencias, tanto de la Iglesia como de quienes están detrás de estas compras. Así que sigue vendiendo, fingiendo ignorancia, mientras el peso de la complicidad crece cada día.
+/🔐☠️
+
+## Conexiones Importantes
+
+- **Sus Compañeros de Trabajo**: Cómplices en la mentira sobre el dueño muerto
+- **Clientes Sospechosos**: Compradores regulares de materiales para tecnología prohibida
+- **La Ferretería**: El centro de su dilema moral y supervivencia

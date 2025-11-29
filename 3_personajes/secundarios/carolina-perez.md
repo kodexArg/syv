@@ -1,18 +1,48 @@
 ---
-titulo: "Carolina Pérez, Costurera"
+titulo: Carolina Pérez, Costurera
 carpeta: 3_personajes/secundarios
-descripcion: "Costurera con un pequeño taller en los Barrios del Muro, que descubre un diario crucial sobre el culto de 'El Soñador'."
+descripcion: Costurera con un pequeño taller en los Barrios del Muro.
 tags:
-  - personaje
-  - secundario
+  - carolina-perez
+  - costurera
   - comerciante
-facciones:
-  - "Comerciantes"
+  - barrios-del-muro
+facciones: ["Comerciantes"]
 ---
+
+## Carolina Pérez, la Costurera
+
+34 años, Barrios del Muro
+
+Costurera y reparadora de ropa
+
+## Aspecto
+
+Mujer de manos ágiles y mirada atenta al detalle. Sus dedos muestran las marcas de años trabajando con aguja e hilo. Viste ropa que ella misma ha diseñado o modificado, simple pero bien confeccionada.
+
+Una artesana que cose más que tela.
 
 ## Descripción
 
-Carolina Pérez, de 34 años, diseña y repara ropa en su pequeño taller ubicado en los Barrios del Muro.
+### Rol y Posición
 
-## Trasfondo
+Diseña y repara ropa en su pequeño taller ubicado en los Barrios del Muro. Su trabajo es esencial en una comunidad donde comprar ropa nueva es un lujo que pocos pueden permitirse.
 
+### Personalidad
+
+Meticulosa y callada, deja que su trabajo hable por ella. Tiene ojo para los detalles y memoria para las historias que la ropa cuenta: el desgaste en ciertas áreas, las manchas que no salen, los remiendos anteriores.
+
+### Motivaciones
+
+Busca ganarse la vida honestamente con su oficio, sirviendo a su comunidad. Cada prenda reparada es una pequeña victoria contra la decadencia que rodea a todos.
+
+### Trasfondo
+
+<!-- 📖 (Conocimiento Público) -->
+Carolina Pérez es conocida en los Barrios del Muro como una costurera competente y confiable. Su taller es pequeño pero acogedor, y sus precios son justos.
+/📖
+
+## Conexiones Importantes
+
+- **Los Barrios del Muro**: Su comunidad y clientela
+- **Su Taller**: El centro de su vida y trabajo

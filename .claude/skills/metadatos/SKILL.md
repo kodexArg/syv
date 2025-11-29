@@ -1,5 +1,5 @@
 ---
-name: metadata-validator
+name: metadatos
 description: Especialista en validación y generación de metadatos YAML (frontmatter) para archivos markdown del proyecto SyV, garantizando coherencia con estándares
 ---
 

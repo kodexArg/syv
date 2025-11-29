@@ -1,42 +1,53 @@
 ---
-titulo: "Carlos Giménez, Médico"
+titulo: Carlos Giménez, Médico
 carpeta: 3_personajes/secundarios
-descripcion: "Médico de emergencias comprometido pero técnicamente mediocre, que ha notado un patrón alarmante de pacientes con agotamiento del sueño."
+descripcion: Médico de emergencias comprometido pero técnicamente mediocre, que ha notado un patrón alarmante de pacientes con agotamiento del sueño.
 tags:
-  - personaje
-  - secundario
+  - carlos-gimenez
+  - medico
   - sanidad
-facciones:
-  - "Sanidad"
+  - emergencias
+facciones: ["Sanidad"]
 ---
+
+## Dr. Carlos Giménez
+
+38 años, Clínica del Centro
+
+Médico de emergencias
+
+## Aspecto
+
+Hombre de mediana estatura, corto de vista, que usa anteojos de marco grueso constantemente empañados por las largas jornadas. Sus manos muestran el temblor leve de quien ha trabajado turnos extenuantes durante años. Viste el uniforme médico con orgullo, aunque siempre arrugado.
+
+Un sanador limitado por su capacidad pero ilimitado en su compromiso.
 
 ## Descripción
 
-Carlos Giménez, de 38 años, es un médico que trabaja en una clínica del centro. Es corto de vista y, aunque técnicamente mediocre, está muy comprometido con sus pacientes. Ocasionalmente, le toca patrullar como paramédico.
+### Rol y Posición
 
-## Trasfondo
+Médico que trabaja en una clínica del centro. Aunque técnicamente mediocre, es muy comprometido con sus pacientes. Ocasionalmente le toca patrullar como paramédico en las calles.
 
-Como médico de emergencias, Carlos ha observado un patrón alarmante de pacientes que llegan a la clínica en estado catatónico, con un diagnóstico común de agotamiento severo del sueño. Sus estudios indican que los daños son irreparables y solo pueden ser frenados con medicamentos muy fuertes y costosos.
+### Personalidad
 
-## Hoja de Personaje
+Tiene una empatía natural que compensa sus limitaciones técnicas. Sus pacientes lo recuerdan no por su brillantez diagnóstica sino por el consuelo genuino que ofrece. Es pragmático y honesto sobre sus capacidades, pero nunca abandona a un paciente.
 
-| **Característica** | **Puntos** | **Justificación** |
-| --- | --- | --- |
-| Fortaleza (FOR) | 3 | Resistente, noches largas |
-| Reflejos (REF) | 3 | Respuestas rápidas, esenciales |
-| Voluntad (VOL) | 3 | Compromiso inquebrantable |
-| Inteligencia (INT) | 3 | Pragmático, no brillante |
+### Motivaciones
 
-| **Habilidad** | **Puntos** | **Justificación** |
-| --- | --- | --- |
-| Forma física | 3 | Aguanta turnos extenuantes |
-| Combate | 2 | Defensa propia básica |
-| Interacción | 5 | Empatía natural, consuelo |
-| Percepción | 4 | Alerta a síntomas ocultos |
-| Subterfugio | 1 | Poco uso, honestidad clínica |
-| Cultura | 3 | Bien leído, no especializado |
-| Profesión | 6 | Dedicado, aunque limitado |
-| Ocultismo | 1 | Escéptico, pero curioso |
+Está profundamente dedicado a ayudar a quienes sufren. Su compromiso va más allá de la competencia técnica: es una vocación genuina de servir a los más vulnerables.
 
-**Función**: Médico de Emergencias.
+### Trasfondo
 
+<!-- 📖 (Conocimiento Público) -->
+Carlos Giménez es un médico conocido en la clínica del centro por su dedicación y empatía, aunque no destaca por su habilidad técnica. Trabaja turnos largos y acepta las patrullas paramédicas sin quejarse.
+/📖
+
+<!-- 🔐 (Conocimiento Especializado) -->
+Como médico de emergencias, Carlos ha observado un patrón alarmante en los últimos meses: pacientes que llegan en estado catatónico, con un diagnóstico común de agotamiento severo del sueño. Sus estudios médicos indican que los daños neurológicos son irreparables y solo pueden ser frenados con medicamentos muy fuertes y costosos. Ha comenzado a llevar un registro extraoficial de estos casos, notando que el patrón está acelerándose. Sabe que debería reportarlo a las autoridades, pero teme que su falta de credibilidad técnica haga que no lo tomen en serio.
+/🔐
+
+## Conexiones Importantes
+
+- **Pacientes Catatónicos**: El patrón que lo inquieta profundamente
+- **Clínica del Centro**: Su lugar de trabajo y responsabilidad
+- **Departamento de Sanidad**: La institución a la que sirve

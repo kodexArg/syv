@@ -120,7 +120,38 @@ npm run build      # Genera ./dist/ con el sitio estático
 npm run preview    # Previsualiza la build localmente
 ```
 
+## Sistema de Skills y Comandos
+
+El proyecto incluye un sistema automático de validación y creación de contenido mediante **skills especializados** (expertos en áreas específicas del canon) y **slash commands** (comandos interactivos en Claude Code).
+
+### Skills Disponibles (7 especialistas)
+
+| Skill | Función |
+|-------|---------|
+| **cronologia** | Valida coherencia temporal, hitos inamovibles, perspectiva 2178 |
+| **facciones** | Experto en relaciones políticas, alianzas y conflictos de facciones |
+| **metadatos** | Valida YAML frontmatter, campos obligatorios, estándares españoles |
+| **permisos** | Valida bloques PERMISOS (📖/🔐/🔐☠️), sintaxis exacta, scopes coherentes |
+| **personajes** | Crea y valida personajes con facciones, ubicaciones, coherencia temporal |
+| **ubicaciones** | Gestiona geografía, clima especial (Dársena lluvia perpetua), distancias |
+| **worldbuilding** | Maestro del canon, valida coherencia narrativa completa contra todos los aspectos |
+
+### Comandos Slash (6 operaciones)
+
+| Comando | Función |
+|---------|---------|
+| `/crear-personaje` | Crear nuevo personaje validando facciones, ubicación y cronología |
+| `/crear-ubicacion` | Crear ubicación con atmósfera, clima coherente y poblaciones realistas |
+| `/crear-evento` | Agregar evento a cronología respetando tecnología post-2061 y perspectiva 2178 |
+| `/validar-canon` | Validación completa: cronología, personajes, facciones, tecnología, geografía, perspectiva |
+| `/validar-metadatos` | Validar YAML frontmatter: campos obligatorios, formato, idioma español |
+| `/validar-permisos` | Validar bloques PERMISOS: sintaxis exacta, balance, scopes, coherencia temporal |
+
+**Documentación detallada**: Consulta las especificaciones en `.claude/commands/[comando].md`
+
 ## Colaboración
 
 Antes de contribuir al proyecto, consulta las guías en `0_proyecto/guias-para-colaboradores/`, comenzando por `manual-del-colaborador.md`. El proyecto mantiene estándares estrictos de formato y estructura para preservar la coherencia del universo de ficción.
+
+Los skills y comandos slash facilitan la creación y validación de contenido siguiendo automáticamente estas reglas.
 

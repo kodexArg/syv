@@ -34,19 +34,33 @@ alerta-spoilers: "Advertencia" # OPCIONAL
 ---
 ```
 
-### Orden de Secciones (ESTÁNDAR)
+### Orden de Secciones (ESTÁNDAR - CRÍTICO)
 
-1. **Identidad** - Título con nombre (corto, con epíteto si existe), edad, ubicación, profesión. SIN labels, SIN bloques. Directo. (obligatorio)
-2. **Aspecto** - Párrafo + Frase (obligatorio):
+**⚠️ REGLA DE ORO: El PRIMER H2 (##) SIEMPRE es el NOMBRE DEL PERSONAJE, NUNCA "Descripción", "Identidad", o cualquier otro título genérico**
+
+Orden obligatorio:
+
+1. **Identidad (PRIMER H2)** - `## [Nombre Corto, Epíteto/Rol si existe]`
+   - Formato: Nombre/Epíteto en H2
+   - Seguido de: Edad, Ubicación (sin labels)
+   - Seguido de: Profesión/Rol (una línea máximo)
+   - SIN labels tipo "Edad:", "Profesión:", "Ubicación:"
+   - SIN bloques ni subsecciones
+   - Directo y limpio (obligatorio)
+
+2. **Aspecto (H2)** - Párrafo + Frase (obligatorio):
    - **Párrafo (Objetivo)**: SOLO apariencia física. Altura, complexión, ropa, marcas distintivas. SIN entorno, SIN movimientos, SIN contexto. Conciso: 2-3 líneas máximo.
    - **Frase (Subjetivo)**: Una sola frase que resume QUIÉN ES el personaje esencialmente.
-3. **Descripción** - Contiene 4 subsecciones:
-   - **Rol y Posición** - UN párrafo (función oficial en sociedad)
-   - **Personalidad** - UN párrafo + 1-3 citas/muletillas directas (sin comentarios extras)
-   - **Motivaciones** - UN párrafo (qué lo mueve; soporta etiquetas PERMISOS)
-   - **Trasfondo** - Información adicional CON etiquetas PERMISOS si aplica (SIN "oculto" ni "secreto")
-4. **Conexiones Importantes** - Relaciones públicas observables (obligatorio)
-5. **Referencias** - Notas a pie de página (opcional)
+
+3. **Descripción (H2)** - Contiene 4 subsecciones (H3):
+   - **Rol y Posición (H3)** - UN párrafo (función oficial en sociedad)
+   - **Personalidad (H3)** - UN párrafo + 1-3 citas/muletillas directas (sin comentarios extras)
+   - **Motivaciones (H3)** - UN párrafo (qué lo mueve; soporta etiquetas PERMISOS)
+   - **Trasfondo (H3)** - Información adicional CON etiquetas PERMISOS si aplica (SIN "oculto" ni "secreto")
+
+4. **Conexiones Importantes (H2)** - Relaciones públicas observables (obligatorio)
+
+5. **Referencias (H2)** - Notas a pie de página (opcional)
 
 ### ⚠️ RESTRICCIÓN CRÍTICA - Campo `descripcion`
 
