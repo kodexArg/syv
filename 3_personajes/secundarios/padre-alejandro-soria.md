@@ -1,41 +1,56 @@
 ---
-titulo: "Padre Alejandro Soria"
+titulo: Padre Alejandro Soria
 carpeta: 3_personajes/secundarios
-descripcion: "Un médico que sirve como sacerdote en un hospital eclesiástico, pero cuya verdadera fe está en la medicina, no en Dios."
+descripcion: Médico que sirve como sacerdote en un hospital eclesiástico, dedicado a salvar vidas.
 tags:
-  - personaje
-  - secundario
   - curatores
+  - medico
+  - sacerdote
+  - hospital
 facciones:
   - "Curatores"
-alerta-spoilers: "Su falta de fe y su dedicación exclusiva a la medicina son un secreto."
+alerta-spoilers: "Su falta de fe verdadera y su uso de la Iglesia como medio para ejercer la medicina."
 ---
+
+## Padre Alejandro Soria, el sanador
+
+29 años, Hospital Eclesiástico
+
+Médico y sacerdote
+
+## Aspecto
+
+Hombre joven de complexión resistente y ágil. Viste como sacerdote pero se mueve con la urgencia de un médico. Sus manos revelan años de trabajo constante.
+
+Es considerado un "hombre santo" por su innegable vocación de ayudar a los demás.
 
 ## Descripción
 
-El Padre Alejandro Soria, de 29 años, es un médico que trabaja en un hospital eclesiástico. Aunque viste como un sacerdote, es considerado un "hombre santo" por su innegable vocación de ayudar a los demás.
+### Rol y Posición
 
-## Secretos / Trasfondo Oculto
+El Padre Alejandro Soria trabaja en un hospital eclesiástico donde ejerce tanto su rol sacerdotal como médico. Es respetado por pacientes y colegas por su dedicación incansable a salvar vidas.
 
-En realidad, Alejandro no cree en Dios. Su única y verdadera vocación es la medicina, y utiliza su posición en la Iglesia únicamente como un medio para ejercerla y ayudar donde más se necesita.
+### Personalidad
 
-## Hoja de Personaje
+Dedicado, vigoroso y persuasivo. Alejandro es un orador convincente capaz de inspirar confianza en los más desesperados. Su determinación por ayudar es genuina e inquebrantable.
 
-| **Característica** | **Puntos** | **Justificación** |
-| --- | --- | --- |
-| Fortaleza (FOR) | 3 | Resistente como el acero |
-| Reflejos (REF) | 3 | Ágil |
-| Voluntad (VOL) | 2 | Dedicado |
-| Inteligencia (INT) | 4 | Visionario |
+> "La vida es sagrada, y preservarla es la única fe que necesito."
 
-| **Habilidad** | **Puntos** | **Justificación** |
-| --- | --- | --- |
-| Forma física | 4 | Vigoroso |
-| Combate | 2 | Conocimientos básicos de defensa |
-| Interacción | 5 | Orador persuasivo |
-| Percepción | 4 | Detective de síntomas |
-| Subterfugio | 2 | Sigiloso en sus verdaderas motivaciones |
-| Cultura | 3 | Conocedor de la medicina moderna |
-| Profesión | 6 | Especialista médico |
-| Ocultismo | 4 | Sacerdote |
+### Motivaciones
 
+Ejercer la medicina donde más se necesita y ayudar a quien pueda. Su vocación médica es absoluta y está dispuesto a utilizar cualquier medio a su alcance para cumplirla.
+
+### Trasfondo
+
+<!-- 📖 (Público) -->
+El Padre Alejandro es conocido por su incansable trabajo en el hospital eclesiástico, donde ha salvado innumerables vidas. Muchos lo ven como un ejemplo de santidad y servicio.
+/📖
+
+<!-- 🔐 (DM) -->
+En realidad, Alejandro no cree en Dios. Su única y verdadera vocación es la medicina, y utiliza su posición en la Iglesia únicamente como un medio para ejercerla y ayudar donde más se necesita. Es sigiloso en sus verdaderas motivaciones y nadie sospecha de su falta de fe.
+/🔐
+
+## Conexiones Importantes
+
+- **Hospital Eclesiástico**: Su lugar de trabajo y propósito
+- **Curatores**: Facción a la que pertenece por su rol médico

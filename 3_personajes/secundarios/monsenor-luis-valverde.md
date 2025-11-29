@@ -1,47 +1,56 @@
 ---
-titulo: "Monseñor Luis Valverde"
+titulo: Monseñor Luis Valverde
 carpeta: 3_personajes/secundarios
-descripcion: "Director de la Academia Teológica y figura prominente del Alto Clero, conocido por su erudición y su vasta red de contactos en el ámbito científico."
+descripcion: Director de la Academia Teológica y figura prominente del Alto Clero, conocido por su erudición y vasta red de contactos científicos.
 tags:
-  - personaje
-  - secundario
   - alto-clero
+  - academico
+  - director
+  - cientifico
 facciones:
   - "Alto Clero"
-alerta-spoilers: "Su objetivo de conservar el poder eclesiástico sobre el conocimiento es una motivación que no revela abiertamente."
+alerta-spoilers: "Su objetivo de conservar el poder eclesiástico sobre el conocimiento."
 ---
+
+## Monseñor Luis Valverde, Director de la Academia
+
+58 años, Academia Teológica
+
+Director de la Academia Teológica
+
+## Aspecto
+
+Hombre de edad madura con porte distinguido y aire distendido. Su mirada revela décadas de estudio y una mente siempre en funcionamiento.
+
+Es una figura respetada cuya sola presencia transmite autoridad intelectual.
 
 ## Descripción
 
-A sus 58 años, Monseñor Luis Valverde es una figura prominente y respetada dentro del Alto Clero. Se desempeña como Director de la Academia Teológica y está muy vinculado al ambiente científico. Es conocido por su aire distendido, su erudición y su legendaria red de contactos dentro de la Iglesia, sobre todo en áreas científicas.
+### Rol y Posición
 
-Se le considera un aliado del bien, dedicado a guiar a su comunidad hacia un bien mayor.
+Monseñor Luis Valverde es el Director de la Academia Teológica y está profundamente vinculado al ambiente científico. Es conocido por su legendaria red de contactos dentro de la Iglesia, sobre todo en áreas científicas. Se le considera un aliado del bien, dedicado a guiar a su comunidad hacia un bien mayor.
 
-## Secretos / Objetivos Ocultos
+### Personalidad
 
-Su principal motivación es preservar y conservar el poder eclesiástico sobre el conocimiento para mantener la estabilidad.
+Erudito, visionario y carismático. Valverde es un orador elocuente capaz de detectar mentiras y verdades ocultas con facilidad. Su transparencia aparente lo hace confiable ante la mayoría.
 
-## Hoja de Personaje
+> "El conocimiento es poder, pero el poder sin guía es caos."
 
-| **Característica** | **Puntos** | **Justificación** |
-| --- | --- | --- |
-| Fortaleza (FOR) | 2 | No depende de su fuerza física |
-| Reflejos (REF) | 2 | Sereno, no precipitado |
-| Voluntad (VOL) | 4 | Inamovible en sus convicciones |
-| Inteligencia (INT) | 4 | Erudito, visionario |
+### Motivaciones
 
-| **Habilidad** | **Puntos** | **Justificación** |
-| --- | --- | --- |
-| Forma física | 1 | Envejecido, no atlético |
-| Combate | 1 | Prefiere el diálogo |
-| Interacción | 6 | Orador elocuente, carismático |
-| Percepción | 5 | Detecta mentiras, verdades ocultas |
-| Subterfugio | 2 | Transparente, raramente engaña |
-| Cultura | 6 | Ilustrado en muchas disciplinas |
-| Profesión | 6 | Respetado director y académico |
-| Ocultismo | 3 | Conocedor de lo místico y esotérico |
+Preservar el orden y la estabilidad a través del control eclesiástico del conocimiento. Cree genuinamente que la Iglesia es la mejor custodia del saber en tiempos inciertos.
 
-### Relaciones
+### Trasfondo
 
-- [[Madre Inquisidora]]
-- [[Padre Felipe]]
+<!-- 📖 (Público) -->
+Monseñor Valverde ha servido a la Iglesia durante décadas, ascendiendo por mérito propio hasta convertirse en Director de la Academia Teológica. Su trabajo en áreas científicas ha sido fundamental para mantener el equilibrio entre fe y razón.
+/📖
+
+<!-- 🔐 (DM) -->
+Su principal motivación es preservar y conservar el poder eclesiástico sobre el conocimiento para mantener la estabilidad. No es malicioso, pero está convencido de que el conocimiento sin control eclesiástico podría desestabilizar la sociedad.
+/🔐
+
+## Conexiones Importantes
+
+- **Madre Inquisidora**: Relación profesional dentro del Alto Clero
+- **Padre Felipe**: Colaborador en asuntos académicos

@@ -1,41 +1,56 @@
 ---
-titulo: "Mariana, artista torturada"
-carpeta: "3_personajes/secundarios"
-descripcion: "Joven artista torturada, marcada por la fragilidad y la obsesión en las Tuberías."
+titulo: Mariana, artista torturada
+carpeta: 3_personajes/secundarios
+descripcion: Joven artista en estado catatónico, marcada por la obsesión y la fragilidad en las Tuberías.
 tags:
-  - personaje
-  - secundario
   - artista
+  - poseida
+  - tuberias
+  - oraculo
+facciones: []
+alerta-spoilers: "Su conexión con el Ensoñador y su condición mental verdadera."
 ---
 
-# Mariana, artista torturada
+## Mariana, artista torturada
+
+20 años, Barrios del Muro (vive en planta baja con acceso a Tuberías)
+
+Artista y pintora
+
+## Aspecto
+
+Mujer muy delgada, de piel bien cuidada y mirada perdida. Su figura demacrada contrasta con el cuidado que alguna vez se tuvo a sí misma.
+
+Es una chica débil y dócil, de voz calmada e incapaz de actuar con celeridad si no se la motiva. No parece estar para nada atenta a lo que sucede a su alrededor y le cuesta retener la atención.
 
 ## Descripción
 
-Mariana es una mujer de apenas 20 años, muy delgada, de piel bien cuidada y mirada perdida.
+### Rol y Posición
 
-No parece estar para nada atenta a lo que sucede a su alrededor y le cuesta retener la atención. Es una chica débil y dócil, de voz calmada e incapaz de actuar con celeridad si no se la motiva.
+Mariana se encuentra en un permanente estado catatónico. Parece no dormir y desde hace meses su única manera de comunicarse es a través de sus pinturas. Sus padres son dos mercaderes con buen pasar que han perdido toda esperanza de recuperar a su hija.
 
-## Historia "Posesiones"
+### Personalidad
 
-### Encuentro
+Está a medio camino de perder la cordura. Su brillante inteligencia y jovialidad de antaño han desaparecido, dejando solo una sombra silenciosa que se expresa únicamente a través del arte oscuro y perturbador.
 
-La mujer se encuentra en estado catatónico luego de haber estado dibujando por noches y noches. Está a medio camino de perder la cordura.
+### Motivaciones
 
-### Imagen
+En su estado actual, Mariana no tiene motivaciones conscientes. Solo persiste, atrapada entre el deseo de escapar y la compulsión de plasmar las visiones que la atormentan.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/8dea62fb-48a1-4e70-8a5d-cea7d5ef9ce5/43edbf03-71f6-4f34-968e-eb19068f7b72/Untitled.png)
+### Trasfondo
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/8dea62fb-48a1-4e70-8a5d-cea7d5ef9ce5/c72d6f24-a5e4-4d2f-816f-8db0d017be7e/Untitled.png)
+<!-- 📖 (Público) -->
+La artista era conocida no solo por su extroversión y su arte sino por ser brillante e inteligente, jovial y muy sana. Sin embargo, hace tiempo parece haber perdido toda chispa e inteligencia a la vez que su arte se volvía más y más oscuro.
 
-Ahora se la encuentra en un permanente estado catatónico. Parece no dormir y desde hace meses su única manera de comunicarse es a través de sus pinturas.
+Ahora vive dibujando por noches y noches, incapaz de descansar. A esta altura, muchos ya la consideran un oráculo debido a la sensibilidad exacerbada que muestra en sus obras.
+/📖
 
-Sus padres han perdido toda esperanza: son dos mercaderes con buen pasar que viven en una planta baja en los Barrios del Muro, con acceso directo a Tuberías.
+<!-- 🔐 (DM) -->
+Mariana ha sido víctima de la influencia del Ensoñador. Haciendo un esfuerzo interno ha conseguido 'domar' sus sueños convirtiéndolos en visiones, en general horroríficas, reprimiendo su instinto de huir hacia el oeste a cambio de expresar sus pulsiones en su art.
 
-La artista era conocida no solo por sus extroversión y su arte sino por ser brillante e inteligente, jovial y muy sana, aunque hace tiempo parece haber perdido toda chispa e inteligencia a la vez que su arte se volvía más y más oscuro.
+Lleva demasiado tiempo sin dormir o haciéndolo bajo la influencia de drogas, intentando proteger lo que queda de su mente de la influencia de "El Soñador". La mente de Mariana está más allá de cualquier recupero.
+/🔐
 
-Mariana ha sido víctima de la influencia del Ensoñador, y haciendo un esfuerzo interno ha conseguido 'domar' sus sueños convirtiéndolos en visiones, en general horroríficas, reprimiendo su instinto de huir hacia el oeste a cambio de expresar sus pulsiones en su arte.
+## Conexiones Importantes
 
-Mariana lleva demasiado tiempo sin dormir o haciéndolo bajo la influencia de drogas, intentando proteger lo que queda de su mente de la influencia de "El Soñador".
-
-A esta altura, la mente de Mariana está más allá de cualquier recupero. Además, su sensibilidad se a exacerbado de tal manera que muchos ya la consideran un oráculo. 
+- **Sus padres**: Mercaderes con buen pasar, desesperados por ayudarla

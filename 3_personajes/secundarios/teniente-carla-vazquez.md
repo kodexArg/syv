@@ -1,28 +1,54 @@
 ---
-titulo: "Teniente Carla Vázquez"
+titulo: Teniente Carla Vázquez
 carpeta: 3_personajes/secundarios
-descripcion: "Analista del Departamento de Contrainteligencia de la Dirección de Seguridad Nacional."
+descripcion: Analista del Departamento de Contrainteligencia de la Dirección de Seguridad Nacional.
 tags:
-  - personaje
-  - secundario
   - seguridad-nacional
+  - contrainteligencia
+  - analista
+  - investigadora
 facciones:
   - "Dirección de Seguridad Nacional"
-alerta-spoilers: "Su investigación sobre una conspiración interna es secreta."
+alerta-spoilers: "Su investigación sobre una conspiración interna."
 ---
+
+## Teniente Carla Vázquez
+
+35 años, Departamento de Contrainteligencia
+
+Analista de contrainteligencia
 
 ## Aspecto
 
-Mujer de 35 años, de altura media, con una postura firme y una expresión seria y calculadora.
+Mujer de altura media con postura firme y expresión seria y calculadora. Cada movimiento es medido, cada palabra sopesada.
+
+Es alguien que ha aprendido que la información es poder, y que el silencio es una forma de protección.
 
 ## Descripción
 
-La Teniente Carla Vázquez es una analista en el Departamento de Contrainteligencia de la Dirección de Seguridad Nacional.
+### Rol y Posición
 
-## Secretos / Objetivos Ocultos
+La Teniente Carla Vázquez es una analista en el Departamento de Contrainteligencia de la Dirección de Seguridad Nacional, donde su trabajo consiste en identificar amenazas internas y externas.
 
-Su principal motivación es desentrañar una conspiración que opera desde dentro de la propia seguridad nacional.
+### Personalidad
 
-### Relaciones
+Calculadora, metódica y desconfiada. Vázquez no toma nada al pie de la letra y siempre busca el patrón oculto detrás de los eventos aparentemente aislados.
 
-- [[3_personajes/secundarios/subcomisario-ivan-mendez|Subcomisario Iván Méndez]]
+### Motivaciones
+
+Desentrañar una conspiración que opera desde dentro de la propia seguridad nacional, una amenaza que podría ser más peligrosa que cualquier enemigo externo.
+
+### Trasfondo
+
+<!-- 📖 (Público) -->
+La Teniente Vázquez es conocida por su trabajo meticuloso y su capacidad para conectar puntos que otros pasan por alto. Ha ascendido por mérito dentro de un departamento notoriamente difícil.
+<!-- /📖 -->
+
+<!-- 🔐 (DM) -->
+Su principal motivación es desentrañar una conspiración que opera desde dentro de la propia seguridad nacional. Ha detectado anomalías en flujos de información y patrones de actuación que sugieren infiltración o corrupción en niveles altos, pero aún no tiene evidencia suficiente para actuar.
+<!-- /🔐 -->
+
+## Conexiones Importantes
+
+- **Subcomisario Iván Méndez**: Posible aliado o contacto
+- **Dirección de Seguridad Nacional**: Su empleador y campo de investigación

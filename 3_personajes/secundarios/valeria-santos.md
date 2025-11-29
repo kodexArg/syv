@@ -1,49 +1,63 @@
 ---
-titulo: "Valeria Santos, Dama de compañía y Archivista"
+titulo: Valeria Santos, Dama de compañía y Archivista
 carpeta: 3_personajes/secundarios
-descripcion: "Dama de compañía que se codea con el poder y, en secreto, usa su acceso a la biblioteca para descubrir la verdad sobre el origen de la ciudad."
+descripcion: Dama de compañía que se codea con el poder, y en secreto usa su acceso a la biblioteca para descubrir la verdad sobre el origen de la ciudad.
 tags:
-  - personaje
-  - secundario
   - arpista
   - guardian-de-la-memoria
+  - archivista
+  - dama-compania
 facciones:
   - "Arpistas"
   - "Guardianes de la Memoria"
-alerta-spoilers: "Su doble vida y su investigación secreta no deben ser reveladas."
+alerta-spoilers: "Su doble vida y su investigación secreta."
 ---
+
+## Valeria Santos, Dama de compañía y Archivista
+
+29 años, Se mueve entre Barrio Norte y la Biblioteca
+
+Dama de compañía y archivista
+
+## Aspecto
+
+Mujer de elegancia estudiada y movimientos de bailarina. Sus ojos revelan una inteligencia que muchos de sus clientes no perciben.
+
+Es alguien que habita dos mundos y usa ambos para descubrir verdades ocultas.
 
 ## Descripción
 
-Valeria Santos, de 29 años, lleva una doble vida. Por la noche, trabaja como Dama de Compañía, codeándose con el poder de Dársena, desde militares hasta los aristócratas de Barrio Norte.
+### Rol y Posición
 
-## Trasfondo
+Valeria lleva una doble vida. Por la noche, trabaja como Dama de Compañía, codeándose con el poder de Dársena, desde militares hasta los aristócratas de Barrio Norte. De día, es archivista en la biblioteca.
 
-Su verdadera pasión es la historia y el conocimiento. Como archivista, ha descubierto documentos antiguos sobre tecnologías de manipulación del sueño que coinciden sorprendentemente con descripciones de eventos actuales, lo que la ha puesto en un camino peligroso.
+### Personalidad
 
-## Secretos / Objetivos Ocultos
+Culta, analítica y maestra del subterfugio. Valeria es experta en dobles juegos, capaz de mantener múltiples fachadas mientras persigue su verdadero objetivo.
 
-Su principal motivación es exponer la verdad sobre el origen de la ciudad, desafiando la versión oficial que ignora la creciente y peligrosa influencia de la aristocracia.
+> "La historia verdadera está escrita en documentos que pocos saben leer."
 
-## Hoja de Personaje
+### Motivaciones
 
-| **Característica** | **Puntos** | **Justificación** |
-| --- | --- | --- |
-| Fortaleza (FOR) | 2 | Elegancia |
-| Reflejos (REF) | 3 | Buena bailarina |
-| Voluntad (VOL) | 4 | Determinación |
-| Inteligencia (INT) | 3 | Culta, analítica |
+Exponer la verdad sobre el origen de la ciudad, desafiando la versión oficial que ignora la creciente y peligrosa influencia de la aristocracia.
 
-| **Habilidad** | **Puntos** | **Justificación** |
-| --- | --- | --- |
-| Forma física | 2 | Maestra del sexo |
-| Combate | 1 | Golpe a la entrepierna |
-| Interacción | 6 | Ama de la noche |
-| Percepción | 3 | Detecta intenciones ocultas |
-| Subterfugio | 6 | Habilidad para dobles juegos |
-| Cultura | 5 | Erudita en historia y arte |
-| Profesión | 3 | Experta archivista |
-| Ocultismo | 1 | Interés literario |
+### Trasfondo
 
-**Función**: Dama de Compañía y Archivista en la Biblioteca
+<!-- 📖 (Público) -->
+Valeria Santos trabaja como Dama de Compañía en Dársena, codeándose con figuras de poder. Su educación y refinamiento la hacen valiosa en círculos de la aristocracia.
+<!-- /📖 -->
 
+<!-- 🔐 (DM) -->
+Su verdadera pasión es la historia y el conocimiento. Como archivista, ha descubierto documentos antiguos sobre tecnologías de manipulación del sueño que coinciden sorprendentemente con descripciones de eventos actuales. Mantiene una doble vida: por la noche se dedica a investigar archivos clasificados de la Biblioteca, buscando evidencias sobre el verdadero origen de la ciudad.
+<!-- /🔐 -->
+
+<!-- 🔐☠️ (DM - Secreto Mortal) -->
+Su principal motivación es exponer la verdad sobre el origen de la ciudad, desafiando la versión oficial que ignora la creciente y peligrosa influencia de la aristocracia. Esta investigación la ha puesto en un camino extremadamente peligroso, pues si sus conexiones con los Guardianes de la Memoria se descubrieran, podría ser perseguida tanto por la SIA como por la aristocracia local.
+<!-- /🔐☠️ -->
+
+## Conexiones Importantes
+
+- **Ricardo Vélez**: Relación profesional o académica
+- **Arpistas**: Facción a la que pertenece
+- **Guardianes de la Memoria**: Facción dedicada a preservar la verdad
+- **Clientes de Barrio Norte**: Fuentes de información

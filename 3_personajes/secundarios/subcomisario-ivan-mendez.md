@@ -1,29 +1,55 @@
 ---
-titulo: "Subcomisario Iván Méndez"
+titulo: Subcomisario Iván Méndez
 carpeta: 3_personajes/secundarios
-descripcion: "Líder de equipo en la Unidad de Respuesta Táctica Urbana (RTU), especializado en operaciones de alto riesgo."
+descripcion: Líder de equipo en la Unidad de Respuesta Táctica Urbana (RTU), especializado en operaciones de alto riesgo.
 tags:
-  - personaje
-  - secundario
   - policia
+  - rtu
+  - lider-equipo
+  - tactico
 facciones:
   - "Policía de la Ciudad"
   - "Unidad de Respuesta Táctica Urbana (RTU)"
-alerta-spoilers: "Su lucha contra el abuso de poder dentro de las fuerzas de seguridad es un objetivo personal y secreto."
+alerta-spoilers: "Su lucha contra el abuso de poder dentro de las fuerzas de seguridad."
 ---
+
+## Subcomisario Iván Méndez
+
+40 años, Unidad RTU
+
+Líder de equipo táctico
 
 ## Aspecto
 
-Hombre de 40 años, de complexión robusta, con una mirada cansada pero perspicaz y voz grave.
+Hombre de complexión robusta con una mirada cansada pero perspicaz. Su voz grave transmite tanto autoridad como experiencia dura.
+
+Es alguien que ha visto demasiado y se niega a convertirse en parte del problema.
 
 ## Descripción
 
-El Subcomisario Iván Méndez es el líder de un equipo en la Unidad de Respuesta Táctica Urbana (RTU), encargado de operaciones de alto riesgo.
+### Rol y Posición
 
-## Secretos / Objetivos Ocultos
+El Subcomisario Iván Méndez es el líder de un equipo en la Unidad de Respuesta Táctica Urbana (RTU), encargado de operaciones de alto riesgo en las zonas más peligrosas de la ciudad.
 
-Su principal motivación es prevenir el abuso de poder que observa dentro de las fuerzas de seguridad.
+### Personalidad
 
-### Relaciones
+Profesional, íntegro y cansado de las corruptelas. Méndez es un oficial que aún cree en hacer las cosas correctamente, incluso cuando el sistema lo empuja hacia el cinismo.
 
-- [[3_personajes/secundarios/agente-luis-navarro|Agente Luis Navarro]]
+### Motivaciones
+
+Prevenir el abuso de poder que observa dentro de las fuerzas de seguridad y mantener estándares éticos en un entorno cada vez más corrupto.
+
+### Trasfondo
+
+<!-- 📖 (Público) -->
+Méndez es conocido como un líder competente y justo dentro de la RTU. Su equipo lo respeta porque los protege tanto del peligro exterior como de las presiones políticas internas.
+<!-- /📖 -->
+
+<!-- 🔐 (DM) -->
+Su principal motivación es prevenir el abuso de poder que observa dentro de las fuerzas de seguridad. Ha sido testigo de demasiados "accidentes" y excesos, y está determinado a mantener a su equipo alejado de ese camino, incluso si eso lo pone en conflicto con superiores.
+<!-- /🔐 -->
+
+## Conexiones Importantes
+
+- **Agente Luis Navarro**: Subordinado o colega
+- **Unidad RTU**: Su equipo de operaciones tácticas

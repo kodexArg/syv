@@ -1,50 +1,56 @@
 ---
-titulo: "Ramiro Vega, Artífice Restaurador"
+titulo: Ramiro Vega, Artífice Restaurador
 carpeta: 3_personajes/secundarios
-descripcion: "Técnico electrónico que regenta un negocio en el centro y que, en secreto, espía para los Criptógrafos."
+descripcion: Técnico electrónico que regenta un negocio en el centro, observador meticuloso de actividades sospechosas.
 tags:
-  - personaje
-  - secundario
   - comerciante
+  - tecnico
+  - electricista
+  - espia
 facciones:
   - "Comerciantes"
   - "Criptógrafos"
-alerta-spoilers: "Su rol como espía de los Criptógrafos es un secreto."
+alerta-spoilers: "Su rol como espía de los Criptógrafos."
 ---
+
+## Ramiro Vega, Artífice Restaurador
+
+44 años, Centro
+
+Técnico electricista y electrónico
+
+## Aspecto
+
+Hombre de aspecto sedentario con dedos hábiles manchados de soldadura. Sus ojos observadores nunca dejan de analizar los detalles a su alrededor.
+
+Es alguien que ha convertido la observación en una segunda naturaleza.
 
 ## Descripción
 
-Ramiro Vega, de 44 años, es un técnico electricista y electrónico que atiende su propio negocio en el centro, donde se dedica a reparar todo tipo de objetos.
+### Rol y Posición
 
-## Trasfondo
+Ramiro atiende su propio negocio en el centro, donde se dedica a reparar todo tipo de objetos electrónicos. Su taller es un punto de paso para muchos residentes que necesitan reparaciones.
 
-Recientemente, Ramiro ha notado un aumento inusual en la compra de componentes electrónicos y rollos de cobre, materiales que no se ajustan a las necesidades típicas de los residentes. Ha identificado a un cliente misterioso que ha estado adquiriendo estos artículos de forma regular y que coincide con la descripción de Nicolás: un hombre macizo que siempre lleva el rostro tapado.
+### Personalidad
 
-## Secretos / Objetivos Ocultos
+Astuto, observador y discreto. Ramiro tiene una habilidad excepcional para detectar patrones y anomalías en el comportamiento de sus clientes. Es un maestro del subterfugio que mantiene una fachada amable mientras analiza cada detalle.
 
-Ramiro es en realidad un espía de los Criptógrafos. Utiliza su negocio como fachada para vigilar y delatar a hackers que venden información en las calles.
+### Motivaciones
 
-## Hoja de Personaje
+Proteger la integridad de la información y delatar a quienes intentan comercializarla ilegalmente. Cree en el control de datos como forma de mantener el orden.
 
-| **Característica** | **Puntos** | **Justificación** |
-| --- | --- | --- |
-| Fortaleza (FOR) | 2 | No es un hombre de acción |
-| Reflejos (REF) | 3 | Bien coordinado |
-| Voluntad (VOL) | 3 | Espía determinado |
-| Inteligencia (INT) | 4 | Astuto y observador |
+### Trasfondo
 
-| **Habilidad** | **Puntos** | **Justificación** |
-| --- | --- | --- |
-| Forma física | 1 | Sedentario |
-| Combate | 2 | Así es la calle |
-| Interacción | 5 | Espiar, negociar, manipular |
-| Percepción | 6 | Detecta detalles clave |
-| Subterfugio | 7 | Espía habilidoso |
-| Cultura | 3 | Conoce la calle |
-| Profesión | 5 | Técnico con habilidades |
-| Ocultismo | 1 | No debajo de la escalera |
+<!-- 📖 (Público) -->
+Ramiro Vega es un técnico respetado en el centro, conocido por su habilidad para reparar casi cualquier cosa. Recientemente ha notado un aumento inusual en la compra de componentes electrónicos y rollos de cobre, materiales que no se ajustan a las necesidades típicas de los residentes.
+/📖
 
-**Facción**: Comerciantes
+<!-- 🔐 (DM) -->
+Ramiro es en realidad un espía de los Criptógrafos. Utiliza su negocio como fachada para vigilar y delatar a hackers que venden información en las calles. Ha identificado a un cliente misterioso (que coincide con la descripción de Nicolás): un hombre macizo que siempre lleva el rostro tapado y ha estado adquiriendo componentes de forma regular.
+/🔐
 
-**Motivación Oculta**: Espiar para los criptógrafos, delatando hackers que venden información en las calles.
+## Conexiones Importantes
 
+- **Comerciantes**: Facción a la que pertenece públicamente
+- **Criptógrafos**: Facción para la que espía en secreto
+- **Cliente misterioso**: Individuo sospechoso bajo vigilancia
