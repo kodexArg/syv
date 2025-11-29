@@ -1,31 +1,56 @@
 ---
-titulo: "El Ingeniero"
-carpeta: "3_personajes/secundarios"
-descripcion: "Maestro de las máquinas en las Tuberías, exiliado por sus experimentos controversiales."
+titulo: El Ingeniero
+carpeta: 3_personajes/secundarios
+descripcion: Maestro autoproclamado de las máquinas en las Tuberías, cuya reputación supera sus capacidades reales.
 tags:
-  - personaje
-  - secundario
+  - el-ingeniero
+  - mecanico
   - tuberias
+  - autodidacta
+facciones: []
+alerta-spoilers: "No es realmente un ingeniero, es un autodidacta susceptible al pensamiento mágico"
 ---
 
-# El “Ingeniero”
+## El "Ingeniero"
+
+Edad indeterminada, Las Tuberías
+
+Mecánico y reparador autodidacta
+
+## Aspecto
+
+Hombre bajo y robusto con presencia de trabajador incansable. Sus ojos, ocultos tras gafas de seguridad perpetuamente empañadas, revelan una mente inquieta. Habla de manera directa, con un acento que delata orígenes humildes. Sus manos están permanentemente manchadas de grasa y óxido.
+
+Un farsante que se cree su propia leyenda.
 
 ## Descripción
 
-Bajo y robusto, su presencia es la de un trabajador incansable. Sus ojos, ocultos tras gafas de seguridad empañadas, revelan una mente astuta.
+### Rol y Posición
 
-Su hablar es directo, marcado por un acento que sugiere orígenes humildes.
+Maestro autoproclamado de las máquinas en las Tuberías. Su reputación como "ingeniero" es legendaria entre los habitantes del subsuelo, tanto por sus habilidades de reparación como por sus "creaciones innovadoras".
 
-## Trasfondo
+### Personalidad
 
-Maestro indiscutible de las máquinas en las Tuberías, su reputación como ingeniero es legendaria, tanto por sus habilidades de reparación como por sus creaciones innovadoras. Se murmura que fue un ingeniero de gran renombre en la superficie, antes de ser exiliado debido a sus experimentos controversiales.
+Obsesivo y convencido de su propio genio. Habla de las máquinas con reverencia casi religiosa, atribuyéndoles cualidades místicas. Es susceptible al pensamiento mágico, viendo patrones y significados donde no los hay.
 
 > "Las máquinas... son la clave para descifrar el mundo. Pero hay secretos que deben permanecer ocultos."
 
-Aunque muchos desean sus servicios, pocos conocen su verdadera identidad. Su pasión por la ingeniería va más allá de la mera curiosidad; es una búsqueda obsesiva por verdades ocultas, desafiando los límites de la ciencia y la ética.
+### Motivaciones
 
-Pero de ingeniero no tiene realmente nada, y es un autodidacta empedernido muy susceptible al pensamiento mágico.
+Su pasión por la mecánica va más allá de la mera curiosidad: es una búsqueda obsesiva por "verdades ocultas" que cree están codificadas en los mecanismos, desafiando los límites de la ciencia con una ética dudosa.
 
-## Image Generation
+### Trasfondo
 
-A short, sturdy man working in a dim workshop, obscured eyes behind foggy safety glasses reveals a shrewd mind of this master of machines in the underground, his skills span from repair to innovation. obsessively seeking hidden truths within machinery. 
+<!-- 📖 (Conocimiento Público) -->
+Se murmura que fue un ingeniero de gran renombre en la superficie, antes de ser exiliado debido a sus experimentos controversiales. Muchos en las Tuberías desean sus servicios, aunque pocos conocen su verdadera identidad.
+/📖
+
+<!-- 🔐☠️ (Secreto Mortal) -->
+La verdad es que de ingeniero no tiene absolutamente nada. Es un autodidacta empedernido que aprendió por ensayo y error, pero que ha construido una elaborada mitología sobre sí mismo. Sus "experimentos controversiales" nunca existieron. Su "exilio" es una huida de deudas y expectativas. Lo más peligroso es su susceptibilidad al pensamiento mágico: genuinamente cree que las máquinas contienen secretos esotéricos, lo que lo lleva a "reparaciones" que a veces incorporan elementos de superstición disfrazados de ingeniería. Funciona solo porque tiene buena intuición mecánica y suerte. Si alguien descubriera que es un fraude, perdería todo el estatus que le permite sobrevivir.
+/🔐☠️
+
+## Conexiones Importantes
+
+- **Clientes de las Tuberías**: Quienes creen en su leyenda
+- **Sus "Creaciones"**: Mezcla de habilidad real y pensamiento mágico
+- **Su Reputación Falsa**: Lo único que lo protege

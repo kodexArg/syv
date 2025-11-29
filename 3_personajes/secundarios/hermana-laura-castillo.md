@@ -1,42 +1,55 @@
 ---
-titulo: "Hermana Laura Castillo, Enfermera"
+titulo: Hermana Laura Castillo, Enfermera
 carpeta: 3_personajes/secundarios
-descripcion: "Enfermera experimentada y miembro de los Curatores, dedicada a ayudar en las clínicas comunitarias de los barrios bajos."
+descripcion: Enfermera experimentada y miembro de los Curatores, dedicada a ayudar en las clínicas comunitarias.
 tags:
-  - personaje
-  - secundario
+  - hermana-laura-castillo
+  - enfermera
   - curatores
-facciones:
-  - "Curatores"
-  - "Hermanas de la Caridad"
-alerta-spoilers: "Su colaboración con una red clandestina de ayuda es un secreto."
+  - barrios-bajos
+facciones: ["Curatores", "Hermanas de la Caridad"]
+alerta-spoilers: "Colabora con una red clandestina de ayuda para los más necesitados"
 ---
+
+## Hermana Laura Castillo
+
+28 años, Clínicas Comunitarias de Barrios Bajos
+
+Enfermera y miembro de los Curatores
+
+## Aspecto
+
+Mujer joven de apariencia adaptada al trabajo duro, con manos expertas que han atendido innumerables heridas. Su hábito de enfermera está siempre impecable a pesar de las condiciones precarias donde trabaja. Su mirada es empática y atenta a los cambios en otros.
+
+Una sanadora que no solo cura cuerpos sino que alimenta esperanzas.
 
 ## Descripción
 
-La Hermana Laura Castillo, de 28 años, es una enfermera muy experimentada y miembro de los Curatores. Trabaja en las clínicas comunitarias de los barrios bajos, ayudando a quien lo necesite sin dudarlo.
+### Rol y Posición
 
-## Secretos / Objetivos Ocultos
+Enfermera muy experimentada y miembro de los Curatores. Trabaja en las clínicas comunitarias de los barrios bajos, ayudando a quien lo necesite sin dudarlo.
 
-Colabora con una red clandestina de ayuda para los más necesitados, manteniendo lazos con las Hermanas de la Caridad.
+### Personalidad
 
-## Hoja de Personaje
+Empática e inquebrantable en su misión. Responde bien bajo presión y es pragmática en situaciones de cuidado. Su dedicación va más allá del deber profesional: es una vocación genuina.
 
-| **Característica** | **Puntos** | **Justificación** |
-| --- | --- | --- |
-| Fortaleza (FOR) | 3 | Adaptada al trabajo duro |
-| Reflejos (REF) | 3 | Responde bien bajo presión |
-| Voluntad (VOL) | 4 | Dedicada, inquebrantable en su misión |
-| Inteligencia (INT) | 2 | Pragmática, intuitiva en situaciones de cuidado |
+### Motivaciones
 
-| **Habilidad** | **Puntos** | **Justificación** |
-| --- | --- | --- |
-| Forma física | 4 | Mantenida |
-| Combate | 2 | Barrios bajos |
-| Interacción | 6 | Empática |
-| Percepción | 5 | Atenta a cambios en otros |
-| Subterfugio | 2 | Barrios bajos |
-| Cultura | 3 | Conocimientos en salud pública |
-| Profesión | 8 | Experta en enfermería, capacitada |
-| Ocultismo | 5 | Monja católica |
+Servir a los más necesitados y aliviar el sufrimiento donde lo encuentre. Cada paciente curado es una victoria contra la desesperación que permea los barrios bajos.
 
+### Trasfondo
+
+<!-- 📖 (Conocimiento Público) -->
+La Hermana Laura Castillo es conocida en los barrios bajos como una enfermera dedicada que trabaja incansablemente en las clínicas comunitarias, a menudo en condiciones difíciles.
+/📖
+
+<!-- 🔐 (Conocimiento Especializado) -->
+Laura colabora con una red clandestina de ayuda que va más allá de los canales oficiales. Mantiene lazos estrechos con las Hermanas de la Caridad y coordina recursos para llegar a quienes las instituciones oficiales ignoran. Esta red opera en secreto para evitar interferencias burocráticas que retrasarían la ayuda.
+/🔐
+
+## Conexiones Importantes
+
+- **Curatores**: Su orden profesional
+- **Hermanas de la Caridad**: Su red de apoyo espiritual y logístico
+- **Red Clandestina de Ayuda**: La organización secreta que la conecta con recursos
+- **Barrios Bajos**: La comunidad que sirve

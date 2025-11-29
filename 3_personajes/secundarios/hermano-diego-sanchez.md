@@ -1,42 +1,54 @@
 ---
-titulo: "Hermano Diego Sánchez, Monaguillo"
+titulo: Hermano Diego Sánchez, Monaguillo
 carpeta: 3_personajes/secundarios
-descripcion: "Joven monaguillo de la Basílica de San Pedro, cuyo carisma y belleza ocultan una búsqueda personal de la fe verdadera."
+descripcion: Joven monaguillo de la Basílica de San Pedro, cuyo carisma y belleza ocultan una búsqueda personal de fe verdadera.
 tags:
-  - personaje
-  - secundario
+  - hermano-diego-sanchez
+  - monaguillo
   - alto-clero
-facciones:
-  - "Alto Clero"
-  - "Servicios Religiosos"
-alerta-spoilers: "Su búsqueda de una fe más allá de la doctrina oficial es un secreto."
+  - basilica
+facciones: ["Alto Clero", "Servicios Religiosos"]
+alerta-spoilers: "Busca en secreto una fe más allá de la doctrina oficial"
 ---
+
+## Hermano Diego Sánchez
+
+26 años, Basílica de San Pedro
+
+Monaguillo
+
+## Aspecto
+
+Joven de notable belleza y carisma natural, con una presencia que ilumina la Basílica. Su sonrisa encantadora puede parecer superficial a primera vista, pero sus ojos revelan una búsqueda más profunda. Viste el hábito con humildad genuina.
+
+Un alma hermosa buscando algo más allá de la liturgia.
 
 ## Descripción
 
-El Hermano Diego Sánchez, de 26 años, es un monaguillo que asiste en la Basílica de San Pedro. Posee un carisma especial: es bello y encantador, aunque puede parecer superficial a primera vista.
+### Rol y Posición
 
-## Secretos / Objetivos Ocultos
+Asiste en la Basílica de San Pedro como monaguillo, realizando sus deberes litúrgicos con diligencia. Su carisma lo hace popular entre feligreses y clérigos por igual.
 
-Además de mantener su voto de pobreza, Diego busca en secreto la verdadera fe más allá de la estricta doctrina oficial.
+### Personalidad
 
-## Hoja de Personaje
+Encantador y genuinamente afectuoso, aunque intelectualmente sencillo. Es honesto hasta la médula y evita conflictos. Su fe es resolutiva pero inquieta, buscando algo que las doctrinas oficiales no parecen ofrecer.
 
-| **Característica** | **Puntos** | **Justificación** |
-| --- | --- | --- |
-| Fortaleza (FOR) | 2 | Jóven |
-| Reflejos (REF) | 2 | Tranquilo |
-| Voluntad (VOL) | 6 | Resolutamente fiel |
-| Inteligencia (INT) | 1 | Sencillo |
+### Motivaciones
 
-| **Habilidad** | **Puntos** | **Justificación** |
-| --- | --- | --- |
-| Forma física | 3 | Activo en la comunidad |
-| Combate | 1 | Evita conflictos físicos |
-| Interacción | 6 | Encantador, genuinamente afectuoso |
-| Percepción | 2 | Sensible a las necesidades de otros |
-| Subterfugio | 1 | Honesto hasta la médula |
-| Cultura | 3 | Conocimiento religioso básico |
-| Profesión | 5 | Competente asistente litúrgico |
-| Ocultismo | 3 | Católico |
+Busca la verdadera fe más allá de la estricta doctrina oficial. Mantiene su voto de pobreza mientras explora silenciosamente una espiritualidad más auténtica.
 
+### Trasfondo
+
+<!-- 📖 (Conocimiento Público) -->
+Diego Sánchez es un monaguillo querido en la Basílica de San Pedro, conocido por su carisma especial y su dedicación a los servicios litúrgicos.
+/📖
+
+<!-- 🔐 (Conocimiento Especializado) -->
+Detrás de su apariencia superficial, Diego tiene una vida espiritual compleja. Lee textos místicos cuando puede y cuestiona internamente muchas de las rigideces doctrinales que debe servir públicamente. Su búsqueda es sincera pero peligrosa en un entorno donde la ortodoxia es absoluta.
+/🔐
+
+## Conexiones Importantes
+
+- **Basílica de San Pedro**: Su hogar y lugar de servicio
+- **Alto Clero**: La jerarquía que sirve
+- **Su Búsqueda Espiritual**: El secreto que podría costarle su posición
