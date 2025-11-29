@@ -1,41 +1,62 @@
 ---
-titulo: "Luisa, pescadora"
-carpeta: "3_personajes/secundarios"
-descripcion: "Trabajadora portuaria y madre, marcada por la lucha y la esperanza en las Tuberías."
+titulo: Luisa, la Pescadora
+carpeta: 3_personajes/secundarios
+descripcion: Trabajadora portuaria de los Barrios del Muro. Madre del pequeño Mateo, consumida por la búsqueda desesperada de su hijo desaparecido.
 tags:
-  - personaje
-  - secundario
-  - civil
+  - luisa-pescadora
+  - madre
+  - trabajadora-portuaria
+  - barrios-del-muro
+  - iglesia
+facciones: []
+alerta-spoilers: "Información sobre la desaparición y posesión del hijo de Luisa, presión religiosa y crisis de fe"
 ---
 
-# Luisa, pescadora
+## Luisa, la Pescadora
+
+40 años, Barrios del Muro
+
+Trabajadora portuaria y pescadora
+
+## Aspecto
+
+Mujer de 40 años, delgada. Cabello oscuro recogido bajo pañuelo desgastado. Chal remendado, vestido gastado. Manos ásperas, piel escamosa, olor a pescado incrustado.
+
+Una madre cuya desesperación ha comenzado a parecerse a la resignación.
 
 ## Descripción
 
-Trabajadora portuaria, pescadora. Ronda los 40, delgada, humilde. Huele siempre a pescado.
+### Rol y Posición
 
-De aspecto cansado pero digno, viste un chal gastado y un vestido que apenas oculta su delgadez.
+Trabajadora portuaria de los Barrios del Muro que gana su subsistencia en el comercio de pesca, un oficio que la mantiene viva pero apenas un paso adelante de la inanición. Respetada en su barrio por su trabajo honrado y su devoción a la Iglesia, colabora regularmente con el Padre Joaquín. Madre del pequeño Mateo de 12 años, desaparecido hace dos días.
 
-## Encuentro
+### Personalidad
 
-Interactúa con los personajes con una mezcla de determinación y desesperación, buscando respuestas por su hijo poseído.
+Obstinación envuelta en lino deshilachado. Voluntad inquebrantable; fe, la única moneda que le queda.
 
-A pesar de su propio dolor, se esfuerza por ser fuerte y apoyar a quienes la ayuden en su causa.
+> "Fue de un día para otro. Se perdió dentro de sí mismo antes de desaparecer."
+> "La Iglesia salvará a mi hijo. Tiene que salvarlo. ¿Qué otra cosa tengo?"
 
-A menudo (usualmente cuando no hay nada que hacer) se ve abrumada por la carga emocional.
+### Motivaciones
 
-## Trasfondo
+Su equilibrio frágil entre determinación maternal y devastación personal se quiebra constantemente. Donde otros ven resignación, ella ve abandono de esperanza. Rechaza cualquier opción que no sea fe pura.
 
-Su hijo Mateo ha desaparecido y lo busca desesperadamente desde hace dos días por toda la ciudad.
+### Trasfondo
 
-El pequeño de 12 años había comenzado a mostrar signos.
+<!-- 📖 (Barrios del Muro) -->
+En los Barrios del Muro, el desaparecimiento de Mateo no es secreto sino maldición hablada. Los vecinos cuchichean que el niño estaba "poseído". Algunos afirman haberlo visto hace semanas en secciones inhabitables, como si no fuera completamente de este mundo. Luisa ignora deliberadamente cada testimonio que sugiere que su hijo está perdido más allá de cualquier rescate.
+/📖
 
-Ella lo cuenta así:
+<!-- 🔐 (Iglesia de Dársena) -->
+El Padre Joaquín ha examinado a Mateo múltiples veces. Sus conclusiones: signos clásicos de posesión demoníaca. Recomendó formalmente un exorcismo por parte de la SIA. Luisa rechazó con furia, insistiendo que la fe bastaría. Tres días después, Mateo desapareció.
+/🔐
 
-> Fue de un día para el otro, murmuraba sólo y por las noches no dormía. Apenas si se comunicaba.
+<!-- 🔐☠️ (Sagrada Inquisición Argentina) -->
+Mateo no desapareció: fue colectado. Agentes de la SIA lo tomaron sin autorización materna, clasificándolo como amenaza potencial de herejía demoníaca. El Padre Joaquín conoce esta realidad pero carece del poder para contradecir. Luisa está buscando a su hijo en las calles mientras está siendo "purificado" en instalaciones inquisitoriales. Su desesperación es tanto más trágica porque permanece completamente ignorante.
+/🔐☠️
 
-> Él no parecía darse cuenta que le sucediera algo malo y yo pensé que se le iba a pasar...
+## Conexiones Importantes
 
-> A menudo era presa de alucinaciones y delirios. Entonces no se le podía hablar. Parecía no entender lo que lo rodeaba, se asustaba de una puerta, de un ropero. En cambio un perro ladrándole con furia no lo hacía ni pestañar.
-
-En cuanto a ella, ha estado siempre muy cerca de la iglesia vecinal, colaborando activamente con el Padre Joaquín, a quien muchas veces ha acudido para pedir que cuide al pequeño cuando Marta, su anciana vecina, estaba indispuesta. 
+- **Mateo** (hijo): Desaparecido hace dos días. El centro gravitacional de su existencia.
+- **Padre Joaquín**: Sacerdote local. Luisa lo visita constantemente buscando consuelo que él ya no puede ofrecer con convicción.
+- **Marta, la Curandera**: Vecina anciana a quien cuida ocasionalmente. Ahora es su única esperanza de sanación para Mateo. 

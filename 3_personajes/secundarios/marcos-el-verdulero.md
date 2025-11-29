@@ -1,52 +1,59 @@
 ---
-titulo: "Marcos, el Verdulero"
-carpeta: "3_personajes/secundarios"
-descripcion: "Verdulero fornido y carismático, conocido por su fuerza y calidez en las Tuberías."
+titulo: Marcos, el Verdulero
+carpeta: 3_personajes/secundarios
+descripcion: Verdulero y cervecero de Las Túberías. Fornido, homosexual, propietario de establecimiento que vive rodeado de verduras, cerveza y camaradería.
 tags:
-  - personaje
-  - secundario
-  - tuberias
+  - marcos-verdulero
   - comerciante
+  - cervecero
+  - tuberias
+  - homosexual
+facciones: []
+alerta-spoilers: "Contiene información sobre el uso de tecnología prohibida del período pre-Catástrofe"
 ---
 
-# Marcos (39) - El Verdulero
+## Marcos, el Verdulero
+
+39 años, Las Túberías
+
+Verdulero, cervecero y empresario de taberna
+
+## Aspecto
+
+Hombre de 39 años, fornido. Bíceps enormes, barba descuidada, ojos que sonríen con facilidad. Musculosas mostrando brazos tatuados manchados de tierra y cerveza.
+
+La encarnación del placer sin culpa.
 
 ## Descripción
 
-Es un grandote muy, muy fornido que aún no llega a los cuarenta, pero parece mayor.
+### Rol y Posición
 
-Marcos irradia energía y calidez, moviéndose entre cajas de verduras con una agilidad sorprendente para su tamaño. Su rostro, adornado por una barba descuidada y sonrisa contagiosa, invita a la charla.
+Amo indiscutible de un vagón de metro abandonado que transformó en imperio subterráneo: mitad taberna cervecera, mitad invernadero de subsistencia, mitad gimnasio improvisado. Cultiva verduras que la superficie cree extintas y fermenta cerveza que el mundo superior prohibió. Su establecimiento es el corazón social de su sector de las Túberías—donde se come bien, se bebe mejor, y nadie juzga quién duerme con quién.
 
-Siempre viste musculosas, mostrando biceps más grandes que una pierna, con tatuajes siempre manchados de la tierra y mugre de las cajas que transporta.
+### Personalidad
 
-## Trasfondo
+Marcos irradia energía sexual, calidez alcohólica y propósito terco. Hombre homosexual sin disimulo en una ciudad donde tal cosa requiere coraje o estupidez; Marcos posee ambas en cantidades iguales.
 
-En el corazón de las Tuberías, Marcos ha convertido un viejo vagón de metro en un oasis de verdor. Con habilidad, cultiva y vende productos que muchos en la superficie creerían extintos.
+> "Para cada mal, una hierba. Para cada hierba, una cerveza. Para cada cerveza, una razón."
 
-El local de Marcos funciona como una taberna subterránea, un pequeño gimnasio y un centro de reunión, todo en uno. Y sí, también es donde se pueden conseguir las mejores verduras de toda Dársena.
+> "Aquí abajo cultivamos más que comida, amor mío. Cultivamos libertad."
 
-Su secreto para sus inmensas producciones, él mismo lo dice, está en sus paneles LED de alta tecnología recuperados del período de la pre-guerra.
+### Motivaciones
 
-> Para cada mal, una hierba.
+Sus motivaciones son simples pero inquebrantables: mantener a su gente viva, sus verduras creciendo, su cerveza fluyendo, y sus puertas abiertas a quienes la sociedad expulsa. Donde otros ven marginalidad, Marcos ve comunidad. Donde otros ven ilegalidad, Marcos ve supervivencia.
 
-> Aquí abajo, cultivamos más que comida; cultivamos vida.
+### Trasfondo
 
-## Hoja de Personaje
+<!-- 📖 (Las Túberías) -->
+Los Túberías saben que Marcos posee recursos anormales: sus verduras crecen demasiado rápido, demasiado bien, en un ambiente donde el crecimiento debería ser lucha constante. Los rumores susurran sobre "aparatos antigos" en su sótano, sobre "luces que enciende cuando nadie mira". Algunos piensan que negocia con Arpistas; otros creen que simplemente es un brujo con manos de tierra bendita. Marcos no desmiente ninguna versión.
+/📖
 
-| **Característica** | **Puntos** | **Justificación** |
-| --- | --- | --- |
-| Fortaleza (FOR) | 6 | Muy fornido y entrenado |
-| Reflejos (REF) | 3 | Sorprendente para su tamaño |
-| Voluntad (VOL) | 3 | Empresario decidido |
-| Inteligencia (INT) | 2 | sólo negocios |
+<!-- 🔐 (Ingeniería Prohibida) -->
+La verdad es más prosaica y más peligrosa: Marcos posee paneles LED recuperados del período pre-Catástrofe, sistemas de hidropónica rudimentaria, tecnología clasificada como herejía mecánica bajo el Anatema. Los opera en horarios específicos, bajo capas de madera y tela, con cuidado extremo. La SIA lo descubriría significaría ejecución inmediata; la Iglesia local lo toleraría si lo ocultara. Marcos equilibra este filo cada día, aceptando conscientemente que su imperio podría colapsar en una redada inquisitorial.
+/🔐
 
-| **Habilidad** | **Puntos** | **Justificación** |
-| --- | --- | --- |
-| Forma física | 6 | Vigor físico excepcional |
-| Combate | 4 | Boxeador |
-| Interacción | 5 | Centro de la comunidad |
-| Percepción | 2 | Nuevos rostros |
-| Subterfugio | 3 | Tuberías |
-| Cultura | 5 | Conocedor de historias del barrio |
-| Profesión | 5 | Experto en agricultura urbana y gestión de negocios |
-| Ocultismo | 4 | Interesado en propiedades místicas y medicinales de las plantas | 
+## Conexiones Importantes
+
+- **Las Túberías (su barrio)**: Su reino, su familia, su razón de existir. Los Túberías lo respetan porque Marcos respeta a los Túberías.
+- **Luisa, la Pescadora**: Cliente frecuente. Ella trae pesca; él ofrece cerveza y caldo caliente sin preguntar por dinero.
+- **Marta, la Curandera**: Aliada en intercambio de saberes. Ella le enseña qué plantas sanan; él le da lo que su botica necesita. 
