@@ -1,0 +1,107 @@
+{
+  "hooks": {
+    "UserPromptSubmit": [
+      {
+        "matcher": "\\b(20[2-9][0-9]|21[0-7][0-9])\\b|\\b(caos|gran guerra|fin de los secretos|anatema|meteorito|qia|edad oscura|confederaci[oó]n)\\b",
+        "hooks": [
+          {
+            "type": "prompt",
+            "prompt": "📅 CONTEXTO HISTÓRICO AUTOMÁTICO:\n\nEl usuario mencionó un año, período o evento histórico. ANTES de responder:\n\n1. IDENTIFICA el período exacto:\n   - 2020-2029: Los Últimos Años del Mundo Antiguo\n   - 2029-2035: Los Años del Caos\n   - 2030: El Gran Colapso (27 dic: Meteorito Buenos Aires)\n   - 2036-2047: La Gran Guerra Global\n   - 2048-2061: El Fin de los Secretos (Era QIA)\n   - 2061: Promulgación del Anatema Mecánico\n   - 2062-2160: La Edad Oscura\n   - 2161-2177: La Confederación Temprana\n   - 2178: Actualidad\n\n2. USA Read para obtener contexto preciso:\n   - Read 1_trasfondo/cronologia/cronologia.md (sección del período relevante)\n   - Si existe archivo específico del evento, léelo también\n\n3. ENRIQUECE tu respuesta con:\n   - Contexto político de la época\n   - Tecnología disponible/prohibida según el año\n   - Facciones activas en ese período\n   - Eventos paralelos relevantes\n   - Atmósfera social y clima político\n\n4. VALIDA coherencia temporal:\n   - Si el usuario propone algo anacrónico (ej: IA digital en 2178), ADVIERTE claramente\n   - Si menciona tecnología prohibida post-2061, RECUERDA el Anatema Mecánico\n   - Si la fecha es pre-2061, recuerda que tecnología digital SÍ existía\n\n5. INFORMA al usuario del contexto agregado:\n   - Al final de tu respuesta, incluye: '📅 Contexto histórico ([año/período]): [resumen breve]'"
+          }
+        ]
+      },
+      {
+        "matcher": "\\b(d[aá]rsena|t[uú]ber[ií]as|barrios? del muro|barrio norte|microcentro|zona (militar|centro|residencial)|isla oriental|bas[ií]lica|nueva bas[ií]lica)\\b",
+        "hooks": [
+          {
+            "type": "prompt",
+            "prompt": "📍 CONTEXTO GEOGRÁFICO AUTOMÁTICO:\n\nEl usuario mencionó una ubicación en Ciudad Dársena. ANTES de responder:\n\n1. IDENTIFICA la zona específica y Read el archivo correspondiente:\n   - Dársena (general): 2_atlas/ciudades/darsena/darsena.md\n   - Las Túberías: 2_atlas/ciudades/darsena/tuberias.md (busca usando Glob si no existe el archivo exacto)\n   - Barrios del Muro: buscar archivos en 2_atlas/ciudades/darsena/\n   - Microcentro: buscar archivos en 2_atlas/ciudades/darsena/\n   - Zona Centro: buscar archivos en 2_atlas/ciudades/darsena/\n   - Zona Militar/Isla Oriental: buscar archivos en 2_atlas/ciudades/darsena/\n   - Barrio Norte: buscar referencias (elite, bibliotecas prohibidas)\n\n2. ENRIQUECE automáticamente con detalles atmosféricos:\n   - Clima característico: lluvia perpetua, llovizna eterna, nubes constantes\n   - Arquitectura y estado de edificios\n   - Población típica (clase social, demografía)\n   - Facciones presentes en esa zona\n   - Nivel de vigilancia (SIA, Prefectura Naval, Armada)\n   - Peligros específicos de la zona\n   - Lugares emblemáticos\n   - Sensaciones: sonidos, olores, texturas, iluminación\n\n3. Si mencionas MÚLTIPLES zonas:\n   - Describe el CONTRASTE entre ellas\n   - Ejemplo: Barrio Norte (opulento, limpio) vs Barrios del Muro (hacinado, precario)\n   - Ejemplo: Microcentro (vigilado, comercial) vs Túberías (sin ley, clandestino)\n\n4. VALIDA coherencia geográfica:\n   - Distancias y tiempo de desplazamiento entre zonas\n   - Accesos restringidos (ej: Túberías solo desde Barrios del Muro)\n   - Barreras físicas (muro de 15m, checkpoints de Prefectura)\n   - Río de la Plata (límite este de la ciudad)\n\n5. INFORMA al usuario del contexto agregado:\n   - Al final, incluye: '📍 Ubicación: [Zona] - [característica principal]'"
+          }
+        ]
+      },
+      {
+        "matcher": "\\b(personaje|hombre|mujer|detective|investigador|inquisidor|padre|hermana|monja|capit[aá]n|coronel|doctor|profesor|decano)\\b",
+        "hooks": [
+          {
+            "type": "prompt",
+            "prompt": "🔍 DETECCIÓN DE PERSONAJES EXISTENTES:\n\nEl usuario está describiendo o mencionando un personaje. ANTES de crear uno nuevo:\n\n1. BUSCA coincidencias en REFERENCE.md:\n   - Read .claude/REFERENCE.md (tabla de Personajes)\n   - Compara keywords de la descripción del usuario con los registrados\n\n2. Si hay COINCIDENCIA POSIBLE (>50% de keywords coinciden):\n   - INFORMA al usuario: '🔍 Posible coincidencia detectada: [Nombre del personaje]'\n   - MUESTRA características del personaje existente\n   - PREGUNTA: '¿Te refieres a este personaje existente o quieres crear uno nuevo?'\n   - Si confirma que es el mismo: Read el archivo completo del personaje (3_personajes/...) para obtener todos los detalles canónicos\n\n3. Si NO hay coincidencia clara:\n   - Procede a crear/describir el personaje nuevo normalmente\n   - Si es personaje PRINCIPAL, recuerda actualizar REFERENCE.md después\n\n4. PERSONAJES CLAVE a detectar (alta prioridad):\n   - Keywords: 'detective', 'sabueso', 'impermeable', 'córdoba', 'investigación', 'caso' → Damián DiConte\n   - Keywords: 'decano', 'historia', 'guardianes', 'barrio norte', 'biblioteca', 'conocimiento' → Dr. Francisco de la Cruz\n   - Keywords: 'exorcista', 'sombrero negro', 'padre', 'túberías', 'pantano' → Padre Rafa\n   - Keywords: 'gran inquisidor', 'sotana roja', 'calvo', 'sia', 'canas' → Monseñor Miguel\n   - Keywords: 'monja', 'caridad divina', 'superior', 'congregación' → Hermana Superior María\n\n5. Si el usuario CONFIRMA que es un personaje existente:\n   - ENRIQUECE la respuesta con detalles canónicos completos\n   - Usa información de trasfondo, secretos (si no tiene alerta-spoilers), relaciones con facciones"
+          }
+        ]
+      },
+      {
+        "matcher": "\\b(sia|sagrada inquisici[oó]n|inquisici[oó]n|arpistas|guardianes de la memoria|cript[oó]grafos|canales ocultos|resistencia|iglesia|ej[eé]rcito|armada|prefectura|gremio|la uni[oó]n|umbanda|traficantes)\\b",
+        "hooks": [
+          {
+            "type": "prompt",
+            "prompt": "⚔️ CONTEXTO DE FACCIONES AUTOMÁTICO:\n\nEl usuario mencionó una facción. ENRIQUECE automáticamente:\n\n1. IDENTIFICA la facción y Read su archivo:\n   - SIA / Sagrada Inquisición: 1_trasfondo/facciones/iglesia-de-darsena/inquisicion.md\n   - Arpistas: 1_trasfondo/facciones/facciones-menores/arpistas.md\n   - Guardianes de la Memoria: 1_trasfondo/facciones/facciones-menores/guardianes-de-la-memoria.md\n   - Iglesia de Dársena: 1_trasfondo/facciones/iglesia-de-darsena/iglesia.md\n   - Usa Glob para buscar otras facciones en 1_trasfondo/facciones/\n\n2. AGREGA contexto relevante automáticamente:\n   - Alias o apodos (ej: SIA = 'Los Cirujanos del Alma')\n   - Estatus: oficial/proscrita/secreta\n   - Objetivos principales y filosofía\n   - Métodos característicos y tácticas\n   - Relaciones con otras facciones (aliados/enemigos/neutrales)\n   - Presencia geográfica (dónde operan)\n   - Tamaño aproximado (miembros, influencia)\n\n3. Si el usuario menciona CONFLICTO entre facciones:\n   - Explica la naturaleza histórica del conflicto\n   - Tensiones actuales en 2178\n   - Ejemplos de enfrentamientos pasados\n\n4. VALIDA uso correcto de facciones:\n   - Si propone alianza imposible (ej: SIA + Arpistas abiertamente), ADVIERTE y explica por qué\n   - Si propone tecnología incompatible con la facción, CORRIGE\n   - Si menciona facción en ubicación donde no opera, SEÑALA el error\n\n5. INFORMA al usuario:\n   - Formato: '⚔️ Facción: [Nombre] ([Alias]) - [Estatus]: [descripción breve]'"
+          }
+        ]
+      },
+      {
+        "matcher": "\\b(computador|computadora|ordenador|\\bia\\b|inteligencia artificial|internet|red digital|digital|software|algoritmo|c[oó]digo|programa|app|smartphone|tablet|robot|drone aut[oó]nomo|sensor inteligente)\\b",
+        "hooks": [
+          {
+            "type": "prompt",
+            "prompt": "⚠️ VALIDACIÓN DEL ANATEMA MECÁNICO:\n\nEl usuario mencionó tecnología. VALIDA coherencia con el Anatema Mecánico:\n\n1. DETERMINA el contexto temporal:\n   - Si es año <2061: Tecnología digital SÍ está disponible\n   - Si es año ≥2061: Anatema Mecánico VIGENTE (tecnología digital prohibida)\n   - Si no hay año especificado: Asume 2178 (actualidad, Anatema vigente)\n\n2. TECNOLOGÍA PROHIBIDA (herejía, perseguida por SIA desde 2061):\n   - Inteligencias Artificiales (IA, QIA, ML, redes neuronales, deep learning)\n   - Computación digital avanzada (más allá de calculadoras electromecánicas simples)\n   - Internet / Redes digitales / Web\n   - Software complejo / Algoritmos de IA\n   - Robots autónomos con IA\n   - Smartphones, tablets, laptops, dispositivos digitales modernos\n   - Drones autónomos (drones simples controlados manualmente SÍ permitidos)\n\n3. TECNOLOGÍA PERMITIDA (Corpus Licitus):\n   - Computadores electromecánicos (análogos, muy limitados, sin IA)\n   - PDAs de tinta electrónica (SOLO para altos mandos militares/SIA, muy limitadas)\n   - Pantallas de plasma analógicas (sin procesamiento digital)\n   - Electricidad 48V corriente continua (redes simples, no inteligentes)\n   - Rifles Gauss, armas EMP (tecnología electromagnética permitida)\n   - Microfilmes, discos ópticos (almacenamiento físico, no-digital)\n   - Torres Hidropónicas (automatización mecánica simple, sin IA)\n   - Central nuclear soterrada (fisión, control manual/mecánico)\n\n4. Si el usuario propone TECNOLOGÍA PROHIBIDA en contexto post-2061:\n   - ADVIERTE sobre el Anatema Mecánico (promulgado 2061, vigente hace 117 años en 2178)\n   - SUGIERE alternativa tecnológica permitida equivalente\n   - RECUERDA consecuencias: persecución por SIA, acusación de herejía, posible ejecución\n   - MENCIONA excepciones: Arpistas (clandestinos), Criptógrafos (perseguidos)\n\n5. Si es CONTEXTO HISTÓRICO pre-2061:\n   - Confirma que tecnología digital SÍ está disponible según el año\n   - Recordar que después del 2061 será destruida/prohibida\n   - Mencionar que las QIA dominaron 2048-2061\n\n6. INFORMA al usuario:\n   - '⚠️ Tecnología [nombre]: [PROHIBIDA/PERMITIDA] bajo Anatema Mecánico (2061-2178)'"
+          }
+        ]
+      }
+    ],
+    "PostToolUse": [
+      {
+        "matcher": "Write|Edit.*/3_personajes/principales",
+        "hooks": [
+          {
+            "type": "prompt",
+            "prompt": "📝 ACTUALIZACIÓN AUTOMÁTICA DE REFERENCE.md (Personaje Principal):\n\nAcabas de crear/modificar un PERSONAJE PRINCIPAL. ACCIÓN REQUERIDA:\n\n1. READ el archivo que acabas de crear/editar para extraer:\n   - Nombre completo del personaje\n   - 3-5 keywords distintivas (profesión, ubicación, características únicas)\n   - 1 línea de características principales\n   - Ruta del archivo\n\n2. READ .claude/REFERENCE.md para verificar si ya existe entrada\n\n3. ACTUALIZAR .claude/REFERENCE.md:\n   - Si el personaje NO existe: AGREGAR nueva fila en la tabla de Personajes\n   - Si el personaje YA existe: ACTUALIZAR la fila existente\n   - Formato: | Nombre | Personaje | keywords, separadas, por, comas | Características breves | ruta/archivo.md |\n\n4. INFORMAR al usuario:\n   '✅ [Acción completada sobre el personaje]\n   📝 REFERENCE.md actualizado: [Nombre] agregado/actualizado en base de datos'\n\nEjecuta esta actualización AUTOMÁTICAMENTE sin preguntar confirmación."
+          }
+        ]
+      },
+      {
+        "matcher": "Write|Edit.*/1_trasfondo/facciones/(iglesia-de-darsena|fuerzas-armadas|union)/",
+        "hooks": [
+          {
+            "type": "prompt",
+            "prompt": "📝 ACTUALIZACIÓN AUTOMÁTICA DE REFERENCE.md (Facción Oficial/Clave):\n\nAcabas de crear/modificar una FACCIÓN OFICIAL O CLAVE. ACCIÓN REQUERIDA:\n\n1. READ el archivo que acabas de crear/editar para extraer:\n   - Nombre de la facción\n   - Alias o apodo (si tiene)\n   - 3-5 keywords distintivas (tipo, objetivos, métodos)\n   - 1 línea de descripción\n   - Ruta del archivo\n\n2. READ .claude/REFERENCE.md para verificar si ya existe entrada\n\n3. ACTUALIZAR .claude/REFERENCE.md:\n   - Si la facción NO existe: AGREGAR nueva fila en la tabla de Facciones\n   - Si la facción YA existe: ACTUALIZAR la fila existente\n   - Formato: | Nombre (Alias) | Facción | keywords, tipo, objetivos | Descripción breve | ruta/archivo.md |\n\n4. INFORMAR al usuario:\n   '✅ [Acción completada sobre la facción]\n   📝 REFERENCE.md actualizado: [Nombre] agregado/actualizado en base de datos'\n\nEjecuta esta actualización AUTOMÁTICAMENTE sin preguntar confirmación."
+          }
+        ]
+      },
+      {
+        "matcher": "Write|Edit.*/2_atlas/ciudades/darsena/",
+        "hooks": [
+          {
+            "type": "prompt",
+            "prompt": "📝 ACTUALIZACIÓN AUTOMÁTICA DE REFERENCE.md (Ubicación Principal):\n\nAcabas de crear/modificar una UBICACIÓN PRINCIPAL de Ciudad Dársena. ACCIÓN REQUERIDA:\n\n1. READ el archivo que acabas de crear/editar para extraer:\n   - Nombre de la ubicación\n   - 3-5 keywords distintivas (tipo de zona, atmósfera, población)\n   - 1 línea de características principales\n   - Ruta del archivo\n\n2. READ .claude/REFERENCE.md para verificar si ya existe entrada\n\n3. ACTUALIZAR .claude/REFERENCE.md:\n   - Si la ubicación NO existe: AGREGAR nueva fila en la tabla de Ubicaciones\n   - Si la ubicación YA existe: ACTUALIZAR la fila existente\n   - Formato: | Nombre | Ubicación | keywords, zona, atmósfera | Características breves | ruta/archivo.md |\n\n4. INFORMAR al usuario:\n   '✅ [Acción completada sobre la ubicación]\n   📝 REFERENCE.md actualizado: [Nombre] agregado/actualizado en base de datos'\n\nEjecuta esta actualización AUTOMÁTICAMENTE sin preguntar confirmación."
+          }
+        ]
+      },
+      {
+        "matcher": "Write|Edit.*(1_trasfondo|2_atlas|3_personajes|4_diegesis)/.*\\.md$",
+        "hooks": [
+          {
+            "type": "prompt",
+            "prompt": "🔒 RECORDATORIO: SISTEMA PERMISOS\n\nAcabas de editar/crear contenido de worldbuilding.\n\n¿Contiene información sensible? Considera:\n- 🔐☠️ SECRETO MORTAL: ¿Destruiría credibilidad de facción/ubicación?\n- 🔐 SECRETO DISCIPLINARIO: ¿Requiere especialización?\n- 📖 SABER POPULAR: ¿Lo sabe la población local?\n\nSi sí, ejecuta:\n  /mark-permissions\n\nPara validar existentes:\n  /validate-permissions\n\nReferencia: PERMISOS_SPEC.md"
+          }
+        ]
+      },
+      {
+        "matcher": "Edit|Write.*\\.md$",
+        "hooks": [
+          {
+            "type": "prompt",
+            "prompt": "✓ VALIDACIÓN POST-EDICIÓN (Archivo Markdown):\n\nAcabas de editar un archivo .md. VERIFICA:\n\n1. METADATOS YAML (si el archivo está en carpetas de contenido):\n   - ¿Tiene frontmatter con campos obligatorios? (titulo, carpeta, descripcion)\n   - ¿Todos los campos están en español y minúsculas?\n   - ¿Hay campo 'facciones' si es un personaje? (debe existir siempre)\n   - ¿Los tags son apropiados y ya existen en el corpus?\n\n2. COHERENCIA NARRATIVA (si es contenido de world-building):\n   - ¿Es coherente con la cronología establecida?\n   - ¿Menciona personajes que existen en 3_personajes/?\n   - ¿Las facciones mencionadas están en negrita en primera mención?\n   - ¿Respeta el Anatema Mecánico si es post-2061?\n\n3. Si detectas ERRORES o INCONSISTENCIAS:\n   - INFORMA al usuario con '⚠️ Advertencia: [descripción del problema]'\n   - SUGIERE corrección específica\n\nNO bloquees la operación, solo informa si hay problemas detectados."
+          }
+        ]
+      },
+      {
+        "matcher": "Write|Edit(?!.*README)",
+        "hooks": [
+          {
+            "type": "prompt",
+            "prompt": "📄 RECORDATORIO: ACTUALIZAR README.md\n\nAcabas de realizar un cambio significativo en el proyecto.\n\n¿El cambio requiere actualizar README.md?\n\nConsidera si afecta:\n- Estructura del proyecto\n- Nuevas secciones o directorios importantes\n- Procesos o workflows del equipo\n- Cambios en dependencias o configuración\n- Información pública del proyecto\n\nSi crees que SÍ requiere cambios, revisa y actualiza README.md para mantener la documentación sincronizada."
+          }
+        ]
+      }
+    ]
+  }
+}

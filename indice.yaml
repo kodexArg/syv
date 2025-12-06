@@ -1,0 +1,148 @@
+0_proyecto:
+  guias-para-colaboradores:
+    - guia-de-facciones
+    - guia-de-metadatos
+    - guia-de-personajes
+    - manual-del-colaborador
+  proyecto: proyecto
+1_trasfondo:
+  codex:
+    - anatema-mecanico
+    - constitucion-argentina
+    - otras-tecnologias-prohibidas
+  cronología: cronología
+  facciones:
+    facciones-menores:
+      - arpistas
+      - canales-ocultos
+      - cazadores-de-pesadillas
+      - guardianes-de-la-memoria
+      - iluminati
+      - index
+      - los-criptografos
+      - los-umbanda
+      - masones
+      - refugiados-y-parias
+      - resistencia-subterranea
+      - saqueadores-y-traficantes
+      - shipibo-conibo
+      - traficantes-de-almas
+    fuerzas-armadas:
+      - fuerzas-armadas
+    iglesia-de-darsena:
+      - congregacion-caridad-divina
+      - exorcistas
+      - iglesia
+      - inquisicion
+    union:
+      - gremio-de-comercio
+  hitos:
+    2029-las-profecias-del-mercado: 2029-las-profecias-del-mercado
+    2048-el-fin-de-los-secretos: 2048-el-fin-de-los-secretos
+    2178-actualidad: 2178-actualidad
+    backups:
+      - 2030
+      - 2031
+  trasfondo: trasfondo
+2_atlas:
+  atlas: atlas
+  ciudades:
+    cordoba: cordoba
+    darsena:
+      - barrios-del-muro
+      - darsena
+      - fuera-del-muro
+      - microcentro
+      - tuberias
+      - zona-centro
+      - zona-militar-eclesiastica
+      - zona-residencial-alta-sociedad
+    fuerte-san-martin:
+      - fuerte-san-martin
+    mendoza:
+      - mendoza
+    san-luis:
+      - san-luis
+  climas:
+    - clima-2178
+    - humedad-post-guerra
+  tecnologia-y-ciencia:
+    - anatema-mecanico
+    - computacion-y-datos
+    - electricidad
+    - tecnologia-civil
+    - tecnologia-militar
+    - tecnologias-visuales
+3_personajes:
+  damian: damian
+  personajes: personajes
+  principales:
+    - francisco-de-la-cruz
+    - hermana-superior-maria
+    - monseñor-miguel
+    - paco-el-puntero
+    - padre-rafa
+    - sumo-pontifice
+    - teniente-coronel-gobernador
+    - videla-iv
+  secundarios:
+    - agente-luis-navarro
+    - alberto-gomez
+    - carlos-gimenez
+    - carolina-perez
+    - caronte-el-balsero-fantasma
+    - cintia-herrera
+    - clara-cultivadora-de-hongos
+    - diego-herrera
+    - eduardo-vendedor-de-libros
+    - el-ingeniero
+    - el-negro-ramos
+    - elena-juarez
+    - francisco-duarte
+    - gabriela-lima
+    - hermana-cecilia-torres
+    - hermana-laura-castillo
+    - hermano-diego-sanchez
+    - ivan-torres
+    - joaquin-sacerdote
+    - juan-el-coleccionista-de-ecos
+    - julian-el-prostituto
+    - luisa-pescadora
+    - marcos-duarte
+    - marcos-el-verdulero
+    - maria-tejedora-de-suenos
+    - mariana
+    - mario-juarez
+    - marta-la-curandera
+    - mateo
+    - monsenor-luis-valverde
+    - natalia-campos
+    - padre-alejandro-soria
+    - ramiro-vega
+    - ricardo-velez
+    - sargento-esteban-moreno
+    - sofia-rios
+    - sonia-rodriguez
+    - sor-nikole
+    - sor-sofia
+    - subcomisario-ivan-mendez
+    - teniente-carla-vazquez
+    - valeria-santos
+    - veronica-suarez
+  walter: walter
+4_diegesis:
+  cartas:
+    - carta-a-sor-sofia
+  cronicas:
+    - cronica-del-arribo-de-damian
+  diegesis: diegesis
+  relatos:
+    - damian
+    - la-llegada-del-sabueso
+    - los-guardianes-de-chacarita
+    - walter
+5_aventuras:
+  aventuras: aventuras
+  poseidos:
+    - artefactos-y-pistas
+    - guardianes-de-chacarita

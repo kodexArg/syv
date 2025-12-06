@@ -1,0 +1,18 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "create-venv",
+            "type": "shell",
+            "command": "uv venv",
+            "windows": {
+                "command": "if (-not (Test-Path .venv)) { uv venv }"
+            },
+            "problemMatcher": [],
+            "presentation": {
+                "reveal": "silent",
+                "panel": "shared"
+            }
+        }
+    ]
+}
