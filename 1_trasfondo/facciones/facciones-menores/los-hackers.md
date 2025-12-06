@@ -42,9 +42,9 @@ Su existencia es una afrenta directa a la **Dirección Nacional de Seguridad (DN
 
 Una especialización clave entre Los Hackers es la **arqueología digital**: la recuperación de información almacenada en memorias antiguas del mundo pre-Anatema. Usando técnicas manuales y análogas, estos especialistas extraen datos de:
 
-- **DVDs y discos ópticos** (lectura mecánica mediante lectores modificados)
-- **Pen drives y memorias USB** (interfaces análogas para acceso de solo lectura)
-- **Discos duros antiguos** (recuperación de datos mediante técnicas electromecánicas)
+- **M-DISC y discos ópticos industriales** (lectura mecánica mediante lectores modificados - 90% tasa de recuperación tras 140+ años debido a grabado físico en capas de piedra sintética)
+- **Discos duros mecánicos antiguos** (recuperación magnética mediante técnicas forenses electromecánicas - 10% tasa de éxito, extremadamente difícil debido a degradación de platters)
+- **Microfilms y papel sintético** (conservados en condiciones controladas - 30-75% supervivencia, fuentes físicas tradicionales)
 
 ### Métodos y Tecnología
 
@@ -69,7 +69,7 @@ A pesar de la tolerancia limitada bajo Corpus Licitus, la arqueología digital s
 
 - La SIA vigila de cerca cualquier actividad de recuperación, sospechando siempre que se está procesando información prohibida.
 - La línea entre "lectura histórica" y "procesamiento digital activo" es delgada y arbitraria, dejando a Los Hackers a merced de la interpretación inquisitorial.
-- Muchos Hackers han sido ejecutados o reclutados forzosamente tras ser descubiertos con lectores DVD o pen drives antiguos, acusados de herejía tecnológica.
+- Muchos Hackers han sido ejecutados o reclutados forzosamente tras ser descubiertos con lectores DVD o discos duros antiguos, acusados de herejía tecnológica.
 
 ---
 

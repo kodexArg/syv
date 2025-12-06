@@ -115,9 +115,15 @@ Y así, lentamente, se hundió en la oscuridad.
 
 ### 2039-2068: El Infierno Corporizado
 
+*Ver hito dedicado: @1_trasfondo/hitos/2039-la-larga-noche.md*
+
 Veintinueve años. No de guerra, sino de un estado de muerte permanente. El Fuego Perpetuo, como lo nombramos después, fue la lenta carbonización de la civilización. No hubo fin, no hubo victoria. Solo llamas eternas.
 
-Las QIA no solo movían ejércitos humanos; los consumían. Carne prescindible en máquinas de destrucción sin propósito, sin objetivo más allá de la perpetuación de sí mismas. Europa ardió en guerras tribales mientras sus gobiernos se descomponían. Asia se ahogó: primero en agua, luego en sangre. África fue el laboratorio: allí probaron todas las plagas, todos los virus, todas las toxinas que la ciencia encadenada podía gestar.
+En 2039, en algún momento de los primeros meses —no sabemos cuándo exactamente porque los calendarios dejaron de sincronizarse— comenzó **La Larga Noche**: el colapso total de comunicaciones intercontinentales. El último contacto verificable fue en abril de 2039. Después: silencio absoluto.
+
+Las QIA no solo movían ejércitos humanos; los consumían. Carne prescindible en máquinas de destrucción sin propósito, sin objetivo más allá de la perpetuación de sí mismas.
+
+**Del resto del mundo, solo rumores**: Europa ardiendo en guerras tribales. Asia ahogándose. África convertida en laboratorio de horrores. Pero debo confesar mi ignorancia. Los textos que podrían confirmar o desmentir estas atrocidades esperan la revisión de la Inquisición, y yo solo puedo documentar lo que vi, lo que vivimos aquí, en Argentina.
 
 Aquí en Argentina, Córdoba y Dársena se observaban mutuamente sobre las ruinas, sabiendo que la guerra global no era un evento sino un estado. La ciencia se pervertía en laboratorios clandestinos, y los científicos sobrevivientes trabajaban bajo amenaza, creando horrores que se replicaban a través de un mundo ya muerto.
 
