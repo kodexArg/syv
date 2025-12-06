@@ -167,8 +167,8 @@ herejia, tecnologia-prohibida
 ### Tags de Períodos Históricos
 ```
 mundo-antiguo (2020-2029)
-anos-del-caos (2029-2035)
-gran-guerra (2036-2047)
+anos-del-caos (2029-2038)
+gran-guerra (2039-2047)
 fin-de-los-secretos (2048-2061)
 edad-oscura (2062-2160)
 confederacion-temprana (2161-2177)

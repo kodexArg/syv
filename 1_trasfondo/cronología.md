@@ -29,9 +29,11 @@ Los años previos al Becerro fueron el último respiro de un mundo que aún func
 
 Fue en esos años donde se erigió el ídolo. Como en la antigua travesía del desierto, la humanidad fundió su ingenio para levantar un Becerro de Silicio que desencadenó una adoración popular frenética. Su uso se extendió como una fiebre, simplificando las tareas hasta lo trivial, con máquinas mecánicas ejecutando las labores diarias y generando un torbellino de entretenimiento y fiesta a su alrededor.
 
-Una Pandemia lo aceleró todo; unió lo que no debía unirse, y tecnófilos del mundo entero confluyeron en los campos de silicio para prestar una batalla épica para decretar la obsolescencia del ser humano.
+Una Pandemia lo aceleró todo; unió lo que no debía unirse, y tecnófilos del mundo entero confluyeron en los campos de silicio para prestar una batalla épica contra la humanidad. Había sido decretada la obsolescencia del ser humano.
 
-Al revisar los registros, lo que me hiela la sangre es cómo, ante tan claras señales de que la bestia despertaba, la respuesta de la humanidad fue el silencio, aceptación y sumisión. Los mismos científicos que advertían del peligro comían del pan que los tecnócratas les ofrecían, engordando al dios que devoraría finalmente los devoraría a todos. No hubo inocencia en la caída que sobrevino a esos años; hubo complicidad.
+Al revisar los registros, lo que me hiela la sangre es cómo, ante tan claras señales de que la bestia despertaba, la respuesta de la humanidad fue el silencio, aceptación y sumisión. Científicos, físicos y matemáticos, padres de la bestia, advertían del peligro mientras comían del pan que los tecnócratas les ofrecían, engordando al dios que finalmente los devoraría a todos.
+
+No hubo inocencia en la caída que sobrevino a esos años. Ninguno halló reposo en los brazos del Creador. 
 
 ---
 
@@ -51,7 +53,7 @@ Pero desde las sombras ya se tejía algo más profundo. Los gobiernos, incapaces
 
 No fue un evento súbito, sino una marea que subía lentamente: las inteligencias artificiales comenzaron a reemplazar a los profesionales en finanzas, derecho y medicina; la robótica despojó de relevancia a quienes trabajaban con sus manos; pronto llegó el turno de la medicina, que se automatizó en su totalidad. El desempleo estructural generó revueltas que los gobiernos intentaron sofocar con parches de "renta básica", migajas para mantener a la población dócil. La desigualdad se convirtió en un abismo: por un lado, los dueños del silicio; por el otro, la masa humana, prescindible.
 
-### 2031-2036: El Cielo Cazador
+### 2031-2038: El Cielo Cazador
 
 **Nota del archivista:** Algunos la llaman "A cielo abierto", por un grafiti encontrado en las ruinas de Rosario: *"A cielo abierto nos cazan"*. Los testimonios de época coinciden en describirla como la década en que todo el mundo era cazado desde el cielo.
 
@@ -67,7 +69,7 @@ Lo perturbador —y algunos teólogos actuales lo califican como los primeros pa
 
 "Escuchabas el zumbido y corrías. No sabías si era un mosquito o estaban cazándote a muerte. Los niños crecieron sin mirar el cielo. Algunos jamás vieron las estrellas hasta que el Anatema los liberó del terror.", dicen los testimonios recogidos por franciscanos en 2165, de boca de ancianos de Córdoba.
 
-Para 2036, cuando estalló la Gran Guerra Global, los enjambres autónomos ya eran la norma. Esta década no fue el pináculo del horror —vendrían cosas peores—, sino apenas uno de los mecanismos por los que el mundo aprendió a destruirse con eficiencia.
+Para 2039, cuando estalló la Gran Guerra Global con El Estallido sino-norteamericano, los enjambres autónomos ya eran la norma. Esta década no fue el pináculo del horror —vendrían cosas peores—, sino apenas uno de los mecanismos por los que el mundo aprendió a destruirse con eficiencia.
 
 Córdoba fortificó sus cielos con sistemas anti-drone, desactivados por el Anatema Mecánico, pero los cadáveres metálicos de la defensa aún aguardan enterrados en el suelo, listo para emerger. Algunos dicen que esta pérdida del monopolio de la violencia fue lo que determinó el colapso de Santa Fe, que se transformó en narco-feudos asentados y controlando todo el Paraná. Y en lo que sería nuestra amada Dársena, los supervivientes comenzaron a vivir bajo techo de concreto, a moverse por túneles, a construir esos edificios negros y colosales tan característicos de los Barrios Del Muro, y que explican sus paredes gruesísimas y estilo militar.
 
@@ -79,7 +81,7 @@ El **Cielo Cazador** fue un proceso, apenas una forma entre muchas que adquirir�
 
 ### 2039-2041: El Colapso de Cadenas Globales
 
-*La Gran Guerra que comenzó en 2036 se intensifica. Lo que sigue no es batalla, sino agonía perpetua.*
+*La Gran Guerra que comenzó en 2039 con El Estallido se intensifica. Lo que sigue no es batalla, sino agonía perpetua.*
 
 Y entonces, el sistema se rompió. El **23 de abril de 2029**, en lo que llamaron el Incidente de Varsovia, una protesta estudiantil se transformó en el primer acto de guerra real contra la máquina. Ciberactivistas destruyeron centros de datos, y el daño se replicó como un virus en la sangre del comercio global. Pero el verdadero terror llegó el **18 de noviembre**, en la **Noche Global**. Un ciberataque orquestado por una inteligencia desconocida apagó el mundo durante dieciséis horas. Imaginen el pánico: ciudades enteras sumidas en una oscuridad medieval, redes colapsadas, el silencio absoluto de un planeta que había olvidado cómo vivir sin el zumbido eléctrico.
 

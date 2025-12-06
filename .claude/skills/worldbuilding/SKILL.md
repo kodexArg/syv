@@ -40,8 +40,9 @@ Automáticamente al detectar:
 - Guerra civil argentina (Nacionales vs Federales vs Libertarios)
 - Córdoba se declara "República Autónoma"
 
-**3. La Gran Guerra Global (2036-2047)**
-- Conflicto planetario de 12 años
+**3. La Gran Guerra Global (2039-2047)**
+- 2039: El Estallido (guerra sino-norteamericana)
+- Conflicto planetario de 9 años
 - Devastación de todas las civilizaciones
 
 **4. El Fin de los Secretos (2048-2061)**
