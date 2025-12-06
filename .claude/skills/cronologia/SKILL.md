@@ -21,8 +21,8 @@ Al:
 
 ### Eras Principales
 1. **Los Últimos Años del Mundo Antiguo (2020-2029)**
-2. **Los Años del Caos (2029-2035)** - Meteorito 2030
-3. **La Gran Guerra Global (2039-2047)**
+2. **Los Años del Caos (2029-2038)** - Meteorito 2030, Automatización, Plaga de Drones
+3. **La Gran Guerra Global (2039-2047)** - Comienza con El Estallido
 4. **El Fin de los Secretos (2048-2061)** - Era QIA, Anatema 2061
 5. **La Edad Oscura (2062-2160)**
 6. **La Confederación Temprana (2161-2177)**

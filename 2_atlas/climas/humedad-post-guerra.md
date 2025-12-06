@@ -1,5 +1,5 @@
 ---
-titulo: La Humedad Post-Guerra - Consecuencias Climáticas de la Gran Devastación (2036-2178)
+titulo: La Humedad Post-Guerra - Consecuencias Climáticas de la Gran Devastación (2039-2178)
 carpeta: 2_atlas/climas
 descripcion: Análisis del aumento crítico de humedad en toda la Confederación Argentina como resultado directo de la Gran Guerra Global y sus efectos prolongados.
 tags:
@@ -15,7 +15,7 @@ tags:
 
 ## Introducción: Un Mundo Diferente al Que Fue
 
-En los años previos a 2036, los registros climáticos de la era digital indicaban que la Confederación Argentina experimentaba variaciones estacionales predecibles: verano cálido y seco en el interior, invierno templado en Dársena. Pero la Gran Guerra Global (2036-2047) cambió fundamentalmente los patrones de circulación atmosférica del hemisferio sur. Los incendios masivos, la quema de infraestructura industrial, el colapso de sistemas de refrigeración, y la devastación de ecosistemas dejaron cicatrices visibles en el clima mismo.
+En los años previos a 2039, los registros climáticos de la era digital indicaban que la Confederación Argentina experimentaba variaciones estacionales predecibles: verano cálido y seco en el interior, invierno templado en Dársena. Pero la Gran Guerra Global (2039-2047) cambió fundamentalmente los patrones de circulación atmosférica del hemisferio sur. Los incendios masivos, la quema de infraestructura industrial, el colapso de sistemas de refrigeración, y la devastación de ecosistemas dejaron cicatrices visibles en el clima mismo.
 
 Lo que resultó fue una **saturación de humedad anómala y persistente** que permeó toda la franja confederal durante más de un siglo. No es el calentamiento global de antaño, sino algo más inmediato y cruel: un mundo más húmedo, más pegajoso, más sofocante.
 
@@ -23,7 +23,7 @@ Lo que resultó fue una **saturación de humedad anómala y persistente** que pe
 
 ## La Causa: Devastación Como Motor Climático
 
-### **2036-2047: Años de Destrucción Masiva**
+### **2039-2047: Años de Destrucción Masiva**
 
 Durante la Gran Guerra Global:
 - **Incendios planetarios:** Ciudades enteras ardieron simultáneamente. La quema de millones de toneladas de carbón, petróleo, plástico, papel liberó vapor de agua masivamente a la atmósfera
@@ -38,7 +38,7 @@ Tras el silencio de 2047 (fin de guerras por agotamiento), la atmósfera no "se 
 
 - **Océano Atlántico:** Masa de agua perpetuamente evaporadora alimentaba sistemas de baja presión
 - **Ausencia de bosques reguladores:** Sin selvas que absorban y liberen vapor regularmente, el ciclo se volvió caótico
-- **Nuevo equilibrio:** La Confederación entró en régimen climático "pantanoso" donde la humedad promedio aumentó 30-50% respecto a pre-2036
+- **Nuevo equilibrio:** La Confederación entró en régimen climático "pantanoso" donde la humedad promedio aumentó 30-50% respecto a pre-2039
 
 ---
 
@@ -82,7 +82,7 @@ Córdoba era seca antes. Ahora es calurosa Y húmeda—la peor combinación:
 **Cambio desde 2030:** +30% (aumento más dramático en región cuyana)
 
 FSM experimentó la transformación más radical:
-- **Antes 2036:** Región seca, desértica, con pocas lluvias
+- **Antes 2039:** Región seca, desértica, con pocas lluvias
 - **Después 2047:** Humedad persistente transformó el ecosistema
 - Tierras que fueron áridas ahora tienen vegetación (no originaria, pero vegetación)
 - Los ríos que eran intermitentes ahora fluyen más constantemente
@@ -128,7 +128,7 @@ San Luis es meseta árida que se volvió árida-húmeda:
 
 ### **Ciclo de Retroalimentación Estable (2061-2178)**
 
-1. **Océano Atlántico:** Continúa evaporando agua (ahora caliente por cambio climático pre-2030 + quema de 2036-2047)
+1. **Océano Atlántico:** Continúa evaporando agua (ahora caliente por cambio climático pre-2030 + quema de 2039-2047)
 2. **Sistemas de baja presión:** Vientos atlánticos traen masas de aire húmedo constantemente
 3. **Ausencia de reguladores:** Sin bosques, sin vegetación densa, sin sistemas que absorban humedad, ésta se acumula
 4. **Nube Roja:** El fenómeno de la "Nube Roja" (partículas estratosféricas) reduce radiación solar, lo que mantiene temperaturas moderadas pero **aumenta condensación** (el aire frío no puede sostener humedad)

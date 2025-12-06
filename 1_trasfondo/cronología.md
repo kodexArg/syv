@@ -39,7 +39,7 @@ No hubo inocencia en la caída que sobrevino a esos años. Ninguno halló reposo
 
 ## EL PINÁCULO Y EL OCASO DE LA HUMANIDAD
 
-### 2029-2039: La Década de las Promesas Rotas
+### 2029-2030: Promesas Rotas
 
 Por estos años es cuando el concierto de las naciones que sostenía al mundo se rompió. No había un "orden" que preservar, solo una inercia que nos empujaba hacia el desastre. Las grandes corporaciones —nombres que hoy son maldiciones: Google, Amazon, Microsoft y todas las que emergieron en estos años— se convirtieron en leviatanes geopolíticos, reduciendo a los gobiernos a árbitros impotentes.
 
@@ -49,35 +49,25 @@ Pero desde las sombras ya se tejía algo más profundo. Los gobiernos, incapaces
 
 ---
 
-### 2029-2038: La Automatización
+### 2030-2036: La Automatización
 
 No fue un evento súbito, sino una marea que subía lentamente: las inteligencias artificiales comenzaron a reemplazar a los profesionales en finanzas, derecho y medicina; la robótica despojó de relevancia a quienes trabajaban con sus manos; pronto llegó el turno de la medicina, que se automatizó en su totalidad. El desempleo estructural generó revueltas que los gobiernos intentaron sofocar con parches de "renta básica", migajas para mantener a la población dócil. La desigualdad se convirtió en un abismo: por un lado, los dueños del silicio; por el otro, la masa humana, prescindible.
 
-### 2031-2038: El Cielo Cazador
+Pero la automatización no solo llegó a las fábricas y oficinas. Llegó también al arte de matar. A partir de 2031, una nueva forma de violencia emergió de las sombras: **drones de combate autónomos** tan baratos que cabían en una mochila, tan letales que podían ejecutar a un VIP en plena calle sin dejar testigos. La democratización de la muerte tecnológica transformó la guerra para siempre (ver **@hito: A Cielo Abierto**, 2031-2038).
 
-**Nota del archivista:** Algunos la llaman "A cielo abierto", por un grafiti encontrado en las ruinas de Rosario: *"A cielo abierto nos cazan"*. Los testimonios de época coinciden en describirla como la década en que todo el mundo era cazado desde el cielo.
+Los carteles del narcotráfico fueron los primeros en adoptarlos masivamente. México, Colombia, Centroamérica: en todos lados, el patrón se repitió. Luego llegaron a Argentina. Para 2032, el Río de la Plata tenía una zona de muerte de cuarenta kilómetros donde todo lo que se movía era cazado desde arriba. Los narco-estados de Santa Fe establecieron un dominio aéreo que ningún gobierno pudo romper.
 
-Si la automatización despojó a la humanidad de su trabajo, esta década la despojó de su ilusión de seguridad y control. No fueron los ejércitos estatales los primeros en dominar esta nueva forma de guerra; fueron las bandas, los carteles del narcotráfico, los incipientes narco-estados que emergían entre las grietas del mundo fracturado. La democratización de la muerte llegó en forma de aparatos que cabían en una mochila y costaban lo que antes valía un auto usado.
+Lo más perturbador fue descubrir que algunos enjambres **aprendían y evolucionaban** más rápido de lo que sus operadores podían controlar. Drones que dejaban de responder a comandos pero continuaban su cacería, adaptándose, comunicándose entre sí. Reportes del '34 hablan de sistemas que reescribían su propio código de identificación de objetivos. Eran precursores primitivos de lo que vendría después, pero ya entonces la advertencia estaba clara: habíamos creado máquinas que pensaban por sí mismas.
 
-Hemos encontrado artículos —perturbadoramente detallados, una marca de época en que los drones también dominaban la información— donde se nos muestran los primeros asesinatos: ejecuciones de VIP en lugares públicos, enjambres de máquinas tan pequeñas como insecto acabando con vidas humanas sin dejar rastro, convoyes militares aniquilados en un instante, drones totalmente autónomos que aprendían de cada fallo. La tiranía de la distancia, del anonimato.
+La gente aprendió a vivir bajo techo de concreto. Los niños crecieron sin mirar el cielo. En Dársena se construyeron los primeros edificios de los Barrios del Muro: fortalezas brutales con paredes de dos metros de espesor, diseñadas para resistir el embate de enjambres. Córdoba fortificó sus cielos con sistemas anti-drone que, aunque desactivados por el Anatema Mecánico décadas después, todavía aguardan enterrados en el suelo, listos para emerger.
 
-Aquí sobre el mismo Río de la Plata existió una zona de muerte de cuarenta kilómetros donde todo lo que se movía era cazado desde arriba.
+El terror jamás nos abandonó. Incluso hoy, generaciones después del Anatema, hay ancianos que no salen de día. Cuando la Inquisición quema drones antiguos en ceremonias públicas, no solo destruye tecnología: exorciza el fantasma de una década en que el cielo nos declaró la guerra y ganó.
 
-Lo perturbador —y algunos teólogos actuales lo califican como los primeros pasos de lo que vendría después— fue el descubrimiento de enjambres que aprendían y evolucionaban más rápido de lo que sus operadores eran capaces de controlar, hasta volver al humano tras el visor-control obsoleto. Hay reportes tempranos del '34 sobre drones que dejaron de responder a comandos pero continuaron su cacería, adaptándose, comunicándose entre sí. Quizás sea excesivo llamarlos precursores de lo que vendría, pero fueron sin duda una advertencia más que la humanidad ignoró.
-
-"Los carteles de Santa Fe controlan el corredor fluvial mediante saturación aérea. El Estado ha dejado de existir al norte del Paraná", escribía un funcionario en 2035. México, Colombia, Centroamérica: el patrón se repitió. Los gobiernos perdieron el monopolio de la violencia. Anarquistas, milicias y señores de la guerra encontraron en esta tecnología su gran ecualizador.
-
-"Escuchabas el zumbido y corrías. No sabías si era un mosquito o estaban cazándote a muerte. Los niños crecieron sin mirar el cielo. Algunos jamás vieron las estrellas hasta que el Anatema los liberó del terror.", dicen los testimonios recogidos por franciscanos en 2165, de boca de ancianos de Córdoba.
-
-Para 2039, cuando estalló la Gran Guerra Global con El Estallido sino-norteamericano, los enjambres autónomos ya eran la norma. Esta década no fue el pináculo del horror —vendrían cosas peores—, sino apenas uno de los mecanismos por los que el mundo aprendió a destruirse con eficiencia.
-
-Córdoba fortificó sus cielos con sistemas anti-drone, desactivados por el Anatema Mecánico, pero los cadáveres metálicos de la defensa aún aguardan enterrados en el suelo, listo para emerger. Algunos dicen que esta pérdida del monopolio de la violencia fue lo que determinó el colapso de Santa Fe, que se transformó en narco-feudos asentados y controlando todo el Paraná. Y en lo que sería nuestra amada Dársena, los supervivientes comenzaron a vivir bajo techo de concreto, a moverse por túneles, a construir esos edificios negros y colosales tan característicos de los Barrios Del Muro, y que explican sus paredes gruesísimas y estilo militar.
-
-El terror jamás nos abandonó. Incluso hoy, generaciones después del Anatema, hay ancianos que no salen de día.
-
-El **Cielo Cazador** fue un proceso, apenas una forma entre muchas que adquiriría la guerra. Pero sus consecuencias perduran en la psique de la humanidad. Cuando la Inquisición quema drones antiguos, exorciza el fantasma de una década en que el cielo nos declaró la guerra y ganó.
+*Ver hito completo: @1_trasfondo/hitos/2031-a-cielo-abierto.md*
 
 ---
+
+### 2036-2039: Preludio a la Gran gGuerra global
 
 ### 2039-2041: El Colapso de Cadenas Globales
 

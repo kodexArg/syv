@@ -21,7 +21,7 @@ Fuerte San Martín es la ciudad de la transformación. Ubicada en la región cuy
 
 ## Historia: La Transformación Climática
 
-### **Pre-2036: El Desierto Marginal**
+### **Pre-2039: El Desierto Marginal**
 Fuerte San Martín era región árida, prácticamente inhóspita:
 - Temperatura extrema en verano (35-40°C)
 - Precipitaciones mínimas (200-300 mm anuales)
@@ -29,7 +29,7 @@ Fuerte San Martín era región árida, prácticamente inhóspita:
 - Población dispersa en pueblos ganaderos pequeños
 - Presencia militar mínima (pequeño destacamento)
 
-### **2036-2047: La Gran Guerra Global**
+### **2039-2047: La Gran Guerra Global**
 FSM fue relativamente aislada de combates directos, pero:
 - Refugiados de otras ciudades llegaron buscando seguridad
 - Población aumentó a 200.000
