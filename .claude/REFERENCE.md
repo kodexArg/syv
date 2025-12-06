@@ -72,7 +72,8 @@ Solo incluir elementos PRINCIPALES (no secundarios ni menores).
 | 2029 | La Noche Global | Apagón planetario, inicio Gran Colapso |
 | 27 dic 2030 | Meteorito Buenos Aires | 1M muertos, cráter 850m, fragmentación Argentina |
 | 2035 | Último contacto intercontinental | Aislamiento global |
-| 2036-2047 | Gran Guerra Global | 12 años devastación planetaria |
+| 2036 | Guerra USA-China | Inicio conflicto bilateral |
+| 2039-2068 | Gran Guerra Global | 29 años devastación planetaria, "Fuego Perpetuo" |
 | 2048 | Primera QIA | Inicio era IA cuánticas |
 | 2061 | Anatema Mecánico | Prohibición tecnología digital, rebelión anti-QIA |
 | 2054 | Traslado Santa Sede | Vaticano → Dársena, nuevo centro eclesiástico |

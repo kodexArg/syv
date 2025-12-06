@@ -29,14 +29,14 @@ Fuerte San Martín era región árida, prácticamente inhóspita:
 - Población dispersa en pueblos ganaderos pequeños
 - Presencia militar mínima (pequeño destacamento)
 
-### **2036-2047: La Gran Guerra Global**
-FSM fue relativamente aislada de combates directos, pero:
+### **2036-2068: La Gran Guerra Global (2039-2068)**
+FSM fue relativamente aislada de combates directos durante la guerra USA-China (2036) y la posterior Gran Guerra Global (2039-2068), pero:
 - Refugiados de otras ciudades llegaron buscando seguridad
 - Población aumentó a 200.000
 - Recursos se tensionaron (agua escasa, alimento limitado)
 - Ejército estableció mayor presencia (aeropuerto fue asegurado como activo estratégico)
 
-### **2047-2061: El Milagro Climático**
+### **2068-2090: El Milagro Climático**
 **Este es el momento decisivo de la historia de FSM.**
 
 La humedad post-guerra aumentó dramáticamente (+30% respecto a 2030). Para región seca como FSM, esto fue transformacional:

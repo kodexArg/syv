@@ -168,7 +168,7 @@ herejia, tecnologia-prohibida
 ```
 mundo-antiguo (2020-2029)
 anos-del-caos (2029-2035)
-gran-guerra (2036-2047)
+gran-guerra (2036-2068)
 fin-de-los-secretos (2048-2061)
 edad-oscura (2062-2160)
 confederacion-temprana (2161-2177)

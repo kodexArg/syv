@@ -40,9 +40,11 @@ Automáticamente al detectar:
 - Guerra civil argentina (Nacionales vs Federales vs Libertarios)
 - Córdoba se declara "República Autónoma"
 
-**3. La Gran Guerra Global (2036-2047)**
-- Conflicto planetario de 12 años
-- Devastación de todas las civilizaciones
+**3. Guerra USA-China (2036) y Gran Guerra Global (2039-2068)**
+- 2036: Conflicto bilateral USA-China
+- 2039: Escalada a guerra planetaria multilateral
+- 29 años de "Fuego Perpetuo" hasta tregua 2068
+- Todas las naciones contra sí, finalmente contra las máquinas
 
 **4. El Fin de los Secretos (2048-2061)**
 - Era de las Inteligencias Artificiales Cuánticas (QIA)

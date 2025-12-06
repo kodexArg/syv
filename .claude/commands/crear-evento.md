@@ -29,7 +29,7 @@ Pregunta al usuario (7 campos):
 3. **Período histórico** (elegir UNO de 7 eras):
    - Los Últimos Años (2020-2029)
    - Los Años del Caos (2029-2035)
-   - La Gran Guerra Global (2036-2047)
+   - Guerra USA-China (2036) y Gran Guerra Global (2039-2068)
    - El Fin de los Secretos (2048-2061)
    - La Edad Oscura (2062-2160)
    - La Confederación Temprana (2161-2177)
@@ -82,7 +82,8 @@ NO puede contradecir estos HITOS INAMOVIBLES:
 - 2029: Noche Global (apagón planetario)
 - 27 dic 2030: Meteorito Buenos Aires
 - 2035: Último contacto intercontinental
-- 2036-2047: Gran Guerra Global
+- 2036: Guerra USA-China
+- 2039-2068: Gran Guerra Global ("Fuego Perpetuo")
 - 2048: Primera QIA
 - 2061: Anatomema Mecánico
 - 2161: Confederación Argentina
@@ -126,7 +127,7 @@ INCORRECTO (RECHAZAR):
 ```
 1. 2020-2029: Los Últimos Años
 2. 2029-2035: Los Años del Caos
-3. 2036-2047: La Gran Guerra Global
+3. 2036-2068: Guerra USA-China (2036) → Gran Guerra Global (2039-2068)
 4. 2048-2061: El Fin de los Secretos (Era QIA)
 5. 2062-2160: La Edad Oscura
 6. 2161-2177: La Confederación Temprana
@@ -139,7 +140,8 @@ INCORRECTO (RECHAZAR):
 - 2029: Noche Global
 - 27 dic 2030: Meteorito (850m radio)
 - 2035: Último contacto intercontinental
-- 2036-2047: Gran Guerra Global
+- 2036: Guerra USA-China
+- 2039-2068: Gran Guerra Global ("Fuego Perpetuo")
 - 2048: Primera QIA
 - 2054: Traslado Santa Sede a Dársena
 - 2061: Promulgación Anatema Mecánico

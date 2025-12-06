@@ -22,7 +22,7 @@ Al:
 ### Eras Principales
 1. **Los Últimos Años del Mundo Antiguo (2020-2029)**
 2. **Los Años del Caos (2029-2035)** - Meteorito 2030
-3. **La Gran Guerra Global (2036-2047)**
+3. **Guerra USA-China (2036) y Gran Guerra Global (2039-2068)**
 4. **El Fin de los Secretos (2048-2061)** - Era QIA, Anatema 2061
 5. **La Edad Oscura (2062-2160)**
 6. **La Confederación Temprana (2161-2177)**
@@ -32,7 +32,8 @@ Al:
 - 2029: Noche Global
 - 27 dic 2030: Meteorito Buenos Aires
 - 2035: Último contacto intercontinental
-- 2036-2047: Gran Guerra Global
+- 2036: Guerra USA-China
+- 2039-2068: Gran Guerra Global ("Fuego Perpetuo")
 - 2048: Primera QIA
 - 2061: Anatema Mecánico
 - 2054: Traslado Santa Sede a Dársena
