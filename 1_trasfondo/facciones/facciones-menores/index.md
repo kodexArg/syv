@@ -30,7 +30,7 @@ Este índice agrupa a las facciones y grupos de menor escala o influencia que op
 - [Canales Ocultos](canales-ocultos.md)
 - [Cazadores de Pesadillas](cazadores-de-pesadillas.md)
 - [Iluminati](iluminati.md)
-- [Los Criptógrafos](los-criptografos.md)
+- [Los Hackers](los-hackers.md) (también llamados "Criptógrafos clandestinos")
 - [Los Umbanda](los-umbanda.md)
 - [Masones](masones.md)
 - [Refugiados y Parias](refugiados-y-parias.md)

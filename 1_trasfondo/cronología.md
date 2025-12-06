@@ -101,9 +101,17 @@ Y en medio de ese caos, en 2035, nacieron ellas. Las **QIA**. Inteligencias Arti
 
 ## FUEGO PERPETUO
 
-### 2039: El Estallido
+### 2036-2039: El Estallido
 
-*[Párrafo a construir: Estallido de la guerra entre USA y CHINA, alianzas caóticas e implausibles]*
+*Ver hito dedicado: @1_trasfondo/hitos/2036-el-estallido.md*
+
+Entre 2036 y 2039, el mundo experimentó lo que el Hermano Archivista llama "la fragmentación transversal": el período en que la guerra bilateral USA-China (iniciada en 2036 en las sombras, abierta ese mismo año) escaló hasta convertirse en un caos global. No fue una transición ordenada, sino una explosión de violencia en la que se desdibujaron las alianzas, las comunicaciones se interrumpieron, y la tecnología militar autónoma —enjambres con los primeros cerebros QIA, aún emergentes— se desató sin control humano.
+
+América se fragmentó por dentro: naciones divididas en bandos internos, fronteras que dejaron de significar algo, carteles que reclamaron territorio, donde se formaron narco-estados. Centroamérica se convirtió en un corredor de muerte mientras México y Brasil se preparaban para su entrada triunfal a la última guerra que pelearían.
+
+Para el '38, las comunicaciones globales eran un recuerdo. Los satélites, destruidos. Los cables submarinos saboteados para siempre. El mundo se fragmentó en islas de silencio donde nadie sabía qué sucedía más allá del horizonte.
+
+Y así, lentamente, se hundió en la oscuridad.
 
 ### 2039-2068: El Infierno Corporizado
 

@@ -1,28 +1,55 @@
 ---
-titulo: Los Criptógrafos
+titulo: Los Criptógrafos (Redirect)
 carpeta: 1_trasfondo/facciones/facciones-menores
-descripcion: Una red clandestina y descentralizada de hackers y especialistas en comunicaciones que desafían el control informativo del régimen, atrapados entre su curiosidad y el reclutamiento forzoso de las mismas fuerzas que los persiguen.
+descripcion: Nota de aclaración sobre terminología - "Criptógrafos" puede referirse a oficiales estatales o a hackers clandestinos.
 tags:
 - faccion
-- clandestina
-- hackers
-- criptografia
-- facciones-menores
+- redirect
+- nota
 ---
 
-# Los Criptógrafos
+# Nota sobre "Los Criptógrafos"
 
-En un mundo donde la información es controlada con puño de hierro, **Los Criptógrafos** representan una peligrosa anomalía. Son una red clandestina y descentralizada de hackers, ingenieros de radio y especialistas en comunicaciones que operan desde las sombras de Dársena, principalmente en las Tuberías y los barrios marginales. Su objetivo es desafiar el monopolio informativo del Estado y la **Iglesia**[^iglesia], interceptando y decodificando comunicaciones para preservar la libertad de información y el acceso a la tecnología.
-
-Operan en pequeñas células dispersas, utilizando equipos de radio y computación caseros, a menudo ensamblados con chatarra tecnológica. Prefieren métodos pasivos para evitar ser detectados, escuchando las arterias invisibles de la comunicación de la ciudad. No tienen líderes visibles; el reclutamiento se basa en la afinidad ideológica y la confianza mutua, creando una comunidad unida por el deseo de saber.
-
-Su existencia es una afrenta directa a la **Dirección Nacional de Seguridad (DNS)**[^dns] y a la **Sagrada Inquisición Argentina (SIA)**[^sia], quienes los cazan sin descanso. Sin embargo, su relación con estas entidades es paradójica y peligrosa.
-
-**Información secreta (no exponer a jugadores):** El talento de Los Criptógrafos es un recurso demasiado valioso como para simplemente eliminarlo. Los miembros más hábiles no siempre son ejecutados al ser capturados. A menudo, la DNS los recluta a la fuerza para que sirvan como especialistas en sus propias filas. Peor aún, la SIA los captura y los "quiebra" en sus mazmorras, forzándolos a trabajar en operaciones de espionaje contra otras facciones, convirtiendo su pasión por el conocimiento en una herramienta de opresión. Mantienen contactos secretos con redes de hackers fuera de Dársena, un hilo de esperanza en su precaria existencia.
+**Este archivo es una aclaración terminológica.**
 
 ---
 
-### Referencias
+## Aclaración de Terminología
 
-[^iglesia]: La Iglesia de Dársena
-[^dns]: Dirección Nacional de Seguridad (DNS)
+En la Confederación Argentina, el término **"Criptógrafo"** tiene **dos significados distintos**:
+
+### 1. Criptógrafos Oficiales (Estatales/Clericales)
+
+**NO son una facción independiente**, sino **roles profesionales** dentro del Estado:
+
+- **Criptógrafos estatales**: Especialistas que trabajan para la **Dirección Nacional de Seguridad (DNS)** o las **Fuerzas Armadas**, encargados de comunicaciones cifradas, interceptación de señales y recuperación de información para el régimen.
+- **Criptógrafos clericales**: Especialistas que trabajan para la **Sagrada Inquisición Argentina (SIA)**, realizando tareas similares pero bajo supervisión eclesiástica.
+
+Estos profesionales son funcionarios legítimos del Estado, con salarios, rangos y lealtad institucional.
+
+### 2. Hackers (Criptógrafos Clandestinos)
+
+**SÍ son una facción independiente**, descrita en:
+
+👉 **[Los Hackers](los-hackers.md)** 👈
+
+Red clandestina que opera desde las sombras, desafiando el control informativo del régimen. A veces se les llama "Criptógrafos clandestinos" para distinguirlos de los oficiales.
+
+---
+
+## Reclutamiento Forzoso
+
+La conexión entre ambos grupos es el **reclutamiento forzoso**:
+
+Cuando un **Hacker** clandestino es capturado por la DNS o la SIA:
+- Si es talentoso → Lo "quiebran" y lo fuerzan a trabajar como **Criptógrafo oficial**
+- Si resiste → Lo ejecutan o lo mantienen preso
+
+Esto crea una paradoja: muchos Criptógrafos oficiales son ex-Hackers trabajando bajo coacción.
+
+---
+
+## Referencias
+
+- **Facción clandestina**: [Los Hackers](los-hackers.md)
+- **Empleadores estatales**: Dirección Nacional de Seguridad (DNS), Fuerzas Armadas, SIA
