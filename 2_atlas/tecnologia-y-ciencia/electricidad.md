@@ -30,5 +30,27 @@ La verdadera columna vertebral energética de Dársena reside en fuentes ocultas
 
 ## Baterías y Almacenamiento
 
-El almacenamiento de energía es rudimentario y pesado. Las baterías comunes se basan en **sal marina procesada**, lo que las hace voluminosas y de capacidad limitada, aunque seguras y fáciles de fabricar con recursos locales.
+El almacenamiento de energía es rudimentario y pesado, pero económico. Las baterías comunes se basan en **tecnología de arena y sal**: combinaciones de silicatos (arena procesada) y electrolitos salinos (sal marina procesada).
+
+### Características de las Baterías de Arena y Sal
+
+**Ventajas:**
+- **Costo extremadamente bajo:** Materias primas abundantes (arena de playas contaminadas, sal del Río de la Plata)
+- **Fabricación simple:** No requiere tecnología compleja, producción local descentralizada
+- **Seguridad:** No tóxicas, no explosivas, resistentes a humedad extrema de Dársena
+
+**Desventajas:**
+- **Tamaño y peso masivo:** 10-20 veces más voluminosas que baterías pre-guerra para misma capacidad
+- **Baja eficiencia:** Pérdida energética ~40% en ciclo carga/descarga
+- **Densidad energética baja:** Requieren espacio considerable en vehículos
+
+### Aplicaciones Principales
+
+A pesar de sus limitaciones, son **ampliamente usadas** porque la economía post-guerra privilegia abundancia de materiales sobre eficiencia:
+
+- **Tranvías urbanos:** Bancos de baterías bajo asientos, recarga en estaciones
+- **Troles eléctricos:** Baterías auxiliares para tramos sin catenaria
+- **Vehículos eléctricos civiles:** Camionetas de reparto, autobuses blindados
+- **Vehículos militares urbanos:** Incluso Fuerzas Armadas prefieren eléctrico en ciudades por bajo costo operativo
+- **Respaldo doméstico:** Familias acomodadas tienen bancos de baterías para cortes de red
 

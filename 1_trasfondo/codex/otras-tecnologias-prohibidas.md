@@ -193,7 +193,7 @@ La Confederación **no prohibe toda tecnología**, sino que **controla su propó
 
 - **Microscopios ópticos**: Permitidos para medicina y estudios eclesiásticos
 - **Telescopios**: Permitidos; Iglesia opera observatorio en Torre de la Vigilancia (Isla Oriental)
-- **Motores de combustión interna**: Permitidos en vehículos; prohibida la automatización completa del manejo
+- **Motores de combustión interna**: Permitidos pero costosos (combustible escaso post-guerra); se usan principalmente en vehículos de larga distancia, terrenos remotos y grupos electrógenos. En ciudades se prefieren motores eléctricos por economía
 
 ### Medicina Analógica
 
