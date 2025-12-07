@@ -12,7 +12,7 @@ Este documento es un adelanto de hasta dónde se llegará con la cronología, do
 
 # Año 2178: Actualidad
 
-Desde la perspectiva de la Confederación Argentina, el mundo exterior se divide bajo el prisma de la **Ley X: De la Ciudadanía y la Barbarie**. Más allá de nuestras fronteras sagradas, reina el caos de los "Salvajes", naciones que han olvidado a Dios o se han entregado a la anarquía. Sin embargo, es necesario conocer al enemigo y al vecino para cumplir con nuestro destino.
+Desde la perspectiva de la Confederación Argentina, el mundo exterior se divide bajo el prisma de la Ley X: De la Ciudadanía y la Barbarie. Más allá de nuestras fronteras sagradas, reina el caos de los "Salvajes", naciones que han olvidado a Dios o se han entregado a la anarquía. Sin embargo, es necesario conocer al enemigo y al vecino para cumplir con nuestro destino.
 
 ## Europa (o Eurasia Occidental)
 
@@ -126,7 +126,7 @@ Desde la perspectiva de la Confederación Argentina, el mundo exterior se divide
 ### Cono Sur
 
 #### Diversificación económica y social
-- Evolución hacia estructuras más equitativas y sostenibles, aunque siempre bajo la sombra de la expansión argentina dictada por la **Ley II: Del Legado de la Tierra y la Espada**.
+- Evolución hacia estructuras más equitativas y sostenibles, aunque siempre bajo la sombra de la expansión argentina dictada por la Ley II: Del Legado de la Tierra y la Espada.
 
 #### Integración regional fortalecida
 - Cooperación transnacional ante retos comunes.

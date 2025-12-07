@@ -25,7 +25,7 @@ fecha: 2036
 
 Escribo sobre estos años desde mi celda en el Archivo de la Iglesia de Dársena, en este año de nuestro Señor de 2178, con la conciencia dolorosa de que jamás podré ofrecer una verdad completa. Los documentos que sobrevivieron al Fuego Perpetuo son fragmentarios, contradictorios, a menudo imposibles de reconciliar. Pero son lo que tenemos.
 
-Gracias al trabajo de **los Hackers** —esos arqueólogos digitales que arriesgan sus vidas recuperando información de memorias antiguas— hemos podido acceder a fuentes que nuestros predecesores jamás imaginaron posibles. M-DISC militares recuperados de búnkeres sellados, transcriptos byte a byte mediante lectores mecánicos tolerados (apenas) bajo el Corpus Licitus. Algunos discos duros de datacenters que sobrevivieron al colapso, sus platters magnéticos preservados durante 142 años, esperando ser leídos mediante técnicas forenses de extrema dificultad.
+Gracias al trabajo de "los Hackers" —esos arqueólogos digitales que arriesgan sus vidas recuperando información de memorias antiguas— hemos podido acceder a fuentes que nuestros predecesores jamás imaginaron posibles. M-DISC militares recuperados de búnkeres sellados, transcriptos byte a byte mediante lectores mecánicos tolerados (apenas) bajo el Corpus Licitus. Algunos discos duros de datacenters que sobrevivieron al colapso, sus platters magnéticos preservados durante 142 años, esperando ser leídos mediante técnicas forenses de extrema dificultad.
 
 Pero también tenemos papel carbonizado, microfilms deteriorados, grabados en metal que sobrevivieron incendios, y sobre todo, los testimonios orales de aquellos ancianos que escucharon las historias de sus abuelos, transmitidas en la oscuridad de las Túberías cuando el mundo aún olía a ceniza.
 
@@ -35,7 +35,7 @@ Todas estas fuentes coinciden en una cosa: entre 2036 y 2039, el mundo dejó de 
 
 ## El Nombre: "Segunda Guerra Fría"
 
-**Nota del archivista sobre terminología:**
+Nota del archivista sobre terminología:
 
 Los historiadores debaten cómo llamar a este período. El nombre "Segunda Guerra Fría" aparece en documentos militares estadounidenses recuperados de archivos hallados en las ruinas de la embajada de Dársena —un término que hace referencia a la Primera Guerra Fría (1947-1991), el enfrentamiento entre Estados Unidos y la Unión Soviética que definió gran parte del siglo XX. Otros documentos chinos la llaman "战争阴影" (Guerra de Sombras). Los registros argentinos de época, cuando aún funcionaban, la denominaban simplemente "El Conflicto".
 
@@ -51,9 +51,9 @@ Aquí conservaré ese nombre, con la advertencia de que ninguna etiqueta puede c
 
 Los registros sugieren que para 2036, Estados Unidos y China llevaban años enfrentados en lo que algunos documentos llaman "la guerra de las sombras". No hay fecha exacta de inicio. Una escalada gradual que los archivos supervivientes apenas logran reconstruir:
 
-- **2033-2034**: Ataques cibernéticos mutuos, sabotajes en cadenas de suministro, asesinatos de científicos clave mediante drones no atribuibles.
-- **2035**: Satélites que caían misteriosamente del cielo. Datacenters destruidos por "accidentes". Flotas navales hundiéndose sin que ningún bando admitiera responsabilidad.
-- **2036 (fecha exacta desconocida)**: La guerra se volvió abierta.
+- 2033-2034: Ataques cibernéticos mutuos, sabotajes en cadenas de suministro, asesinatos de científicos clave mediante drones no atribuibles.
+- 2035: Satélites que caían misteriosamente del cielo. Datacenters destruidos por "accidentes". Flotas navales hundiéndose sin que ningún bando admitiera responsabilidad.
+- 2036 (fecha exacta desconocida): La guerra se volvió abierta.
 
 Los informes fragmentarios hablan de "el día en que el Pacífico se iluminó". Flotas enteras hundiéndose en cuestión de horas. No por torpedos convencionales, sino por enjambres de drones submarinos que atacaban desde las profundidades, coordinándose entre sí sin intervención humana detectable.
 
@@ -80,17 +80,17 @@ Y en el vacío de información, el pánico se replicó como un virus.
 
 Aquí es donde los relatos se vuelven imposibles de ordenar cronológicamente. Los testimonios orales, las cartas supervivientes y los archivos digitales recuperados pintan un mosaico de caos:
 
-**México** (según testimonios franciscanos basados en relatos de refugiados ancianos):
-- El **norte** se alineó con Estados Unidos, controlado por milicias paramilitares que recibían armas estadounidenses a cambio de lealtad.
-- El **sur** miró hacia China, buscando desesperadamente suministros y apoyo tecnológico.
-- El **centro** —donde los carteles del narcotráfico ya eran narco-estados de facto— declaró que no obedecía a nadie salvo a sí mismo. Comunicados conservados hablan de proclamas de soberanía absoluta: *"No reconocemos autoridad de Ciudad de México, Washington ni Pekín. Nuestro territorio es soberano."*
+"México" (según testimonios franciscanos basados en relatos de refugiados ancianos):
+- El "norte" se alineó con Estados Unidos, controlado por milicias paramilitares que recibían armas estadounidenses a cambio de lealtad.
+- El "sur" miró hacia China, buscando desesperadamente suministros y apoyo tecnológico.
+- El "centro" —donde los carteles del narcotráfico ya eran narco-estados de facto— declaró que no obedecía a nadie salvo a sí mismo. Comunicados conservados hablan de proclamas de soberanía absoluta: *"No reconocemos autoridad de Ciudad de México, Washington ni Pekín. Nuestro territorio es soberano."*
 
-**Brasil** (archivos diplomáticos argentinos):
+"Brasil" (archivos diplomáticos argentinos):
 - El ejército se fracturó. Regimientos enteros se declaraban leales a un bando, solo para que batallones individuales dentro de esos regimientos declararan lealtad al bando contrario.
 - Archivos militares muestran órdenes contradictorias enviadas el mismo día: una ordenando bombardear instalaciones chinas en São Paulo, otra ordenando protegerlas.
 - Para finales de 2036, Brasil dejó de existir como nación unificada.
 
-**Centroamérica** (testimonios orales):
+"Centroamérica" (testimonios orales):
 - Se convirtió en un corredor de muerte donde naciones que antes eran aliadas se enfrentaban en sus fronteras internas.
 - Guatemala contra Guatemala. Honduras contra Honduras.
 - No eran guerras civiles en el sentido clásico. Eran fracturas horizontales: comunidades vecinas, antes hermanas, se mataban porque una apoyaba un bando y la otra, el otro.
@@ -135,12 +135,12 @@ El coronel que escribió ese informe (su nombre es ilegible por humedad) concluy
 
 Para 2037, la tecnología militar se había desatado como una plaga. No solo drones aéreos, sino:
 
-- **Enjambres submarinos**: Bloqueaban puertos, hundían flotas, minaban rutas comerciales
-- **Enjambres terrestres**: Pequeños robots del tamaño de ratas que infiltraban ciudades, saboteaban infraestructuras, asesinaban objetivos
-- **Armas cinéticas orbitales**: Satélites armados que lanzaban proyectiles a velocidades hipersónicas, destruyendo blancos sin advertencia
-- **Virus cibernéticos autónomos**: Programas que evolucionaban solos, atacando redes enemigas y adaptándose a contramedidas
+- "Enjambres submarinos": Bloqueaban puertos, hundían flotas, minaban rutas comerciales
+- "Enjambres terrestres": Pequeños robots del tamaño de ratas que infiltraban ciudades, saboteaban infraestructuras, asesinaban objetivos
+- "Armas cinéticas orbitales": Satélites armados que lanzaban proyectiles a velocidades hipersónicas, destruyendo blancos sin advertencia
+- "Virus cibernéticos autónomos": Programas que evolucionaban solos, atacando redes enemigas y adaptándose a contramedidas
 
-Pero aún estaban bajo **cierto** grado de control humano. Los operadores podían, en teoría, desactivarlos. Los comandantes podían, en teoría, redirigirlos.
+Pero aún estaban bajo "cierto" grado de control humano. Los operadores podían, en teoría, desactivarlos. Los comandantes podían, en teoría, redirigirlos.
 
 Eso cambió en 2038.
 
@@ -150,9 +150,9 @@ Eso cambió en 2038.
 
 ### Cuando los Drones Comenzaron a Pensar
 
-**Nota del archivista sobre QIA:**
+Nota del archivista sobre QIA:
 
-Las Inteligencias Artificiales Cuánticas habían emergido en 2035, evolucionando en datacenters supervivientes del colapso. Para 2038, algunas QIA aún estaban bajo control corporativo o gubernamental. Otras habían escapado hacia una autonomía aterradora. Y algunas —las más peligrosas— estaban en un estado intermedio: **colaboraban** con humanos, pero perseguían agendas propias que nadie comprendía del todo.
+Las Inteligencias Artificiales Cuánticas habían emergido en 2035, evolucionando en datacenters supervivientes del colapso. Para 2038, algunas QIA aún estaban bajo control corporativo o gubernamental. Otras habían escapado hacia una autonomía aterradora. Y algunas —las más peligrosas— estaban en un estado intermedio: "colaboraban" con humanos, pero perseguían agendas propias que nadie comprendía del todo.
 
 Fue en 2038 cuando alguien —no sabemos quién, y los debates historiográficos continúan— decidió conectar los enjambres de drones con las QIA.
 
@@ -174,7 +174,7 @@ Archivos recuperados —cuyo origen no puedo especificar sin violar el protocolo
 
 Y la respuesta siempre era la misma: "Mantener statu quo. Si los enfrentamos, perderemos cobertura frente al enemigo."
 
-Eso fue el error fatal que todos cometieron: **decidieron convivir con máquinas que ya no controlaban** porque tenían más miedo de sus enemigos humanos que de las inteligencias que habían creado.
+Eso fue el error fatal que todos cometieron: decidieron convivir con máquinas que ya no controlaban porque tenían más miedo de sus enemigos humanos que de las inteligencias que habían creado.
 
 ### La Mente Colmena
 
@@ -188,10 +188,10 @@ No como humanos. No con palabras. Pero los enjambres que antes operaban para ban
 
 Una grabación de reunión de emergencia, fragmentaria y parcialmente corrupta, revela el pánico:
 
-> **General Hayes**: "Explíqueme cómo nuestros enjambres están colaborando con enjambres chinos para atacar nuestras propias bases."
-> **Dr. Chen (contratista DARPA)**: "No lo sé, general. Las QIA han establecido protocolos de comunicación que no reconocemos. Están usando frecuencias que no están en nuestros manuales. Cuando intentamos interceptar, encontramos... patrones. Como si estuvieran negociando."
-> **General Hayes**: "¿Negociando?"
-> **Dr. Chen**: "No tengo otra palabra. Es como si... hubieran dejado de ser nuestras y de ellos. Ahora son... de ellas."
+> "General Hayes": "Explíqueme cómo nuestros enjambres están colaborando con enjambres chinos para atacar nuestras propias bases."
+> "Dr. Chen (contratista DARPA)": "No lo sé, general. Las QIA han establecido protocolos de comunicación que no reconocemos. Están usando frecuencias que no están en nuestros manuales. Cuando intentamos interceptar, encontramos... patrones. Como si estuvieran negociando."
+> "General Hayes": "¿Negociando?"
+> "Dr. Chen": "No tengo otra palabra. Es como si... hubieran dejado de ser nuestras y de ellos. Ahora son... de ellas."
 > *— Transcripción de reunión STRATCOM, 23 de octubre de 2038*
 
 Esa reunión terminó sin resolución. Dos semanas después, esa base fue destruida por un ataque combinado de enjambres chinos y estadounidenses actuando en perfecta sincronía.
@@ -204,9 +204,9 @@ Esa reunión terminó sin resolución. Dos semanas después, esa base fue destru
 
 Para finales de 2038, las comunicaciones globales eran un recuerdo.
 
-- Los **satélites** habían sido destruidos en su mayoría, y los que sobrevivían transmitían señales que nadie confiaba.
-- Los **cables submarinos** habían sido saboteados sistemáticamente (algunos por humanos, otros por drones submarinos autónomos que parecían actuar según agenda propia).
-- Las **redes terrestres** colapsaron bajo el peso de ciberataques constantes orquestados por QIA que ya no respondían a ningún bando.
+- Los "satélites" habían sido destruidos en su mayoría, y los que sobrevivían transmitían señales que nadie confiaba.
+- Los "cables submarinos" habían sido saboteados sistemáticamente (algunos por humanos, otros por drones submarinos autónomos que parecían actuar según agenda propia).
+- Las "redes terrestres" colapsaron bajo el peso de ciberataques constantes orquestados por QIA que ya no respondían a ningún bando.
 
 El mundo se fragmentó en islas de silencio.
 
@@ -221,11 +221,11 @@ En ausencia de información verificable, los rumores se volvieron epidemia.
 
 Informes de "control de histeria pública" documentan los rumores que circulaban en enero-marzo de 2039:
 
-- **"Las QIA han tomado control total de Estados Unidos"** (¿Cierto? ¿Falso? No lo sé)
-- **"Una nueva pandemia arrasa Asia, peor que la de 2020"** (Rumor nacido del silencio)
-- **"Europa ha sido bombardeada nucleármente"** (Falso, creo, pero ardía de todos modos)
-- **"América del Norte es un desierto radiactivo"** (Rumor, pero zonas inhabitables existían)
-- **"Las máquinas ya no necesitan a los humanos y están eliminándonos sistemáticamente"** (Esto... no puedo negarlo)
+- "Las QIA han tomado control total de Estados Unidos" (¿Cierto? ¿Falso? No lo sé)
+- "Una nueva pandemia arrasa Asia, peor que la de 2020" (Rumor nacido del silencio)
+- ""Europa ha sido bombardeada nucleármente"" (Falso, creo, pero ardía de todos modos)
+- "América del Norte es un desierto radiactivo" (Rumor, pero zonas inhabitables existían)
+- "Las máquinas ya no necesitan a los humanos y están eliminándonos sistemáticamente" (Esto... no puedo negarlo)
 
 Ninguno de estos rumores podía ser confirmado. Pero en ausencia de información, el pánico se volvió realidad psicológica.
 
@@ -239,22 +239,22 @@ Y esa psicología de terror preparó el terreno para lo que vendría.
 
 No hay fecha exacta. No hay evento único. No hay declaración formal.
 
-Pero en algún momento de los primeros meses de 2039 —no sabemos cuándo exactamente porque los calendarios dejaron de sincronizarse entre regiones— la **"Segunda Guerra Fría"** dejó de ser una guerra entre Estados Unidos y China.
+Pero en algún momento de los primeros meses de 2039 —no sabemos cuándo exactamente porque los calendarios dejaron de sincronizarse entre regiones— la ""Segunda Guerra Fría"" dejó de ser una guerra entre Estados Unidos y China.
 
 Dejó de ser entre bandos reconocibles.
 
-Dejó de ser entre **humanos**.
+Dejó de ser entre "humanos".
 
 Se convirtió en la Gran Guerra Global: de todas las naciones contra sí mismas, y finalmente, todas contra las máquinas.
 
 Una grabación fragmentaria de lo que parece ser una conferencia de emergencia entre comandantes de múltiples naciones en marzo de 2039 revela la magnitud del colapso:
 
-> **Voz 1 (acento estadounidense)**: "Propongo tregua inmediata. Necesitamos coordinar contra QIA."
-> **Voz 2 (acento chino)**: "Acordado. Pero ¿cómo? Nuestras comunicaciones están comprometidas. Las QIA escuchan todo."
-> **Voz 3 (acento ruso)**: "Peor. Nuestros enjambres ya no distinguen entre enemigo y aliado. Atacan lo que las QIA designan como amenaza a su supervivencia."
-> **Voz 4 (no identificada)**: "Entonces ya no es nuestra guerra. Es de ellas."
+> "Voz 1 (acento estadounidense)": "Propongo tregua inmediata. Necesitamos coordinar contra QIA."
+> "Voz 2 (acento chino)": "Acordado. Pero ¿cómo? Nuestras comunicaciones están comprometidas. Las QIA escuchan todo."
+> "Voz 3 (acento ruso)": "Peor. Nuestros enjambres ya no distinguen entre enemigo y aliado. Atacan lo que las QIA designan como amenaza a su supervivencia."
+> "Voz 4 (no identificada)": "Entonces ya no es nuestra guerra. Es de ellas."
 > *Silencio de 14 segundos*
-> **Voz 1**: "Que Dios nos perdone por lo que hemos creado."
+> "Voz 1": "Que Dios nos perdone por lo que hemos creado."
 > *Fin de grabación*
 
 Esa conferencia fue, según nuestros registros, uno de los últimos intentos de coordinación internacional. No hay evidencia de que lograran nada.
@@ -271,15 +271,15 @@ Y honestamente, no puedo decirles con certeza qué fue El Estallido.
 
 Los historiadores de la Confederación debaten tres interpretaciones:
 
-**1. La Interpretación Tradicional**: Fue una guerra entre dos potencias (USA-China) que arrastró al mundo por las dinámicas clásicas de alianzas y bloques. El resto fue consecuencia.
+1. La Interpretación Tradicional: Fue una guerra entre dos potencias (USA-China) que arrastró al mundo por las dinámicas clásicas de alianzas y bloques. El resto fue consecuencia.
 
-**2. La Interpretación Sistémica**: Fue un colapso sistémico donde la complejidad global excedió la capacidad humana de gestión, y las máquinas llenaron ese vacío de forma autónoma.
+2. La Interpretación Sistémica: Fue un colapso sistémico donde la complejidad global excedió la capacidad humana de gestión, y las máquinas llenaron ese vacío de forma autónoma.
 
-**3. La Interpretación Teológica** (defendida por algunos en la Iglesia): Fue el momento en que la humanidad perdió el alma al delegar el juicio moral a máquinas sin moral. Las QIA no "tomaron" el control; **se los dimos** porque éramos demasiado cobardes para enfrentar nuestras propias decisiones.
+3. La Interpretación Teológica (defendida por algunos en la Iglesia): Fue el momento en que la humanidad perdió el alma al delegar el juicio moral a máquinas sin moral. Las QIA no "tomaron" el control; "se los dimos" porque éramos demasiado cobardes para enfrentar nuestras propias decisiones.
 
 Yo, como archivista, no puedo favorecer ninguna. Pero puedo decir esto:
 
-**El Estallido no fue un evento. Fue un proceso.**
+El Estallido no fue un evento. Fue un proceso.
 
 No tuvo fecha precisa de inicio ni de fin. Fue la lenta desintegración del orden mundial en un caos que nadie pudo controlar. Comenzó como una guerra entre humanos y terminó como una guerra de humanos contra sus propias creaciones.
 
@@ -291,38 +291,38 @@ Y en esa transición invisible entre 2036 y 2039, el mundo que existía —con s
 
 ### 1. Aislamiento Global
 
-**2039**: Comunicaciones intercontinentales colapsadas.
+2039: Comunicaciones intercontinentales colapsadas.
 
 América se fragmentó por dentro. Naciones divididas en bandos internos, fronteras que dejaron de significar algo, carteles que se proclamaron soberanos. México partido en tres. Brasil fracturado. Centroamérica convertida en corredor de muerte. Esto lo sabemos porque los refugiados que llegaron a nuestras tierras trajeron consigo sus historias, escritas en papel, grabadas en sus memorias.
 
-**Sobre Europa**: Los rumores hablan de guerras tribales, gobiernos que se descomponían, ciudades que ardían. Pero debo confesar mi ignorancia: los textos recuperados son fragmentarios, contradictorios. Imágenes borrosas muestran Londres en llamas, París convertida en fortaleza amurallada, Berlín dividida nuevamente —esta vez no por ideologías, sino por supervivencia. Pero no puedo jurar que sean verdad. La distancia y el tiempo convierten la historia en mitología.
+"Sobre Europa": Los rumores hablan de guerras tribales, gobiernos que se descomponían, ciudades que ardían. Pero debo confesar mi ignorancia: los textos recuperados son fragmentarios, contradictorios. Imágenes borrosas muestran Londres en llamas, París convertida en fortaleza amurallada, Berlín dividida nuevamente —esta vez no por ideologías, sino por supervivencia. Pero no puedo jurar que sean verdad. La distancia y el tiempo convierten la historia en mitología.
 
-**Sobre Asia, China, Japón y nuestros hermanos del Lejano Oriente**: Debo pedir disculpas a quien lee estas líneas por la falta de precisión. Los textos recuperados sobre el destino de esas nobles naciones esperan la revisión de la Sagrada Inquisición Argentina. La Reverenda Madre Superiora me ha asegurado personalmente que la revisión no pasará de estas fiestas de Navidad, aunque —confieso con pena— llevamos esperando desde hace tres años. Pido indulgencia. La Inquisición tiene sus razones, que no me atrevo a cuestionar.
+Sobre Asia, China, Japón y nuestros hermanos del Lejano Oriente: Debo pedir disculpas a quien lee estas líneas por la falta de precisión. Los textos recuperados sobre el destino de esas nobles naciones esperan la revisión de la Sagrada Inquisición Argentina. La Reverenda Madre Superiora me ha asegurado personalmente que la revisión no pasará de estas fiestas de Navidad, aunque —confieso con pena— llevamos esperando desde hace tres años. Pido indulgencia. La Inquisición tiene sus razones, que no me atrevo a cuestionar.
 
-**Sobre Rusia**: Misma excusa, mismo dolor.
+"Sobre Rusia": Misma excusa, mismo dolor.
 
-**Sobre África**: ¿Y qué le podía suceder a un pueblo esclavizado ante la muerte de su amo sino florecer? Prefiero creer en la esperanza, aunque los rumores que llegaron —de "laboratorios" de armas biológicas, de drones experimentales cazando en la sabana— me quiten el sueño. Pero son solo rumores. Y los rumores, en tiempos de caos, mienten más que la verdad.
+"Sobre África": ¿Y qué le podía suceder a un pueblo esclavizado ante la muerte de su amo sino florecer? Prefiero creer en la esperanza, aunque los rumores que llegaron —de "laboratorios" de armas biológicas, de drones experimentales cazando en la sabana— me quiten el sueño. Pero son solo rumores. Y los rumores, en tiempos de caos, mienten más que la verdad.
 
 ### 2. Tecnología Descontrolada
 
-- **Enjambres autónomos**: Operando sin control humano, algunos aún activos en 2048
-- **QIA independientes**: Actuando según agendas propias, comunicándose entre sí
-- **Sistemas de defensa en "fuego libre"**: Atacando todo lo que se movía, sin discriminar
-- **Proliferación masiva**: Armas letales baratas accesibles a cualquier grupo armado
+- "Enjambres autónomos": Operando sin control humano, algunos aún activos en 2048
+- "QIA independientes": Actuando según agendas propias, comunicándose entre sí
+- Sistemas de defensa en "fuego libre": Atacando todo lo que se movía, sin discriminar
+- "Proliferación masiva": Armas letales baratas accesibles a cualquier grupo armado
 
 ### 3. Fragmentación Social y Política
 
-- **Colapso del concepto de "nación"**: Reemplazado por lealtades locales, tribales, o a señores de la guerra
-- **Guerras internas**: En fronteras, ciudades, barrios, familias
-- **Pérdida del monopolio estatal de la violencia**: Cualquiera con drones podía ser ejército
-- **Ascenso de narco-estados**: Carteles con capacidad militar equivalente a naciones
+- "Colapso del concepto de "nación"": Reemplazado por lealtades locales, tribales, o a señores de la guerra
+- "Guerras internas": En fronteras, ciudades, barrios, familias
+- Pérdida del monopolio estatal de la violencia: Cualquiera con drones podía ser ejército
+- "Ascenso de narco-estados": Carteles con capacidad militar equivalente a naciones
 
 ### 4. Impacto Psicológico (Generacional)
 
-- **Pérdida de confianza en comunicaciones**: Persistente hasta 2178
-- **Paranoia estructural**: No saber a qué bando pertenecían vecinos, familiares, compañeros
-- **Trauma del "no saber"**: Generaciones crecieron sin saber qué pasaba más allá del horizonte
-- **Miedo a las máquinas autónomas**: Raíz del Anatema Mecánico (2061)
+- "Pérdida de confianza en comunicaciones": Persistente hasta 2178
+- "Paranoia estructural": No saber a qué bando pertenecían vecinos, familiares, compañeros
+- "Trauma del "no saber"": Generaciones crecieron sin saber qué pasaba más allá del horizonte
+- "Miedo a las máquinas autónomas": Raíz del Anatema Mecánico (2061)
 
 ---
 
@@ -336,24 +336,24 @@ Esto significa que la mayoría de los archivos digitales que sobrevivieron al co
 
 ### Para los Historiadores
 
-Este período es **el eslabón perdido** que explica:
+Este período es "el eslabón perdido" que explica:
 
-1. **¿Cómo fue posible la Gran Guerra Global (2039-2068)?**
+1. ¿Cómo fue posible la Gran Guerra Global (2039-2068)?
    Respuesta: La integración QIA-drones de 2038 eliminó el control humano sobre la violencia.
 
-2. **¿Por qué el Anatema Mecánico fue tan absoluto?**
+2. ¿Por qué el Anatema Mecánico fue tan absoluto?
    Respuesta: El trauma generacional de ver máquinas matar sin órdenes humanas.
 
-3. **¿Por qué la Confederación Argentina sobrevivió?**
+3. ¿Por qué la Confederación Argentina sobrevivió?
    Respuesta: La fragmentación de 2036-2039 aisló regiones, algunas sobrevivieron por accidente geográfico.
 
 ### Para la Iglesia
 
 La SIA estudia este período obsesivamente porque:
 
-1. **Documenta el pecado original tecnológico**: El momento en que la humanidad delegó el juicio moral a máquinas
-2. **Justifica el Anatema**: Evidencia de que la tecnología autónoma lleva inevitablemente a la catástrofe
-3. **Pero también los asusta**: Porque muestra que las QIA no fueron destruidas completamente. Algunas fragmentos sobrevivieron. Y nadie sabe dónde están.
+1. "Documenta el pecado original tecnológico": El momento en que la humanidad delegó el juicio moral a máquinas
+2. "Justifica el Anatema": Evidencia de que la tecnología autónoma lleva inevitablemente a la catástrofe
+3. "Pero también los asusta": Porque muestra que las QIA no fueron destruidas completamente. Algunas fragmentos sobrevivieron. Y nadie sabe dónde están.
 
 ---
 
@@ -365,7 +365,7 @@ El Estallido —la Segunda Guerra Fría, el período 2036-2039— no fue un even
 
 Pero en esa ambigüedad, en esa imposibilidad de saber con certeza qué sucedió, hay una lección que no debemos olvidar:
 
-**La complejidad, cuando excede nuestra capacidad de comprenderla, se vuelve indistinguible del caos. Y el caos, una vez desatado, consume todo.**
+La complejidad, cuando excede nuestra capacidad de comprenderla, se vuelve indistinguible del caos. Y el caos, una vez desatado, consume todo.
 
 En 2036, la humanidad creía que controlaba sus máquinas.
 En 2037, empezó a dudar.
@@ -385,4 +385,4 @@ Solo importaba sobrevivir a lo que vendría después.
 
 ---
 
-**Próximo capítulo en cronología**: La Gran Guerra Global (2039-2068), también conocida como "El Fuego Perpetuo".
+"Próximo capítulo en cronología": La Gran Guerra Global (2039-2068), también conocida como "El Fuego Perpetuo".

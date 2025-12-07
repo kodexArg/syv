@@ -41,7 +41,7 @@ Este índice agrupa a las facciones y grupos de menor escala o influencia que op
 
 ## Información Secreta
 
-**IMPORTANTE**: La siguiente información no debe ser expuesta a jugadores.
+"IMPORTANTE": La siguiente información no debe ser expuesta a jugadores.
 
 - Algunas de estas facciones mantienen alianzas o rivalidades ocultas no documentadas públicamente.
 

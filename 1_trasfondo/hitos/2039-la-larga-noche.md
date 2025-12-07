@@ -23,11 +23,11 @@ fecha: 2039
 
 Escribo estas líneas con la humildad de quien sabe que miente sin querer. No porque desee engañar, sino porque la verdad se me escapa entre los dedos como arena.
 
-El año 2039 marca el inicio de lo que llamamos la **Gran Guerra Global**, el **Fuego Perpetuo** que ardería durante veintinueve años. Pero no puedo decirles cuándo comenzó exactamente. No hay fecha. No hay evento único. No hay declaración formal de guerra.
+El año 2039 marca el inicio de lo que llamamos la "Gran Guerra Global", el "Fuego Perpetuo" que ardería durante veintinueve años. Pero no puedo decirles cuándo comenzó exactamente. No hay fecha. No hay evento único. No hay declaración formal de guerra.
 
 Solo sé esto: en algún momento de los primeros meses de 2039, las comunicaciones intercontinentales —ya degradadas, ya moribundas— dejaron de existir del todo. Y el mundo, fragmentado en islas de silencio, se hundió en una oscuridad de la que jamás emergería igual.
 
-A esto le llamo **La Larga Noche**. No porque duró una sola noche, sino porque fue la primera noche en que nadie, en ninguna parte, sabía qué estaba sucediendo más allá del horizonte.
+A esto le llamo "La Larga Noche". No porque duró una sola noche, sino porque fue la primera noche en que nadie, en ninguna parte, sabía qué estaba sucediendo más allá del horizonte.
 
 Y esa ignorancia nos mataría a millones.
 

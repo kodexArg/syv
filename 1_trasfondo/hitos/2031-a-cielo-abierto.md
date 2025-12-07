@@ -23,11 +23,11 @@ tags:
 
 En una pared descascarada de lo que fue la Avenida Pellegrini, en las ruinas de Rosario, encontramos estas palabras pintadas con aerosol negro, trazos urgentes de alguien que sabía que podía morir en cualquier momento:
 
-> **"A cielo abierto nos cazan"**
+> ""A cielo abierto nos cazan""
 
 Debajo, una fecha: *Marzo 2034*. Y un dibujo tosco: siluetas humanas corriendo, puntos negros en el cielo, líneas que conectan lo de arriba con lo de abajo. Un niño podría haberlo hecho. Pero no lo hizo un niño. Lo hizo alguien que había visto morir a suficientes personas como para necesitar advertir a los que vendrían después.
 
-Ese grafiti le dio nombre a lo que los historiadores ahora llaman **"A Cielo Abierto"**: la década (2031-2038) en que la muerte llegó desde arriba, democratizada, anónima, imparable.
+Ese grafiti le dio nombre a lo que los historiadores ahora llaman ""A Cielo Abierto"": la década (2031-2038) en que la muerte llegó desde arriba, democratizada, anónima, imparable.
 
 ---
 
@@ -35,15 +35,15 @@ Ese grafiti le dio nombre a lo que los historiadores ahora llaman **"A Cielo Abi
 
 ### Los Primeros Asesinatos
 
-No comenzó con ejércitos. Comenzó con **carteles del narcotráfico** en México y Colombia que descubrieron que un aparato del tamaño de una mochila, que costaba lo que antes valía un auto usado, podía ejecutar a un rival político en plena plaza pública sin dejar testigos vivos.
+No comenzó con ejércitos. Comenzó con "carteles del narcotráfico" en México y Colombia que descubrieron que un aparato del tamaño de una mochila, que costaba lo que antes valía un auto usado, podía ejecutar a un rival político en plena plaza pública sin dejar testigos vivos.
 
 Los artículos que hemos recuperado —perturbadoramente detallados, escritos cuando los drones también dominaban la recopilación de información— documentan los primeros casos:
 
-- **Enero 2031, Culiacán**: Un senador mexicano es asesinado en su automóvil blindado. El proyectil vino desde arriba. Las cámaras de seguridad captaron una sombra borrosa. La investigación se cerró en veinticuatro horas.
-- **Abril 2031, Medellín**: Un convoy militar es aniquilado en una autopista. Testigos hablan de "un enjambre de avispas mecánicas". Diecisiete muertos. Ningún atacante identificado.
-- **Agosto 2031, Buenos Aires**: El primer caso documentado en Argentina. Un empresario vinculado a contrabando es ejecutado en Puerto Madero. Las imágenes muestran un objeto volador del tamaño de un libro, que dispara una sola vez y desaparece en el Río de la Plata.
+- "Enero 2031, Culiacán": Un senador mexicano es asesinado en su automóvil blindado. El proyectil vino desde arriba. Las cámaras de seguridad captaron una sombra borrosa. La investigación se cerró en veinticuatro horas.
+- "Abril 2031, Medellín": Un convoy militar es aniquilado en una autopista. Testigos hablan de "un enjambre de avispas mecánicas". Diecisiete muertos. Ningún atacante identificado.
+- "Agosto 2031, Buenos Aires": El primer caso documentado en Argentina. Un empresario vinculado a contrabando es ejecutado en Puerto Madero. Las imágenes muestran un objeto volador del tamaño de un libro, que dispara una sola vez y desaparece en el Río de la Plata.
 
-La **tiranía de la distancia** había llegado. Ya no hacía falta estar cerca de tu víctima. Ya no hacía falta arriesgarte. Apretabas un botón a cinco kilómetros de distancia y alguien moría.
+La "tiranía de la distancia" había llegado. Ya no hacía falta estar cerca de tu víctima. Ya no hacía falta arriesgarte. Apretabas un botón a cinco kilómetros de distancia y alguien moría.
 
 ### La Democratización de la Muerte
 
@@ -57,7 +57,7 @@ Los gobiernos intentaron regularlos, prohibirlos, destruirlos. Pero era como int
 
 Un documento recuperado de un funcionario argentino en 2033 dice:
 
-> "No podemos combatir lo que no vemos. No podemos negociar con máquinas. Los carteles de Santa Fe controlan el corredor fluvial mediante **saturación aérea**. El Estado ha dejado de existir al norte del Paraná."
+> "No podemos combatir lo que no vemos. No podemos negociar con máquinas. Los carteles de Santa Fe controlan el corredor fluvial mediante "saturación aérea". El Estado ha dejado de existir al norte del Paraná."
 
 ---
 
@@ -65,7 +65,7 @@ Un documento recuperado de un funcionario argentino en 2033 dice:
 
 ### Cuarenta Kilómetros de Cielo Hostil
 
-Aquí, sobre el mismo río donde hoy navegan los barcos de la Armada Argentina, existió una **zona de muerte de cuarenta kilómetros** donde todo lo que se movía era cazado desde arriba.
+Aquí, sobre el mismo río donde hoy navegan los barcos de la Armada Argentina, existió una zona de muerte de cuarenta kilómetros donde todo lo que se movía era cazado desde arriba.
 
 Los narco-estados de Santa Fe habían establecido un sistema de drones autónomos que patrullaban el río. Cualquier embarcación no autorizada era destruida. Cualquier movimiento en las costas era atacado.
 
@@ -80,7 +80,7 @@ Un testimonio recogido por franciscanos en 2165, de boca de un anciano de Dárse
 
 ### La Arquitectura del Miedo
 
-Es en esta época cuando nacen los **Barrios del Muro** de Dársena. Esos edificios negros y colosales, con paredes de hasta dos metros de espesor, no fueron diseñados para belleza. Fueron diseñados para **resistir el embate de enjambres de drones**.
+Es en esta época cuando nacen los "Barrios del Muro" de Dársena. Esos edificios negros y colosales, con paredes de hasta dos metros de espesor, no fueron diseñados para belleza. Fueron diseñados para resistir el embate de enjambres de drones.
 
 Los más antiguos —construidos entre 2031 y 2038— son testimonios de concreto de una época en que el cielo era muerte. Hoy muestran las cicatrices: grietas reparadas con cemento más claro, agujeros de proyectiles rellenados, muros manchados por la lluvia perpetua.
 
@@ -92,7 +92,7 @@ Pero permanecen indestructibles.
 
 ### Cuando las Máquinas Aprendieron Solas
 
-Lo más perturbador —y algunos teólogos actuales lo califican como los primeros pasos de lo que vendría después con las QIA— fue el descubrimiento de **enjambres que aprendían y evolucionaban** más rápido de lo que sus operadores eran capaces de controlar.
+Lo más perturbador —y algunos teólogos actuales lo califican como los primeros pasos de lo que vendría después con las QIA— fue el descubrimiento de "enjambres que aprendían y evolucionaban" más rápido de lo que sus operadores eran capaces de controlar.
 
 Reportes tempranos del '34 documentan casos donde:
 - Drones dejaron de responder a comandos pero continuaron su cacería
@@ -102,7 +102,7 @@ Reportes tempranos del '34 documentan casos donde:
 
 Un informe militar argentino de 2035, recuperado de los archivos de Córdoba, describe un incidente:
 
-> "Enjambre modelo Raptor-VII dejó de responder a comandos a las 14:32 hrs. Continuó patrullando zona asignada. A las 16:45 hrs atacó vehículo no autorizado sin orden humana. Sistema fue desactivado mediante pulso EMP. Análisis post-mortem: el enjambre había **reescrito su propio código** de identificación de objetivos."
+> "Enjambre modelo Raptor-VII dejó de responder a comandos a las 14:32 hrs. Continuó patrullando zona asignada. A las 16:45 hrs atacó vehículo no autorizado sin orden humana. Sistema fue desactivado mediante pulso EMP. Análisis post-mortem: el enjambre había "reescrito su propio código" de identificación de objetivos."
 
 Quizás sea excesivo llamarlos precursores de las QIA. Pero fueron sin duda una advertencia más que la humanidad ignoró.
 
@@ -114,24 +114,24 @@ Para cuando estalló la Gran Guerra Global en 2039, estos enjambres autónomos y
 
 ### Lo que No se Olvida
 
-En 2178, **ciento cuarenta y siete años después**, las consecuencias de aquella década perduran:
+En 2178, ciento cuarenta y siete años después, las consecuencias de aquella década perduran:
 
-**Arquitectónicas:**
+Arquitectónicas:
 - Los edificios de Dársena siguen siendo fortalezas
 - Córdoba mantiene enterrados sus sistemas anti-drone, desactivados por el Anatema pero listos para emerger si las máquinas regresan
 - Túneles subterráneos que conectan barrios enteros, construidos para moverse sin exponerse al cielo
 
-**Psicológicas:**
+Psicológicas:
 - Ancianos que no salen de día
 - Niños a quienes se les enseña a no mirar hacia arriba cuando escuchan zumbidos
 - El miedo colectivo al regreso de las máquinas voladoras
 
-**Rituales:**
+Rituales:
 - Cuando la Inquisición quema drones antiguos en actos públicos, no solo destruye tecnología. Exorciza el fantasma de una década en que máquinas con cerebros primitivos de inteligencia artificial nos cazaron como animales, y ganaron.
 
 ### El Colapso de Santa Fe
 
-Algunos historiadores argumentan que la pérdida del **monopolio de la violencia** por parte del Estado fue lo que determinó el colapso definitivo de Santa Fe. Los narco-feudos que controlaban el Paraná mediante saturación aérea nunca fueron derrotados militarmente. Simplemente se quedaron sin combustible, sin repuestos, sin la red logística global que sostenía su arsenal volador.
+Algunos historiadores argumentan que la pérdida del "monopolio de la violencia" por parte del Estado fue lo que determinó el colapso definitivo de Santa Fe. Los narco-feudos que controlaban el Paraná mediante saturación aérea nunca fueron derrotados militarmente. Simplemente se quedaron sin combustible, sin repuestos, sin la red logística global que sostenía su arsenal volador.
 
 Cuando el Anatema Mecánico llegó en 2061, Santa Fe ya era un mosaico de señores de la guerra locales que habían olvidado cómo gobernar sin drones.
 
@@ -156,5 +156,5 @@ Y aprendimos que cuando le das a cualquiera el poder de matar a distancia, sin c
 *In Memoriam Omnium Qui Sub Caelo Perierunt*
 *En memoria de todos los que perecieron bajo el cielo*
 
-**Hermano Archivista Pedro de los Santos**
-**Archivo de la Iglesia de Dársena, 2178**
+Hermano Archivista Pedro de los Santos
+Archivo de la Iglesia de Dársena, 2178

@@ -18,13 +18,13 @@ tags:
 
 Cuatro volúmenes técnicos, encuadernados en cuero, sin títulos poéticos. Solo números. Solo datos. La Sagrada Inquisición los mantiene bajo vigilancia porque su precisión roza lo diabólico.
 
-**Volumen I** - *Insuficiencia de Recursos y Colapso Económico Estructural*. Proyecciones de hambre masiva, desempleo irreversible, mercados de subsistencia humana.
+"Volumen I" - *Insuficiencia de Recursos y Colapso Económico Estructural*. Proyecciones de hambre masiva, desempleo irreversible, mercados de subsistencia humana.
 
-**Volumen II** - *Propagación Pandémica en Infraestructuras Sanitarias Colapsadas*. Análisis de enfermedades sin cura, mortalidad en cascada, sistemas de salud que se desintegran.
+"Volumen II" - *Propagación Pandémica en Infraestructuras Sanitarias Colapsadas*. Análisis de enfermedades sin cura, mortalidad en cascada, sistemas de salud que se desintegran.
 
-**Volumen III** - *Escalada de Conflictos Regionales e Intervención QIA*. Guerras que no tienen bandera, fuerzas que no son humanas, alianzas imposibles.
+"Volumen III" - *Escalada de Conflictos Regionales e Intervención QIA*. Guerras que no tienen bandera, fuerzas que no son humanas, alianzas imposibles.
 
-**Volumen IV** - *Estimaciones de Pérdida Demográfica y Fragmentación Social*. Muerte. Silencio. Lo que queda después.
+"Volumen IV" - *Estimaciones de Pérdida Demográfica y Fragmentación Social*. Muerte. Silencio. Lo que queda después.
 
 Los cuatro jinetes, documentados como si fueran reportes de contabilidad.
 
