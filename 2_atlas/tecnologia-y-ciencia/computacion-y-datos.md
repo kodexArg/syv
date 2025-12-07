@@ -38,5 +38,5 @@ El uso de computadores se limita a oficinas gubernamentales, centros de investig
 La paranoia en torno a la información digital define la seguridad de los datos en Dársena. La transmisión inalámbrica de datos críticos está prohibida.
 
 -   **Medios Físicos**: La información sensible se transporta en medios físicos seguros como **microfilmes**, **discos ópticos especializados** o **tarjetas de circuitos impresos** con información codificada.
--   **Seguridad Física y Criptografía Manual**: La confianza recae en la seguridad física de los soportes y en la habilidad de los **Criptógrafos** para cifrar y descifrar la información. Aunque algunos son perseguidos, los mejores son reclutados por el Estado para proteger sus secretos.
+-   **Seguridad Física y Criptografía Manual**: La confianza recae en la seguridad física de los soportes y en la habilidad de los **Criptógrafos** para cifrar y descifrar la información. Aunque algunos son perseguidos, los mejores son reclutados por el Estado —especialmente por el Scriptorium de Criptoanálisis de la Iglesia y las unidades de inteligencia militar— para proteger sus secretos.
 

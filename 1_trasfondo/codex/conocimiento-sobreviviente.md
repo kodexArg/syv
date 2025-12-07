@@ -24,7 +24,7 @@ Escribo estas líneas como custodio de lo que queda. Mi celda en el Archivo de l
 
 La respuesta, como descubriré en este inventario, es a la vez reconfortante y desesperante. Sabemos mucho de los siglos antiguos — del Imperio Romano, de la Conquista de América, de las guerras mundiales del siglo XX. Pero existe un agujero negro en nuestro conocimiento, una época donde la humanidad escribió su historia en luz y electrones, confiando ciegamente en que esas memorias serían eternas. No lo fueron.
 
-Cuento con la ayuda de un colega improbable: el hermano Tomás Ferreyra, un criptógrafo que la Inquisición "quebró" hace una década y ahora trabaja bajo supervisión eclesiástica. Su conocimiento sobre los arcanos técnicos del mundo antiguo es invaluable, y aunque nuestros métodos difieren — él habla de "magnetismo residual" y "degradación de ferrita de bario" mientras yo hablo de la gracia de Dios — juntos hemos logrado reconstruir un mapa de lo que sobrevivió.
+Cuento con la ayuda de un colega improbable: el hermano Tomás Ferreyra, un criptógrafo que la Inquisición "quebró" hace una década y ahora trabaja en el Scriptorium de Criptoanálisis bajo supervisión eclesiástica. Su conocimiento sobre los arcanos técnicos del mundo antiguo es invaluable, y aunque nuestros métodos difieren — él habla de "magnetismo residual" y "degradación de ferrita de bario" mientras yo hablo de la gracia de Dios — juntos hemos logrado reconstruir un mapa de lo que sobrevivió.
 
 Este documento es ese mapa.
 
@@ -265,4 +265,4 @@ Hermano Archivista Pedro de los Santos
 Archivo de la Iglesia de Dársena
 Año de nuestro Señor de 2178
 
-*Con agradecimiento especial al hermano Tomás Ferreyra, criptógrafo bajo supervisión eclesiástica, cuyo conocimiento técnico hizo posible este inventario.*
+*Con agradecimiento especial al hermano Tomás Ferreyra, criptógrafo del Scriptorium de Criptoanálisis, cuyo conocimiento técnico hizo posible este inventario.*

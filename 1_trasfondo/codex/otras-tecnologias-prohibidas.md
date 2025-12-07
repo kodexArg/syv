@@ -52,7 +52,7 @@ El conocimiento considerado peligroso es activamente suprimido y guardado bajo l
 
 ## Persecución y Control
 
-La SIA emplea "Censores" para vigilar la producción científica en la "Academia de Ciencias" y auditores para inspeccionar cualquier dispositivo computacional. Los "Criptógrafos", hackers y técnicos con habilidades para eludir el control son cazados sin descanso, aunque a menudo son reclutados por su pericia.
+La SIA emplea "Censores" para vigilar la producción científica en la "Academia de Ciencias" y auditores para inspeccionar cualquier dispositivo computacional. Los "Criptógrafos", hackers y técnicos con habilidades para eludir el control son cazados sin descanso, aunque a menudo son reclutados por su pericia y forzados a trabajar en el Scriptorium de Criptoanálisis, el departamento de desciframiento controlado por la Iglesia.
 
 ---
 

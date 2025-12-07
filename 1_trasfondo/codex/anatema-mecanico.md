@@ -180,7 +180,7 @@ La SIA mantiene en secreto absoluto:
 
 ### El Paradoja Secreta de la SIA
 
-"Información reservada": Aunque públicamente la SIA destruye el conocimiento prohibido, en secreto emplea a criptógrafos y hackers capturados para:
+"Información reservada": Aunque públicamente la SIA destruye el conocimiento prohibido, en secreto emplea a criptógrafos y hackers capturados, forzándolos a trabajar en el Scriptorium de Criptoanálisis —el departamento de desciframiento de la Iglesia— para:
 - Descifrar tecnología confiscada
 - Operar sistemas de espionaje
 - Mantener el Registro Central (base de datos de disidentes, usando tecnología analógica únicamente)
