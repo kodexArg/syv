@@ -73,7 +73,7 @@ Que Dios nos perdone. Que nunca olvidemos.
 
 - "Precedentes": Automatización masiva (2030-2036), drones autónomos (2031-2038)
 - "Consecuencias inmediatas": Proliferación militar de QIA (2036-2047)
-- "Consecuencias finales": Era del Fin de los Secretos (2048-2061), Anatema Mecánico (2061)
+- "Consecuencias finales": El Fin de los Secretos (2048), El Dominio Algorítmico (2048-2061), El Gran Silencio (2061), Anatema Mecánico (2061)
 - "Legado en 2178": Persecución inquisitorial de toda IA, prohibición absoluta
 
 ---

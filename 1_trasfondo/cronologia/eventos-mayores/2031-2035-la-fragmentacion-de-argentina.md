@@ -27,7 +27,7 @@ Escribo este capítulo desde Ciudad Dársena, construida sobre las ruinas de lo 
 
 ## El Colapso del Estado (Diciembre 2030 - Marzo 2031)
 
-El impacto del meteorito del 27 de diciembre de 2030 no solo destruyó Buenos Aires; asesinó a la Argentina como entidad política. La capital federal se convirtió en un cráter radiactivo de 850 metros de diámetro rodeado de una zona de exclusión donde el aire mismo quemaba los pulmones. Un millón de personas murieron en el primer día. Cinco millones más morirían en las semanas siguientes, intentando huir de la radiación, del colapso de infraestructura, del caos absoluto.
+El impacto del meteorito del 27 de diciembre de 2030 no solo destruyó Buenos Aires; asesinó a la Argentina como entidad política. La capital federal se convirtió en un cráter de 850 metros de diámetro rodeado de una zona de exclusión donde el aire mismo quemaba los pulmones. Un millón de personas murieron en el primer día. Cinco millones más morirían en las semanas siguientes, intentando huir del colapso de infraestructura, del caos absoluto.
 
 El gobierno nacional se evaporó. El presidente y la mitad del gabinete estaban en Buenos Aires cuando cayó el fuego del cielo. El vicepresidente, en Córdoba para una gira, intentó proclamar gobierno de emergencia, pero sus órdenes no llegaban a ningún lado. No había red eléctrica estable. No había comunicaciones nacionales. No había cadena de mando. Las provincias quedaron a la deriva como botes sin timón en un océano de sangre.
 
@@ -73,11 +73,11 @@ La humanidad, como especie, estaba en retirada. No éramos ya los dueños del pl
 
 ## El Aislamiento Argentino (2032-2035)
 
-Para 2032, Argentina había quedado completamente aislada del mundo exterior. Las últimas comunicaciones intercontinentales funcionaron hasta 2035 —ese es el hito que marca el fin absoluto de la conectividad global—, pero Argentina las perdió antes. La radiación del cráter de Buenos Aires interfería con las transmisiones. Los cables submarinos que conectaban al país con el resto del mundo pasaban por el Río de la Plata, zona ahora muerta.
+Para 2032, Argentina había quedado completamente aislada del mundo exterior. Las últimas comunicaciones intercontinentales funcionaron hasta 2035 —ese es el hito que marca el fin absoluto de la conectividad global—, pero Argentina las perdió antes. Los cables submarinos que conectaban al país con el resto del mundo pasaban por el Río de la Plata, zona ahora muerta.
 
 Los testimonios de esos años hablan de un silencio aterrador. No había noticias del exterior. No sabíamos si Europa aún existía. Si había alguien más vivo al otro lado del océano. Viajeros que llegaban desde Chile o Brasil traían rumores contradictorios: que Japón había caído completamente bajo control de las QIA, que África era un cementerio continental, que China había ganado la guerra global pero ya no era China sino otra cosa.
 
-En ese aislamiento, las ciudades-estado argentinas desarrollaron culturas propias, identidades separadas. Córdoba se militarizó completamente, estableciendo la dinastía Videla que gobernaría hasta hoy. Mendoza se convirtió en fortaleza andina autosuficiente. Y en las ruinas de Buenos Aires, protegidas por la radiación que funcionaba como escudo contra el caos exterior, comenzaron a llegar refugiados que construirían lo que eventualmente sería Ciudad Dársena.
+En ese aislamiento, las ciudades-estado argentinas desarrollaron culturas propias, identidades separadas. Córdoba se militarizó completamente, estableciendo la dinastía Videla que gobernaría hasta hoy. Mendoza se convirtió en fortaleza andina autosuficiente. Y en las ruinas de Buenos Aires comenzaron a llegar refugiados que construirían lo que eventualmente sería Ciudad Dársena.
 
 ---
 

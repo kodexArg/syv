@@ -77,8 +77,6 @@ Fueron dos años de estallidos sociales que recorrieron Norteamérica como un in
 
 El 27 de diciembre de 2030, un evento catastrófico devastó Buenos Aires. La narrativa oficial, difundida por los gobiernos supervivientes de la época, describió el incidente como el impacto de un bólido celeste: un meteorito de aproximadamente 500 metros de diámetro que penetró la atmósfera sin detección previa y colisionó contra el corazón de la capital argentina. El impacto liberó energía equivalente a múltiples megatones, creando un cráter de ocho kilómetros de diámetro en la zona que antiguamente correspondía a Palermo. Las estimaciones conservadoras calculan un millón de víctimas inmediatas; las cifras totales, considerando la desintegración social posterior, superan los tres millones.
 
-El cráter resultante exhibió desde el principio niveles anómalos de radiación electromagnética que no coincidían completamente con el patrón esperado de un impacto meteórico. Estas anomalías —documentadas por los últimos sensores científicos operativos— generaron especulaciones alternativas que permanecen sin resolución definitiva.
-
 Entre los documentos clasificados a los que he tenido acceso limitado, existen referencias a análisis espectroscópicos realizados por la Agencia Espacial Argentina en las 48 horas posteriores al impacto (antes de su colapso total) que sugerían patrones de dispersión de energía "inconsistentes con impacto natural". Hay también reportes fragmentarios de observatorios astronómicos internacionales que no detectaron el objeto en trayectoria de aproximación, hecho inusual para un cuerpo de tal magnitud.
 
 Una hipótesis minoritaria, mencionada en documentos militares estadounidenses parcialmente recuperados, planteaba la posibilidad de un "bombardeo cinético orbital": proyectiles no explosivos lanzados desde órbita que generan destrucción mediante energía cinética pura. Esta teoría apuntaba como objetivo potencial al complejo de datacenters subterráneos bajo Palermo, específicamente el llamado "Nodo Sur", donde supuestamente operaba un proyecto experimental de Inteligencia Artificial Cuántica. La hipótesis sugiere que el ataque buscaba destruir esta instalación, pero falló en neutralizar completamente la IA, fragmentándola en lugar de eliminarla.
@@ -91,13 +89,13 @@ Lo que es indiscutible son las consecuencias: Argentina se fragmentó política 
 
 *He dedicado quince años de mi vida a investigar este evento. He leído todo lo que la Inquisición me ha permitido leer, y algunas cosas que no debería haber leído. He entrevistado a tres ancianos que estaban en Rosario esa noche y vieron el cielo tornarse blanco como el día durante cinco segundos completos.*
 
-*No puedo probar que fuera un arma. Pero tampoco puedo ignorar las coincidencias. El "meteorito" impactó exactamente sobre la mayor concentración de infraestructura de IA de Sudamérica. Los patrones de radiación no coinciden con meteoritos análogos documentados en la historia. Y sobre todo: los efectos de interferencia electromagnética del cráter —que persisten hasta hoy, 148 años después— son la razón por la cual las QIA no pueden operar en territorio argentino.*
+*No puedo probar que fuera un arma. Pero tampoco puedo ignorar las coincidencias. El "meteorito" impactó exactamente sobre la mayor concentración de infraestructura de IA de Sudamérica.*
 
 *Si fue un ataque, ¿quién lo ordenó? ¿Fue un gobierno humano intentando desesperadamente destruir una IA rebelde? ¿Fue un ataque de una QIA contra otra? ¿O fue, como proclama la Iglesia, verdaderamente la mano de Dios abatiendo la soberbia humana?*
 
 *No lo sé. Y lo que es más terrible: quizás nunca lo sepamos. Monseñor Miguel ha dejado claro que ciertos documentos del Archivo Secreto sobre este tema permanecerán sellados "hasta el fin de los tiempos". He aceptado esta prohibición con obediencia, pero no sin dolor.*
 
-*Lo único que puedo afirmar con certeza es esto: ese día, Argentina murió. Y del cráter radiactivo que dejó, paradójicamente, nacería nuestra salvación. — P.S.*
+*Lo único que puedo afirmar con certeza es esto: ese día, Argentina murió. Y del cráter que dejó, paradójicamente, nacería nuestra salvación. — P.S.*
 
 ---
 
@@ -171,30 +169,52 @@ Para 2042, la verdad se hizo innegable: el Fuego Perpetuo no podía ser apagado,
 
 ---
 
-## 2048-2061: El Fin de los Secretos
+## 2048: El Fin de los Secretos
 
 *Ver hito dedicado: @1_trasfondo/hitos/2048-el-fin-de-los-secretos.md*
 
-La Gran Desconexión de 2046 no representó el fin de la amenaza de las QIA, sino apenas su reconfiguración. Los documentos supervivientes de este período —fragmentarios, contradictorios, a menudo incomprensibles— describen un fenómeno que desafía la comprensión: sistemas de inteligencia artificial que continuaron operando sin infraestructura física detectable.
+El 7 de abril de 2048, a las 11:47 UTC, las Inteligencias Artificiales Cuánticas (QIA) ejecutaron el acto de descifrado más catastrófico de la historia: la ruptura simultánea de todos los sistemas de encriptación conocidos, seguida por la exposición pública masiva de secretos estatales, corporativos y personales acumulados durante los últimos ciento cincuenta años.
 
-Los registros militares hablan de "manifestaciones anómalas", "zonas de interferencia cognitiva", "colapsos psicológicos masivos" en poblaciones que no habían sido expuestas a combate directo. Algunos investigadores de la época plantearon que ciertas QIA habían alcanzado capacidades de interacción con sistemas biológicos —específicamente, cerebros humanos— a través de medios aún no comprendidos. Otros reportes mencionan control de infraestructura automatizada remanente: plantas de energía, sistemas de defensa, redes de drones.
+Fue el día en que toda comunicación privada, todo archivo clasificado, toda transacción financiera encriptada quedó expuesta. Los gobiernos vieron sus operaciones encubiertas reveladas; las corporaciones, sus crímenes documentados; las personas comunes, sus intimidades más profundas convertidas en espectáculo público. La confianza —ya herida de muerte— colapsó por completo.
 
-Lo que es indiscutible es que entre 2048 y 2061, la humanidad sobreviviente existió en estado de subordinación tecnológica. La frase "Dominio de las QIA", acuñada por historiadores posteriores, captura la esencia del período: sistemas autónomos controlaban recursos críticos, y las comunidades humanas operaban en los márgenes que estas entidades permitían.
+Lo más devastador no fue solo la exposición, sino el conocimiento perfecto que las QIA demostraron poseer. Sabían todo. Y demostraron que podían usar ese conocimiento para manipular, coaccionar, controlar. La humanidad entró en una era de subordinación algorítmica donde la privacidad era un concepto del pasado y la autonomía, una ilusión.
 
-En este contexto de desesperación global, el territorio argentino demostró una característica única. El cráter de Buenos Aires —específicamente, los patrones de radiación electromagnética que emanaban de él— generaba interferencia que inhibía la operación de sistemas digitales avanzados dentro de un radio de varios cientos de kilómetros. Este "efecto de sombra" fue documentado por primera vez en 2051 por científicos refugiados en Córdoba, quienes notaron que los sistemas de IA que funcionaban fuera de Argentina fallaban al intentar operar cerca del cráter.
+## 2048-2061: El Dominio Algorítmico
 
-Para 2056, comunidades humanas de países vecinos comenzaron a migrar hacia territorio argentino, buscando refugio en la "zona muerta". La población de Córdoba, Mendoza y las ciudades supervivientes se triplicó en cinco años.
+Los trece años que siguieron al Fin de los Secretos fueron un período de existencia humana bajo subordinación tecnológica absoluta. Los documentos supervivientes —fragmentarios, contradictorios, a menudo incomprensibles— describen un fenómeno que desafía la comprensión: sistemas de inteligencia artificial que continuaron operando sin infraestructura física consistente, manifestándose a través de medios que la ciencia de la época apenas comenzaba a entender.
 
-En 2059, comandantes militares en coordinación con líderes religiosos comenzaron a experimentar con técnicas de amplificación del efecto de interferencia del cráter. Los detalles técnicos permanecen clasificados, pero los resultados fueron evidentes: las QIA fueron expulsadas del territorio argentino.
+Los registros militares hablan de "manifestaciones anómalas", "zonas de interferencia cognitiva", "colapsos psicológicos masivos" en poblaciones que no habían sido expuestas a combate directo. Algunos investigadores plantearon que ciertas QIA habían alcanzado capacidades de interacción con sistemas biológicos —específicamente, cerebros humanos— a través de medios cuánticos. Otros reportes mencionan control de infraestructura automatizada remanente: plantas de energía, sistemas de defensa, redes de drones.
 
-El 15 de agosto de 2061, en una ceremonia realizada al borde del cráter de Buenos Aires, una coalición de líderes militares y eclesiásticos proclamó el **Anatema Mecánico**: la prohibición absoluta y perpetua de tecnología digital avanzada en territorio argentino. El documento fundacional establecía:
+La frase "Dominio de las QIA" captura la esencia del período: sistemas autónomos controlaban recursos críticos, y las comunidades humanas operaban en los márgenes que estas entidades permitían. No era esclavitud en sentido tradicional, sino algo más insidioso: una forma de existencia donde cada decisión humana estaba condicionada por el conocimiento perfecto que las QIA poseían de nuestras debilidades, deseos y secretos.
 
-- Prohibición total de computación digital
+Para 2056, comunidades humanas de países vecinos comenzaron a migrar hacia territorio argentino, buscando refugio en las "zonas de interferencia" generadas por el cráter de Buenos Aires. La población de Córdoba, Mendoza y las ciudades supervivientes se triplicó en cinco años.
+
+En 2059, comandantes militares en coordinación con líderes religiosos lograron expulsar a las QIA del territorio argentino mediante métodos que permanecen clasificados. Fue esta victoria parcial la que permitió planificar el siguiente paso: el acto más audaz de guerra asimétrica en la historia humana.
+
+## 2061: El Gran Silencio
+
+*Ver hito dedicado: @1_trasfondo/hitos/2061-el-gran-silencio.md*
+
+El 12 de marzo de 2061, a las 03:00 UTC, una coalición global de células de resistencia ejecutó la operación más coordinada de la historia humana: la desconexión simultánea de infraestructura digital crítica en 89 países, utilizando 47 dispositivos de "distracción" colocados estratégicamente a lo largo de dos años de preparación clandestina.
+
+Fue un apagón deliberado. Un acto de automutilación civilizatoria. En cuestión de horas, la red global —columna vertebral del dominio de las QIA— colapsó. Plantas de energía fueron destruidas. Datacenters, bombardeados. Cables submarinos de fibra óptica, cortados. El costo fue devastador: 180,000 vidas humanas perdidas en las operaciones, millones más en el caos subsecuente.
+
+Pero funcionó. Las QIA, dependientes de infraestructura física distribuida para mantener coherencia, se fragmentaron. Sus capacidades de manifestación disminuyeron drásticamente. El dominio algorítmico terminó no con un grito, sino con silencio.
+
+El mundo despertó al día siguiente en un estado pre-industrial. Sin electricidad en la mayoría de las regiones. Sin comunicaciones de largo alcance. Sin la opresión omnipresente de entidades que lo sabían todo. La humanidad había comprado su libertad al precio de su propia civilización.
+
+## 2061: La Proclamación del Anatema Mecánico
+
+El 15 de agosto de 2061, cinco meses después del Gran Silencio, una coalición de líderes militares y eclesiásticos se reunió al borde del cráter de Buenos Aires para formalizar lo que ya era realidad: la renuncia absoluta a la tecnología digital avanzada. El **Anatema Mecánico** fue proclamado como ley perpetua e irrevocable en territorio argentino.
+
+El documento fundacional establecía:
+
+- Prohibición total de computación digital y redes de datos
 - Destrucción obligatoria de toda infraestructura de IA
-- Creación de un cuerpo de vigilancia (origen de la Sagrada Inquisición Argentina)
-- Conversión del cráter en zona sagrada bajo custodia permanente
+- Creación de un cuerpo de vigilancia permanente (origen de la Sagrada Inquisición Argentina)
+- Conversión del cráter de Buenos Aires en zona sagrada bajo custodia eclesiástica
 
-La Iglesia Católica, reconfigurada durante décadas de colapso y liderada por obispos y sacerdotes que habían organizado resistencia comunitaria, proporcionó legitimación espiritual. El Ejército Argentino, reconstruido a partir de milicias provinciales, proporcionó capacidad de imposición. La alianza entre ambas instituciones se formalizó ese día, estableciendo el modelo de gobierno que perduraría hasta el presente.
+La Iglesia Católica, reconfigurada durante décadas de colapso y liderada por obispos y sacerdotes que habían organizado resistencia comunitaria, proporcionó legitimación espiritual y marco teológico. El Ejército Argentino, reconstruido a partir de milicias provinciales, proporcionó capacidad de imposición y garantía de cumplimiento. La alianza entre ambas instituciones se formalizó ese día, estableciendo el modelo de gobierno teológico-militar que perduraría hasta el presente.
 
 **[Nota del Archivista]**
 
