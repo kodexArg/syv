@@ -21,7 +21,7 @@ Mendoza es el bastión andino de la Confederación Argentina, una ciudad de 2 mi
 ## Historia
 
 - **Década 2020-2030**: Mendoza era una región semiárida pero viable, con agricultura de riego y viticultura establecida.
-- **2030-2040**: Durante la Gran Guerra Global, la ciudad se cerró sobre sí misma, priorizando defensa territorial. La proximidad a Chile (enemigo potencial) la convirtió en bastión militar temprano.
+- **2030-2068**: Durante la guerra USA-China (2036) y la Gran Guerra Global (2039-2068), la ciudad se cerró sobre sí misma, priorizando defensa territorial. La proximidad a Chile (enemigo potencial) la convirtió en bastión militar temprano.
 - **2040-2060**: La **Comandancia Militar de Espionaje** se estableció como grupo de influencia dominante, transformando Mendoza en centro de contraespionaje de la Confederación.
 - **2061-2100**: Con el Anatema Mecánico en vigor, Mendoza se especializó en vigilancia de saboteadores tecnológicos. Pero los verdaderos ojos de la ciudad miraban hacia afuera: hacia Chile, hacia salvajes de los Andes, hacia posibles amenazas externas.
 - **2101-2160**: La **explosión demográfica** de la Confederación benefició a Mendoza. Las migraciones llevaron trabajadores rurales a los campos. Las grandes familias terratenientes descubrieron que podían producir más. La competencia se intensificó brutalmente.
