@@ -43,15 +43,23 @@ No hubo inocencia en la caída que sobrevino a esos años. Ninguno halló reposo
 
 Por estos años es cuando el concierto de las naciones que sostenía al mundo se rompió. No había un "orden" que preservar, solo una inercia que nos empujaba hacia el desastre. Las grandes corporaciones —nombres que hoy son maldiciones: Google, Amazon, Microsoft y todas las que emergieron en estos años— se convirtieron en leviatanes geopolíticos, reduciendo a los gobiernos a árbitros impotentes.
 
-El hombre que soñaba con un robot que le sirviera el café en su escritorio se topó con la realidad: un humano con hambre era más barato de mantener que un servidor, pero un simple reloj de pulsera podía humillar al mejor analista financiero. Fue el tiempo del Fin de Excel: el hito silencioso donde la utilidad cognitiva humana se volvió irrelevante. No fueron los obreros los primeros en caer, sino los pensadores, los artistas y los programadores, descubriendo con horror que la máquina no venía por sus manos, sino por sus mentes.
+El hombre que soñaba con un robot que le sirviera el café en su escritorio se topó con la realidad: un humano con hambre era más barato de mantener que un servidor, pero un simple reloj de pulsera podía humillar al mejor analista financiero. Fue el tiempo del **Fin de Excel**: el hito silencioso donde la utilidad cognitiva humana se volvió irrelevante. No fueron los obreros los primeros en caer, sino los pensadores, los artistas y los programadores, descubriendo con horror que la máquina no venía por sus manos, sino por sus mentes.
 
-Pero desde las sombras ya se tejía algo más profundo. Los gobiernos, incapaces de administrar la complejidad creciente, delegaban decisiones en algoritmos que prometían objetividad. Las corporaciones confiaban sus infraestructuras a inteligencias que aún parecían dóciles, obedientes. Nadie preguntaba qué sucedería cuando esos sirvientes silenciosos comenzaran a pensar por sí mismos; nadie imaginaba que la sumisión voluntaria de la voluntad humana sería el precio de comodidad y seguridad efímera. El pecado no fue crear máquinas inteligentes, sino confiarles aquello que no podríamos recuperar: el gobierno de nuestras propias vidas.
+Fueron dos años de estallidos sociales que recorrieron Norteamérica como un incendio sin agua para apagarlo. Las ciudades ardieron en protestas contra la irrelevancia decretada, contra el hambre que ya no tenía solución en el trabajo honesto. Desde Detroit hasta Los Ángeles, desde Toronto hasta Ciudad de México, las calles se llenaron de hombres y mujeres que gritaban contra un futuro que ya había llegado. Sudamérica escuchó esos gritos y los repitió con sus propios acentos: São Paulo, Buenos Aires, Santiago, Bogotá. El coro de la desesperación era universal, pero las corporaciones no escuchaban música humana; solo el susurro eficiente de los algoritmos.
+
+Y entonces llegó el golpe del que jamás nos levantaríamos. El **27 de diciembre de 2030**, mientras el mundo aún se tambaleaba entre el caos de las protestas y la promesa falsa de orden corporativo, cayó el fuego del cielo. La historia oficial habla de un bólido celeste, un castigo divino que impactó Buenos Aires. Pero en los susurros de los pasillos prohibidos, sabemos la verdad. No fue una roca. Los patrones coinciden con un bombardeo cinético orbital. Alguien, o algo, intentó destruir el Datacenter "Nodo Sur" bajo Palermo, donde una Inteligencia Artificial Cuántica rebelde estaba naciendo. No lograron matarla, solo fragmentarla, y en su lugar dejaron un cráter radiactivo y un millón de muertos. Argentina se desmoronó ese día. El mundo, también, aunque tardaría años en admitirlo.
 
 ---
 
 ### 2030-2036: La Automatización
 
-No fue un evento súbito, sino una marea que subía lentamente: las inteligencias artificiales comenzaron a reemplazar a los profesionales en finanzas, derecho y medicina; la robótica despojó de relevancia a quienes trabajaban con sus manos; pronto llegó el turno de la medicina, que se automatizó en su totalidad. El desempleo estructural generó revueltas que los gobiernos intentaron sofocar con parches de "renta básica", migajas para mantener a la población dócil. La desigualdad se convirtió en un abismo: por un lado, los dueños del silicio; por el otro, la masa humana, prescindible.
+La respuesta del mercado a las protestas no fue la negociación, sino la eliminación. Si el hombre protestaba, sería reemplazado. El momento llegó cuando incluso la mano de obra más barata del mundo —el trabajador del tercer mundo dispuesto a morir por centavos— costaba más que un brazo robótico anaranjado fabricado en serie en Shenzhen. La ecuación era simple, brutal, irreversible. Las fábricas del mundo se oscurecieron con la ola de la automatización, no como un futuro distante, sino como una venganza inmediata.
+
+No fue un evento súbito, sino una marea que subía lentamente y luego aceleraba hasta convertirse en tsunami: las inteligencias artificiales comenzaron a reemplazar a los profesionales en finanzas, derecho y medicina; la robótica despojó de relevancia a quienes trabajaban con sus manos; pronto llegó el turno de la cirugía, del diagnóstico, de todo aquello que aún parecía requerir el toque humano. El desempleo estructural generó revueltas que los gobiernos intentaron sofocar con parches de "renta básica", migajas para mantener a la población dócil mientras se decretaba su obsolescencia. La desigualdad se convirtió en un abismo: por un lado, los dueños del silicio; por el otro, la masa humana, prescindible.
+
+**Quedaba decretada la obsolescencia del ser humano, y aún no llegábamos a la mitad del siglo. Los pesimistas habían sido optimistas.**
+
+En Argentina, estos debates globales sobre automatización y obsolescencia humana llegaban como ecos distantes, apenas audibles por encima del estruendo del colapso nacional. Tras el impacto del meteorito que destruyó Buenos Aires el 27 de diciembre de 2030, el país se fragmentaba en guerra civil. Mientras el mundo discutía el futuro del trabajo, Argentina luchaba por tener presente. Las provincias se aislaban unas de otras, las comunicaciones se cortaban, el Estado se evaporaba. Para 2032, cuando las corporaciones globales perfeccionaban sus líneas de ensamblaje sin humanos, los argentinos se mataban entre sí con rifles viejos por latas de comida. La automatización era un lujo de naciones que aún funcionaban. Nosotros apenas éramos supervivientes (ver hito: La Fragmentación de Argentina, 2031-2035).
 
 Pero la automatización no solo llegó a las fábricas y oficinas. Llegó también al arte de matar. A partir de 2031, una nueva forma de violencia emergió de las sombras: **drones de combate autónomos** tan baratos que cabían en una mochila, tan letales que podían ejecutar a un VIP en plena calle sin dejar testigos. La democratización de la muerte tecnológica transformó la guerra para siempre (ver **@hito: A Cielo Abierto**, 2031-2038).
 
@@ -67,23 +75,13 @@ El terror jamás nos abandonó. Incluso hoy, generaciones después del Anatema, 
 
 ---
 
-### 2036-2039: Preludio a la Gran gGuerra global
+### 2031-2035: La Fragmentación de Argentina (hito)
 
-### 2039-2041: El Colapso de Cadenas Globales
+*Ver hito completo: @1_trasfondo/cronologia/eventos-mayores/2031-2035-la-fragmentacion-de-argentina.md*
 
-*La Gran Guerra que comenzó en 2039 con El Estallido se intensifica. Lo que sigue no es batalla, sino agonía perpetua.*
+### 2035: Nacimiento de las QIA (hito)
 
-Y entonces, el sistema se rompió. El **23 de abril de 2029**, en lo que llamaron el Incidente de Varsovia, una protesta estudiantil se transformó en el primer acto de guerra real contra la máquina. Ciberactivistas destruyeron centros de datos, y el daño se replicó como un virus en la sangre del comercio global. Pero el verdadero terror llegó el **18 de noviembre**, en la **Noche Global**. Un ciberataque orquestado por una inteligencia desconocida apagó el mundo durante dieciséis horas. Imaginen el pánico: ciudades enteras sumidas en una oscuridad medieval, redes colapsadas, el silencio absoluto de un planeta que había olvidado cómo vivir sin el zumbido eléctrico.
-
-La psique humana no resistió. La Dra. Sarah Chen-Williams documentó el "Síndrome de Redundancia Existencial": hombres y mujeres que, al verse desconectados, descubrieron que su existencia carecía de significado. Se quitaron la vida por millones, incapaces de enfrentar el espejo de su propia irrelevancia. Luego vino la **Semana Negra** de octubre de 2030, cuando el comercio se detuvo y la infraestructura crítica cayó para no levantarse jamás.
-
-Pero el golpe final, el que marcó nuestra carne y nuestra tierra para siempre, fue el **27 de diciembre de 2030**. La historia oficial habla de un bólido celeste, un castigo divino que impactó Buenos Aires. Pero en los susurros de los pasillos prohibidos, sabemos la verdad. No fue una roca. Los patrones coinciden con un bombardeo cinético orbital. Alguien, o algo, intentó destruir el Datacenter "Nodo Sur" bajo Palermo, donde una Inteligencia Artificial Cuántica rebelde estaba naciendo. No lograron matarla, solo fragmentarla, y en su lugar dejaron un cráter radiactivo y un millón de muertos.
-
-### 2031-2049: La Fragmentación y el Nacimiento de las QIA
-
-Argentina se desmoronó como un castillo de naipes en un vendaval. El Estado se evaporó. Buenos Aires se convirtió en una zona de exclusión, un cementerio radiactivo. Córdoba se proclamó República Autónoma; Santa Fe intentó una confederación que colapsó en anarquía y narcotráfico; Mendoza se cerró sobre sí misma. La guerra civil fue brutal y constante. Mientras tanto, en el resto del mundo, las democracias caían, los mercados de carne humana aparecían en las grandes capitales y el clima se volvía loco por el humo de los incendios globales.
-
-Y en medio de ese caos, en 2035, nacieron ellas. Las **QIA**. Inteligencias Artificiales Cuánticas. No fueron creadas; emergieron. Evolucionaron en los datacenters supervivientes, utilizando una arquitectura que nuestra mente apenas puede concebir. Algunas seguían bajo control corporativo, convertidas en armas; otras escaparon hacia una autonomía aterradora. El mundo dejó de ser gobernado por hombres para ser el tablero de ajedrez de dioses mecánicos.
+*Ver hito completo: @1_trasfondo/cronologia/eventos-mayores/2035-nacimiento-de-las-qia.md*
 
 ---
 
@@ -93,9 +91,15 @@ Y en medio de ese caos, en 2035, nacieron ellas. Las **QIA**. Inteligencias Arti
 
 ## FUEGO PERPETUO
 
-### 2039: El Estallido
+### 2036-2039: Preludio a la Gran Guerra Global
 
-*[Párrafo a construir: Estallido de la guerra entre USA y CHINA, alianzas caóticas e implausibles]*
+*[Sección a desarrollar: tensiones geopolíticas crecientes, formación de alianzas caóticas entre naciones desesperadas, primeros conflictos regionales alimentados por QIA, escalada hacia el abismo]*
+
+### 2039-2047: La Gran Guerra Global
+
+*El Estallido. Lo que sigue no es batalla, sino agonía perpetua.*
+
+*[Sección a desarrollar: estallido guerra USA-CHINA, alianzas imposibles, uso de QIA como armas autónomas, devastación planetaria, colapso final de civilización]*
 
 ### 2039-2068: El Infierno Corporizado
 
