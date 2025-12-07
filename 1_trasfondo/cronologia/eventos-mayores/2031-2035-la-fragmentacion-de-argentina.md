@@ -77,7 +77,7 @@ Para 2032, Argentina había quedado completamente aislada del mundo exterior. La
 
 Los testimonios de esos años hablan de un silencio aterrador. No había noticias del exterior. No sabíamos si Europa aún existía. Si había alguien más vivo al otro lado del océano. Viajeros que llegaban desde Chile o Brasil traían rumores contradictorios: que Japón había caído completamente bajo control de las QIA, que África era un cementerio continental, que China había ganado la guerra global pero ya no era China sino otra cosa.
 
-En ese aislamiento, las ciudades-estado argentinas desarrollaron culturas propias, identidades separadas. Córdoba se militarizó completamente, estableciendo la dinastía Videla que gobernaría hasta hoy. Mendoza se convirtió en fortaleza andina autosuficiente. Y en las ruinas de Buenos Aires comenzaron a llegar refugiados que construirían lo que eventualmente sería Ciudad Dársena.
+En ese aislamiento, las ciudades-estado argentinas desarrollaron culturas propias, identidades separadas. Córdoba se militarizó completamente, estableciendo la dinastía Videla que gobernaría hasta hoy. Mendoza se convirtió en fortaleza andina autosuficiente. Y en las ruinas de Buenos Aires, donde la Iglesia comenzaba a establecer su influencia entre comunidades desesperadas, comenzaron a llegar refugiados que construirían lo que eventualmente sería Ciudad Dársena.
 
 ---
 

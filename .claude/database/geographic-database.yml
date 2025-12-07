@@ -242,12 +242,12 @@ confederacion_argentina:
         x: 50
         y: 100
       name: "El Cráter (Zona de Exclusión)"
-      description: "Ex Buenos Aires, zona de catástrofe nuclear/radiactiva"
+      description: "Ex Buenos Aires, zona de catástrofe del impacto 2030"
       radius: "850m de zona muerta"
       status: "Completamente prohibida, vigilada, automatizada"
-      hazard: "Radiación residual, inestabilidad estructural"
+      hazard: "Inestabilidad estructural, peligro de colapso"
       accessibility: "Ninguna (excepto patrullas militares blindadas)"
-      historical_significance: "Sitio de la Gran Explosión que destruyó Buenos Aires (2035)"
+      historical_significance: "Sitio del impacto meteorito que destruyó Buenos Aires (2030)"
 
     dmz_western:
       coordinates:
@@ -256,7 +256,7 @@ confederacion_argentina:
       name: "DMZ (Zona Desmilitarizada Occidental)"
       area_km2: 50
       description: "Ruinas despejadas al oeste del muro de Dársena, inhabitables de facto"
-      hazard_level: "Extremo - francotiradores, radiación residual"
+      hazard_level: "Extremo - francotiradores, inestabilidad estructural"
       population: "0 permanente (salvajes ocasionales)"
       control: "Comando Nacional de Dársena (vigilancia letal)"
       notable_feature: "El Bazar del Muro - mercado precario tolerado"
@@ -976,7 +976,7 @@ ciudades:
             area_km2: 50
             description: "Desierto de ruinas al oeste del muro"
             habitability: "De facto inhabitables"
-            hazards: "Francotiradores, radiación residual"
+            hazards: "Francotiradores, inestabilidad estructural"
             population: "Ninguno permanente, salvajes ocasionales"
             control: "Comando Nacional (vigilancia letal)"
             notable_feature: "El Bazar del Muro - mercado precario tolerado bajo control"

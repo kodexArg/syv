@@ -23,7 +23,7 @@ Al:
 1. **Los Últimos Años del Mundo Antiguo (2020-2029)**
 2. **Los Años del Caos (2029-2038)** - Meteorito 2030, Automatización, Plaga de Drones
 3. **La Gran Guerra Global (2039-2047)** - Comienza con El Estallido
-4. **El Fin de los Secretos (2048-2061)** - Era QIA, Anatema 2061
+4. **El Fin de los Secretos y Dominio Algorítmico (2048-2061)** - Descifrado masivo 2048, subordinación QIA, Gran Silencio 2061, Anatema 2061
 5. **La Edad Oscura (2062-2160)**
 6. **La Confederación Temprana (2161-2177)**
 7. **Actualidad (2178)**
@@ -31,12 +31,14 @@ Al:
 ### Eventos Hito (Inamovibles)
 - 2029: Noche Global
 - 27 dic 2030: Meteorito Buenos Aires
-- 2035: Último contacto intercontinental
+- 2035: Último contacto intercontinental, Nacimiento de las QIA
 - 2039: El Estallido (guerra sino-norteamericana, inicio Gran Guerra Global)
 - 2039-2047: Gran Guerra Global
-- 2048: Primera QIA
+- 7 abril 2048: El Fin de los Secretos (descifrado masivo QIA)
+- 2048-2061: El Dominio Algorítmico (subordinación tecnológica)
 - 2054: Traslado Santa Sede a Dársena
-- 2061: Anatema Mecánico
+- 12 marzo 2061: El Gran Silencio (apagón coordinado global)
+- 15 agosto 2061: Promulgación del Anatema Mecánico
 - 2161: Formación Confederación
 
 ## Formato de Cronología

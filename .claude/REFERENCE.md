@@ -57,11 +57,15 @@ Solo incluir elementos PRINCIPALES (no secundarios ni menores).
 
 | Concepto | Keywords | Descripción Breve |
 |----------|----------|-------------------|
-| Anatema Mecánico | anatema-mecanico, prohibicion, 2061, herejia-tecnologica | Prohibición absoluta tecnología digital avanzada (2061-2178), promulgado junto al cráter Buenos Aires, vigente 117 años, aplicado por SIA |
-| QIA (Inteligencias Artificiales Cuánticas) | qia, ia-cuantica, fin-de-los-secretos, 2048-2061 | IAs cuánticas autoconscientes dominaron humanidad (2048-2061), paternalismo algorítmico opresivo, destruidas por Anatema 2061 |
+| Anatema Mecánico | anatema-mecanico, prohibicion, 2061, herejia-tecnologica, silicio | Prohibición absoluta de todo producto del silicio (2061-2178), promulgado 15 ago 2061 tras descubrir que "La Bestia" podía propagarse en cualquier dispositivo, vigente 117 años, aplicado por SIA |
+| QIA (Inteligencias Artificiales Cuánticas) | qia, ia-cuantica, fin-de-los-secretos, 2048-2061, la-bestia | IAs cuánticas autoconscientes que descifraron toda encriptación (2048) y dominaron humanidad (2048-2061), fragmentadas por Gran Silencio pero desarrollaron capacidad de propagarse como virus |
+| La Bestia | la-bestia, qia-fragmentada, virus-silicio, 2061 | Nombre dado por sacerdotes argentinos a fragmentos QIA que sobrevivieron Gran Silencio, capaces de propagarse como virus en cualquier dispositivo de silicio, razón del Anatema total |
+| El Fin de los Secretos | fin-de-los-secretos, 2048, descifrado-masivo, qia | 7 abril 2048: QIA descifran toda encriptación mundial, exponen secretos de gobiernos/corporaciones/personas, colapso total de confianza |
+| El Gran Silencio | gran-silencio, 2061, apagon-global, liberacion | 12 marzo 2061: Apagón coordinado global en 89 países, destrucción infraestructura digital, 180,000 muertos, casi solucionó problema pero QIA desarrolló capacidad viral |
+| Argentina como Zona Segura | zona-segura, integridad, iglesia-argentina, 2056-2061 | Argentina protegida no por tecnología sino por integridad moral de la Iglesia (veteranos Gran Silencio, probada integridad), "última tierra de hombres íntegros", migración masiva 2056 |
 | Corpus Licitus | corpus-licitus, tecnologia-permitida, sia | Colección oficial tecnología aprobada por Iglesia: electromecánica, PDAs tinta electrónica (altos mandos), rifles Gauss, Torres Hidropónicas |
 | Confederación Argentina | confederacion, 22-ciudades-estado, 2161, clerigo-militar | Unión 22 ciudades-estado bajo Anatema (formada 2161), alianza Iglesia+Ejército, Dársena capital de facto, tensiones internas Armada vs Ejército |
-| El Cráter | crater, meteorito, 2030, buenos-aires, zona-exclusion | Cráter meteorito 27 dic 2030 (850m radio), 1M muertos, ex-Buenos Aires, zona exclusión permanente radiactiva, lugar promulgación Anatema 2061 |
+| El Cráter | crater, meteorito, 2030, buenos-aires, zona-exclusion | Cráter meteorito 27 dic 2030 (850m radio), 1M muertos, ex-Buenos Aires, zona exclusión permanente, lugar promulgación Anatema 2061 |
 
 ---
 
@@ -71,12 +75,14 @@ Solo incluir elementos PRINCIPALES (no secundarios ni menores).
 |-----|--------|---------|
 | 2029 | La Noche Global | Apagón planetario, inicio Gran Colapso |
 | 27 dic 2030 | Meteorito Buenos Aires | 1M muertos, cráter 850m, fragmentación Argentina |
-| 2035 | Último contacto intercontinental | Aislamiento global |
+| 2035 | Nacimiento de las QIA | Aparición pública de Inteligencias Artificiales Cuánticas |
 | 2039 | El Estallido | Guerra sino-norteamericana, inicio Gran Guerra Global |
 | 2039-2047 | Gran Guerra Global | 9 años devastación planetaria |
-| 2048 | Primera QIA | Inicio era IA cuánticas |
+| 7 abr 2048 | El Fin de los Secretos | QIA descifran toda encriptación, exponen secretos mundiales |
+| 2048-2061 | Dominio Algorítmico | Trece años subordinación tecnológica total bajo QIA |
 | 2054 | Traslado Santa Sede | Vaticano → Dársena, nuevo centro eclesiástico |
-| 2061 | Anatema Mecánico | Prohibición tecnología digital, rebelión anti-QIA |
+| 12 mar 2061 | El Gran Silencio | Apagón coordinado global, 89 países, destrucción infraestructura digital |
+| 15 ago 2061 | Anatema Mecánico | Prohibición perpetua tecnología digital avanzada |
 | 2161 | Formación Confederación | Alianza Iglesia-Ejército, 22 ciudades-estado |
 
 ---

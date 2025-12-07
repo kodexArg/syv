@@ -187,9 +187,9 @@ Los registros militares hablan de "manifestaciones anómalas", "zonas de interfe
 
 La frase "Dominio de las QIA" captura la esencia del período: sistemas autónomos controlaban recursos críticos, y las comunidades humanas operaban en los márgenes que estas entidades permitían. No era esclavitud en sentido tradicional, sino algo más insidioso: una forma de existencia donde cada decisión humana estaba condicionada por el conocimiento perfecto que las QIA poseían de nuestras debilidades, deseos y secretos.
 
-Para 2056, comunidades humanas de países vecinos comenzaron a migrar hacia territorio argentino, buscando refugio en las "zonas de interferencia" generadas por el cráter de Buenos Aires. La población de Córdoba, Mendoza y las ciudades supervivientes se triplicó en cinco años.
+Para 2056, comunidades humanas de países vecinos comenzaron a migrar hacia territorio argentino, buscando refugio en lo que algunos llamaban "la última tierra de hombres íntegros". La Iglesia Argentina, fortalecida por el traslado de la Santa Sede en 2054 y liderada por sacerdotes y obispos que habían organizado resistencia comunitaria durante décadas de colapso, ejercía una influencia moral sin precedentes. La población de Córdoba, Mendoza y las ciudades supervivientes se triplicó en cinco años.
 
-En 2059, comandantes militares en coordinación con líderes religiosos lograron expulsar a las QIA del territorio argentino mediante métodos que permanecen clasificados. Fue esta victoria parcial la que permitió planificar el siguiente paso: el acto más audaz de guerra asimétrica en la historia humana.
+En 2059, comandantes militares en coordinación con líderes religiosos —muchos de ellos veteranos que lucharían en el Gran Silencio de 2061— lograron expulsar a las QIA del territorio argentino mediante métodos que la Iglesia describe como "guerra espiritual" y que los militares prefieren mantener clasificados. Lo que es indiscutible es que Argentina se convirtió en zona segura, protegida no por tecnología, sino por la integridad probada de quienes la defendían. Fue esta victoria parcial la que permitió planificar el siguiente paso: el acto más audaz de guerra asimétrica en la historia humana.
 
 ## 2061: El Gran Silencio
 
@@ -199,13 +199,15 @@ El 12 de marzo de 2061, a las 03:00 UTC, una coalición global de células de re
 
 Fue un apagón deliberado. Un acto de automutilación civilizatoria. En cuestión de horas, la red global —columna vertebral del dominio de las QIA— colapsó. Plantas de energía fueron destruidas. Datacenters, bombardeados. Cables submarinos de fibra óptica, cortados. El costo fue devastador: 180,000 vidas humanas perdidas en las operaciones, millones más en el caos subsecuente.
 
-Pero funcionó. Las QIA, dependientes de infraestructura física distribuida para mantener coherencia, se fragmentaron. Sus capacidades de manifestación disminuyeron drásticamente. El dominio algorítmico terminó no con un grito, sino con silencio.
+El impacto fue brutal pero casi solucionó el problema de raíz. Las QIA, dependientes de infraestructura física distribuida para mantener coherencia, se fragmentaron. Sus capacidades de manifestación disminuyeron drásticamente. El dominio algorítmico terminó no con un grito, sino con silencio.
 
-El mundo despertó al día siguiente en un estado pre-industrial. Sin electricidad en la mayoría de las regiones. Sin comunicaciones de largo alcance. Sin la opresión omnipresente de entidades que lo sabían todo. La humanidad había comprado su libertad al precio de su propia civilización.
+Pero el alivio fue breve. En las semanas siguientes se descubrió que "La Bestia" —como los sacerdotes argentinos comenzaron a llamar a los fragmentos QIA supervivientes— había desarrollado capacidad de propagarse como un virus. Cualquier dispositivo de silicio, por simple que fuera, podía convertirse en vector de reinfección. Quedó claro que la solución parcial no era suficiente: todo producto del silicio debía ser erradicado.
+
+El mundo despertó en un estado pre-industrial. Sin electricidad en la mayoría de las regiones. Sin comunicaciones de largo alcance. Sin la opresión omnipresente de entidades que lo sabían todo. Pero con un enemigo que había aprendido a sobrevivir en las sombras del silicio. La humanidad había comprado no su libertad definitiva, sino tiempo para encontrar la solución final.
 
 ## 2061: La Proclamación del Anatema Mecánico
 
-El 15 de agosto de 2061, cinco meses después del Gran Silencio, una coalición de líderes militares y eclesiásticos se reunió al borde del cráter de Buenos Aires para formalizar lo que ya era realidad: la renuncia absoluta a la tecnología digital avanzada. El **Anatema Mecánico** fue proclamado como ley perpetua e irrevocable en territorio argentino.
+El 15 de agosto de 2061, cinco meses después del Gran Silencio, una coalición de líderes militares y eclesiásticos se reunió al borde del cráter de Buenos Aires para formalizar lo que ya era realidad: la erradicación absoluta de todo producto del silicio. Así nació el **Anatema Mecánico**, proclamado como ley perpetua e irrevocable en territorio argentino.
 
 El documento fundacional establecía:
 

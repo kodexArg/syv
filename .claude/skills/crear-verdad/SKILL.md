@@ -43,7 +43,7 @@ O cuando se detecta:
 
 **Cronología** (Define cuándo es posible):
 - `1_trasfondo/cronologia/cronología.md` - FUENTE INMUTABLE de hitos y eras (2020-2178)
-- Hitos inamovibles: 2029 Noche Global, 2030 Meteorito, 2035 Último contacto, 2048 Primera QIA, 2061 Anatema, 2161 Confederación
+- Hitos inamovibles: 2029 Noche Global, 2030 Meteorito, 2035 Nacimiento QIA, 2048 Fin de los Secretos, 2061 Gran Silencio, 2061 Anatema, 2161 Confederación
 
 **Geografía de Ciudades** (Define dónde es posible):
 - `2_atlas/ciudades/darsena/` (7 zonas) - Capital de facto, máximo control religioso
@@ -142,7 +142,7 @@ O cuando se detecta:
 | **Ciudades confederadas** | Dársena primaria, revisar también: Córdoba, Mendoza, San Luis, FSM | Cobertura regional consistente |
 | **Preservación de estilo** | OBLIGATORIO: Mantener tono, ritmo, emociones originales | No cambiar "color" narrativo |
 | **Perspectiva temporal** | SIEMPRE desde 2178 (Hermano Archivista Pedro) | Fuentes válidas: físicas, NO digitales |
-| **Hitos inamovibles** | NO pueden modificarse: 2030 Meteorito, 2061 Anatema, 2161 Confederación | Canon base inquebrantable |
+| **Hitos inamovibles** | NO pueden modificarse: 2030 Meteorito, 2048 Fin de los Secretos, 2061 Gran Silencio, 2061 Anatema, 2161 Confederación | Canon base inquebrantable |
 
 ## Workflows Comunes
 

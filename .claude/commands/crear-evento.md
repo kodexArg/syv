@@ -30,7 +30,7 @@ Pregunta al usuario (7 campos):
    - Los Últimos Años (2020-2029)
    - Los Años del Caos (2029-2038)
    - La Gran Guerra Global (2039-2047)
-   - El Fin de los Secretos (2048-2061)
+   - El Fin de los Secretos y Dominio Algorítmico (2048-2061)
    - La Edad Oscura (2062-2160)
    - La Confederación Temprana (2161-2177)
    - Actualidad (2178)
@@ -81,11 +81,14 @@ Si usuario marca como HITO, verificar:
 NO puede contradecir estos HITOS INAMOVIBLES:
 - 2029: Noche Global (apagón planetario)
 - 27 dic 2030: Meteorito Buenos Aires
-- 2035: Último contacto intercontinental
+- 2035: Último contacto intercontinental, Nacimiento de las QIA
 - 2039: El Estallido (guerra sino-norteamericana, inicio Gran Guerra Global)
 - 2039-2047: Gran Guerra Global
-- 2048: Primera QIA
-- 2061: Anatema Mecánico
+- 7 abril 2048: El Fin de los Secretos (descifrado masivo QIA)
+- 2048-2061: El Dominio Algorítmico (subordinación tecnológica)
+- 2054: Traslado Santa Sede a Dársena
+- 12 marzo 2061: El Gran Silencio (apagón coordinado global)
+- 15 agosto 2061: Promulgación del Anatema Mecánico
 - 2161: Confederación Argentina
 ```
 
@@ -128,7 +131,7 @@ INCORRECTO (RECHAZAR):
 1. 2020-2029: Los Últimos Años
 2. 2029-2038: Los Años del Caos
 3. 2039-2047: La Gran Guerra Global
-4. 2048-2061: El Fin de los Secretos (Era QIA)
+4. 2048-2061: El Fin de los Secretos y Dominio Algorítmico
 5. 2062-2160: La Edad Oscura
 6. 2161-2177: La Confederación Temprana
 7. 2178: Actualidad
@@ -139,12 +142,14 @@ INCORRECTO (RECHAZAR):
 ✗ NO puede modificar ni contradecir:
 - 2029: Noche Global
 - 27 dic 2030: Meteorito (850m radio)
-- 2035: Último contacto intercontinental
+- 2035: Último contacto intercontinental, Nacimiento de las QIA
 - 2039: El Estallido (guerra sino-norteamericana, inicio Gran Guerra Global)
 - 2039-2047: Gran Guerra Global
-- 2048: Primera QIA
+- 7 abril 2048: El Fin de los Secretos (descifrado masivo QIA)
+- 2048-2061: El Dominio Algorítmico (subordinación tecnológica)
 - 2054: Traslado Santa Sede a Dársena
-- 2061: Promulgación Anatema Mecánico
+- 12 marzo 2061: El Gran Silencio (apagón coordinado global)
+- 15 agosto 2061: Promulgación del Anatema Mecánico
 - 2161: Formación Confederación Argentina
 ```
 

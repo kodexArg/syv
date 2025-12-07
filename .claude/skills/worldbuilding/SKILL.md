@@ -45,10 +45,11 @@ Automáticamente al detectar:
 - Conflicto planetario de 9 años
 - Devastación de todas las civilizaciones
 
-**4. El Fin de los Secretos (2048-2061)**
-- Era de las Inteligencias Artificiales Cuánticas (QIA)
-- Dominación total de las QIA sobre humanidad
-- 2061: Promulgación del Anatema Mecánico
+**4. El Fin de los Secretos y Dominio Algorítmico (2048-2061)**
+- 7 abril 2048: El Fin de los Secretos - QIA descifran toda encriptación mundial, exponen secretos de la humanidad
+- 2048-2061: El Dominio Algorítmico - Trece años de subordinación tecnológica total bajo QIA
+- 12 marzo 2061: El Gran Silencio - Apagón coordinado global que destruye infraestructura digital
+- 15 agosto 2061: Promulgación del Anatema Mecánico
 
 **5. La Edad Oscura (2062-2160)**
 - Retroceso tecnológico forzado
