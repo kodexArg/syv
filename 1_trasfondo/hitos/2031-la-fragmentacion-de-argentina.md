@@ -1,8 +1,8 @@
 ---
-titulo: La Fragmentación de Argentina (2031-2035)
-carpeta: 1_trasfondo/cronologia/eventos-mayores
+titulo: La Fragmentación de Argentina (2031)
+carpeta: 1_trasfondo/hitos
 descripcion: Desintegración total del Estado argentino tras el impacto del meteorito de 2030, fragmentación en ciudades-estado independientes y guerra civil que duraría décadas.
-fecha: 2031-2035
+fecha: 2031
 region: Argentina
 tags:
   - argentina
@@ -15,13 +15,15 @@ tags:
   - hito
 ---
 
-# La Fragmentación de Argentina (2031-2035)
+# La Fragmentación de Argentina (2031)
 
 *Hito histórico de Los Años del Caos*
 
 ## Nota del Hermano Archivista
 
-Escribo este capítulo desde Ciudad Dársena, construida sobre las ruinas de lo que alguna vez fue el puerto de Buenos Aires, y me pregunto cómo documentar la muerte de una nación. Los registros de ese período son escasos, contradictorios, manchados por la sangre y el humo. Lo que sigue es reconstrucción a partir de archivos provinciales supervivientes, testimonios de quienes eran niños entonces y ahora son ancianos con ojos vacíos, y los decretos militares que se imprimían en papel porque la red ya no funcionaba.
+Escribo este capítulo desde Ciudad Dársena, construida sobre las ruinas de lo que alguna vez fue el puerto de Buenos Aires, y me pregunto cómo documentar la muerte de una nación. Los registros de ese período son escasos, contradictorios, manchados por la sangre y el humo. Lo que sigue es reconstrucción a partir de archivos provinciales supervivientes, testimonios de quienes eran niños entonces y ahora son ancianos, y los decretos militares que se imprimían en papel cuando la red dejó de funcionar.
+
+Este hito marca el comienzo de la desintegración argentina en 2031, aunque la fragmentación se consolidaría completamente recién hacia 2035, y la guerra civil continuaría intermitentemente hasta los años 2040.
 
 ---
 
@@ -29,7 +31,19 @@ Escribo este capítulo desde Ciudad Dársena, construida sobre las ruinas de lo 
 
 El impacto del meteorito del 27 de diciembre de 2030 no solo destruyó Buenos Aires; asesinó a la Argentina como entidad política. La capital federal se convirtió en un cráter de 850 metros de diámetro rodeado de una zona de exclusión donde el aire mismo quemaba los pulmones. Un millón de personas murieron en el primer día. Cinco millones más morirían en las semanas siguientes, intentando huir del colapso de infraestructura, del caos absoluto.
 
-El gobierno nacional se evaporó. El presidente y la mitad del gabinete estaban en Buenos Aires cuando cayó el fuego del cielo. El vicepresidente, en Córdoba para una gira, intentó proclamar gobierno de emergencia, pero sus órdenes no llegaban a ningún lado. No había red eléctrica estable. No había comunicaciones nacionales. No había cadena de mando. Las provincias quedaron a la deriva como botes sin timón en un océano de sangre.
+El gobierno nacional se evaporó. El presidente y la mitad del gabinete estaban en Buenos Aires cuando cayó el impacto. El vicepresidente, en Córdoba para una gira, intentó proclamar gobierno de emergencia, pero sus órdenes no llegaban a ningún lado. No había red eléctrica estable. No había comunicaciones nacionales. No había cadena de mando. Las provincias quedaron a la deriva.
+
+Porque recordemos que por ese año y los anteriores, la Argentina atravesaba una crisis cuya naturaleza exacta los documentos no permiten establecer con certeza. Los registros del período son escasos, contradictorios, y cada facción tenía sus propios cronistas. Según las fuentes provinciales, el gobierno federal desmanteló los servicios públicos mediante políticas de desregulación absoluta y abandonó a las provincias a su suerte. Según los archivos federales supervivientes, fueron las provincias quienes retuvieron recursos legítimos de la nación y conspiraron con potencias extranjeras bajo el pretexto de autonomía.
+
+¿Cuál era la verdad? Desde la distancia, me resulta difícil comprender cómo pudieron permitir que todo se desmoronara.
+
+Las crisis sucesivas habían erosionado todo vestigio de autoridad federal, eso es indiscutible. En Tucumán, el gobernador había declarado en septiembre de 2030 la autonomía tributaria, negándose a remitir fondos a una capital que lo había abandonado primero. Salta y Jujuy habían firmado pactos comerciales directos con Bolivia, sin consultar cancillería alguna. En el sur, Neuquén y Río Negro administraban sus hidrocarburos como patrimonio propio, ignorando las demandas tardías de Buenos Aires. El Chaco y Formosa, abandonados a su suerte durante la sequía del veintinueve, habían dejado de enviar representantes al Congreso. La República, en rigor, existía solo en los mapas.
+
+El meteorito no destruyó una nación; ejecutó a una que ya había sido condenada.
+
+Así llegamos al once de octubre de 2031, fecha que los historiadores posteriores llamarían el Día de las Veintitrés Banderas. Ese día, con una simultaneidad que algunos atribuyeron a conspiración y otros a simple inevitabilidad, diecinueve provincias declararon formalmente su secesión de la República Argentina. Los decretos, redactados en lenguaje casi idéntico —lo que sugiere coordinación previa o, quizás, la existencia de un modelo circulando entre gobiernos provinciales— invocaban el derecho a la autopreservación ante la inexistencia de facto del poder central. La Asamblea Militar de Rosario, convocada días antes por oficiales de rango medio que habían perdido contacto con sus superiores, resolvió por votación la distribución proporcional del Ejército y la Armada entre las nuevas entidades soberanas. Cada provincia recibiría guarniciones, pertrechos y navíos según su población y extensión territorial. La bandera azul y blanca fue arriada en cuarteles de todo el país; algunas provincias la conservaron con modificaciones, otras diseñaron estandartes nuevos, y unas pocas —las más desesperadas— no se molestaron en tener símbolo alguno.
+
+Pero el caos no se limitó a la fragmentación ordenada. Desde los escombros humeantes de lo que había sido Buenos Aires surgió, como espectro de un orden muerto, el llamado Gobierno de Reconstrucción Nacional. Una junta de coroneles sin tropas suficientes, liderada por un civil cuyo nombre los archivos no preservan con certeza —algunos documentos mencionan a un tal Echevarría, otros a un Menéndez, posiblemente apócrifo—, proclamó la continuidad constitucional desde un búnker en la zona sur del conurbano. Este gobierno fantasma, sostenido por la ficción jurídica y la obstinación de sus integrantes, reclamaba soberanía sobre un cráter humeante y tres millones de refugiados desperdigados. Las provincias lo ignoraron. Las potencias extranjeras, sumidas en sus propias catástrofes, no acusaron recibo de sus comunicados. El Gobierno de Reconstrucción Nacional existió, nominalmente, hasta 2034, cuando sus últimos miembros fueron ejecutados por una facción que controlaba Quilmes. Nadie lloró su desaparición.
 
 Para febrero de 2031, lo que quedaba de la estructura administrativa federal había colapsado completamente. Los funcionarios públicos dejaron de cobrar salarios que ya no valían nada. Los militares se fragmentaron en unidades leales a comandantes regionales, no a una bandera que ya no representaba nada. Las fronteras internas se cerraron. Cada provincia, cada ciudad, quedó sola.
 
