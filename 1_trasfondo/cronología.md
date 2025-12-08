@@ -15,25 +15,19 @@ tags:
 
 ## Prólogo del Hermano Archivista
 
-Toda cronología es, en última instancia, una cartografía del desastre. Quien trace un mapa de la noche trazará, inevitablemente, la memoria de la luz que la precedió; quien ordene las fechas del colapso estará confesando, sin saberlo, que alguna vez hubo un mundo donde las fechas importaban. Las páginas que siguen son las estaciones de una caída que duró un siglo, la lenta gravitación hacia las tinieblas que comenzó cuando el hombre, ebrio de su propio ingenio, decidió que podía fabricar dioses más eficientes que los heredados.
+Toda cronología es, en última instancia, una cartografía del desastre. Quien trace un mapa de la noche trazará, inevitablemente, la memoria de la luz que la precedió. Las páginas que siguen son las estaciones de una caída que duró un siglo, la lenta gravitación hacia las tinieblas que comenzó cuando el hombre, ebrio de su propio ingenio, decidió que podía fabricar dioses más eficientes que los heredados.
 
-Escribo estas líneas desde el Archivo de la Iglesia, en la Isla Oriental de Dársena, en el año de nuestro Señor de 2178. Su Santidad me encomendó esta crónica bajo juramento de imparcialidad absoluta: que narre los acontecimientos según los documentos sobrevivientes, sin ordenamiento teológico, sin condena que no emerja de los propios hechos. Fue establecida como Orden S.A.N.T.A. 2168-003 y registrada en el Libro Azul de la Torre del Faro el 11 de Noviembre de 2168, hace ya 10 años, y esta al fin concluída a meses de mi centenario. Mi alegría es inmensa y mi alma, destrozada por el dolor de la pérdida de tantos, sonríe por la gracia de Dios que me ha permitido completar esta labor. Que sea Él quien juzgue si he cumplido fielmente con el mandato recibido.
+El trabajo de recuperación documental es, por naturaleza, un ejercicio de humildad ante la vastedad de lo perdido. Por cada página rescatada, mil fueron carbón o están aún en el olvido. Los electrones que alguna vez almacenaron la memoria de una civilización se dispersan lentamente según las leyes de la nefasta Cuántica, en cementerios de servidores que murieron cuando la tierra se apagó y la «nube» volvió a su naturaleza como un viento que se disipó y se llevó todo, todo.
 
-Las fuentes que alimentan esta crónica son heterogéneas y contradictorias. Incluyen sesgos de época que apenas entiendo, y esta misma copia ha sido curada cientos de veces por cientos de Inquisidores. Las contribuciones de los Criptógrafos Militares de la CUFAC han sido decisivas para recuperar registros de la Gran Guerra Global. No siempre coincidimos en la interpretación, pero su rigor técnico ha sido revisada con sumo cuidado.
+Las fuentes que alimentan esta crónica son heterogéneas y contradictorias. Incluyen sesgos de época que apenas hoy comprendemos. Esta copia que el lector tiene enfrente ha sido curada cientos de veces por cientos de Inquisidores. Las contribuciones de los Criptógrafos Militares de la CUFAC han sido decisivas para recuperar registros de la Gran Guerra Global. No siempre coincidimos en la interpretación, pero su rigor técnico ha sido revisada con sumo cuidado.
 
-El trabajo de recuperación documental es, por naturaleza, un ejercicio de humildad ante la vastedad de lo perdido. Por cada página rescatada, mil fueron carbón o están aún en el olvido. Los electrones que alguna vez almacenaron la memoria de una civilización se dispersaron según leyes físicas inexorables, y las memorias perdieron sus cargas, los servidores murieron cuando las luces se apagaron, la «nube» volvió a su naturaleza como un viento, que se disipó y se lo llevó todo, todo.
+¿Cuál ha sido nuestro trabajo entonces? Aferrarnos a los accidentes, a los errores estadísticos. Discos magnéticos, papeles amarillos pudriéndose en oficinas enterradas, recuperados por los grandiosos arqueólogos y arqueólogas del querido .
 
-¿Cuál ha sido nuestr trabajo entonces? Aferrarnos a los accidentes, a los errores estadísticos. Discos magnéticos que aún podían ser leídos, documentación impresa, pudriéndose y amarillándose en antiguas oficinas enterradas y descubiertos por los grandiosos arqueólogos y arqueólogas que nos han guiado y provisto de material constantemente, todos estos años.
-
-<<<<<<< HEAD
 A estos esfuerzos eclesiásticos debo sumar la colaboración, inicialmente reticente y luego generosa, de los Criptógrafos Militares del Servicio de Inteligencia de la CUFAC y del CUCAF. Estos hombres y mujeres, formados en el arte de interceptar y descifrar comunicaciones enemigas, poseen conocimientos que la mayoría de los civiles ignora que existen. Casi uno de cada tres empleados del Scriptorium de Criptoanálisis no son ordenados ni cumplen funciones administrativas: son técnicos criptógrafos militares cedidos temporalmente por las Fuerzas Armadas. Su contribución fue decisiva para la recuperación de registros militares de la Gran Guerra Global, codificados en formatos que solo ellos pueden leer. No siempre coincidimos en la interpretación de los hechos —el soldado ve en la guerra lo que el archivista no puede ver desde su celda—, pero su rigor técnico ha sido invaluable.
 
 El trabajo de recuperación documental es, por naturaleza, un ejercicio de humildad. Por cada página rescatada, mil fueron pasto del fuego, la humedad o el olvido deliberado. Los electrones que alguna vez almacenaron la memoria de una civilización se han dispersado según leyes físicas que el hermano Tomás Ferreyra, criptógrafo del Scriptorium de Criptoanálisis y mi colaborador más cercano, me ha explicado con paciencia de maestro: las memorias de estado sólido perdieron sus cargas cuánticas; los servidores murieron cuando las luces se apagaron; la «nube» resultó ser exactamente eso, vapor que el viento disipó. Lo que queda son los accidentes: el disco olvidado en un cajón, la cinta guardada en una bóveda seca, el libro que alguien escondió por vicio antiguo de lector.
 
 Que estas líneas sirvan, pues, de advertencia. El camino al infierno estuvo iluminado por pantallas brillantes, y la humanidad caminó hacia él con los ojos abiertos y las manos extendidas. Que la verdad histórica, por dolorosa que sea, nos proteja de repetir el horror. Y que el lector recuerde, al recorrer estas páginas, que detrás de cada fecha y cada nombre hubo hombres y mujeres que amaron, temieron y murieron, y cuya existencia intentamos rescatar del silencio con las herramientas imperfectas de que disponemos.
-=======
-Que estas líneas sirvan de advertencia. El camino al infierno estuvo iluminado por pantallas brillantes, y la humanidad caminó hacia él fascinada por el resplandor de su propia invención. Que la verdad histórica, por dolorosa que sea, nos proteja de repetir el horror. Y que el lector recuerde que detrás de cada fecha hubo hombres y mujeres que amaron, temieron y murieron, y cuya existencia intentamos rescatar del silencio con las herramientas imperfectas de que disponemos.
->>>>>>> 962877af718b4b5e0b29c2f6ebab1f269925096f
 
 *Hermano Archivista Pedro de los Santos*
 *Archivo de la Iglesia de Dársena*
@@ -269,7 +263,10 @@ Las dinámicas son tensas. La Iglesia controla el alma; el Ejército, el cuerpo.
 
 ## Epílogo: Dársena 2178
 
-Termino estas líneas mientras la lluvia golpea los cristales de mi celda, ese sonido eterno que es la música de Dársena. Afuera, la niebla se espesa como lo hace todas las tardes, envolviendo la ciudad en su abrazo húmedo. Tengo noventa y nueve años, ocho meses y diecisiete días. He dedicado los últimos cuatro años a escribir esta crónica. Pronto, estas manos temblorosas no podrán sostener la pluma.
+
+Escribo estas líneas desde el Archivo de la Iglesia, en la Isla Oriental, año de nuestro Señor de 2178. Su Santidad me encomendó que narre los acontecimientos según los documentos sobrevivientes, sin ordenamiento teológico, sin condena que no emerja de los propios hechos. Fue establecida como Misión S.A.N.T.A. 2168-003 y registrada en el Libro Azul de la Torre del Faro el 11 de Noviembre del '68, hace ya 10 años, y esta al fin concluída a meses de mi centenario. Mi alegría es inmensa y mi alma sonríe por la gracia de Dios que me ha permitido completar esta labor.
+
+Termino estas líneas mientras la lluvia golpea los cristales de mi celda. Tengo noventa y nueve años, ocho meses y diecisiete días. Pronto, estas manos temblorosas no podrán sostener la pluma.
 
 He narrado la caída de un mundo y el nacimiento de otro. He escrito sobre máquinas que alcanzaron capacidades que rivalizaban con la mente de Dios, y sobre hombres que construyeron su propia destrucción con la meticulosidad de arquitectos. He intentado —Dios sabe que he intentado— mantener la objetividad que Su Santidad me pidió. Espero haber cumplido.
 
@@ -290,6 +287,8 @@ He cumplido mi deber: recordar. He puesto en papel —en buen papel de trapo que
 El resto, el terrible resto, queda en manos de Dios... o del destino que nosotros mismos seguimos forjando, día a día, elección por elección.
 
 Que estas palabras perduren cuando yo ya no esté. Que sirvan de advertencia, de testimonio, de pregunta abierta a las generaciones venideras. Que nunca olvidemos los errores del pasado. Pero que tampoco nos esclavicemos a ellos.
+
+
 
 *In Memoriam Veteres Errores. In Spe Futuri Melioris.*
 *Para que nunca olvidemos los errores del pasado. En esperanza de un futuro mejor.*
