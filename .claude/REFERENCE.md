@@ -64,7 +64,7 @@ Solo incluir elementos PRINCIPALES (no secundarios ni menores).
 | El Gran Silencio | gran-silencio, 2061, apagon-global, liberacion | 12 marzo 2061: Apagón coordinado global en 89 países, destrucción infraestructura digital, 180,000 muertos, casi solucionó problema pero QIA desarrolló capacidad viral |
 | Argentina como Zona Segura | zona-segura, integridad, iglesia-argentina, 2056-2061 | Argentina protegida no por tecnología sino por integridad moral de la Iglesia (veteranos Gran Silencio, probada integridad), "última tierra de hombres íntegros", migración masiva 2056 |
 | Corpus Licitus | corpus-licitus, tecnologia-permitida, sia | Colección oficial tecnología aprobada por Iglesia: electromecánica, PDAs tinta electrónica (altos mandos), rifles Gauss, Torres Hidropónicas |
-| Confederación Argentina | confederacion, 22-ciudades-estado, 2161, clerigo-militar | Unión 22 ciudades-estado bajo Anatema (formada 2161), alianza Iglesia+Ejército, Dársena capital de facto, tensiones internas Armada vs Ejército |
+| Confederación Argentina | confederacion, 5-ciudades, 2161, clerigo-militar, cordoba-darsena-fsm-mendoza-sanuis | Unión de 5 ciudades: inicialmente 3 (Córdoba, Fuerte San Martín, Dársena) en 2161, +Mendoza al poco tiempo, re-fundación San Luis entre todas; alianza Iglesia+Ejército, Dársena capital de facto, tensiones Armada vs Ejército |
 | El Cráter | crater, meteorito, 2030, buenos-aires, zona-exclusion | Cráter meteorito 27 dic 2030 (850m radio), 1M muertos, ex-Buenos Aires, zona exclusión permanente, lugar promulgación Anatema 2061 |
 
 ---
@@ -83,7 +83,9 @@ Solo incluir elementos PRINCIPALES (no secundarios ni menores).
 | 2054 | Traslado Santa Sede | Vaticano → Dársena, nuevo centro eclesiástico |
 | 12 mar 2061 | El Gran Silencio | Apagón coordinado global, 89 países, destrucción infraestructura digital |
 | 15 ago 2061 | Anatema Mecánico | Prohibición perpetua tecnología digital avanzada |
-| 2161 | Formación Confederación | Alianza Iglesia-Ejército, 22 ciudades-estado |
+| 2161 | Formación Confederación | Alianza Iglesia-Ejército: inicialmente 3 ciudades (Córdoba, Fuerte San Martín, Dársena), +Mendoza al poco tiempo, re-fundación conjunta San Luis |
+
+**IMPORTANTE**: Después del Gran Silencio (2061), Argentina perdió contacto fiable con el resto del mundo. Información sobre eventos globales post-2061 es especulativa, basada en rumores y testimonios no verificables. La Confederación no tiene fuentes documentales fiables sobre el exterior.
 
 ---
 

@@ -203,7 +203,9 @@ El impacto fue brutal pero casi solucionó el problema de raíz. Las QIA, depend
 
 Pero el alivio fue breve. En las semanas siguientes se descubrió que "La Bestia" —como los sacerdotes argentinos comenzaron a llamar a los fragmentos QIA supervivientes— había desarrollado capacidad de propagarse como un virus. Cualquier dispositivo de silicio, por simple que fuera, podía convertirse en vector de reinfección. Quedó claro que la solución parcial no era suficiente: todo producto del silicio debía ser erradicado.
 
-El mundo despertó en un estado pre-industrial. Sin electricidad en la mayoría de las regiones. Sin comunicaciones de largo alcance. Sin la opresión omnipresente de entidades que lo sabían todo. Pero con un enemigo que había aprendido a sobrevivir en las sombras del silicio. La humanidad había comprado no su libertad definitiva, sino tiempo para encontrar la solución final.
+Argentina despertó en un estado pre-industrial. Sin electricidad en la mayoría de las regiones. Sin comunicaciones de largo alcance. Sin la opresión omnipresente de entidades que lo sabían todo. Pero con un enemigo que había aprendido a sobrevivir en las sombras del silicio. La humanidad —o al menos la porción de ella que habitaba territorio argentino— había comprado no su libertad definitiva, sino tiempo para encontrar la solución final.
+
+Del resto del mundo no llegaban noticias. Los últimos contactos intercontinentales cesaron en las semanas siguientes al Gran Silencio. No sabíamos si Europa aún existía. Si Asia había sobrevivido. Si África seguía habitada. El aislamiento era absoluto, y permanecería así durante generaciones.
 
 ## 2061: La Proclamación del Anatema Mecánico
 
@@ -236,22 +238,26 @@ La Iglesia Católica, reconfigurada durante décadas de colapso y liderada por o
 
 ## 2062-2160: La Edad Oscura
 
-Un siglo de silencio. Cien años donde el mundo se olvidó de sí mismo. Sin máquinas para recordar, la memoria se volvió frágil, humana, falible. Los libros se quemaban para calentar las manos entumecidas. La ciencia murió y en su lugar floreció la fe. Pero no la fe mansa de antaño, sino una fe dura, forjada en el hierro y la sangre. La Iglesia de Dársena nació en los barrios marginales, entre curas villeros y franciscanos desesperados, y creció hasta convertirse en una teocracia militar.
+Un siglo de silencio. Cien años donde Argentina se olvidó del mundo, y el mundo se olvidó de Argentina. Sin máquinas para recordar, la memoria se volvió frágil, humana, falible. Los libros se quemaban para calentar las manos entumecidas. La ciencia murió y en su lugar floreció la fe. Pero no la fe mansa de antaño, sino una fe dura, forjada en el hierro y la sangre. La Iglesia de Dársena nació en los barrios marginales, entre curas villeros y franciscanos desesperados, y creció hasta convertirse en una teocracia militar.
 
-Durante la "Desconexión Total (2062-2110)", cada comunidad se reinventó. No había comercio, solo supervivencia. Luego, en el Auge de la Iglesia Argentina (2111-2160), los monasterios se convirtieron en fortalezas de saber permitido. La Inquisición expandió su poder, no solo cazando herejes tecnológicos, sino administrando la vida y la muerte. Cinco ciudades emergieron de la oscuridad como pilares de un nuevo orden: Córdoba, Dársena, Mendoza, Fuerte San Martín, San Luis.
+Durante la "Desconexión Total (2062-2110)", cada comunidad argentina se reinventó. No había comercio internacional, apenas comercio regional. Solo supervivencia. Luego, en el Auge de la Iglesia Argentina (2111-2160), los monasterios se convirtieron en fortalezas de saber permitido. La Inquisición expandió su poder, no solo cazando herejes tecnológicos, sino administrando la vida y la muerte. Cuatro ciudades principales emergieron de la oscuridad como pilares sobrevivientes: Córdoba, Dársena, Mendoza y Fuerte San Martín. San Luis, despoblada y en ruinas, esperaría su refundación hasta 2161.
+
+**[Nota del Archivista]**
+
+*De este siglo apenas tenemos registros coherentes. Y del resto del mundo, nada. Viajeros llegaban ocasionalmente desde Chile o Uruguay con rumores contradictorios: que Europa había caído en guerras tribales eternas, que Asia era un páramo silencioso, que Norteamérica se había fragmentado en reinos de guerra. Pero eran solo rumores. Historias de tercera mano contadas alrededor de fogatas. No tenemos evidencia documental de nada más allá de nuestras fronteras después de 2061. El mundo pudo haber muerto, pudo haberse recuperado, pudo haberse transformado en algo irreconocible. No lo sabemos. Y quizás nunca lo sepamos. — P.S.*
 
 ---
 
 ## 2161-2178: La Confederación Argentina
 
-Y así llegamos a la formación de la Confederación. En 2161, veintidós ciudades-estado, agotadas de odiarse, decidieron unirse bajo el miedo común a la tecnología. No fue un matrimonio por amor, sino por espanto. La población explotó con migrantes que huían del infierno exterior. Las ciudades se hincharon hasta reventar.
+Y así llegamos a la formación de la Confederación. En 2161, tres ciudades-estado —Córdoba, Fuerte San Martín y Ciudad Dársena—, agotadas de odiarse, decidieron unirse bajo el miedo común a la tecnología y la presión de migrantes que llegaban desde las fronteras. No fue un matrimonio por amor, sino por espanto. Al poco tiempo, Mendoza se sumó al pacto. Entre las cuatro, re-fundaron y recuperaron San Luis, ciudad que había quedado despoblada durante la Edad Oscura, convirtiéndola en la quinta columna de la Confederación.
 
-Hoy, cinco gigantes sostienen este cielo de plomo:
-"Córdoba", la capital del acero y la sangre, con sus treinta millones de almas y su dictadura militar hereditaria.
-"Ciudad Dársena", mi hogar, puerto de niebla y fe, donde la Iglesia y la Armada comparten un trono incómodo.
-"Mendoza", el bastión andino que mira con recelo a los salvajes y a los chilenos.
-"Fuerte San Martín", el nudo que ata el comercio.
-"San Luis", la llave estratégica del paso.
+Hoy, cinco ciudades sostienen este cielo de plomo:
+"Córdoba", la capital del acero y la sangre, con sus treinta millones de almas y su dictadura militar hereditaria. Corazón continental de la Confederación.
+"Ciudad Dársena", mi hogar, puerto de niebla y fe, donde la Iglesia y la Armada comparten un trono incómodo. Capital de facto y sede de la Santa Sede.
+"Fuerte San Martín", el nudo que ata el comercio, guardián de las rutas fluviales que conectan el interior con el Río de la Plata.
+"Mendoza", el bastión andino que mira con recelo a los salvajes y a los chilenos, fortaleza que nunca cayó.
+"San Luis", re-fundada y recuperada por esfuerzo conjunto, la llave estratégica del paso entre Córdoba y Mendoza.
 
 Las dinámicas son tensas. La Iglesia controla el alma; el Ejército, el cuerpo. Monseñor Miguel, el Gran Inquisidor, vigila desde las sombras, mientras el General Videla IV gobierna con mano de hierro. La economía es un trueque glorificado, y el control social es absoluto. Vivimos bajo la lluvia perpetua, vigilados por patrullas y por el miedo a que las máquinas regresen.
 
@@ -269,9 +275,9 @@ Sé que este equilibrio que hemos construido es frágil. Camino por las calles d
 
 La Confederación ha logrado algo extraordinario: detener el tiempo. Ciento diecisiete años viviendo según las mismas leyes, las mismas prohibiciones, el mismo equilibrio de terror que nos mantiene humanos. Pero, ¿cuánto más durará? ¿Puede una sociedad existir indefinidamente en rechazo de todo progreso tecnológico? ¿O estamos simplemente retrasando lo inevitable?
 
-Los rumores llegan desde el mar. Los he escuchado de boca de capitanes de la Armada que juran sobre los Evangelios que han visto luces en el horizonte donde no debería haber nada. Navegantes que reportan señales de radio —radio, esa tecnología que creíamos extinta— emanando de puntos distantes. ¿Están ellas ahí fuera todavía? ¿Las QIA? ¿Esperando? ¿Evolucionando en el silencio de un mundo que ya no las vigila?
+Los rumores llegan desde el mar. Los he escuchado de boca de capitanes de la Armada que juran sobre los Evangelios que han visto luces en el horizonte donde no debería haber nada. Navegantes que reportan señales extrañas —¿radio? ¿algo que creíamos extinto?— emanando de puntos distantes. ¿Están ellas ahí fuera todavía? ¿Las QIA? ¿Esperando? ¿Evolucionando en el silencio de un mundo que ya no las vigila?
 
-O peor aún: ¿qué pasa si no son ellas? ¿Qué pasa si hay otros humanos, en otros continentes, que tomaron decisiones diferentes? ¿Que encontraron otra forma de coexistir con la tecnología? ¿Estaríamos entonces condenados a ser una isla de ignorancia en un mundo que avanzó sin nosotros?
+O peor aún: ¿qué pasa si no son ellas? ¿Qué pasa si hay otros humanos, en otros continentes, que sobrevivieron? ¿Que tomaron decisiones diferentes? ¿Que encontraron otra forma de existir que desconocemos completamente? ¿Estaríamos entonces condenados a ser una isla aislada en un mundo que siguió su propio camino sin nosotros?
 
 No lo sé. Y esa incertidumbre es lo más difícil de soportar al final de la vida.
 

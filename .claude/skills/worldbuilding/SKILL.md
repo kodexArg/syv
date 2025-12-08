@@ -57,7 +57,7 @@ Automáticamente al detectar:
 - Reestablecimiento gradual del orden
 
 **6. La Confederación Temprana (2161-2177)**
-- Unión de 22 ciudades-estado bajo el Anatema
+- Unión de 5 ciudades: inicialmente 3 (Córdoba, Fuerte San Martín, Dársena) en 2161, +Mendoza al poco tiempo, re-fundación conjunta de San Luis
 - 2054: Traslado de la Santa Sede desde el Vaticano a Dársena
 - Establecimiento de la Sagrada Inquisición Argentina (SIA)
 

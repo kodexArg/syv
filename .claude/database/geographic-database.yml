@@ -105,12 +105,12 @@ confederacion_argentina:
 
   overview:
     name: "Confederación Argentina"
-    established: 2061
+    established: 2161
     population: 50+ millones
-    governance: "Confederación de 22 ciudad-estados bajo hegemonía compartida"
+    governance: "Confederación de 5 ciudades: Córdoba, Dársena, Fuerte San Martín, Mendoza, San Luis"
     capital_de_facto: "Ciudad Dársena"
     military_capital: "Córdoba"
-    description: "Alianza de ciudad-estados autónomas en Argentina que mantiene la estabilidad política y comercial a través de un delicado equilibrio de poder entre Dársena (poder naval/religioso) y Córdoba (poder militar/industrial)"
+    description: "Alianza de 5 ciudades-estado en Argentina formada en 2161 (inicialmente 3: Córdoba, Fuerte San Martín, Dársena; +Mendoza al poco tiempo; re-fundación conjunta San Luis). Mantiene estabilidad política y comercial a través de delicado equilibrio de poder entre Dársena (poder naval/religioso) y Córdoba (poder militar/industrial)"
 
   territorial_span:
     north_boundary: "Límite difuso con Paraguay/Brasil (Tierras Baldías)"
