@@ -8,55 +8,52 @@ const baseSchema = z.object({
     slug: z.string().optional(),
     folder: z.string().optional(),
     description: z.string().optional(),
-    tags: z.array(z.string()).optional(),
+    tags: z.array(z.union([z.string(), z.number()]).transform(String)).optional(),
     region: z.string().optional(),
-    fecha: z.string().optional(),
+    fecha: z.union([z.string(), z.number(), z.date()]).transform((val) => {
+        if (val instanceof Date) {
+            return val.toISOString().split('T')[0];
+        }
+        return String(val);
+    }).optional(),
 });
 
-// Esquema específico para personajes
 const personajeSchema = baseSchema.extend({
     nombre: z.string().optional(),
     facciones: z.array(z.string()).optional(),
     spoilers: z.array(z.string()).optional(),
 });
 
-// Colección: 0_proyecto - Documentación del proyecto
 const proyectoCollection = defineCollection({
     loader: glob({ pattern: '**/*.md', base: './0_proyecto' }),
     schema: baseSchema,
 });
 
-// Colección: 1_trasfondo - Lore, cronología, facciones
 const trasfondoCollection = defineCollection({
     loader: glob({ pattern: '**/*.md', base: './1_trasfondo' }),
     schema: baseSchema,
 });
 
-// Colección: 2_atlas - Ubicaciones geográficas
 const atlasCollection = defineCollection({
     loader: glob({ pattern: '**/*.md', base: './2_atlas' }),
     schema: baseSchema,
 });
 
-// Colección: 3_personajes - Personajes del mundo
 const personajesCollection = defineCollection({
     loader: glob({ pattern: '**/*.md', base: './3_personajes' }),
     schema: personajeSchema,
 });
 
-// Colección: 4_diegesis - Relatos, cartas, crónicas
 const diegesisCollection = defineCollection({
     loader: glob({ pattern: '**/*.md', base: './4_diegesis' }),
     schema: baseSchema,
 });
 
-// Colección: 5_aventuras - Aventuras y campañas
 const aventurasCollection = defineCollection({
     loader: glob({ pattern: '**/*.md', base: './5_aventuras' }),
     schema: baseSchema,
 });
 
-// Colección: 6_media - Recursos multimedia
 const mediaCollection = defineCollection({
     loader: glob({ pattern: '**/*.md', base: './6_media' }),
     schema: baseSchema,

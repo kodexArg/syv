@@ -3,9 +3,6 @@ title: Proyecto
 slug: proyecto
 folder: 0_proyecto
 description: Organización, estructura y documentación general del proyecto SyV.
-tags:
-- @[0_proyecto/guias-para-colaboradores/manual-del-colaborador.md]
-- @[0_proyecto/guias-para-colaboradores/guia-de-metadatos.md]
 ---
 # Proyecto
 
