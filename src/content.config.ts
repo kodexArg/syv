@@ -1,5 +1,7 @@
 import { defineCollection, z } from 'astro:content';
 import { glob } from 'astro/loaders';
+import { docsLoader } from '@astrojs/starlight/loaders';
+import { docsSchema } from '@astrojs/starlight/schema';
 
 // Esquema base para todos los archivos markdown
 // Todos los campos son opcionales para evitar errores de validación
@@ -59,7 +61,14 @@ const mediaCollection = defineCollection({
     schema: baseSchema,
 });
 
+
+const docs = defineCollection({
+    loader: docsLoader(),
+    schema: docsSchema(),
+});
+
 export const collections = {
+    docs,
     '0_proyecto': proyectoCollection,
     '1_trasfondo': trasfondoCollection,
     '2_atlas': atlasCollection,

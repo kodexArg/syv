@@ -1,6 +1,7 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
+import starlightThemeObsidian from 'starlight-theme-obsidian';
 
 // https://astro.build/config
 export default defineConfig({
@@ -16,7 +17,18 @@ export default defineConfig({
 					lang: 'es',
 				},
 			},
-			sidebar: [],
+			plugins: [
+				starlightThemeObsidian(),
+			],
+			sidebar: [
+				{ label: 'Proyecto', autogenerate: { directory: 'proyecto' } },
+				{ label: 'Trasfondo', autogenerate: { directory: 'trasfondo' } },
+				{ label: 'Atlas', autogenerate: { directory: 'atlas' } },
+				{ label: 'Personajes', autogenerate: { directory: 'personajes' } },
+				{ label: 'Diégesis', autogenerate: { directory: 'diegesis' } },
+				{ label: 'Aventuras', autogenerate: { directory: 'aventuras' } },
+				{ label: 'Media', autogenerate: { directory: 'media' } },
+			],
 		}),
 	],
 });
