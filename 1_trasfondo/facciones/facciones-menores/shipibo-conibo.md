@@ -1,7 +1,7 @@
 ---
-titulo: Shipibo-Conibo
-carpeta: 1_trasfondo/facciones/facciones-menores
-descripcion: Comunidad de sabios chamanes amazónicos que viven ocultos en las Tuberías de Dársena, preservando sus conocimientos ancestrales sobre botánica y el mundo espiritual.
+title: Shipibo-Conibo
+folder: 1_trasfondo/facciones/facciones-menores
+description: Comunidad de sabios chamanes amazónicos que viven ocultos en las Tuberías de Dársena, preservando sus conocimientos ancestrales sobre botánica y el mundo espiritual.
 tags:
 - faccion
 - proscrita
@@ -11,7 +11,6 @@ tags:
 - amazonia
 - facciones-menores
 ---
-
 # Shipibo-Conibo
 
 Lejos de su hogar en la Amazonía, una pequeña comunidad de "Shipibo-Conibo" ha encontrado un insólito refugio en las Tuberías de Ciudad Dársena. Este grupo, compuesto por unas pocas decenas de individuos, lucha por mantener vivas sus costumbres y saberes ancestrales en el corazón de una metrópolis que los rechazaría. Su principal objetivo es la supervivencia cultural y la protección de su comunidad de la asimilación forzada y las amenazas externas que acechan en la oscuridad.

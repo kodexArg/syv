@@ -1,12 +1,11 @@
 ---
-titulo: Tecnologías Visuales
-carpeta: 2_atlas/tecnologia-y-ciencia
-descripcion: Tecnologías visuales permitidas bajo el Anatema Mecánico.
+title: Tecnologías Visuales
+folder: 2_atlas/tecnologia-y-ciencia
+description: Tecnologías visuales permitidas bajo el Anatema Mecánico.
 tags:
 - tecnologia
 - atlas
 ---
-
 # Tecnologías Visuales
 
 En un mundo sin computación avanzada, las tecnologías para mostrar imágenes dependen de soluciones analógicas y mecánicas, algunas de una complejidad sorprendente.

@@ -1,7 +1,7 @@
 ---
-titulo: Hermano Diego Sánchez, Monaguillo
-carpeta: 3_personajes/secundarios
-descripcion: Joven monaguillo de la Basílica de San Pedro, cuyo carisma y belleza ocultan una búsqueda personal de fe verdadera.
+title: Hermano Diego Sánchez, Monaguillo
+folder: 3_personajes/secundarios
+description: Joven monaguillo de la Basílica de San Pedro, cuyo carisma y belleza ocultan una búsqueda personal de fe verdadera.
 tags:
   - hermano-diego-sanchez
   - monaguillo
@@ -10,7 +10,6 @@ tags:
 facciones: ["Alto Clero", "Servicios Religiosos"]
 alerta-spoilers: "Busca en secreto una fe más allá de la doctrina oficial"
 ---
-
 ## Hermano Diego Sánchez
 
 26 años, Basílica de San Pedro

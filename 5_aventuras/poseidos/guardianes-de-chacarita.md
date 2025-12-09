@@ -1,14 +1,13 @@
 ---
-titulo: Guardianes de Chacarita
-carpeta: 5_aventuras/poseidos
-descripcion: Descripción de la facción de los Guardianes del Cementerio de Chacarita, sus miembros, su liderazgo y sus secretos.
+title: Guardianes de Chacarita
+folder: 5_aventuras/poseidos
+description: Descripción de la facción de los Guardianes del Cementerio de Chacarita, sus miembros, su liderazgo y sus secretos.
 tags:
 - faccion
 - personajes
 - poseidos
 - chacarita
 ---
-
 # Los Guardianes del Cementerio de Chacarita y su Sociedad Oculta
 
 ## Personajes

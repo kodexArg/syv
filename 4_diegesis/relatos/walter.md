@@ -1,14 +1,13 @@
 ---
-titulo: Walter
-carpeta: 4_diegesis/relatos
-descripcion: Fragmento de la juventud de Walter, nadador y explorador de las Tuberías de Dársena.
+title: Walter
+folder: 4_diegesis/relatos
+description: Fragmento de la juventud de Walter, nadador y explorador de las Tuberías de Dársena.
 tags:
 - relato
 - walter
 - darsena
 - tuberias
 ---
-
 ## Tres años antes
 
 Paco se acercó y apoyó su manaza sobre el hombro de Walter:

@@ -1,14 +1,13 @@
 ---
-titulo: Ricardo Vélez, Historiador
-carpeta: 3_personajes/secundarios
-descripcion: Historiador que imparte clases particulares sobre la verdadera historia de Dársena para preservar la memoria colectiva.
+title: Ricardo Vélez, Historiador
+folder: 3_personajes/secundarios
+description: Historiador que imparte clases particulares sobre la verdadera historia de Dársena para preservar la memoria colectiva.
 tags:
   - historiador
   - profesor
   - guardian-memoria
 facciones: []
 ---
-
 ## Ricardo Vélez, Historiador
 
 53 años, Ciudad

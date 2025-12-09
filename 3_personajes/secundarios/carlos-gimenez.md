@@ -1,7 +1,7 @@
 ---
-titulo: Carlos Giménez, Médico
-carpeta: 3_personajes/secundarios
-descripcion: Médico de emergencias comprometido pero técnicamente mediocre, que ha notado un patrón alarmante de pacientes con agotamiento del sueño.
+title: Carlos Giménez, Médico
+folder: 3_personajes/secundarios
+description: Médico de emergencias comprometido pero técnicamente mediocre, que ha notado un patrón alarmante de pacientes con agotamiento del sueño.
 tags:
   - carlos-gimenez
   - medico
@@ -9,7 +9,6 @@ tags:
   - emergencias
 facciones: ["Sanidad"]
 ---
-
 ## Dr. Carlos Giménez
 
 38 años, Clínica del Centro

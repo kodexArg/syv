@@ -1,7 +1,7 @@
 ---
-titulo: Subcomisario Iván Méndez
-carpeta: 3_personajes/secundarios
-descripcion: Líder de equipo en la Unidad de Respuesta Táctica Urbana (RTU), especializado en operaciones de alto riesgo.
+title: Subcomisario Iván Méndez
+folder: 3_personajes/secundarios
+description: Líder de equipo en la Unidad de Respuesta Táctica Urbana (RTU), especializado en operaciones de alto riesgo.
 tags:
   - policia
   - rtu
@@ -12,7 +12,6 @@ facciones:
   - "Unidad de Respuesta Táctica Urbana (RTU)"
 alerta-spoilers: "Su lucha contra el abuso de poder dentro de las fuerzas de seguridad."
 ---
-
 ## Subcomisario Iván Méndez
 
 40 años, Unidad RTU

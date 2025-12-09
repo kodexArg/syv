@@ -1,7 +1,7 @@
 ---
-titulo: Sor Sofía
-carpeta: 3_personajes/secundarios
-descripcion: Monja de la Congregación de la Caridad Divina que investiga extraños sucesos sobrenaturales en los barrios bajos de Dársena.
+title: Sor Sofía
+folder: 3_personajes/secundarios
+description: Monja de la Congregación de la Caridad Divina que investiga extraños sucesos sobrenaturales en los barrios bajos de Dársena.
 tags:
   - monja
   - investigadora
@@ -10,7 +10,6 @@ tags:
 facciones:
   - "Congregación de la Caridad Divina"
 ---
-
 ## Sor Sofía
 
 Edad desconocida, Movilizándose entre barrios bajos

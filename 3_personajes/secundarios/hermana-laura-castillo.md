@@ -1,7 +1,7 @@
 ---
-titulo: Hermana Laura Castillo, Enfermera
-carpeta: 3_personajes/secundarios
-descripcion: Enfermera experimentada y miembro de los Curatores, dedicada a ayudar en las clínicas comunitarias.
+title: Hermana Laura Castillo, Enfermera
+folder: 3_personajes/secundarios
+description: Enfermera experimentada y miembro de los Curatores, dedicada a ayudar en las clínicas comunitarias.
 tags:
   - hermana-laura-castillo
   - enfermera
@@ -10,7 +10,6 @@ tags:
 facciones: ["Curatores", "Hermanas de la Caridad"]
 alerta-spoilers: "Colabora con una red clandestina de ayuda para los más necesitados"
 ---
-
 ## Hermana Laura Castillo
 
 28 años, Clínicas Comunitarias de Barrios Bajos

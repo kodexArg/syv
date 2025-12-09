@@ -1,7 +1,7 @@
 ---
-titulo: Juan, El Coleccionista de Ecos
-carpeta: 3_personajes/secundarios
-descripcion: Enigmático mercader de las Tuberías conocido por desentrañar la historia oculta en objetos extraños.
+title: Juan, El Coleccionista de Ecos
+folder: 3_personajes/secundarios
+description: Enigmático mercader de las Tuberías conocido por desentrañar la historia oculta en objetos extraños.
 tags:
   - juan-coleccionista
   - comerciante
@@ -10,7 +10,6 @@ tags:
 facciones: []
 alerta-spoilers: "Su verdadero nombre es Francisco Praga, ex-sacerdote fugitivo de un crimen pasional"
 ---
-
 ## Juan, el Coleccionista de Ecos
 
 Edad aparente 50, Las Tuberías

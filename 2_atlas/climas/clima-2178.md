@@ -1,7 +1,7 @@
 ---
-titulo: El Clima en 2178 - La Nube Roja y la Niebla Perpetua
-carpeta: 2_atlas/climas
-descripcion: Descripción del clima global y regional en el año 2178, incluyendo fenómeno de Nube Roja y condiciones regionales.
+title: El Clima en 2178 - La Nube Roja y la Niebla Perpetua
+folder: 2_atlas/climas
+description: Descripción del clima global y regional en el año 2178, incluyendo fenómeno de Nube Roja y condiciones regionales.
 tags:
 - atlas
 - clima
@@ -12,7 +12,6 @@ tags:
 - temperatura
 - precipitacion
 ---
-
 # El Clima en la Confederación Argentina (2178)
 
 El planeta Tierra en 2178 opera bajo un nuevo régimen climático. Una intervención a gran escala con la "Nube Roja" (partículas estratosféricas reflectantes) ha atenuado los picos de calentamiento extremo, pero ha provocado un oscurecimiento global parcial. Esta Nube otorga a los cielos un tinte rojizo o anaranjado, especialmente notable durante amaneceres y atardeceres, y genera una luz solar más difusa.

@@ -1,7 +1,7 @@
 ---
-titulo: Monseñor Miguel
-carpeta: 3_personajes/principales
-descripcion: Máxima autoridad de la Santa Inquisición Argentina, un hombre enigmático y temido cuyo poder rivaliza con el del Papa.
+title: Monseñor Miguel
+folder: 3_personajes/principales
+description: Máxima autoridad de la Santa Inquisición Argentina, un hombre enigmático y temido cuyo poder rivaliza con el del Papa.
 tags:
   - monsenor-miguel
   - santa-inquisicion
@@ -10,7 +10,6 @@ tags:
 facciones: ["Santa Inquisición"]
 alerta-spoilers: "Su historia ha sido intencionadamente eliminada; su verdadero origen y naturaleza son un misterio"
 ---
-
 ## Monseñor Miguel
 
 70 años, Santa Inquisición Argentina

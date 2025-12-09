@@ -1,7 +1,7 @@
 ---
-titulo: Agente Luis Navarro
-carpeta: 3_personajes/secundarios
-descripcion: Operativo de campo de Seguridad Urbana, especializado en seguimiento y vigilancia.
+title: Agente Luis Navarro
+folder: 3_personajes/secundarios
+description: Operativo de campo de Seguridad Urbana, especializado en seguimiento y vigilancia.
 tags:
   - agente-luis-navarro
   - seguridad-urbana
@@ -9,7 +9,6 @@ tags:
 facciones: ["Seguridad Urbana"]
 alerta-spoilers: "Su infiltración en una facción proscrita es una misión personal y secreta"
 ---
-
 ## Agente Luis Navarro
 
 29 años, Seguridad Urbana

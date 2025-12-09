@@ -1,7 +1,7 @@
 ---
-titulo: Crónica del arribo de Damián
-carpeta: "4_diegesis/cronicas"
-descripcion: "Relato del arribo de Damián a Dársena y su primer encuentro con la Inquisición, incluyendo a Sofía y el gran inquisidor Miguel. Historia inconclusa y central en el universo SyV."
+title: Crónica del arribo de Damián
+folder: "4_diegesis/cronicas"
+description: "Relato del arribo de Damián a Dársena y su primer encuentro con la Inquisición, incluyendo a Sofía y el gran inquisidor Miguel. Historia inconclusa y central en el universo SyV."
 tags:
 - cronica
 - darsena
@@ -9,7 +9,6 @@ tags:
 - sofia
 - miguel
 ---
-
 # Historia
 
 El avión llevaba un tiempo detenido. Damián sintió un suave toque en el hombro y no pudo evitar el impulso de girar su cabeza, aún con la venda que le cubría los ojos.

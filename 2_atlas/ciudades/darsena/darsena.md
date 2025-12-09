@@ -1,7 +1,7 @@
 ---
-titulo: Ciudad Dársena
-carpeta: 2_atlas/ciudades/darsena
-descripcion: Capital de facto de la Confederación Argentina, centro político, religioso y comercial.
+title: Ciudad Dársena
+folder: 2_atlas/ciudades/darsena
+description: Capital de facto de la Confederación Argentina, centro político, religioso y comercial.
 tags:
 - darsena
 - atlas
@@ -9,7 +9,6 @@ tags:
 - confederacion
 - niebla-perpetua
 ---
-
 # Ciudad Dársena
 
 Ciudad Dársena es el centro de poder político, religioso y naval de la Confederación Argentina. Erigida sobre las ruinas de Buenos Aires y comprimida entre un muro de 15 metros de altura y el contaminado Río de la Plata, la ciudad es una fortaleza de hormigón y fe que alberga a cinco millones de almas. Bajo un cielo casi siempre cubierto por nubes y una llovizna eterna, la vida transcurre bajo el control dual del Comando Militar y la Iglesia, cumpliendo el mandato de la **Ley IV: Del Magisterio**, que la consagra como la "Capital inamovible de la Fe y el Conocimiento".

@@ -1,14 +1,13 @@
 ---
-titulo: Cronología
-carpeta: 1_trasfondo/cronologia
-descripcion: Cronología completa del colapso del mundo antiguo y la formación de la Confederación Argentina, desde la perspectiva de 2178.
+title: Cronología
+folder: 1_trasfondo/cronologia
+description: Cronología completa del colapso del mundo antiguo y la formación de la Confederación Argentina, desde la perspectiva de 2178.
 tags:
 - cronologia
 - colapso-global
 - confederacion
 - anatema-mecanico
 ---
-
 # Cronología
 
 *Historia del mundo desde la perspectiva de Ciudad Dársena (2178)*

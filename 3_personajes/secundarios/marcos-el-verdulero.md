@@ -1,7 +1,7 @@
 ---
-titulo: Marcos, el Verdulero
-carpeta: 3_personajes/secundarios
-descripcion: Verdulero y cervecero de Las Túberías. Fornido, homosexual, propietario de establecimiento que vive rodeado de verduras, cerveza y camaradería.
+title: Marcos, el Verdulero
+folder: 3_personajes/secundarios
+description: Verdulero y cervecero de Las Túberías. Fornido, homosexual, propietario de establecimiento que vive rodeado de verduras, cerveza y camaradería.
 tags:
   - marcos-verdulero
   - comerciante
@@ -11,7 +11,6 @@ tags:
 facciones: []
 alerta-spoilers: "Contiene información sobre el uso de tecnología prohibida del período pre-Catástrofe"
 ---
-
 ## Marcos, el Verdulero
 
 39 años, Las Túberías

@@ -1,7 +1,7 @@
 ---
-titulo: Fuerzas Armadas de la Confederación
-carpeta: 1_trasfondo/facciones/fuerzas-armadas
-descripcion: La estructura de defensa y seguridad de la Confederación Argentina, un pilar del régimen que combina el poder militar tradicional con un omnipresente aparato de seguridad interna.
+title: Fuerzas Armadas de la Confederación
+folder: 1_trasfondo/facciones/fuerzas-armadas
+description: La estructura de defensa y seguridad de la Confederación Argentina, un pilar del régimen que combina el poder militar tradicional con un omnipresente aparato de seguridad interna.
 tags:
 - faccion
 - fuerzas-armadas
@@ -13,7 +13,6 @@ tags:
 - darsena
 - oficial
 ---
-
 # Fuerzas Armadas
 
 Las Fuerzas Armadas de la Confederación Argentina constituyen uno de los pilares fundamentales del régimen, encargadas de defender el territorio de amenazas externas y, de manera igualmente crucial, de mantener el orden interno y la sumisión ciudadana bajo la estricta "Doctrina de la Pureza Nacional". Operan como un poder monolítico que combina la organización militar tradicional con un omnipresente y temido aparato de seguridad. Su lealtad no es solo al Estado, sino a la "Iglesia de Dársena"[^iglesia], que proporciona la legitimación ideológica para su existencia y operaciones.

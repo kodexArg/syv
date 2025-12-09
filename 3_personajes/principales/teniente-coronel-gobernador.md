@@ -1,7 +1,7 @@
 ---
-titulo: Coronel Santiago Mendoza Reyes
-carpeta: 3_personajes/principales
-descripcion: Teniente Coronel Gobernador Militar de Córdoba, conspirador que lidera la infiltración de una facción radical del Ejército en la estructura eclesiástica para imponer una religión militarizada.
+title: Coronel Santiago Mendoza Reyes
+folder: 3_personajes/principales
+description: Teniente Coronel Gobernador Militar de Córdoba, conspirador que lidera la infiltración de una facción radical del Ejército en la estructura eclesiástica para imponer una religión militarizada.
 tags:
   - teniente-coronel-gobernador
   - cordoba
@@ -13,7 +13,6 @@ facciones:
   - "Facción Radical del Ejército (secreta)"
 alerta-spoilers: "Su verdadera conspiración para crear una junta militar-religiosa que subordine a Videla IV. La razón de la persecución de Damián DiConte."
 ---
-
 ## Coronel Santiago Mendoza Reyes, Teniente Coronel Gobernador
 
 **Edad**: 58 años (nacido ~2120)

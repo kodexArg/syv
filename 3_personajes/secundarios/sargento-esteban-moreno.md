@@ -1,7 +1,7 @@
 ---
-titulo: Sargento Esteban Moreno
-carpeta: 3_personajes/secundarios
-descripcion: Sargento a cargo de la guarnición del Cementerio de Chacarita y líder de la Orden de los Guardianes.
+title: Sargento Esteban Moreno
+folder: 3_personajes/secundarios
+description: Sargento a cargo de la guarnición del Cementerio de Chacarita y líder de la Orden de los Guardianes.
 tags:
   - militar
   - mason
@@ -12,7 +12,6 @@ facciones:
   - "Masones"
 alerta-spoilers: "Su rol como Maese Masón y líder de la Orden de los Guardianes."
 ---
-
 ## Sargento Esteban Moreno
 
 Edad desconocida, Cementerio de Chacarita

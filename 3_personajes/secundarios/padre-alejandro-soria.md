@@ -1,7 +1,7 @@
 ---
-titulo: Padre Alejandro Soria
-carpeta: 3_personajes/secundarios
-descripcion: Médico que sirve como sacerdote en un hospital eclesiástico, dedicado a salvar vidas.
+title: Padre Alejandro Soria
+folder: 3_personajes/secundarios
+description: Médico que sirve como sacerdote en un hospital eclesiástico, dedicado a salvar vidas.
 tags:
   - curatores
   - medico
@@ -11,7 +11,6 @@ facciones:
   - "Curatores"
 alerta-spoilers: "Su falta de fe verdadera y su uso de la Iglesia como medio para ejercer la medicina."
 ---
-
 ## Padre Alejandro Soria, el sanador
 
 29 años, Hospital Eclesiástico

@@ -1,7 +1,7 @@
 ---
-titulo: Fuera del Muro
-carpeta: 2_atlas/ciudades/darsena
-descripcion: Tierras y asentamientos más allá del muro de Ciudad Dársena, incluyendo DMZ, Los Pantanos y Tierras Baldías.
+title: Fuera del Muro
+folder: 2_atlas/ciudades/darsena
+description: Tierras y asentamientos más allá del muro de Ciudad Dársena, incluyendo DMZ, Los Pantanos y Tierras Baldías.
 tags:
 - darsena
 - atlas
@@ -11,7 +11,6 @@ tags:
 - peligro
 - comercio-clandestino
 ---
-
 # Fuera del Muro
 
 Más allá de la seguridad (relativa) de las murallas de Dársena se extiende un mundo salvaje y sin ley. "Fuera del Muro" no es tanto una zona como un concepto: el vasto y peligroso exterior. Es una tierra de oportunidades y amenazas, donde las leyes de la Confederación tienen poco peso.

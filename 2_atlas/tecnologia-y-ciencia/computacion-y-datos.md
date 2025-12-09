@@ -1,7 +1,7 @@
 ---
-titulo: Computación y Datos
-carpeta: 2_atlas/tecnologia-y-ciencia
-descripcion: Estado de la computación y el manejo de datos en el mundo post-Anatema Mecánico, incluyendo las restricciones, alternativas permitidas y métodos de almacenamiento de información.
+title: Computación y Datos
+folder: 2_atlas/tecnologia-y-ciencia
+description: Estado de la computación y el manejo de datos en el mundo post-Anatema Mecánico, incluyendo las restricciones, alternativas permitidas y métodos de almacenamiento de información.
 tags:
 - tecnologia
 - computacion
@@ -11,7 +11,6 @@ tags:
 - informacion
 - atlas
 ---
-
 # Computación y Gestión de Datos
 
 La computación en Ciudad Dársena opera bajo la estricta supervisión de la **Sagrada Inquisición Argentina (SIA)**. El temor a una nueva era de inteligencia artificial como la que condujo al colapso ha llevado a la Iglesia a imponer un control dogmático sobre cualquier forma de procesamiento de información, considerándolo un camino potencial hacia la herejía.

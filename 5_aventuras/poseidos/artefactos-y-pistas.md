@@ -1,13 +1,12 @@
 ---
-titulo: Artefactos y Pistas
-carpeta: 5_aventuras/poseidos
-descripcion: Colección de objetos misteriosos, pistas y ganchos de aventura en Dársena y alrededores.
+title: Artefactos y Pistas
+folder: 5_aventuras/poseidos
+description: Colección de objetos misteriosos, pistas y ganchos de aventura en Dársena y alrededores.
 tags:
 - aventura
 - pista
 - artefacto
 ---
-
 # Artefactos y Pistas
 
 ## Agenda de un Muerto

@@ -1,7 +1,7 @@
 ---
-titulo: María, tejedora de sueños
-carpeta: 3_personajes/secundarios
-descripcion: Tejedora y tarotista de las Tuberías, conocida por sus coloridas túnicas que prometen protección y destino.
+title: María, tejedora de sueños
+folder: 3_personajes/secundarios
+description: Tejedora y tarotista de las Tuberías, conocida por sus coloridas túnicas que prometen protección y destino.
 tags:
   - tarotista
   - artesana
@@ -9,7 +9,6 @@ tags:
   - misticismo
 facciones: []
 ---
-
 ## María, tejedora de sueños
 
 Edad desconocida, Las Tuberías

@@ -1,7 +1,7 @@
 ---
-titulo: San Luis
-carpeta: 2_atlas/ciudades/san-luis
-descripcion: La Ciudad Tristeza de la Confederación. No autosustentable, existiendo únicamente como control militar del paso entre océano Atlántico y océano Pacífico. Centro de vigilancia y represión. Población condenada a vivir en región inhóspita. Esperanza de vida de 35 años. El símbolo de la crueldad del sistema confederal.
+title: San Luis
+folder: 2_atlas/ciudades/san-luis
+description: La Ciudad Tristeza de la Confederación. No autosustentable, existiendo únicamente como control militar del paso entre océano Atlántico y océano Pacífico. Centro de vigilancia y represión. Población condenada a vivir en región inhóspita. Esperanza de vida de 35 años. El símbolo de la crueldad del sistema confederal.
 tags:
 - san-luis
 - atlas
@@ -14,7 +14,6 @@ tags:
 - humedad
 - enfermedad-endemica
 ---
-
 # San Luis
 
 San Luis es la **Ciudad Tristeza** de la Confederación Argentina. Con 1 millón de habitantes, existe no por necesidad económica, sino por **necesidad militar estratégica**. Ubicada en el corazón de la meseta semiárida cuyana, San Luis controla el paso que conecta el océano Atlántico (Dársena, Córdoba, Mendoza, FSM) con el océano Pacífico (Chile salvaje, territorios ignoto). Su única función es **vigilancia y control**.

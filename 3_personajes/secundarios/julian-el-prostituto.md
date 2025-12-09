@@ -1,7 +1,7 @@
 ---
-titulo: Julián, el Prostituto
-carpeta: 3_personajes/secundarios
-descripcion: Prostituto que ejerce con discreción en la superficie pero prefiere la libertad de las Tuberías.
+title: Julián, el Prostituto
+folder: 3_personajes/secundarios
+description: Prostituto que ejerce con discreción en la superficie pero prefiere la libertad de las Tuberías.
 tags:
   - julian-prostituto
   - trabajador-sexual
@@ -9,7 +9,6 @@ tags:
   - consejero
 facciones: []
 ---
-
 ## Julián, el Prostituto
 
 Edad indeterminada, Las Tuberías y Superficie

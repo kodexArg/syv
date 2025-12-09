@@ -1,7 +1,7 @@
 ---
-titulo: Congregación de la Caridad Divina
-carpeta: 1_trasfondo/facciones/iglesia-de-darsena
-descripcion: Orden religiosa dedicada al servicio de pobres y marginales, combinando asistencia social con combate activo de posesiones en zonas marginales.
+title: Congregación de la Caridad Divina
+folder: 1_trasfondo/facciones/iglesia-de-darsena
+description: Orden religiosa dedicada al servicio de pobres y marginales, combinando asistencia social con combate activo de posesiones en zonas marginales.
 tags:
   - iglesia
   - congregacion
@@ -12,7 +12,6 @@ tags:
 facciones:
   - "Iglesia de Dársena"
 ---
-
 # Congregación de la Caridad Divina
 
 Orden religiosa dedicada al servicio de pobres, marginales y víctimas de posesión en las zonas más desfavorecidas de la Confederación. Combinan "acción social" (hospitales, comedores, albergues) con "combate espiritual" (exorcismos).

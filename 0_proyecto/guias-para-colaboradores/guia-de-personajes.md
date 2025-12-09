@@ -1,13 +1,12 @@
 ---
-titulo: Guía de Creación de Personajes
-carpeta: 0_proyecto/guias-para-colaboradores
-descripcion: Estándares y directrices para la creación y documentación de personajes en el universo SyV.
+title: Guía de Creación de Personajes
+folder: 0_proyecto/guias-para-colaboradores
+description: Estándares y directrices para la creación y documentación de personajes en el universo SyV.
 tags:
   - guia
   - personajes
   - colaboracion
 ---
-
 # Guía de Creación de Personajes
 
 Esta guía establece el formato y las mejores prácticas para crear y documentar personajes dentro del universo de "Subordinación y Valor". Un personaje bien definido es clave para la coherencia narrativa y la inmersión en el mundo.

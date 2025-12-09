@@ -1,7 +1,7 @@
 ---
-titulo: Iluminati
-carpeta: 1_trasfondo/facciones/facciones-menores
-descripcion: Una facción mítica y conspirativa que supuestamente manipula los hilos del poder en Dársena. Su existencia es más un rumor que una realidad, pero el miedo a su influencia es un arma en sí misma.
+title: Iluminati
+folder: 1_trasfondo/facciones/facciones-menores
+description: Una facción mítica y conspirativa que supuestamente manipula los hilos del poder en Dársena. Su existencia es más un rumor que una realidad, pero el miedo a su influencia es un arma en sí misma.
 tags:
 - faccion
 - proscrita
@@ -11,7 +11,6 @@ tags:
 - tecnologia
 - facciones-menores
 ---
-
 # Iluminati
 
 En el paranoico ecosistema de Dársena, pocas leyendas urbanas tienen tanto peso como la de los "Iluminati". Más que una facción real, son un mito, una teoría de conspiración que sirve para explicar lo inexplicable. Se dice que son una sociedad secreta que manipula los hilos del poder desde las sombras, con el supuesto objetivo de proteger la tecnología prohibida y mantener un oscuro equilibrio en la ciudad.

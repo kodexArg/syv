@@ -1,7 +1,7 @@
 ---
-titulo: Los Hackers
-carpeta: 1_trasfondo/facciones/facciones-menores
-descripcion: Red clandestina y descentralizada de hackers (también llamados "Criptógrafos clandestinos") que desafían el control informativo del régimen, especializados en arqueología digital y comunicaciones cifradas, atrapados entre su curiosidad y el reclutamiento forzoso del Estado.
+title: Los Hackers
+folder: 1_trasfondo/facciones/facciones-menores
+description: Red clandestina y descentralizada de hackers (también llamados "Criptógrafos clandestinos") que desafían el control informativo del régimen, especializados en arqueología digital y comunicaciones cifradas, atrapados entre su curiosidad y el reclutamiento forzoso del Estado.
 tags:
 - faccion
 - clandestina
@@ -10,7 +10,6 @@ tags:
 - arqueologia-digital
 - facciones-menores
 ---
-
 # Los Hackers
 
 "Alias": Criptógrafos clandestinos, Los Descifradores

@@ -1,12 +1,11 @@
 ---
-titulo: Manual del Colaborador
-carpeta: 0_proyecto/guias-para-colaboradores
-descripcion: Guía esencial para comprender la organización y colaboración en el proyecto SyV.
+title: Manual del Colaborador
+folder: 0_proyecto/guias-para-colaboradores
+description: Guía esencial para comprender la organización y colaboración en el proyecto SyV.
 tags:
   - guia
   - colaboracion
 ---
-
 # Cómo contribuir (pull requests)
 
 Si sabes como hacerlo, por favor realice los aportes mediante pull requests (PR). Es la forma más ordenada y permite revisar los cambios antes de sumarlos al corpus.

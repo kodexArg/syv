@@ -1,7 +1,7 @@
 ---
-titulo: Resistencia Subterránea
-carpeta: 1_trasfondo/facciones/facciones-menores
-descripcion: Células anarquistas que se oponen activamente al régimen de Dársena, utilizando los subterráneos de la ciudad como base para sus operaciones de sabotaje y agitación.
+title: Resistencia Subterránea
+folder: 1_trasfondo/facciones/facciones-menores
+description: Células anarquistas que se oponen activamente al régimen de Dársena, utilizando los subterráneos de la ciudad como base para sus operaciones de sabotaje y agitación.
 tags:
 - faccion
 - proscrita
@@ -11,7 +11,6 @@ tags:
 - darsena
 - facciones-menores
 ---
-
 # Resistencia Subterránea
 
 La "Resistencia Subterránea" es la encarnación de la oposición ideológica y activa al régimen clérico-militar de Dársena. Compuesta por diversas células anarquistas, su objetivo es la total desestabilización del Estado y la "Iglesia"[^iglesia], promoviendo la autonomía y la autogestión de los oprimidos. No buscan reformar el sistema, sino demolerlo desde sus cimientos.

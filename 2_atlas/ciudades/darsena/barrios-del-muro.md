@@ -1,7 +1,7 @@
 ---
-titulo: Barrios del Muro
-carpeta: 2_atlas/ciudades/darsena
-descripcion: Barrios populares y trabajadores de Ciudad Dársena, junto al gran muro protector, incluyendo acceso a Las Tuberías.
+title: Barrios del Muro
+folder: 2_atlas/ciudades/darsena
+description: Barrios populares y trabajadores de Ciudad Dársena, junto al gran muro protector, incluyendo acceso a Las Tuberías.
 tags:
 - darsena
 - barrios-del-muro
@@ -12,7 +12,6 @@ tags:
 - mercado-negro
 - trabajadores
 ---
-
 # Barrios del Muro
 
 Los Barrios del Muro son la primera línea y la última defensa de Ciudad Dársena. Ocupando 5 km² en el sur y oeste de la ciudad, esta zona es el hogar de 3.5 millones de personas en las condiciones de hacinamiento más extremas. Las viviendas se apilan e incluso se extienden al subsuelo, creando un laberinto caótico y opresivo. Son el hogar de los trabajadores, los desplazados y los marginados, muchos de los cuales son considerados "Salvajes" bajo la **Ley X: De la Ciudadanía y la Barbarie**, viviendo por gracia del Estado y no por derecho, bajo la atenta y a menudo brutal vigilancia de las fuerzas de seguridad.

@@ -1,7 +1,7 @@
 ---
-titulo: Refugiados y Parias
-carpeta: 1_trasfondo/facciones/facciones-menores
-descripcion: La masa anónima de individuos sin estatus legal que sobreviven en los márgenes de Dársena, desde los Barrios del Muro hasta las Tuberías, en una lucha constante contra el hambre y las autoridades.
+title: Refugiados y Parias
+folder: 1_trasfondo/facciones/facciones-menores
+description: La masa anónima de individuos sin estatus legal que sobreviven en los márgenes de Dársena, desde los Barrios del Muro hasta las Tuberías, en una lucha constante contra el hambre y las autoridades.
 tags:
 - faccion
 - proscrita
@@ -11,7 +11,6 @@ tags:
 - darsena
 - facciones-menores
 ---
-
 # Refugiados y Parias
 
 Los "Refugiados y Parias" no son una facción, sino un mar de humanidad desposeída que sobrevive en los márgenes de Ciudad Dársena. Son cientos de individuos sin estatus legal, una población fluctuante que habita en la miseria de los Barrios del Muro y en la oscuridad de las Tuberías. Su único objetivo es sobrevivir un día más, en una lucha constante por evitar la captura, la deportación a los temidos campos de reeducación del Estado, o simplemente morir de hambre o violencia.

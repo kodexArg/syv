@@ -1,7 +1,7 @@
 ---
-titulo: Traficantes de Almas
-carpeta: 1_trasfondo/facciones/facciones-menores
-descripcion: Una red criminal descentralizada que se dedica a la trata de personas en Dársena, explotando a los más desfavorecidos para venderlos como mano de obra no registrada o para fines ilícitos.
+title: Traficantes de Almas
+folder: 1_trasfondo/facciones/facciones-menores
+description: Una red criminal descentralizada que se dedica a la trata de personas en Dársena, explotando a los más desfavorecidos para venderlos como mano de obra no registrada o para fines ilícitos.
 tags:
 - faccion
 - proscrita
@@ -10,7 +10,6 @@ tags:
 - darsena
 - facciones-menores
 ---
-
 # Traficantes de Almas
 
 En los rincones más oscuros de Ciudad Dársena, donde la desesperación es moneda corriente, operan los "Traficantes de Almas". No son una facción unificada, sino una red de células criminales independientes cuyo único objetivo es el lucro mediante el más vil de los comercios: la trata de personas. Se aprovechan de los más desfavorecidos, secuestrando y captando a sus víctimas en los Barrios del Muro y las Tuberías para venderlas como mano de obra esclava, servidumbre o para otros fines inconfesables.

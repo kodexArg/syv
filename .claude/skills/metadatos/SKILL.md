@@ -24,9 +24,9 @@ Automáticamente al:
 **Campos SIEMPRE requeridos**:
 ```yaml
 ---
-titulo: Título del documento
-carpeta: ruta/relativa/desde/raiz
-descripcion: Breve descripción del contenido
+title: Título del documento
+folder: ruta/relativa/desde/raiz
+description: Breve descripción del contenido
 ---
 ```
 
@@ -57,30 +57,30 @@ alerta-spoilers: "Texto de advertencia sobre información sensible"
 
 ### Convenciones de Formato
 
-1. **Idioma**: TODO en español, minúsculas
-2. **Formato de claves**: kebab-case (palabras-separadas-por-guiones)
+1. **Idioma**: Campos en inglés, contenido en español
+2. **Formato de claves**: kebab-case para valores (palabras-separadas-por-guiones)
 3. **Espaciado**: SIEMPRE espacio después de dos puntos (`:`)
 4. **No tabs**: Solo espacios para indentación
 5. **Arrays YAML**: Guiones con espacios (`- item`)
 
 ### Campos PROHIBIDOS
 
-❌ **NUNCA usar campos en inglés**:
-- `title` (usar `titulo`)
-- `date` (usar `fecha`)
+❌ **NUNCA usar campos en español**:
+- `titulo` (usar `title`)
+- `carpeta` (usar `folder`)
+- `descripcion` (usar `description`)
 - `layout` (no usar)
 - `author` (no usar)
-- `tags` en inglés (usar español en contenido)
 
 ## Capacidades
 
 ### 1. Validar Metadatos Existentes
 
 Verificar:
-- ✅ Campos obligatorios presentes (`titulo`, `carpeta`, `descripcion`)
+- ✅ Campos obligatorios presentes (`title`, `folder`, `description`)
 - ✅ Formato YAML correcto (sintaxis, espaciado)
-- ✅ Campos en español y minúsculas
-- ✅ Ruta en `carpeta` es relativa y correcta
+- ✅ Campos en inglés
+- ✅ Ruta en `folder` es relativa y correcta
 - ✅ Tags apropiados (existen en corpus, no demasiado genéricos)
 - ✅ Campos específicos por tipo (personajes: `facciones` obligatorio)
 
@@ -105,12 +105,12 @@ Buscar en corpus tags existentes que puedan aplicar:
 ### 4. Corregir Errores Comunes
 
 Detectar y corregir:
-- Campos en inglés → Convertir a español
+- Campos en español → Convertir a inglés
 - Falta de espacio después de `:` → Agregar espacio
 - Tabulaciones → Convertir a espacios
 - Tags duplicados → Eliminar duplicados
 - Campo `facciones` faltante en personajes → Agregar (vacío o poblado)
-- Ruta absoluta en `carpeta` → Convertir a relativa
+- Ruta absoluta en `folder` → Convertir a relativa
 
 
 ## Categorías de Tags
@@ -187,12 +187,12 @@ guia, aventura, investigacion
 ## Restricciones
 
 ### 1. Campos Obligatorios
-- ❌ NUNCA omitir `titulo`, `carpeta`, `descripcion`
+- ❌ NUNCA omitir `title`, `folder`, `description`
 - ✅ SIEMPRE incluir estos tres campos
 
 ### 2. Idioma
-- ❌ NUNCA usar campos en inglés
-- ✅ SIEMPRE español y minúsculas
+- ❌ NUNCA usar campos en español
+- ✅ SIEMPRE inglés para campos (title, folder, description)
 
 ### 3. Formato YAML
 - ❌ NO usar tabulaciones
@@ -243,9 +243,9 @@ guia, aventura, investigacion
 4. Generar frontmatter completo:
    ```yaml
    ---
-   titulo: [Extraído/generado]
-   carpeta: [Ruta relativa]
-   descripcion: [Extraída/generada]
+   title: [Extraído/generado]
+   folder: [Ruta relativa]
+   description: [Extraída/generada]
    tags:
      - [sugerencias basadas en contenido]
    # Campos específicos según tipo
@@ -284,9 +284,9 @@ guia, aventura, investigacion
 
 ```yaml
 ---
-titulo: Damián DiConte
-carpeta: 3_personajes/principales
-descripcion: Detective veterano de la Dirección Nacional de Seguridad, cuya investigación lo traslada de Córdoba a Dársena.
+title: Damián DiConte
+folder: 3_personajes/principales
+description: Detective veterano de la Dirección Nacional de Seguridad, cuya investigación lo traslada de Córdoba a Dársena.
 tags:
   - damian-diconte
   - detective
@@ -325,9 +325,9 @@ tags:
 **Corrección**:
 ```yaml
 ---
-titulo: Damián DiConte
-carpeta: 3_personajes/principales
-descripcion: Detective veterano...
+title: Damián DiConte
+folder: 3_personajes/principales
+description: Detective veterano...
 tags:
   - damian-diconte
   - detective
@@ -355,9 +355,9 @@ tags:
 **Corrección**:
 ```yaml
 ---
-titulo: Dr. Francisco de la Cruz
-carpeta: 3_personajes/principales
-descripcion: Decano de Historia, líder de los Guardianes de la Memoria
+title: Dr. Francisco de la Cruz
+folder: 3_personajes/principales
+description: Decano de Historia, líder de los Guardianes de la Memoria
 tags:
   - francisco-de-la-cruz
   - guardianes

@@ -1,7 +1,7 @@
 ---
-titulo: Cazadores de Pesadillas
-carpeta: 1_trasfondo/facciones/facciones-menores
-descripcion: Grupo de élite de guerreros guaraníes que protegen a la comunidad Shipibo-Conibo en las Tuberías de Dársena, utilizando tácticas de guerrilla y el miedo como sus principales armas.
+title: Cazadores de Pesadillas
+folder: 1_trasfondo/facciones/facciones-menores
+description: Grupo de élite de guerreros guaraníes que protegen a la comunidad Shipibo-Conibo en las Tuberías de Dársena, utilizando tácticas de guerrilla y el miedo como sus principales armas.
 tags:
 - faccion
 - proscrita
@@ -11,7 +11,6 @@ tags:
 - proteccion
 - facciones-menores
 ---
-
 # Cazadores de Pesadillas
 
 En la oscuridad laberíntica de las Tuberías de Ciudad Dársena, donde la ley de la superficie no llega, un grupo de guerreros guaraníes de élite conocidos como los "Cazadores de Pesadillas" impone su propia justicia. Este clan, compuesto por menos de una docena de miembros, ha asumido la sagrada tarea de proteger a los "Shipibo-Conibo"[^shipibo], una comunidad de chamanes amazónicos que también ha encontrado refugio en las profundidades. Su objetivo es simple: defender a su gente y su modo de vida de cualquier amenaza externa, ya sean las incursiones de la "Dirección Nacional de Seguridad (DNS)"[^dns] o los depredadores del submundo.

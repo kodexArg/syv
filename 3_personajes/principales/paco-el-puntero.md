@@ -1,7 +1,7 @@
 ---
-titulo: Paco el Puntero
-carpeta: 3_personajes/principales
-descripcion: Carismático líder y protector de una estación en las Tuberías, querido por su comunidad.
+title: Paco el Puntero
+folder: 3_personajes/principales
+description: Carismático líder y protector de una estación en las Tuberías, querido por su comunidad.
 tags:
   - paco-el-puntero
   - lider-comunitario
@@ -10,7 +10,6 @@ tags:
 facciones: []
 alerta-spoilers: "Fue asesinado hace un año antes de revelar información crucial sobre las posesiones"
 ---
-
 ## Paco, el Puntero
 
 40 años (fallecido), Estación en las Tuberías

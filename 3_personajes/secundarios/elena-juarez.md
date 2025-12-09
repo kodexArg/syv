@@ -1,7 +1,7 @@
 ---
-titulo: Elena Juárez, Maestra Residencial
-carpeta: 3_personajes/secundarios
-descripcion: Maestra que trabaja tanto en barrios ricos como con niños de los Barrios del Muro.
+title: Elena Juárez, Maestra Residencial
+folder: 3_personajes/secundarios
+description: Maestra que trabaja tanto en barrios ricos como con niños de los Barrios del Muro.
 tags:
   - elena-juarez
   - maestra
@@ -11,7 +11,6 @@ tags:
 facciones: ["Educadores laicos"]
 alerta-spoilers: "Su activismo antieclesiástico y colección de libros prohibidos son un secreto peligroso"
 ---
-
 ## Elena Juárez, la Maestra
 
 42 años, Zona Norte y Barrios del Muro

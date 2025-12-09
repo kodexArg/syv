@@ -1,7 +1,7 @@
 ---
-titulo: Carolina Pérez, Costurera
-carpeta: 3_personajes/secundarios
-descripcion: Costurera con un pequeño taller en los Barrios del Muro.
+title: Carolina Pérez, Costurera
+folder: 3_personajes/secundarios
+description: Costurera con un pequeño taller en los Barrios del Muro.
 tags:
   - carolina-perez
   - costurera
@@ -9,7 +9,6 @@ tags:
   - barrios-del-muro
 facciones: ["Comerciantes"]
 ---
-
 ## Carolina Pérez, la Costurera
 
 34 años, Barrios del Muro

@@ -1,7 +1,7 @@
 ---
-titulo: Verónica Suárez, Camarera
-carpeta: 3_personajes/secundarios
-descripcion: Camarera que trabaja en una cocina improvisada en los Barrios del Muro y organiza charlas con intelectuales y artistas.
+title: Verónica Suárez, Camarera
+folder: 3_personajes/secundarios
+description: Camarera que trabaja en una cocina improvisada en los Barrios del Muro y organiza charlas con intelectuales y artistas.
 tags:
   - camarera
   - barrios-del-muro
@@ -9,7 +9,6 @@ tags:
   - intelectual
 facciones: []
 ---
-
 ## Verónica Suárez, Camarera
 
 31 años, Barrios del Muro

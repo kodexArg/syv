@@ -1,13 +1,12 @@
 ---
-titulo: Los Criptógrafos (Redirect)
-carpeta: 1_trasfondo/facciones/facciones-menores
-descripcion: Nota de aclaración sobre terminología - "Criptógrafos" puede referirse a oficiales estatales o a hackers clandestinos.
+title: Los Criptógrafos (Redirect)
+folder: 1_trasfondo/facciones/facciones-menores
+description: Nota de aclaración sobre terminología - "Criptógrafos" puede referirse a oficiales estatales o a hackers clandestinos.
 tags:
 - faccion
 - redirect
 - nota
 ---
-
 # Nota sobre "Los Criptógrafos"
 
 Este archivo es una aclaración terminológica.

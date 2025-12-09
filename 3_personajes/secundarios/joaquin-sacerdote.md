@@ -1,7 +1,7 @@
 ---
-titulo: Joaqu uín, Sacerdote
-carpeta: 3_personajes/secundarios
-descripcion: Sacerdote joven, sereno y compasivo, ex-profesor de ciencias que lucha internamente con sus dudas.
+title: Joaqu uín, Sacerdote
+folder: 3_personajes/secundarios
+description: Sacerdote joven, sereno y compasivo, ex-profesor de ciencias que lucha internamente con sus dudas.
 tags:
   - joaquin-sacerdote
   - sacerdote
@@ -9,7 +9,6 @@ tags:
   - ex-profesor
 facciones: ["Iglesia"]
 ---
-
 ## Padre Joaquín
 
 30 años, Parroquia

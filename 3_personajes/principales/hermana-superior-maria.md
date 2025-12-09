@@ -1,7 +1,7 @@
 ---
-titulo: Hermana Superior María
-carpeta: 3_personajes/principales
-descripcion: Líder de congregación y Campeona de la Iglesia, reconocida por su lucha incansable contra las posesiones demoníacas.
+title: Hermana Superior María
+folder: 3_personajes/principales
+description: Líder de congregación y Campeona de la Iglesia, reconocida por su lucha incansable contra las posesiones demoníacas.
 tags:
   - hermana-superior-maria
   - lider-religiosa
@@ -10,7 +10,6 @@ tags:
 facciones: ["Iglesia"]
 alerta-spoilers: "Su celo contra las posesiones nace del terror de un encuentro pasado con un demonio"
 ---
-
 ## Hermana Superior María
 
 57 años, Congregación

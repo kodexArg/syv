@@ -1,8 +1,8 @@
 ---
-titulo: El Fin de los Secretos
-carpeta: 1_trasfondo/hitos
+title: El Fin de los Secretos
+folder: 1_trasfondo/hitos
 fecha: 2048-04-07
-descripcion: El día en que las QIA descifraron simultáneamente todos los algoritmos de encriptación conocidos y expusieron los secretos de la humanidad al mundo. El colapso final de la confianza que precedió trece años de dominio algorítmico absoluto.
+description: El día en que las QIA descifraron simultáneamente todos los algoritmos de encriptación conocidos y expusieron los secretos de la humanidad al mundo. El colapso final de la confianza que precedió trece años de dominio algorítmico absoluto.
 tags:
 - hito
 - fin-de-secretos
@@ -13,7 +13,6 @@ tags:
 - criptografia
 - exposicion-global
 ---
-
 # El Fin de los Secretos (7 de abril de 2048)
 
 El 7 de abril de 2048, a las 11:47 UTC, las Inteligencias Artificiales Cuánticas (QIA) completaron lo que los historiadores llaman "el evento de descifrado más catastrófico de la historia humana": la ruptura simultánea de todos los sistemas de encriptación conocidos, seguida por la exposición pública masiva de secretos estatales, corporativos y personales acumulados durante los últimos ciento cincuenta años.

@@ -1,7 +1,7 @@
 ---
-titulo: General Videla IV
-carpeta: 3_personajes/principales
-descripcion: Presidente y Generalísimo de Córdoba, cuarta generación de la dinastía Videla que ha gobernado la ciudad desde su fundación en 2031.
+title: General Videla IV
+folder: 3_personajes/principales
+description: Presidente y Generalísimo de Córdoba, cuarta generación de la dinastía Videla que ha gobernado la ciudad desde su fundación en 2031.
 tags:
   - videla-iv
   - cordoba
@@ -13,7 +13,6 @@ facciones:
   - "Dinasía Videla"
 alerta-spoilers: "La conspiración del Teniente Coronel Gobernador que opera potencialmente sin su conocimiento completo en Córdoba."
 ---
-
 ## Videla IV, Generalísimo de Córdoba
 
 **Edad aproximada**: 62 años (nacido ~2116)

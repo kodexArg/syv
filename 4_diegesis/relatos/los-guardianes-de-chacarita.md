@@ -1,13 +1,12 @@
 ---
-titulo: Los Guardianes de Chacarita
-carpeta: 4_diegesis/relatos
-descripcion: Historia sobre la guarnición militar que custodia el Cementerio de Chacarita y la sociedad secreta que se esconde en su interior.
+title: Los Guardianes de Chacarita
+folder: 4_diegesis/relatos
+description: Historia sobre la guarnición militar que custodia el Cementerio de Chacarita y la sociedad secreta que se esconde en su interior.
 tags:
 - relato
 - chacarita
 - faccion
 ---
-
 # Los Guardianes de Chacarita
 
 El Cementerio de Chacarita no es solo un camposanto; es una frontera. Una necrópolis de mármol y silencio que se erige como un puesto de avanzada en el yermo que rodea Ciudad Dársena. Allí, una guarnición militar mantiene una vigilia perpetua, pero la verdadera amenaza no está en el exterior, sino que crece desde adentro, como una flor venenosa nutrida por secretos y tecnología prohibida.

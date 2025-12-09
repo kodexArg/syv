@@ -1,7 +1,7 @@
 ---
-titulo: Saqueadores y Traficantes
-carpeta: 1_trasfondo/facciones/facciones-menores
-descripcion: Grupos de arqueólogos proscritos y traficantes de antigüedades que operan en las ruinas de Dársena, en una carrera contra la Sagrada Inquisición por encontrar y vender los secretos del pasado.
+title: Saqueadores y Traficantes
+folder: 1_trasfondo/facciones/facciones-menores
+description: Grupos de arqueólogos proscritos y traficantes de antigüedades que operan en las ruinas de Dársena, en una carrera contra la Sagrada Inquisición por encontrar y vender los secretos del pasado.
 tags:
 - faccion
 - proscrita
@@ -11,7 +11,6 @@ tags:
 - arqueologia
 - facciones-menores
 ---
-
 # Saqueadores y Traficantes de Antigüedades
 
 Los "Saqueadores y Traficantes" son una casta de arqueólogos proscritos, aventureros y criminales que viven de desenterrar el pasado. Operan en pequeños grupos autónomos, explorando las ruinas de Ciudad Dársena y sus alrededores en busca de artefactos y tecnología del mundo pre-colapso. Su objetivo es el lucro y, en algunos casos, la investigación personal, en una carrera constante por encontrar tesoros antes de que la "Sagrada Inquisición Argentina (SIA)"[^sia] los encuentre y los destruya.

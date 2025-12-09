@@ -1,7 +1,7 @@
 ---
-titulo: Sonia Rodríguez, Cocinera y Dueña
-carpeta: 3_personajes/secundarios
-descripcion: Dueña de una pequeña cantina en los Barrios del Muro, conocida por su generosidad con los necesitados.
+title: Sonia Rodríguez, Cocinera y Dueña
+folder: 3_personajes/secundarios
+description: Dueña de una pequeña cantina en los Barrios del Muro, conocida por su generosidad con los necesitados.
 tags:
   - comerciante
   - cantina
@@ -11,7 +11,6 @@ facciones:
   - "La Resistencia"
 alerta-spoilers: "Sus vínculos con la Resistencia."
 ---
-
 ## Sonia Rodríguez, Cocinera y Dueña
 
 36 años, Barrios del Muro

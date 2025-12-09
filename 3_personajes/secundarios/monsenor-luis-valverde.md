@@ -1,7 +1,7 @@
 ---
-titulo: Monseñor Luis Valverde
-carpeta: 3_personajes/secundarios
-descripcion: Director de la Academia Teológica y figura prominente del Alto Clero, conocido por su erudición y vasta red de contactos científicos.
+title: Monseñor Luis Valverde
+folder: 3_personajes/secundarios
+description: Director de la Academia Teológica y figura prominente del Alto Clero, conocido por su erudición y vasta red de contactos científicos.
 tags:
   - alto-clero
   - academico
@@ -11,7 +11,6 @@ facciones:
   - "Alto Clero"
 alerta-spoilers: "Su objetivo de conservar el poder eclesiástico sobre el conocimiento."
 ---
-
 ## Monseñor Luis Valverde, Director de la Academia
 
 58 años, Academia Teológica

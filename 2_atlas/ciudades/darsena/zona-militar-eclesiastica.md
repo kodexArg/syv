@@ -1,12 +1,11 @@
 ---
-titulo: Zona Militar y Eclesiástica (Isla Oriental)
-carpeta: 2_atlas/ciudades/darsena
-descripcion: Distrito fortificado con instituciones militares y religiosas de la Confederación.
+title: Zona Militar y Eclesiástica (Isla Oriental)
+folder: 2_atlas/ciudades/darsena
+description: Distrito fortificado con instituciones militares y religiosas de la Confederación.
 tags:
 - darsena
 - atlas
 ---
-
 # Zona Militar y Eclesiástica (Isla Oriental)
 
 Separada del resto de la ciudad por un canal fuertemente custodiado, la Isla Oriental es el corazón del poder en Ciudad Dársena. Con una superficie de 1 km² y una población de 200.000 habitantes, es un bastión de orden, fe y poder militar, inaccesible para la mayoría. Aquí se materializa el mandato del **Preámbulo** de la Constitución: la unión de la Iglesia y las Fuerzas Armadas para afianzar la Justicia Divina y proveer a la defensa común. La isla se divide en dos sectores:

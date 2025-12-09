@@ -1,7 +1,7 @@
 ---
-titulo: Padre Rafa
-carpeta: 3_personajes/principales
-descripcion: Experimentado exorcista y estudioso que frecuenta los Barrios del Muro, investigando las posesiones.
+title: Padre Rafa
+folder: 3_personajes/principales
+description: Experimentado exorcista y estudioso que frecuenta los Barrios del Muro, investigando las posesiones.
 tags:
   - padre-rafa
   - exorcista
@@ -11,7 +11,6 @@ tags:
 facciones: ["Iglesia"]
 alerta-spoilers: "Oculta su verdadera identidad y busca huir hacia el Pueblo del Pantano"
 ---
-
 ## Padre Rafa
 
 55 años, Barrios del Muro

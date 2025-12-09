@@ -1,14 +1,13 @@
 ---
-titulo: La Llegada del Sabueso
-carpeta: 4_diegesis/relatos
-descripcion: Introducción narrativa del Detective Damián DiConte a Ciudad Dársena y su primer encuentro con la Inquisición.
+title: La Llegada del Sabueso
+folder: 4_diegesis/relatos
+description: Introducción narrativa del Detective Damián DiConte a Ciudad Dársena y su primer encuentro con la Inquisición.
 tags:
 - relato
 - damian-diconte
 - darsena
 - inquisicion
 ---
-
 # La Llegada del Sabueso
 
 El avión llevaba un tiempo detenido. Damián sintió un suave toque en el hombro y no pudo evitar el impulso de girar su cabeza, aún con la venda que le cubría los ojos.

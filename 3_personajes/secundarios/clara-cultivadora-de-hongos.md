@@ -1,7 +1,7 @@
 ---
-titulo: Clara, Cultivadora de Hongos
-carpeta: 3_personajes/secundarios
-descripcion: Especialista en el cultivo de hongos raros en las Tuberías, poseedora de conocimientos únicos sobre el ecosistema subterráneo.
+title: Clara, Cultivadora de Hongos
+folder: 3_personajes/secundarios
+description: Especialista en el cultivo de hongos raros en las Tuberías, poseedora de conocimientos únicos sobre el ecosistema subterráneo.
 tags:
   - clara-hongos
   - cultivadora
@@ -10,7 +10,6 @@ tags:
 facciones: []
 alerta-spoilers: "Guarda el secreto de un pasadizo a una laguna subterránea oculta"
 ---
-
 ## Clara, la Cultivadora de Hongos
 
 Edad indeterminada, Las Tuberías

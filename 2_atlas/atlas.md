@@ -1,13 +1,12 @@
 ---
-titulo: Atlas
-carpeta: 2_atlas
-descripcion: Geografía, mapas y aspectos físicos del universo.
+title: Atlas
+folder: 2_atlas
+description: Geografía, mapas y aspectos físicos del universo.
 tags:
 - atlas
 - geografia
 - mapa
 ---
-
 # Atlas
 
 Geografía, regiones, mapas y espacio físico.

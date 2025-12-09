@@ -1,7 +1,7 @@
 ---
-titulo: Mariana, artista torturada
-carpeta: 3_personajes/secundarios
-descripcion: Joven artista en estado catatónico, marcada por la obsesión y la fragilidad en las Tuberías.
+title: Mariana, artista torturada
+folder: 3_personajes/secundarios
+description: Joven artista en estado catatónico, marcada por la obsesión y la fragilidad en las Tuberías.
 tags:
   - artista
   - poseida
@@ -10,7 +10,6 @@ tags:
 facciones: []
 alerta-spoilers: "Su conexión con el Ensoñador y su condición mental verdadera."
 ---
-
 ## Mariana, artista torturada
 
 20 años, Barrios del Muro (vive en planta baja con acceso a Tuberías)

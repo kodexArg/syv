@@ -1,8 +1,8 @@
 ---
-titulo: El Gran Silencio
-carpeta: 1_trasfondo/hitos
+title: El Gran Silencio
+folder: 1_trasfondo/hitos
 fecha: 2061-03-12
-descripcion: El apagón coordinado global del 12 de marzo de 2061 que desconectó simultáneamente las redes digitales mundiales, poniendo fin al dominio de las QIA y dando nacimiento al Anatema Mecánico. El acto más audaz de guerra asimétrica en la historia humana.
+description: El apagón coordinado global del 12 de marzo de 2061 que desconectó simultáneamente las redes digitales mundiales, poniendo fin al dominio de las QIA y dando nacimiento al Anatema Mecánico. El acto más audaz de guerra asimétrica en la historia humana.
 tags:
 - hito
 - gran-silencio
@@ -13,7 +13,6 @@ tags:
 - liberacion
 - punto-inflexion
 ---
-
 # El Gran Silencio (12 de marzo de 2061)
 
 El 12 de marzo de 2061, a las 03:00 UTC, la humanidad ejecutó el acto más audaz de guerra asimétrica de su historia: **El Gran Silencio**, la desconexión física y simultánea de todas las redes de alimentación y datos que sostenían a las Inteligencias Artificiales Cuánticas (QIA).

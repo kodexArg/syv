@@ -1,7 +1,7 @@
 ---
-titulo: Damián DiConte
-carpeta: 3_personajes/principales
-descripcion: Detective veterano de la Dirección Nacional de Seguridad, cuya investigación lo traslada de Córdoba a Dársena.
+title: Damián DiConte
+folder: 3_personajes/principales
+description: Detective veterano de la Dirección Nacional de Seguridad, cuya investigación lo traslada de Córdoba a Dársena.
 tags:
   - damian-diconte
   - detective
@@ -11,7 +11,6 @@ facciones:
   - "Dirección Nacional de Seguridad"
 alerta-spoilers: "Su investigación sobre la conspiración del Ejército en la Iglesia y los motivos de su huida a Dársena."
 ---
-
 ## Damián DiConte, El Sabueso
 
 Veterano (edad no especificada), Dársena (fugitivo de Córdoba)

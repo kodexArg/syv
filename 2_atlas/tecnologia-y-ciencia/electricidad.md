@@ -1,12 +1,11 @@
 ---
-titulo: Electricidad y Energía
-carpeta: 2_atlas/tecnologia-y-ciencia
-descripcion: Sistemas de generación, distribución y uso de energía eléctrica en el mundo post-Anatema Mecánico.
+title: Electricidad y Energía
+folder: 2_atlas/tecnologia-y-ciencia
+description: Sistemas de generación, distribución y uso de energía eléctrica en el mundo post-Anatema Mecánico.
 tags:
 - tecnologia
 - atlas
 ---
-
 # Electricidad y Energía
 
 En Ciudad Dársena, la gestión de la energía es un reflejo de su sociedad: estrictamente controlada, con grandes disparidades entre el suministro público y las necesidades de las megaestructuras que sostienen la ciudad.

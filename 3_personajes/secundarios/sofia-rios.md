@@ -1,7 +1,7 @@
 ---
-titulo: Sofía Ríos, Inspectora de Seguridad Nacional
-carpeta: 3_personajes/secundarios
-descripcion: Inspectora recién ascendida del Departamento de Investigaciones Paranormales, que investiga por su cuenta un alarmante aumento de desapariciones.
+title: Sofía Ríos, Inspectora de Seguridad Nacional
+folder: 3_personajes/secundarios
+description: Inspectora recién ascendida del Departamento de Investigaciones Paranormales, que investiga por su cuenta un alarmante aumento de desapariciones.
 tags:
   - seguridad-nacional
   - detective
@@ -10,7 +10,6 @@ tags:
 facciones:
   - "Seguridad Nacional"
 ---
-
 ## Sofía Ríos, Inspectora de Seguridad Nacional
 
 36 años, Departamento de Seguridad Nacional

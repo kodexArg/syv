@@ -1,7 +1,7 @@
 ---
-titulo: Masones
-carpeta: 1_trasfondo/facciones/facciones-menores
-descripcion: Una antigua hermandad que opera en la más estricta clandestinidad en Dársena, dedicada a proteger y preservar el conocimiento y la cultura del mundo pre-colapso.
+title: Masones
+folder: 1_trasfondo/facciones/facciones-menores
+description: Una antigua hermandad que opera en la más estricta clandestinidad en Dársena, dedicada a proteger y preservar el conocimiento y la cultura del mundo pre-colapso.
 tags:
 - faccion
 - proscrita
@@ -9,7 +9,6 @@ tags:
 - masones
 - facciones-menores
 ---
-
 # Masones
 
 Los "Masones" de Dársena son el eco de una antigua hermandad, una sociedad discreta que ha sobrevivido al colapso y a la purga de conocimiento operando en la más estricta clandestinidad. Su objetivo principal es proteger y preservar los saberes y la cultura del mundo anterior, desde la filosofía y el arte hasta los secretos arquitectónicos y tecnológicos que dieron forma a la propia ciudad. Actúan como guardianes silenciosos de una herencia que el régimen actual se esfuerza por borrar.

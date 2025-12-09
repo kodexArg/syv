@@ -1,7 +1,7 @@
 ---
-titulo: Sor Nikole, La Hermana de la Caridad
-carpeta: 3_personajes/secundarios
-descripcion: Joven hermana de la caridad que trabaja en las Tuberías, mezclando modernidad y tradición en su labor.
+title: Sor Nikole, La Hermana de la Caridad
+folder: 3_personajes/secundarios
+description: Joven hermana de la caridad que trabaja en las Tuberías, mezclando modernidad y tradición en su labor.
 tags:
   - iglesia
   - tuberias
@@ -10,7 +10,6 @@ tags:
 facciones:
   - "Congregación de la Caridad"
 ---
-
 ## Sor Nikole, La Hermana de la Caridad
 
 Adolescente (17-19 años), Las Tuberías

@@ -1,7 +1,7 @@
 ---
-titulo: La Fragmentación de Argentina (2031)
-carpeta: 1_trasfondo/hitos
-descripcion: Desintegración total del Estado argentino tras el impacto del meteorito de 2030, fragmentación en ciudades-estado independientes y guerra civil que duraría décadas.
+title: La Fragmentación de Argentina (2031)
+folder: 1_trasfondo/hitos
+description: Desintegración total del Estado argentino tras el impacto del meteorito de 2030, fragmentación en ciudades-estado independientes y guerra civil que duraría décadas.
 fecha: 2031
 region: Argentina
 tags:
@@ -14,7 +14,6 @@ tags:
   - cronologia
   - hito
 ---
-
 # La Fragmentación de Argentina (2031)
 
 *Hito histórico de Los Años del Caos*

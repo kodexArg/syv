@@ -1,7 +1,7 @@
 ---
-titulo: Hermana Cecilia Torres, Archivista
-carpeta: 3_personajes/secundarios
-descripcion: Archivista y profesora en la Universidad de la Luz Divina.
+title: Hermana Cecilia Torres, Archivista
+folder: 3_personajes/secundarios
+description: Archivista y profesora en la Universidad de la Luz Divina.
 tags:
   - hermana-cecilia-torres
   - archivista
@@ -11,7 +11,6 @@ tags:
 facciones: ["Archivistas y Científicos Teológicos"]
 alerta-spoilers: "Es una demonóloga secreta que trabaja para destruir la ciudad desde dentro"
 ---
-
 ## Hermana Cecilia Torres, la Archivista
 
 63 años, Universidad de la Luz Divina

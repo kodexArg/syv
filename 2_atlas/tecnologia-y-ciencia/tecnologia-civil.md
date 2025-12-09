@@ -1,12 +1,11 @@
 ---
-titulo: Tecnología Civil
-carpeta: 2_atlas/tecnologia-y-ciencia
-descripcion: Tecnologías civiles permitidas y utilizadas en la Confederación Argentina bajo el Anatema Mecánico.
+title: Tecnología Civil
+folder: 2_atlas/tecnologia-y-ciencia
+description: Tecnologías civiles permitidas y utilizadas en la Confederación Argentina bajo el Anatema Mecánico.
 tags:
 - tecnologia
 - atlas
 ---
-
 # Tecnología Civil
 
 La tecnología de uso diario en Ciudad Dársena está diseñada para ser robusta, funcional y fácil de mantener, evitando la complejidad electrónica que la Iglesia desaprueba.

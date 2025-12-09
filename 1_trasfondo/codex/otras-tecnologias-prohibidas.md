@@ -1,7 +1,7 @@
 ---
-titulo: Herejía Tecnológica y Conocimiento Prohibido en la Confederación
-carpeta: 1_trasfondo/codex
-descripcion: Prohibiciones específicas de la Iglesia y la Sagrada Inquisición Argentina (SIA) en la Confederación Argentina. Detalles de vigilancia, persecución y áreas grises del control teológico sobre la tecnología en Dársena y sus ciudades.
+title: Herejía Tecnológica y Conocimiento Prohibido en la Confederación
+folder: 1_trasfondo/codex
+description: Prohibiciones específicas de la Iglesia y la Sagrada Inquisición Argentina (SIA) en la Confederación Argentina. Detalles de vigilancia, persecución y áreas grises del control teológico sobre la tecnología en Dársena y sus ciudades.
 tags:
 - anatema-mecanico
 - sia
@@ -12,7 +12,6 @@ tags:
 - censores-eclesiasticos
 - cripta-de-la-razon
 ---
-
 # Herejía Tecnológica y Conocimiento Prohibido
 
 En la Confederación Argentina, la línea que separa la investigación legítima de la herejía es definida y custodiada, ante todo, por los "Censores Eclesiásticos". Esta vigilancia se fundamenta en el "Prólogo de la Verdad" y la "Ley 0: Del Anatema Mecánico", que establecen la mente humana como templo de Dios y la inteligencia artificial como guarida del Adversario. Son científicos-teólogos, integrados en la estructura de la Iglesia, quienes establecen las leyes que rigen la curiosidad, determinan hasta dónde puede llegar la investigación y cómo debe aplicarse la ética religiosa en cada avance.

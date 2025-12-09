@@ -1,7 +1,7 @@
 ---
-titulo: Francisco Duarte, Operario en Torres Hidropónicas
-carpeta: 3_personajes/secundarios
-descripcion: Joven operario de las Torres Hidropónicas que secretamente redistribuye alimentos a las Tuberías.
+title: Francisco Duarte, Operario en Torres Hidropónicas
+folder: 3_personajes/secundarios
+description: Joven operario de las Torres Hidropónicas que secretamente redistribuye alimentos a las Tuberías.
 tags:
   - francisco-duarte
   - operario
@@ -10,7 +10,6 @@ tags:
 facciones: ["Resistencia Subterránea"]
 alerta-spoilers: "Roba alimentos sistemáticamente para distribuir en las Tuberías"
 ---
-
 ## Francisco Duarte, el Operario
 
 24 años, Torres Hidropónicas

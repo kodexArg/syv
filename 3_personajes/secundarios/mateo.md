@@ -1,7 +1,7 @@
 ---
-titulo: Mateo
-carpeta: 3_personajes/secundarios
-descripcion: Niño poseído, escuálido y atormentado, símbolo de la vulnerabilidad en las Tuberías.
+title: Mateo
+folder: 3_personajes/secundarios
+description: Niño poseído, escuálido y atormentado, símbolo de la vulnerabilidad en las Tuberías.
 tags:
   - nino
   - poseido
@@ -10,7 +10,6 @@ tags:
 facciones: []
 alerta-spoilers: "Su posesión por el Ensoñador y su condición verdadera."
 ---
-
 ## Mateo
 
 12 años, Las Tuberías

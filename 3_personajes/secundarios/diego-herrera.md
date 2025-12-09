@@ -1,7 +1,7 @@
 ---
-titulo: Diego Herrera, Comisario General
-carpeta: 3_personajes/secundarios
-descripcion: Jefe del Departamento de Investigaciones Paranormales, hombre corrupto y peligroso.
+title: Diego Herrera, Comisario General
+folder: 3_personajes/secundarios
+description: Jefe del Departamento de Investigaciones Paranormales, hombre corrupto y peligroso.
 tags:
   - diego-herrera
   - comisario-general
@@ -11,7 +11,6 @@ tags:
 facciones: ["Seguridad Nacional"]
 alerta-spoilers: "Es un psicópata corrupto obsesionado con la Inspectora Sofía Ríos y la caza de subversivos"
 ---
-
 ## Comisario General Diego Herrera
 
 58 años, Departamento de Seguridad Nacional

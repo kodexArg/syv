@@ -1,14 +1,13 @@
 ---
-titulo: Damián, El Sabueso
-carpeta: 4_diegesis/relatos
-descripcion: Trasfondo y biografía de Damián, detective veterano de la Dirección Nacional de Seguridad, protagonista de una investigación que lo lleva de Córdoba a Dársena.
+title: Damián, El Sabueso
+folder: 4_diegesis/relatos
+description: Trasfondo y biografía de Damián, detective veterano de la Dirección Nacional de Seguridad, protagonista de una investigación que lo lleva de Córdoba a Dársena.
 tags:
 - relato
 - damian-diconte
 - cordoba
 - darsena
 ---
-
 ### **Trama:**
 
 En el año 2178, en la ciudad de Córdoba, Damián, conocido como **El Sabueso**, es un detective veterano que trabaja para la Dirección Nacional de Seguridad. En medio de la opresión política y las restricciones religiosas impuestas por la Iglesia y el Estado, un nuevo caso lo lleva a descubrir una serie de crímenes aparentemente desconectados, pero que ocultan algo mucho más profundo: una red de poder encubierta dentro del **Ejército Argentino**, donde las fuerzas militares están infiltradas en todos los niveles de la vida pública.

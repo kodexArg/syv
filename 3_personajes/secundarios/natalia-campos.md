@@ -1,14 +1,13 @@
 ---
-titulo: Natalia Campos, Reportera
-carpeta: 3_personajes/secundarios
-descripcion: Reportera novata de un periódico local, que busca la verdad detrás de los rumores a pesar de su inexperiencia.
+title: Natalia Campos, Reportera
+folder: 3_personajes/secundarios
+description: Reportera novata de un periódico local, que busca la verdad detrás de los rumores a pesar de su inexperiencia.
 tags:
   - reportera
   - periodista
   - investigadora
 facciones: []
 ---
-
 ## Natalia Campos, Reportera
 
 29 años, Ciudad

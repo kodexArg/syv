@@ -1,7 +1,7 @@
 ---
-titulo: Guía de Metadatos para archivos Markdown
-carpeta: 0_proyecto/guias-para-colaboradores
-descripcion: Instrucciones y ejemplos para el uso correcto de metadatos en los archivos .md del proyecto SyV.
+title: Guía de Metadatos para archivos Markdown
+folder: 0_proyecto/guias-para-colaboradores
+description: Instrucciones y ejemplos para el uso correcto de metadatos en los archivos .md del proyecto SyV.
 
 tags:
   - guia
@@ -18,12 +18,12 @@ Esta guía explica el formato **único y correcto** de metadatos (front matter Y
 
 - El bloque de metadatos es obligatorio.
 - Debe ir al inicio del archivo, delimitado por líneas `---`.
-- Todos los campos deben estar en **español** y en **minúsculas**.
+- Todos los campos deben estar en **inglés** y en **minúsculas**.
 - Los siguientes campos van al inicio:
-  - `titulo`: Título del documento. **Obligatorio**.
+  - `title`: Título del documento. **Obligatorio**.
   - `slug`: Identificador único. Debe coincidir exactamente con el nombre del archivo (sin extensión). **Opcional** (implícito en el nombre del archivo, pero si se incluye debe coincidir).
-  - `carpeta`: Ruta relativa de la carpeta donde se ubica el archivo. **Obligatorio**.
-  - `descripcion`: Breve descripción del contenido. **Obligatorio**.
+  - `folder`: Ruta relativa de la carpeta donde se ubica el archivo. **Obligatorio**.
+  - `description`: Breve descripción del contenido. **Obligatorio**.
   - `tags`: Lista de slugs de otros archivos relacionados. Se usan como referencias directas a otros documentos. **Opcional pero recomendado**.
 - Los siguientes son campos opcionales:
   - `region`: Región geográfica separada por comas, por ejemplo "Sud América, Argentina, Ciudad Dársena". **Opcional**.
@@ -68,17 +68,17 @@ Usa simplemente el **slug** del archivo (nombre del archivo sin extensión) para
 - No uses caracteres especiales en los nombres de campos.
 - No dejes el bloque de metadatos vacío.
 - Si agregas nuevos campos, documenta su uso en esta guía.
-- **No uses nunca campos como `layout`, `title`, `date` ni ningún campo en inglés.**
+- **Usa siempre campos en inglés** (`title`, `folder`, `description`), nunca en español.
 
 
 ## Ejemplos correctos
 
 ```yaml
 ---
-titulo: Año 2031: El Año del Cráter
+title: Año 2031: El Año del Cráter
 slug: 2031-ano-del-crater
-carpeta: 1_trasfondo/cronologia/2030-2039
-descripcion: El año en que Argentina se convirtió en un mosaico de territorios en guerra.
+folder: 1_trasfondo/cronologia/2030-2039
+description: El año en que Argentina se convirtió en un mosaico de territorios en guerra.
 tags:
 - guerra-civil
 - mapa-politico
@@ -89,9 +89,9 @@ fecha: 2031
 
 ```yaml
 ---
-titulo: Cardenal J.M.
-carpeta: 3_personajes/iglesia
-descripcion: Líder de la facción eclesiástica en el sector 7.
+title: Cardenal J.M.
+folder: 3_personajes/iglesia
+description: Líder de la facción eclesiástica en el sector 7.
 nombre: Juan Manuel
 facciones:
 - iglesia

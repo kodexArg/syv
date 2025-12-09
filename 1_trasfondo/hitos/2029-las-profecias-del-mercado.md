@@ -1,8 +1,8 @@
 ---
-titulo: Las Profecías del Mercado
-carpeta: 1_trasfondo/hitos
+title: Las Profecías del Mercado
+folder: 1_trasfondo/hitos
 fecha: 2029-05
-descripcion: Compendio profético del Dr. Arturo Cambronero. Cuatro volúmenes técnicos que predicen con exactitud diabólica el colapso de 2029-2047. Bajo vigilancia de la Sagrada Inquisición Argentina.
+description: Compendio profético del Dr. Arturo Cambronero. Cuatro volúmenes técnicos que predicen con exactitud diabólica el colapso de 2029-2047. Bajo vigilancia de la Sagrada Inquisición Argentina.
 tags:
 - hito
 - profecias
@@ -11,7 +11,6 @@ tags:
 - inteligencia-artificial
 - conocimiento-prohibido
 ---
-
 # Las Profecías del Mercado
 
 *Recuperado del Archivo Sellado. Atribuido al Dr. Arturo Cambronero, mayo de 2029.*

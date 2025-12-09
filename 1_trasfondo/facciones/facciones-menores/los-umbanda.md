@@ -1,7 +1,7 @@
 ---
-titulo: Los Umbanda
-carpeta: 1_trasfondo/facciones/facciones-menores
-descripcion: Una fe sincrética que prospera en los Barrios del Muro y mantiene una presencia clandestina en Dársena, desafiando la ortodoxia de la Iglesia con sus rituales y creencias.
+title: Los Umbanda
+folder: 1_trasfondo/facciones/facciones-menores
+description: Una fe sincrética que prospera en los Barrios del Muro y mantiene una presencia clandestina en Dársena, desafiando la ortodoxia de la Iglesia con sus rituales y creencias.
 tags:
 - faccion
 - proscrita
@@ -10,7 +10,6 @@ tags:
 - darsena
 - facciones-menores
 ---
-
 # Los Umbanda
 
 Más allá de los muros de Ciudad Dársena, donde la influencia de la "Iglesia"[^iglesia] se debilita, la fe Umbanda es una fuerza religiosa y cultural dominante. Sin embargo, dentro de la ciudad, es una religión proscrita, y sus seguidores deben practicar sus creencias en secreto. "Los Umbanda" son una red clandestina de creyentes que luchan por mantener vivas sus tradiciones en un entorno hostil, operando en pequeños grupos secretos para evitar la exposición y la persecución.

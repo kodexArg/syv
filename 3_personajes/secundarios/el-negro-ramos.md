@@ -1,7 +1,7 @@
 ---
-titulo: El Negro Ramos
-carpeta: 3_personajes/secundarios
-descripcion: Guardián autoproclamado de las Tuberías, ex-soldado fantasma que protege a los vulnerables.
+title: El Negro Ramos
+folder: 3_personajes/secundarios
+description: Guardián autoproclamado de las Tuberías, ex-soldado fantasma que protege a los vulnerables.
 tags:
   - el-negro-ramos
   - guardian
@@ -10,7 +10,6 @@ tags:
 facciones: []
 alerta-spoilers: "Su pasado heroico es inventado; perdió a su familia por las drogas y creó una narrativa de redención"
 ---
-
 ## El Negro Ramos
 
 Edad indeterminada, Las Tuberías

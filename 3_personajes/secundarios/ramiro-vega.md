@@ -1,7 +1,7 @@
 ---
-titulo: Ramiro Vega, Artífice Restaurador
-carpeta: 3_personajes/secundarios
-descripcion: Técnico electrónico que regenta un negocio en el centro, observador meticuloso de actividades sospechosas.
+title: Ramiro Vega, Artífice Restaurador
+folder: 3_personajes/secundarios
+description: Técnico electrónico que regenta un negocio en el centro, observador meticuloso de actividades sospechosas.
 tags:
   - comerciante
   - tecnico
@@ -12,7 +12,6 @@ facciones:
   - "Criptógrafos"
 alerta-spoilers: "Su rol como espía de los Criptógrafos."
 ---
-
 ## Ramiro Vega, Artífice Restaurador
 
 44 años, Centro

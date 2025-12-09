@@ -1,7 +1,7 @@
 ---
-titulo: Eduardo, Vendedor de Libros
-carpeta: 3_personajes/secundarios
-descripcion: Comerciante de libros prohibidos y guardián del conocimiento censurado.
+title: Eduardo, Vendedor de Libros
+folder: 3_personajes/secundarios
+description: Comerciante de libros prohibidos y guardián del conocimiento censurado.
 tags:
   - eduardo-libros
   - comerciante
@@ -11,7 +11,6 @@ tags:
 facciones: []
 alerta-spoilers: "Su colección incluye textos que desafían la doctrina oficial, lo que lo convierte en objetivo de la Iglesia"
 ---
-
 ## Eduardo, el Librero de las Sombras
 
 Edad indeterminada, Las Tuberías

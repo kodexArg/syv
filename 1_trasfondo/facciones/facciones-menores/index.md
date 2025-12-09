@@ -1,7 +1,7 @@
 ---
-titulo: Facciones Menores
-carpeta: 1_trasfondo/facciones/menores
-descripcion: Índice y sumario de grupos de menor poder o influencia dentro del universo de Subordinación y Valor.
+title: Facciones Menores
+folder: 1_trasfondo/facciones/menores
+description: Índice y sumario de grupos de menor poder o influencia dentro del universo de Subordinación y Valor.
 tags:
 - facciones
 - indice
@@ -16,7 +16,6 @@ faccion:
     - Tuberías
     - Otros
 ---
-
 # Facciones Menores
 
 ## Descripción

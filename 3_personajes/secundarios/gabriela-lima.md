@@ -1,7 +1,7 @@
 ---
-titulo: Gabriela Lima, Artista Callejera
-carpeta: 3_personajes/secundarios
-descripcion: Artista callejera cuyos murales en los Barrios del Muro narran historias de resistencia y esperanza.
+title: Gabriela Lima, Artista Callejera
+folder: 3_personajes/secundarios
+description: Artista callejera cuyos murales en los Barrios del Muro narran historias de resistencia y esperanza.
 tags:
   - gabriela-lima
   - artista
@@ -9,7 +9,6 @@ tags:
   - barrios-del-muro
 facciones: []
 ---
-
 ## Gabriela Lima, la Muralista
 
 30 años, Barrios del Muro

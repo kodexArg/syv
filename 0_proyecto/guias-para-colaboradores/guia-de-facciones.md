@@ -1,14 +1,13 @@
 ---
-titulo: Guía de Facciones
-carpeta: 0_proyecto/guias-para-colaboradores
-descripcion: Guía resumida y práctica para documentar facciones en el universo de Subordinación y Valor, con foco en claridad, coherencia y conexión entre grupos.
+title: Guía de Facciones
+folder: 0_proyecto/guias-para-colaboradores
+description: Guía resumida y práctica para documentar facciones en el universo de Subordinación y Valor, con foco en claridad, coherencia y conexión entre grupos.
 
 tags:
   - guia
   - facciones
   - colaboracion
 ---
-
 # Guía de Facciones
 
 Esta guía te orienta para crear y documentar facciones en el universo de Subordinación y Valor de forma clara, coherente y conectada con el resto del corpus. El objetivo es que cada facción se entienda como parte de un entramado mayor, con sus motivaciones, recursos y relaciones, pero sin rigidez ni exceso de subtítulos.

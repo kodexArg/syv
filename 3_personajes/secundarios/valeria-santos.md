@@ -1,7 +1,7 @@
 ---
-titulo: Valeria Santos, Dama de compañía y Archivista
-carpeta: 3_personajes/secundarios
-descripcion: Dama de compañía que se codea con el poder, y en secreto usa su acceso a la biblioteca para descubrir la verdad sobre el origen de la ciudad.
+title: Valeria Santos, Dama de compañía y Archivista
+folder: 3_personajes/secundarios
+description: Dama de compañía que se codea con el poder, y en secreto usa su acceso a la biblioteca para descubrir la verdad sobre el origen de la ciudad.
 tags:
   - arpista
   - guardian-de-la-memoria
@@ -12,7 +12,6 @@ facciones:
   - "Guardianes de la Memoria"
 alerta-spoilers: "Su doble vida y su investigación secreta."
 ---
-
 ## Valeria Santos, Dama de compañía y Archivista
 
 29 años, Se mueve entre Barrio Norte y la Biblioteca

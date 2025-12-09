@@ -1,7 +1,7 @@
 ---
-titulo: Teniente Carla Vázquez
-carpeta: 3_personajes/secundarios
-descripcion: Analista del Departamento de Contrainteligencia de la Dirección de Seguridad Nacional.
+title: Teniente Carla Vázquez
+folder: 3_personajes/secundarios
+description: Analista del Departamento de Contrainteligencia de la Dirección de Seguridad Nacional.
 tags:
   - seguridad-nacional
   - contrainteligencia
@@ -11,7 +11,6 @@ facciones:
   - "Dirección de Seguridad Nacional"
 alerta-spoilers: "Su investigación sobre una conspiración interna."
 ---
-
 ## Teniente Carla Vázquez
 
 35 años, Departamento de Contrainteligencia

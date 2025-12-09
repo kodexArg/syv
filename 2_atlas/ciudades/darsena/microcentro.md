@@ -1,7 +1,7 @@
 ---
-titulo: Microcentro
-carpeta: 2_atlas/ciudades/darsena
-descripcion: Corazón comercial, administrativo e informativo de Ciudad Dársena, punto de convergencia de facciones.
+title: Microcentro
+folder: 2_atlas/ciudades/darsena
+description: Corazón comercial, administrativo e informativo de Ciudad Dársena, punto de convergencia de facciones.
 tags:
 - darsena
 - microcentro
@@ -14,7 +14,6 @@ tags:
 - arpistas
 - criptografos
 ---
-
 # Microcentro
 
 El Microcentro es el corazón neurálgico de Ciudad Dársena. Junto con la [[Zona Centro]], forma una gran área de 5 km² donde 300.000 residentes permanentes se mezclan con más de un millón de trabajadores diarios. Es un distrito caótico y superpoblado donde la burocracia del estado, el comercio y las operaciones clandestinas chocan en un torbellino de actividad incesante. Los restos de la antigua opulencia arquitectónica de Buenos Aires se mezclan con estructuras improvisadas y una multitud constante que se abre paso por sus calles abarrotadas.

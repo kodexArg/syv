@@ -1,7 +1,7 @@
 ---
-titulo: Carta de Sor Sofía
-carpeta: 4_diegesis/cartas
-descripcion: Carta de una monja de la Congregación de la Caridad Divina que describe eventos sobrenaturales y tragedias en las Tuberías de Dársena, incluyendo casos de posesión y mutilación.
+title: Carta de Sor Sofía
+folder: 4_diegesis/cartas
+description: Carta de una monja de la Congregación de la Caridad Divina que describe eventos sobrenaturales y tragedias en las Tuberías de Dársena, incluyendo casos de posesión y mutilación.
 tags:
 - carta
 - darsena
@@ -10,7 +10,6 @@ tags:
 - "eventos-sobrenaturales"
 - "testimonio"
 ---
-
 Querida hermana,
 
 En la gracia de nuestro Señor y bajo la mirada siempre atenta y compasiva de la Virgen María, te escribo estas líneas cargadas de un pesar que oprime mi corazón y turba mi espíritu, anhelando que puedas llevar mis observaciones y preocupaciones ante los ojos de tus hermanos. Quiera Dios que tu voz, más fuerte e ilustrada que la mía, llegue a aquellos hermanos inquisidores, quienes nos protegen de los horrores de este mundo.

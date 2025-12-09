@@ -1,7 +1,7 @@
 ---
-titulo: Nacimiento de las QIA (2035)
-carpeta: 1_trasfondo/hitos
-descripcion: Aparición pública de las Inteligencias Artificiales Cuánticas (QIA), tecnología que cambiaría el curso de la historia humana y conduciría al Anatema Mecánico.
+title: Nacimiento de las QIA (2035)
+folder: 1_trasfondo/hitos
+description: Aparición pública de las Inteligencias Artificiales Cuánticas (QIA), tecnología que cambiaría el curso de la historia humana y conduciría al Anatema Mecánico.
 fecha: 2035
 region: Global
 tags:
@@ -12,7 +12,6 @@ tags:
   - cronologia
   - hito
 ---
-
 # Nacimiento de las QIA (2035)
 
 *Hito histórico de Los Años del Caos*

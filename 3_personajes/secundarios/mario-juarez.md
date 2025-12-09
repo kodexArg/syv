@@ -1,7 +1,7 @@
 ---
-titulo: Mario Juárez, Guardia de Seguridad
-carpeta: 3_personajes/secundarios
-descripcion: Guardia de seguridad en una factoría de El Puerto, sospechoso de filtrar información a la resistencia.
+title: Mario Juárez, Guardia de Seguridad
+folder: 3_personajes/secundarios
+description: Guardia de seguridad en una factoría de El Puerto, sospechoso de filtrar información a la resistencia.
 tags:
   - guardia
   - el-puerto
@@ -10,7 +10,6 @@ facciones:
   - "La Resistencia"
 alerta-spoilers: "Su conexión con La Resistencia como informante."
 ---
-
 ## Mario Juárez, Guardia de Seguridad
 
 45 años, El Puerto

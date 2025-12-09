@@ -1,14 +1,13 @@
 ---
-titulo: República Autónoma de Córdoba
-carpeta: 2_atlas/ciudades
-descripcion: Ciudad-estado industrial, rival histórica de Dársena y pilar de la Confederación Argentina.
+title: República Autónoma de Córdoba
+folder: 2_atlas/ciudades
+description: Ciudad-estado industrial, rival histórica de Dársena y pilar de la Confederación Argentina.
 tags:
 - cordoba
 - ciudad-estado
 - confederacion
 - atlas
 ---
-
 # República Autónoma de Córdoba
 
 La **República Autónoma de Córdoba** es una megalópolis y ciudad-estado que funciona como el corazón industrial y el poderío terrestre de la Confederación Argentina. Fundada sobre los principios de orden, producción y autosuficiencia tras el colapso de 2030, Córdoba es un gigante continental cuya influencia se contrapone y equilibra con el poder naval y religioso de Ciudad Dársena. Gobernada con mano de hierro por una dinastía militar y sostenida por una vasta población trabajadora, la ciudad es un modelo de desarrollo tecnológico pragmático y controlado, en marcado contraste con el estancamiento dogmático de Dársena.

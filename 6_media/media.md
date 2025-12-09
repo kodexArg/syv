@@ -1,13 +1,12 @@
 ---
-titulo: Media
-carpeta: 6_media
-descripcion: Recursos multimedia del proyecto SyV.
+title: Media
+folder: 6_media
+description: Recursos multimedia del proyecto SyV.
 tags:
 - media
 - recursos
 - multimedia
 - assets
 ---
-
 # Media
 
