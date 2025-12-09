@@ -1,4 +1,16 @@
+# Python
 .venv/
 uv.lock
 
+# Node.js
+node_modules/
+package-lock.json
 
+# Astro
+.astro/
+dist/
+data-store.json
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
