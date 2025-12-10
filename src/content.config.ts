@@ -27,37 +27,37 @@ const personajeSchema = baseSchema.extend({
 });
 
 const proyectoCollection = defineCollection({
-    loader: glob({ pattern: '**/*.md', base: './0_proyecto' }),
+    loader: glob({ pattern: '**/*.md', base: './src/content/docs/0_proyecto' }),
     schema: baseSchema,
 });
 
 const trasfondoCollection = defineCollection({
-    loader: glob({ pattern: '**/*.md', base: './1_trasfondo' }),
+    loader: glob({ pattern: '**/*.md', base: './src/content/docs/1_trasfondo' }),
     schema: baseSchema,
 });
 
 const atlasCollection = defineCollection({
-    loader: glob({ pattern: '**/*.md', base: './2_atlas' }),
+    loader: glob({ pattern: '**/*.md', base: './src/content/docs/2_atlas' }),
     schema: baseSchema,
 });
 
 const personajesCollection = defineCollection({
-    loader: glob({ pattern: '**/*.md', base: './3_personajes' }),
+    loader: glob({ pattern: '**/*.md', base: './src/content/docs/3_personajes' }),
     schema: personajeSchema,
 });
 
 const diegesisCollection = defineCollection({
-    loader: glob({ pattern: '**/*.md', base: './4_diegesis' }),
+    loader: glob({ pattern: '**/*.md', base: './src/content/docs/4_diegesis' }),
     schema: baseSchema,
 });
 
 const aventurasCollection = defineCollection({
-    loader: glob({ pattern: '**/*.md', base: './5_aventuras' }),
+    loader: glob({ pattern: '**/*.md', base: './src/content/docs/5_aventuras' }),
     schema: baseSchema,
 });
 
 const mediaCollection = defineCollection({
-    loader: glob({ pattern: '**/*.md', base: './6_media' }),
+    loader: glob({ pattern: '**/*.md', base: './src/content/docs/6_media' }),
     schema: baseSchema,
 });
 
