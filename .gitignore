@@ -14,3 +14,12 @@ data-store.json
 # Archivos del sistema
 .DS_Store
 Thumbs.db
+
+# Symlinked Content (Source folders are in root)
+src/content/docs/proyecto
+src/content/docs/trasfondo
+src/content/docs/atlas
+src/content/docs/personajes
+src/content/docs/diegesis
+src/content/docs/aventuras
+src/content/docs/media
