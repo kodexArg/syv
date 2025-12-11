@@ -1,0 +1,102 @@
+---
+import { Card, CardGrid } from "@astrojs/starlight/components";
+import StarlightPage from "@astrojs/starlight/components/StarlightPage.astro";
+
+const frontmatter = {
+    title: "Subordinación y Valor",
+    description:
+        "Archivos y documentación del universo de la Confederación Argentina (2178).",
+    template: "splash",
+    hero: {
+        tagline: "Archivos de la Confederación Argentina (2178)",
+        actions: [
+            {
+                text: "INICIAR LECTURA (CRONOLOGÍA)",
+                link: "/syv/1_trasfondo/cronologia/",
+                icon: "right-arrow",
+                variant: "primary",
+            },
+        ],
+    },
+};
+---
+
+<StarlightPage frontmatter={frontmatter}>
+    <h2>Registro de Acceso: CONFEDERACIÓN ARGENTINA (2178)</h2>
+
+    <p>
+        <strong
+            >El mundo que conocimos ha muerto. No hay internet. No hay
+            satélites. Solo queda la fe, el acero y la voluntad inquebrantable
+            de sobrevivir bajo un cielo de plomo.</strong>
+    </p>
+
+    <p>
+        La <strong>Confederación Argentina</strong> se alza como el último bastión
+        de humanidad en un planeta devastado por el <strong
+            >Colapso Global</strong
+        > y silenciado por el <strong>Anatema Mecánico</strong>. Aquí, la
+        tecnología digital es herejía; un pecado que casi extinguió a nuestra
+        especie. Hemos regresado a lo tangible: máquinas de vapor, registros en
+        papel, y la brutal certeza de la pólvora.
+    </p>
+
+    <p>
+        Bajo la estricta vigilancia de la <strong>Sagrada Inquisición</strong> y el
+        puño de hierro del <strong>Ejército Argentino</strong>, la sociedad se
+        organiza en una Teocracia Militar impenitente. En <strong
+            >Ciudad Dársena</strong
+        >, una metrópolis flotante de óxido y esperanza amarrada al Río de la
+        Plata, millones de almas trabajan para mantener encendida la llama de la
+        civilización, lejos de las garras de la intemperie y de los horrores que
+        acechan en las ruinas del viejo mundo.
+    </p>
+
+    <p>
+        Subordinación y Valor no es solo un lema; es el precio que pagamos cada
+        día por un amanecer más. Este no es un relato de héroes brillantes, sino
+        de supervivientes marcados por la grasa, la sangre y la doctrina.
+    </p>
+
+    <div
+        style="border: 1px solid var(--sl-color-accent); padding: 1rem; background: var(--sl-color-bg-nav); margin: 1rem 0;"
+    >
+        <p style="font-weight: bold; color: var(--sl-color-accent-high);">
+            ESTO ES UN UNIVERSO DE ROL
+        </p>
+        <p>
+            Estás ingresando a la documentación viva de un universo de ficción
+            especulativa diseñado para juegos de rol de mesa, narrativa y
+            creación colectiva. Todo lo que leerás a continuación es material de
+            construcción para historias de resistencia humana en un futuro
+            anutillado.
+        </p>
+    </div>
+
+    <p>
+        Este proyecto es de <strong>código abierto y cultura libre</strong>. Te
+        invitamos a utilizarlo, modificarlo y expandirlo bajo los términos de
+        nuestra <a href="/syv/LICENSE">Licencia</a>. La historia no está escrita
+        en piedra, sino en los informes de campo de aquellos valientes
+        dispuestos a explorarla.
+    </p>
+
+    <p>
+        Para comprender realmente dónde estás parado, debes empezar por el
+        principio. No busques mapas todavía. Busca el <em>tiempo</em>.
+    </p>
+
+    <CardGrid>
+        <Card title="INICIAR PROTOCOLO DE LECTURA" icon="open-book">
+            Accede a la Cronología Oficial para entender cómo llegamos al año
+            2178.
+            <br /><br />
+            <a
+                href="/syv/1_trasfondo/cronologia/"
+                style="text-decoration: none; font-weight: bold;"
+            >
+                &gt; ABRIR EXPEDIENTE CRONOLÓGICO</a
+            >
+        </Card>
+    </CardGrid>
+</StarlightPage>
