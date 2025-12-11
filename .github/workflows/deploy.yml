@@ -19,26 +19,19 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - uses: oven-sh/setup-bun@v1
         with:
-          node-version: 20
-          cache: 'npm'
-          cache-dependency-path: astro/package-lock.json
-      - name: Setup Pages
-        id: pages
-        uses: actions/configure-pages@v4
+          bun-version: latest
       - name: Install dependencies
-        run: npm ci
-        working-directory: astro
+        run: bun install --frozen-lockfile
       - name: Build with Astro
-        run: npm run build
-        working-directory: astro
+        run: bun run build
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: astro/dist
+          path: dist
 
   deploy:
     needs: build
