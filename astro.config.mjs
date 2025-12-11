@@ -1,7 +1,8 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
-import starlightThemeObsidian from 'starlight-theme-obsidian';
+
+
 
 // https://astro.build/config
 export default defineConfig({
@@ -9,7 +10,7 @@ export default defineConfig({
 	base: '/syv',
 	integrations: [
 		starlight({
-			title: 'Sal y Viento',
+			title: 'Subordinación y Valor',
 			defaultLocale: 'root',
 			locales: {
 				root: {
@@ -17,9 +18,6 @@ export default defineConfig({
 					lang: 'es',
 				},
 			},
-			plugins: [
-				starlightThemeObsidian(),
-			],
 			sidebar: [
 				{ label: 'Proyecto', autogenerate: { directory: '0_proyecto' } },
 				{ label: 'Trasfondo', autogenerate: { directory: '1_trasfondo' } },
