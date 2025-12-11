@@ -1,6 +1,5 @@
 ---
 title: Proyecto
-slug: proyecto
 folder: 0_proyecto
 description: Organización, estructura y documentación general del proyecto SyV.
 ---
