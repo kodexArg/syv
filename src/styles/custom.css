@@ -1,0 +1,68 @@
+/* Military Theme Customizations */
+
+/* Import Stardos Stencil font for the "Secret Stamp" look */
+@import url('https://fonts.googleapis.com/css2?family=Stardos+Stencil:wght@400;700&display=swap');
+
+/* Color Variables - Military Palette */
+:root {
+    --sl-color-accent-high: #F0E68C; /* Pale Yellow for text on military green */
+    --sl-color-accent: #BDB76B; /* Dark Khaki */
+    --sl-color-accent-low: #556B2F; /* Dark Olive Green */
+    --sl-color-bg-nav: #2F3528; /* Deep Military Green */
+    --sl-color-bg-default: #1B2018; /* Very Dark Green/Black for main content */
+    --sl-color-bg-sidebar: #24291F; /* Slightly lighter green for sidebar */
+
+    /* Document text font - Clean sans-serif for "reports" */
+    --sl-font-system: 'Inter', system-ui, -apple-system, sans-serif;
+}
+
+/*
+   SITE TITLE MODIFICATION
+   Targeting the specific title "SUBORDINACION Y VALOR"
+*/
+.site-title {
+    font-family: 'Stardos Stencil', cursive;
+    font-weight: 700;
+    font-size: 1.5rem;
+    letter-spacing: 0.1em;
+    color: #F0E68C !important; /* Pale Yellow */
+    background-color: #4B5320; /* Army Green Badge Background */
+    padding: 0.25rem 0.75rem;
+    border: 2px solid #F0E68C;
+    border-radius: 2px;
+    transform: rotate(-1deg); /* Slight "stamp" angle */
+    box-shadow: 2px 2px 0px rgba(0,0,0,0.5);
+    display: inline-block;
+}
+
+/* Ensure body text feels like a typed report */
+body {
+    font-size: 0.95rem; /* Slightly smaller */
+    line-height: 1.6;
+}
+
+p {
+    font-family: var(--sl-font-system);
+}
+
+/* Customize Cards to look more utilitarian/military */
+.card {
+    border: 1px solid #556B2F !important;
+    border-radius: 0 !important; /* Sharp edges */
+    background-color: #1e241c !important;
+}
+
+.hero {
+    border-bottom: 4px solid #4B5320;
+    padding-bottom: 2rem;
+    margin-bottom: 2rem;
+}
+
+/* Highlight "Starlight" default links color to match theme */
+a {
+    transition: color 0.2s;
+}
+
+a:hover {
+    color: #F0E68C;
+}
