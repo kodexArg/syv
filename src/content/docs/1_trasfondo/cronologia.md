@@ -8,7 +8,7 @@ tags:
 - confederacion
 - anatema-mecanico
 ---
-# Cronología
+
 
 *Historia del mundo desde la perspectiva de Ciudad Dársena (2178)*
 
@@ -58,7 +58,7 @@ Los registros indican que para 2028, los sistemas de IA habían alcanzado capaci
 
 *Había sido decretada la obsolescencia del ser humano. No por las máquinas, sino por los propios humanos que las programaron para reemplazarlos.*
 
-*No hubo inocencia en la caída que sobrevino a esos años. Ninguno de aquellos ingenieros, ninguno de aquellos inversores, ninguno de aquellos políticos que aceleraron el proceso puede alegar ignorancia. Sabían. Y aun así, construyeron. — P.S.* 
+*No hubo inocencia en la caída que sobrevino a esos años. Ninguno de aquellos ingenieros, ninguno de aquellos inversores, ninguno de aquellos políticos que aceleraron el proceso puede alegar ignorancia. Sabían. Y aun así, construyeron. — P.S.*
 
 ---
 
