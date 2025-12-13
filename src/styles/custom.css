@@ -1,78 +1,115 @@
-/* Military Theme Customizations */
-
-/* Import Stardos Stencil font for the "Secret Stamp" look */
 @import url('https://fonts.googleapis.com/css2?family=Stardos+Stencil:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;1,300;1,400&display=swap');
 
-/* Color Variables - Military Palette */
-:root {
-    --sl-color-accent-high: #F0E68C;
-    /* Pale Yellow for text on military green */
-    --sl-color-accent: #BDB76B;
-    /* Dark Khaki */
-    --sl-color-accent-low: #556B2F;
-    /* Dark Olive Green */
-    --sl-color-bg-nav: #2F3528;
-    /* Deep Military Green */
-    --sl-color-bg-default: #1B2018;
-    /* Very Dark Green/Black for main content */
-    --sl-color-bg-sidebar: #24291F;
-    /* Slightly lighter green for sidebar */
-
-    /* Document text font - Clean sans-serif for "reports" */
-    --sl-font-system: 'Inter', system-ui, -apple-system, sans-serif;
+:root,
+[data-theme='light'],
+[data-theme='dark'] {
+    --sl-color-bg-default: #111111;
+    --sl-color-bg-nav: #111111;
+    --sl-color-bg-sidebar: #111111;
+    --sl-color-hairline: #333;
+    --sl-color-text: #ddd;
+    --sl-color-text-accent: #FFD700;
+    --sl-color-accent-high: #ebd988;
+    --sl-color-accent: #8f964e;
+    --sl-color-accent-low: #3a4225;
+    --sl-font-system: 'Merriweather', serif;
+    --sl-font-heading: 'Oswald', sans-serif;
 }
 
-/*
-   SITE TITLE MODIFICATION
-   Targeting the specific title "SUBORDINACION Y VALOR"
-*/
 .site-title {
     font-family: 'Stardos Stencil', cursive;
     font-weight: 700;
-    font-size: 1.8rem;
-    letter-spacing: 0.05em;
+    font-size: 1.6rem;
+    letter-spacing: 0.1rem;
     color: var(--sl-color-accent-high) !important;
-    /* Pale Yellow */
-    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
-    /* Subtle depth */
-    display: inline-block;
-    padding: 0;
-    border: none;
+    text-transform: uppercase;
+    text-decoration: none;
     background: none;
-    transform: none;
+    border: none;
+    padding: 0;
     box-shadow: none;
+    transform: none;
+    text-shadow: 0px 2px 10px rgba(0, 0, 0, 0.8);
 }
 
-/* Ensure body text feels like a typed report */
 body {
+    font-size: 16px;
+    line-height: 1.7;
+    letter-spacing: 0.01em;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: var(--sl-font-heading);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--sl-color-accent-high);
+}
+
+.sl-markdown-content p {
+    text-align: justify;
     font-size: 0.95rem;
-    /* Slightly smaller */
-    line-height: 1.6;
+    margin-bottom: 1.5rem;
+    color: var(--sl-color-text);
 }
 
-p {
-    font-family: var(--sl-font-system);
+@media (min-width: 90rem) {
+    .sl-markdown-content {
+        column-count: 2;
+        column-gap: 4rem;
+        column-rule: 1px solid var(--sl-color-hairline);
+    }
+
+    h1,
+    h2,
+    h3,
+    .sl-markdown-content>div,
+    aside {
+        break-inside: avoid;
+        column-break-inside: avoid;
+    }
+
+    h1 {
+        column-span: all;
+        text-align: center;
+        border-bottom: 2px solid var(--sl-color-accent-low);
+        padding-bottom: 1rem;
+        margin-bottom: 3rem;
+    }
 }
 
-/* Customize Cards to look more utilitarian/military */
-.card {
-    border: 1px solid #556B2F !important;
-    border-radius: 0 !important;
-    /* Sharp edges */
-    background-color: #1e241c !important;
+.sidebar-content {
+    border-right: 1px solid var(--sl-color-hairline);
 }
 
-.hero {
-    border-bottom: 4px solid #4B5320;
-    padding-bottom: 2rem;
-    margin-bottom: 2rem;
+.sidebar-content summary {
+    font-family: var(--sl-font-heading);
+    font-weight: 400;
+    letter-spacing: 0.05em;
 }
 
-/* Highlight "Starlight" default links color to match theme */
-a {
-    transition: color 0.2s;
+.starlight-aside--note {
+    color: var(--sl-color-accent-high);
 }
 
-a:hover {
-    color: #F0E68C;
+.starlight-aside--danger {
+    color: #cc5555;
+}
+
+.sl-markdown-content a {
+    color: var(--sl-color-accent);
+    text-decoration: none;
+    border-bottom: 1px dotted var(--sl-color-accent);
+    transition: all 0.2s;
+}
+
+.sl-markdown-content a:hover {
+    color: var(--sl-color-accent-high);
+    border-bottom-style: solid;
 }

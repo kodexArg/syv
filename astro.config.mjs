@@ -19,6 +19,9 @@ export default defineConfig({
 				},
 			},
 			customCss: ['./src/styles/custom.css'],
+			expressiveCode: {
+				useStarlightDarkModeSwitch: false,
+			},
 			sidebar: [
 				{ label: 'Proyecto', collapsed: true, autogenerate: { directory: '0_proyecto' } },
 				{ label: 'Trasfondo', collapsed: true, autogenerate: { directory: '1_trasfondo' } },
