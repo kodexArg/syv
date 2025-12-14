@@ -30,36 +30,33 @@ Notas:
 - Colecciones de contenido: `src/content.config.ts`
   - Define colecciones por carpeta y esquemas Zod opcionales para evitar fallos de validación.
   - `docsLoader()` para compatibilidad con Starlight.
+- Layout principal:
+  - Página clave: `src/pages/index.astro` usa `StarlightPage` para orquestar el layout base (src/pages/index.astro:24).
+  - El layout provee estructura semántica consistente. Actúa como ancla de accesibilidad de lectura y estilo.
 
 ## Metadatos en Markdown (frontmatter)
 - Frontmatter recomendado para todos los `.md`:
-  - `title`: string — Título de la página.
-  - `description`: string — Descripción corta, para listados y SEO interno.
-  - `slug`: string — Opcional; usar solo si se requiere un slug específico.
-  - `folder`: string — Opcional; útil para clasificación interna.
-  - `tags`: array — Puede contener strings o números; se normaliza a string (`src/content.config.ts:13`).
-  - `region`: string — Opcional; región geográfica si aplica.
+  - `title`: string.
+  - `description`: string.
+  - `slug`: string — Opcional; usar solo si se requiere un slug específico. El slug es también el nombre del archivo.
+  - `folder`: string — Opcional;
+  - `tags`: array de slugs — Referencias a otros documentos del sitio en forma de tags (que son sus slugs).Deben corresponder con entradas en `indice.yaml`, o nombres de archivo sin extensión.
+  - `region`: string — Opcional; específica de la Confederación Argentina.
   - `fecha`: string | number | date — Se normaliza a `YYYY-MM-DD` (`src/content.config.ts:15–21`).
 - Frontmatter adicional para `3_personajes`:
-  - `nombre`: string — Nombre canónico del personaje.
+  - `nombre`: string — Nombre del personaje.
   - `facciones`: array<string> — Lista de facciones asociadas.
   - `spoilers`: array<string> — Advertencias o notas sensibles.
-- Todos los campos son opcionales a nivel de esquema; sin embargo, se espera `title` y `description` para buena experiencia de lectura y navegación.
+- Se espera `title` y `description` para buena experiencia de lectura y navegación.
 
 ## Índice canónico (SSOT)
-- Archivo: `indice.yaml` — Fuente única de verdad sobre el contenido visible y su organización.
 - Reglas:
-  - Usa `indice.yaml` para comprender y presentar la estructura y el orden de los documentos sin inspeccionar cada Markdown.
+  - Usa `indice.yaml` como única fuente de verdad sobre el contenido visible y su organización. 
   - El código puede y debe apoyarse en `indice.yaml` para navegación, listados y validaciones.
   - Si una entrada existe en `indice.yaml`, se considera seleccionada para exposición pública; ausencias indican que no debe mostrarse.
-- Implementación sugerida:
-  - Parsear `indice.yaml` en tiempo de build o en server-side.
-  - A falta de librerías YAML en `package.json`, cuando se implemente funcionalidad basada en este índice, añade una dependencia estándar (`yaml` o `js-yaml`) y centraliza su uso en un módulo utilitario.
 
-## Estructura obligatoria de presentación
-- Siempre deben existir:
-  - Un índice de presentación.
-  - Siete secciones principales:
+## Estructura de la documentación
+- Presenta un índice y siete secciones principales:
     - Proyecto
     - Trasfondo
     - Atlas
@@ -68,42 +65,37 @@ Notas:
     - Aventuras
     - Media
 - Esta estructura está reflejada en el sidebar autogenerado (astro.config.mjs:25–33) y debe mantenerse estable.
+- Conocer esta información es esencial para las decisiones de diseño gráfico y de la UI/UX
 
 ## Estilo visual y tipografía
 - Principios de diseño:
   - Estética militarista, colores apagados/mate, alto contraste legible.
-  - Diseño centrado en lectura cómoda: tipografías claras, espaciado generoso, justificado moderado.
-  - Accesibilidad como prioridad: contraste suficiente, estados de foco visibles, navegación por teclado, semántica correcta.
+  - Diseño centrado en lectura cómoda, tipografías claras, justificado moderado.
+  - Accesibilidad: contraste suficiente, semántica correcta.
 - Tipografías:
   - Título/sello “SUBORDINACIÓN Y VALOR”: `Stardos Stencil` (`src/styles/custom.css:1`, `.site-title` en `src/styles/custom.css:21–35`).
-  - Encabezados: `Oswald` (`src/styles/custom.css:2`, `--sl-font-heading` en `src/styles/custom.css:18`).
-  - Cuerpo: `Merriweather` (`src/styles/custom.css:3`, `--sl-font-system` en `src/styles/custom.css:17`).
+  - El resto de la tipografía queda abierto al diseño, respetando accesibilidad, estética militar y colores mate.
 - Paleta y variables:
-  - Mantener variables CSS definidas y su ethos mate (ver `src/styles/custom.css:5–19`), evitando colores saturados.
+  - Mantener variables CSS definidas y su ethos mate (ver `src/styles/custom.css`), evitando colores saturados.
 
 ## Accesibilidad HTML
-- Idioma del sitio: `lang: 'es'` configurado en Starlight (`astro.config.mjs:16–20`).
+- Idioma del sitio: `lang: 'es'` configurado en Starlight (`astro.config.mjs`).
 - Semántica:
-  - Usar `h1–h6` de manera jerárquica; evitar saltos arbitrarios.
+  - Usar `h1–h4` de manera jerárquica; evitar saltos arbitrarios.
   - Proveer `alt` en imágenes y `aria-label` en controles interactivos cuando aplique.
-  - Navegación por teclado: asegurar focus visible y orden lógico de tabulación.
-  - Enlaces: texto descriptivo, evitar “haz clic aquí”.
   - Contraste: seguir las variables CSS para asegurar legibilidad en ambos temas.
 - Componentes Starlight:
-  - Preferir `StarlightPage` y componentes de `@astrojs/starlight/components` para consistencia y semántica (ejemplo en `src/pages/index.astro:24–88`).
+  - Preferir `StarlightPage` y componentes de `@astrojs/starlight/components` para consistencia y semántica (ejemplo en `src/pages/index.astro`).
+- Página crítica de layouts:
+  - Ubicación y uso: `src/pages/index.astro` invoca `StarlightPage` para el layout base (src/pages/index.astro:24).
+  - Qué necesitamos: landmarks semánticos (`header`, `nav`, `main`, `aside`, `footer`), “saltar al contenido”, foco visible y orden de tabulación correcto; roles ARIA cuando corresponda.
+  - Libertad de diseño: se deja abierta la implementación futura; la prioridad es cumplir requisitos de accesibilidad y mantener el estilo militar y colores mate definidos en variables.
 
 ## Escritura y organización de contenido
-- Añade Markdown bajo `src/content/docs/<carpeta>`; Starlight autogenera el sidebar por carpeta.
+- Markdowns de Subordinación y Valor en `src/content/docs/<carpeta>`; Starlight autogenera el sidebar por carpeta.
 - Mantén enlaces internos con el `base` `/syv` (ej.: `/syv/1_trasfondo/cronologia/`).
 - Usa `indice.yaml` para decidir qué documentos se muestran y su orden sin revisar cada archivo.
 - Para personajes, utiliza los campos adicionales indicados y coherencia con facciones y regiones definidas.
-
-## Verificación y calidad
-- No hay suite de tests configurada.
-- Ejecuta `bun run astro check` para:
-  - Revisión de tipos (TypeScript estricto).
-  - Validaciones de contenido e integraciones de Astro.
-- Antes de abrir PR o subir cambios: `bun run astro check` y `bun run build`.
 
 ## CI/CD
 - Workflow: `.github/workflows/deploy.yml`
@@ -113,10 +105,8 @@ Notas:
   - Publica `dist` a GitHub Pages.
 
 ## Convenciones
-- Mantén `.astro` y `.ts` compatibles con TypeScript estricto.
 - Usa componentes de Starlight (`StarlightPage`, `Card`, etc.) para páginas y bloques.
 - Centraliza estilos en `src/styles/custom.css` y conserva los principios de estética militar y accesibilidad.
-- No hay ESLint/Prettier configurado: sigue las convenciones por defecto de Astro/TypeScript y la guía de estilo definida aquí.
 
 ## Tips para agentes
 - Ante cambios de contenido/imports, corre `bun run astro check` y un `bun run build` rápido.
