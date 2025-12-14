@@ -1,5 +1,6 @@
 ---
 title: Cronología
+slug: cronologia-root
 folder: 1_trasfondo/cronologia
 description: Cronología completa del colapso del mundo antiguo y la formación de la Confederación Argentina, desde la perspectiva de 2178.
 tags:
