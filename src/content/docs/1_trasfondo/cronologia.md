@@ -5,6 +5,8 @@ description: Cronología completa del colapso del mundo antiguo y la formación 
 tags:
 - cronologia
 - colapso-global
+---
+
 Las fuentes que alimentan esta crónica son heterogéneas y contradictorias. Incluyen sesgos de época que apenas hoy comprendemos. Esta copia que el lector tiene enfrente ha sido curada cientos de veces por cientos de Inquisidores. Las contribuciones de los Criptógrafos Militares de la CUFAC han sido decisivas para recuperar registros de la Gran Guerra Global. No siempre coincidimos en la interpretación, pero su rigor técnico ha sido revisada con sumo cuidado.
 
 ¿Cuál ha sido nuestro trabajo entonces? Aferrarnos a los accidentes, a los errores estadísticos. Discos magnéticos, papeles amarillos pudriéndose en oficinas enterradas, recuperados por los grandiosos arqueólogos y arqueólogas del querido .

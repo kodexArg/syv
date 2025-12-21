@@ -6,7 +6,7 @@ description: El día en que las QIA descifraron simultáneamente todos los algor
 tags:
 - hito
 - fin-de-secretos
-- 2048
+- "2048"
 - qia
 - descifrado-masivo
 - colapso-confianza
