@@ -1,24 +1,10 @@
 ---
 title: Cronología
-slug: cronologia-root
 folder: 1_trasfondo/cronologia
 description: Cronología completa del colapso del mundo antiguo y la formación de la Confederación Argentina, desde la perspectiva de 2178.
 tags:
 - cronologia
 - colapso-global
-- confederacion
-- anatema-mecanico
----
-
-
-*Historia del mundo desde la perspectiva de Ciudad Dársena (2178)*
-
-## Prólogo del Hermano Archivista
-
-Toda cronología es, en última instancia, una cartografía del desastre. Quien trace un mapa de la noche trazará, inevitablemente, la memoria de la luz que la precedió. Las páginas que siguen son las estaciones de una caída que duró un siglo, la lenta gravitación hacia las tinieblas que comenzó cuando el hombre, ebrio de su propio ingenio, decidió que podía fabricar dioses más eficientes que los heredados.
-
-El trabajo de recuperación documental es, por naturaleza, un ejercicio de humildad ante la vastedad de lo perdido. Por cada página rescatada, mil fueron carbón o están aún en el olvido. Los electrones que alguna vez almacenaron la memoria de una civilización se dispersan lentamente según las leyes de la nefasta Cuántica, en cementerios de servidores que murieron cuando la tierra se apagó y la «nube» volvió a su naturaleza como un viento que se disipó y se llevó todo, todo.
-
 Las fuentes que alimentan esta crónica son heterogéneas y contradictorias. Incluyen sesgos de época que apenas hoy comprendemos. Esta copia que el lector tiene enfrente ha sido curada cientos de veces por cientos de Inquisidores. Las contribuciones de los Criptógrafos Militares de la CUFAC han sido decisivas para recuperar registros de la Gran Guerra Global. No siempre coincidimos en la interpretación, pero su rigor técnico ha sido revisada con sumo cuidado.
 
 ¿Cuál ha sido nuestro trabajo entonces? Aferrarnos a los accidentes, a los errores estadísticos. Discos magnéticos, papeles amarillos pudriéndose en oficinas enterradas, recuperados por los grandiosos arqueólogos y arqueólogas del querido .
