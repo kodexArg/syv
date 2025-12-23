@@ -1,6 +1,6 @@
 ---
 name: validar-metadatos
-description: Validar metadatos YAML (frontmatter) de archivo markdown - campos obligatorios, formato correcto, estándares españoles
+description: Validar metadatos YAML (frontmatter) de archivo markdown - campos obligatorios, formato correcto, estándares del proyecto (inglés)
 ---
 
 # Validar Metadatos
@@ -9,7 +9,7 @@ Valida que **TODOS los campos YAML frontmatter** de un archivo `.md` sean:
 - **Completos** (obligatorios presentes)
 - **Correctos** (formato YAML válido)
 - **Coherentes** (campo `facciones` en personajes, etc.)
-- **Estándares** (español, minúsculas, kebab-case)
+- **Estándares** (campos en inglés, valores en kebab-case)
 
 ---
 
@@ -37,9 +37,9 @@ Valida que **TODOS los campos YAML frontmatter** de un archivo `.md` sean:
 
 ### 2. Validación 1: CAMPOS OBLIGATORIOS
 Para TODO archivo:
-- ✓ `titulo:` ¿Presente?
-- ✓ `carpeta:` ¿Presente?
-- ✓ `descripcion:` ¿Presente?
+- ✓ `title:` ¿Presente?
+- ✓ `folder:` ¿Presente?
+- ✓ `description:` ¿Presente?
 
 ### 3. Validación 2: FORMATO YAML
 - ✓ Espacios después de `:` (": " siempre)
@@ -48,8 +48,8 @@ Para TODO archivo:
 - ✓ Sintaxis YAML correcta
 
 ### 4. Validación 3: IDIOMA Y CASO
-- ✗ Campos en inglés (title → titulo, date → fecha)
-- ✓ TODO en español y minúsculas
+- ✗ Campos en español (titulo → title, fecha → date)
+- ✓ Campos en INGLÉS y minúsculas (title, folder, description)
 - ✗ Mayúsculas en claves
 
 ### 5. Validación 4: CAMPOS ESPECÍFICOS POR TIPO
@@ -70,7 +70,7 @@ Para TODO archivo:
 - ✓ Relativa desde raíz proyecto
 - ✗ Absoluta (C:\Users\, /home/)
 - ✗ Con notación punto (./, ../)
-- Ejemplo correcto: `carpeta: 3_personajes/principales`
+- Ejemplo correcto: `folder: 3_personajes/principales`
 
 ### 7. Validación 6: TAGS
 - ✓ Formato array YAML: `tags: [tag1, tag2]`
@@ -84,14 +84,14 @@ Para TODO archivo:
 
 ```
 ✅ CORRECTOS:
-- Campo 'titulo' presente y correcto
-- Campo 'carpeta' relativo válido
+- Campo 'title' presente y correcto
+- Campo 'folder' relativo válido
 - Tags en kebab-case
 
 ❌ ERRORES:
-- Campo 'title' (inglés) → Cambiar a 'titulo'
+- Campo 'titulo' (español) → Cambiar a 'title'
 - Campo 'facciones' faltante (es personaje)
-- Ruta absoluta en 'carpeta'
+- Ruta absoluta en 'folder'
 
 ⚠️ ADVERTENCIAS:
 - Tag 'personaje' es demasiado genérico
@@ -109,43 +109,43 @@ Para TODO archivo:
 
 ### GLOBALES (TODO archivo)
 ```yaml
-titulo: [Nombre/Título exacto]                    # OBLIGATORIO
-carpeta: [ruta/relativa/desde/raiz]              # OBLIGATORIO
-descripcion: [Breve descripción 1-2 líneas]      # OBLIGATORIO
+title: [Nombre/Título exacto]                    # OBLIGATORIO
+folder: [ruta/relativa/desde/raiz]              # OBLIGATORIO
+description: [Breve descripción 1-2 líneas]      # OBLIGATORIO
 ```
 
 ### PERSONAJES (3_personajes/)
 ```yaml
-titulo: [Nombre completo]                        # OBLIGATORIO
-carpeta: 3_personajes/[principals|secundarios|arquetipos]  # OBLIGATORIO
-descripcion: [Rol PÚBLICO sin secretos]         # OBLIGATORIO
+title: [Nombre completo]                        # OBLIGATORIO
+folder: 3_personajes/[principales|secundarios|arquetipos]  # OBLIGATORIO
+description: [Rol PÚBLICO sin secretos]         # OBLIGATORIO
 tags: [nombre-apellido, profesion, ubicacion]   # RECOMENDADO
 facciones: []  o  ["Facción1", "Facción2"]      # OBLIGATORIO
-alerta-spoilers: "Descripción si secretos"      # OBLIGATORIO si hay secretos
+spoilers: "Descripción si secretos"             # OBLIGATORIO si hay secretos
 ```
 
 ### FACCIONES (1_trasfondo/facciones/)
 ```yaml
-titulo: [Nombre facción]                        # OBLIGATORIO
-carpeta: 1_trasfondo/facciones/[subcarpeta]    # OBLIGATORIO
-descripcion: [Breve descripción]                # OBLIGATORIO
+title: [Nombre facción]                        # OBLIGATORIO
+folder: 1_trasfondo/facciones/[subcarpeta]    # OBLIGATORIO
+description: [Breve descripción]                # OBLIGATORIO
 tags: [faccion, tipo, ubicacion]               # RECOMENDADO
 ```
 
 ### UBICACIONES (2_atlas/)
 ```yaml
-titulo: [Nombre ubicación]                      # OBLIGATORIO
-carpeta: 2_atlas/ciudades/[ciudad]              # OBLIGATORIO
-descripcion: [Características]                  # OBLIGATORIO
+title: [Nombre ubicación]                      # OBLIGATORIO
+folder: 2_atlas/ciudades/[ciudad]              # OBLIGATORIO
+description: [Características]                  # OBLIGATORIO
 tags: [ubicacion, ciudad, zona, tipo]          # RECOMENDADO
 region: "Dársena, Isla Oriental"                # RECOMENDADO
 ```
 
 ### DIEGESIS (4_diegesis/)
 ```yaml
-titulo: [Nombre narrativa]                      # OBLIGATORIO
-carpeta: 4_diegesis/[relatos|cartas|cronicas|diarios]  # OBLIGATORIO
-descripcion: [Breve resumen]                   # OBLIGATORIO
+title: [Nombre narrativa]                      # OBLIGATORIO
+folder: 4_diegesis/[relatos|cartas|cronicas|diarios]  # OBLIGATORIO
+description: [Breve resumen]                   # OBLIGATORIO
 tags: [tipo-contenido, ubicaciones, personajes] # RECOMENDADO
 ```
 
@@ -154,11 +154,11 @@ tags: [tipo-contenido, ubicaciones, personajes] # RECOMENDADO
 ## Errores Comunes Detectados
 
 ```
-1. Campos en inglés:
-   ✗ title → ✓ titulo
-   ✗ date → ✓ fecha
-   ✗ folder → ✓ carpeta
-   ✗ description → ✓ descripcion
+1. Campos en español:
+   ✗ titulo → ✓ title
+   ✗ fecha → ✓ date
+   ✗ carpeta → ✓ folder
+   ✗ descripcion → ✓ description
    ✗ layout, author → NO USAR
 
 2. Rutas absolutas:
@@ -166,12 +166,12 @@ tags: [tipo-contenido, ubicaciones, personajes] # RECOMENDADO
    ✓ 3_personajes/principales
 
 3. Tabulaciones:
-   ✗ [tab]titulo: Nombre
-   ✓ titulo: Nombre (espacios)
+   ✗ [tab]title: Nombre
+   ✓ title: Nombre (espacios)
 
 4. Falta de espacios:
-   ✗ titulo:Nombre
-   ✓ titulo: Nombre
+   ✗ title:Nombre
+   ✓ title: Nombre
 
 5. Campo facciones faltante:
    ✗ [en personaje sin campo]
