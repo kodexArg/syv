@@ -33,6 +33,14 @@ El estilo de SyV se fundamenta en tres pilares:
 11. **La Espiral de la Palabra** - Proporción áurea en frases
 12. **La Arquitectura del Bloque** - Progresión de masa visual en párrafos (1→2→3)
 
+## Alcance del Análisis
+
+**El canon se aplica SOLO a texto narrativo en párrafos.**
+
+**NO se analiza:** Títulos, metadatos YAML, listas, tablas, bloques de código, comentarios HTML, etiquetas de permisos, referencias al pie, enlaces.
+
+Esto permite usar el skill en archivos del codex con múltiples títulos y secciones estructuradas.
+
 ## Cuándo Usar Este Skill
 
 - ✅ Al escribir relatos, crónicas, cartas o diarios (`4_diegesis/`)

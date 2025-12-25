@@ -7,6 +7,8 @@ description: Aplicar Canon de Estilo SyV (13 reglas) a texto nuevo o existente -
 
 Aplica el **Canon de Estilo de Subordinación y Valor** (13 reglas) a texto narrativo para garantizar coherencia estilística con el universo.
 
+**IMPORTANTE:** Solo se analiza texto narrativo en párrafos. Los títulos (`#`, `##`, etc.), metadatos YAML, listas, tablas, bloques de código y otros elementos estructurales NO se modifican.
+
 ---
 
 ## Flujo de Trabajo

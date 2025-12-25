@@ -7,6 +7,8 @@ description: Validar cumplimiento del Canon de Estilo SyV (13 reglas) en texto e
 
 Valida cumplimiento del **Canon de Estilo de Subordinación y Valor** en texto existente. Genera diagnóstico detallado SIN modificar el contenido original.
 
+**IMPORTANTE:** Solo se analiza texto narrativo en párrafos. Los títulos (`#`, `##`, etc.), metadatos YAML, listas, tablas, bloques de código y otros elementos estructurales se IGNORAN en el análisis.
+
 ---
 
 ## Flujo de Trabajo

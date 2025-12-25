@@ -18,6 +18,69 @@ Aplicación del **Canon de Estilo de Subordinación y Valor**: sistema de 13 reg
 
 ---
 
+## Alcance del Análisis
+
+**IMPORTANTE:** El canon se aplica SOLO al texto narrativo en párrafos. Los elementos estructurales del documento NO se analizan ni modifican.
+
+### ✅ SE ANALIZA (Texto Narrativo)
+
+- **Párrafos de prosa**: Texto narrativo corrido en bloques de texto
+- **Descripciones**: Aspecto físico, ubicaciones, atmósferas
+- **Diálogos y acciones**: Contenido de escenas narrativas
+- **Citas y fragmentos de relatos**: Texto ficcional dentro del documento
+
+### ❌ NO SE ANALIZA (Elementos Estructurales)
+
+- **Metadatos YAML** (frontmatter entre `---`)
+- **Títulos de cualquier nivel** (`#`, `##`, `###`, `####`, `#####`, `######`)
+- **Listas** (numeradas o con viñetas: `1.`, `2.`, `-`, `*`)
+- **Tablas** (formato markdown con `|`)
+- **Bloques de código** (entre ` ``` ` o indentados)
+- **Comentarios HTML** (`<!-- comentario -->`)
+- **Etiquetas de permisos** (`<!-- 📖 -->`, `<!-- 🔐 -->`, `/📖`, `/🔐`)
+- **Referencias al pie** (`[^1]`, `[^identificador]`)
+- **Enlaces y paths** (`[texto](url)`, `3_personajes/archivo.md`)
+- **Énfasis markdown** (preservar formato: `*cursiva*`, `**negrita**`)
+
+### Ejemplo de Documento con Múltiples Títulos
+
+```markdown
+---
+titulo: Anatema Mecánico
+carpeta: 1_trasfondo/codex
+---
+
+# Anatema Mecánico
+
+## Definición Oficial
+
+El Anatema Mecánico es la prohibición absoluta de tecnología digital. [ESTO SE ANALIZA]
+
+## Historia
+
+### Promulgación (2061)
+
+El 15 de agosto de 2061, la Iglesia de Dársena promulgó el Anatema. [ESTO SE ANALIZA]
+
+### Razones Teológicas
+
+La corrupción de la Bestia había infectado el silicio. [ESTO SE ANALIZA]
+
+## Lista de Tecnología Prohibida
+
+- Computadoras digitales
+- Inteligencias Artificiales
+- Redes de internet
+```
+
+**Resultado del análisis:**
+- Títulos (`#`, `##`, `###`) → **IGNORADOS**
+- Metadatos YAML → **IGNORADOS**
+- Lista con viñetas → **IGNORADA**
+- Párrafos narrativos → **ANALIZADOS** (Fibonacci, elipsis, sincretismo, etc.)
+
+---
+
 ## Canon de Estilo (13 Reglas)
 
 ### 0. Secuencia de Fibonacci (La Regla de Oro)
