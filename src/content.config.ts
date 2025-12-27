@@ -23,7 +23,7 @@ const baseSchema = z.object({
 const personajeSchema = baseSchema.extend({
     nombre: z.string().optional(),
     facciones: z.array(z.string()).optional(),
-    spoilers: z.array(z.string()).optional(),
+    'alerta-spoilers': z.string().optional(),
 });
 
 const proyectoCollection = defineCollection({

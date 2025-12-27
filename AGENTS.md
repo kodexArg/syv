@@ -3,112 +3,118 @@
 Guía operativa anclada a este proyecto Astro. Provee instrucciones para desarrollo, estilo de contenido, accesibilidad y convenciones específicas.
 
 ## Visión general
-- Stack: Astro 5 + Starlight
-- Despliegue: GitHub Pages (`site`: `https://kodexarg.github.io`, `base`: `/syv`)
-- Contenido: Markdown bajo `src/content/docs` con autogeneración de sidebar por carpetas.
-- Página inicial: `src/pages/index.astro`
-- Estilos base: `src/styles/custom.css`
+- **Stack**: [Astro 5.6.1](https://astro.build/) + [Starlight 0.37.0](https://starlight.astro.build/)
+- **Runtime**: [Bun 1.3.5](https://bun.sh/) (requerido para instalaciones y scripts)
+- **Imagen**: [Sharp 0.34.2](https://sharp.pixelplumbing.com/) (procesamiento de imágenes optimizado)
+- **Despliegue**: GitHub Pages (`site`: `https://kodexarg.github.io`, `base`: `/syv`)
+- **Contenido**: Markdown/MDX bajo `src/content/docs` con autogeneración de sidebar por carpetas.
 
 ## Comandos de setup y ejecución
-- Instalar dependencias: `bun install`
+- Instalar dependencias: `bun install` (usa `bun.lock`)
 - Servidor de desarrollo: `bun run dev`
 - Compilar producción: `bun run build`
 - Previsualizar build: `bun run preview`
 - Verificación estática: `bun run astro check`
 
 Notas:
-- Uso recomendado de Bun por `bun.lock` y CI dedicado.
-- Astro abre en `http://localhost:4321/`. Las rutas incluyen el `base` `/syv` (ej.: `/syv/1_trasfondo/cronologia/`).
+- Astro abre en `http://localhost:4321/syv/`. 
+- **Rutas**: Siempre deben incluir el `base` `/syv` (ej.: `/syv/1_trasfondo/cronologia/`).
 
 ## Arquitectura Astro
-- Configuración: `astro.config.mjs`
+- **Configuración**: `astro.config.mjs`
   - `site: 'https://kodexarg.github.io'`
   - `base: '/syv'`
-  - Integración: `@astrojs/starlight` con `customCss: ['./src/styles/custom.css']`
-  - Sidebar autogenerado desde las carpetas: `0_proyecto`, `1_trasfondo`, `2_atlas`, `3_personajes`, `4_diegesis`, `5_aventuras`, `6_media` (astro.config.mjs:25–33).
-- TypeScript: `tsconfig.json` extiende `astro/tsconfigs/strict`.
-- Colecciones de contenido: `src/content.config.ts`
-  - Define colecciones por carpeta y esquemas Zod opcionales para evitar fallos de validación.
-  - `docsLoader()` para compatibilidad con Starlight.
-- Layout principal:
-  - Página clave: `src/pages/index.astro` usa `StarlightPage` para orquestar el layout base (src/pages/index.astro:24).
-  - El layout provee estructura semántica consistente. Actúa como ancla de accesibilidad de lectura y estilo.
+  - **Idioma**: `defaultLocale: 'root'` con `lang: 'es'`.
+  - **Sidebar**: Autogenerado desde `src/content/docs/` para carpetas: `0_proyecto`, `1_trasfondo`, `2_atlas`, `3_personajes`, `4_diegesis`, `5_aventuras`, `6_media`.
+- **Colecciones de contenido**: `src/content.config.ts`
+  - Colección principal `docs` con `docsLoader()` para Starlight.
+  - 7 colecciones especializadas (`0_proyecto` a `6_media`) con esquemas Zod para filtrado y validación avanzada.
+- **Layout**: 
+  - `src/pages/index.astro` es la raíz y usa `StarlightPage` para orquestar el layout base heredando accesibilidad y estilos.
+  - No duplicar estructuras de layout; confiar en los componentes de Starlight.
 
-## Metadatos en Markdown (frontmatter)
-- Frontmatter recomendado para todos los `.md`:
+## Metadatos en Markdown (Frontmatter)
+- **Slug**: El slug es el nombre del archivo **sin extensión** `.md` (ej: `cronologia.md` -> slug: `cronologia`).
+- **Campos Base**:
   - `title`: string.
   - `description`: string.
-  - `slug`: string — Opcional; usar solo si se requiere un slug específico. El slug es también el nombre del archivo.
-  - `folder`: string — Opcional;
-  - `tags`: array de slugs — Referencias a otros documentos del sitio en forma de tags (que son sus slugs).Deben corresponder con entradas en `indice.yaml`, o nombres de archivo sin extensión.
-  - `region`: string — Opcional; específica de la Confederación Argentina.
-  - `fecha`: string | number | date — Se normaliza a `YYYY-MM-DD` (`src/content.config.ts:15–21`).
-- Frontmatter adicional para `3_personajes`:
-  - `nombre`: string — Nombre del personaje.
-  - `facciones`: array<string> — Lista de facciones asociadas.
-  - `spoilers`: array<string> — Advertencias o notas sensibles.
-- Se espera `title` y `description` para buena experiencia de lectura y navegación.
+  - `folder`: string (Opcional; ruta lógica).
+  - `tags`: array de slugs (Referencias a otros documentos o `indice.yaml`).
+  - `region`: string (Opcional; específica de la Confederación).
+  - `fecha`: string | number | date (Normalizado a `YYYY-MM-DD`).
+- **Personajes (`3_personajes`)**:
+  - `nombre`: string full.
+  - `facciones`: array<string>.
+  - `alerta-spoilers`: string (Notas sensibles para el lector).
 
 ## Índice canónico (SSOT)
-- Reglas:
-  - Usa `indice.yaml` como única fuente de verdad sobre el contenido visible y su organización. 
-  - El código puede y debe apoyarse en `indice.yaml` para navegación, listados y validaciones.
-  - Si una entrada existe en `indice.yaml`, se considera seleccionada para exposición pública; ausencias indican que no debe mostrarse.
-
-## Estructura de la documentación
-- Presenta un índice y siete secciones principales:
-    - Proyecto
-    - Trasfondo
-    - Atlas
-    - Personajes
-    - Diégesis
-    - Aventuras
-    - Media
-- Esta estructura está reflejada en el sidebar autogenerado (astro.config.mjs:25–33) y debe mantenerse estable.
-- Conocer esta información es esencial para las decisiones de diseño gráfico y de la UI/UX
+- Fuente de verdad: `indice.yaml`.
+- Organización: Define la jerarquía visible y el orden de navegación.
+- **Validación**: Si un archivo existe físicamente pero no está en `indice.yaml`, se considera material de trabajo/draft no publicado.
+- **Jerarquía**: Soporta anidamiento (ej: `ciudades -> darsena -> sub-secciones`).
 
 ## Estilo visual y tipografía
-- Principios de diseño:
-  - Estética militarista, colores apagados/mate, alto contraste legible.
-  - Diseño centrado en lectura cómoda, tipografías claras, justificado moderado.
-  - Accesibilidad: contraste suficiente, semántica correcta.
-- Tipografías:
-  - Título/sello “SUBORDINACIÓN Y VALOR”: `Stardos Stencil` (`src/styles/custom.css:1`, `.site-title` en `src/styles/custom.css:21–35`).
-  - El resto de la tipografía queda abierto al diseño, respetando accesibilidad, estética militar y colores mate.
-- Paleta y variables:
-  - Mantener variables CSS definidas y su ethos mate (ver `src/styles/custom.css`), evitando colores saturados.
+- **Ethos**: Estética militarista, colores mate, alto contraste.
+- **Tipografías** (definidas en `src/styles/custom.css`):
+  - **Títulos/Brand**: `Stardos Stencil` (Ethos militar).
+  - **Headings (h1-h6)**: `Oswald` (Sans-serif condesada, mayúsculas).
+  - **Cuerpo de texto**: `Merriweather` (Serif de alta legibilidad).
+- **Layout de lectura**: 
+  - En pantallas anchas (>90rem), el contenido se divide en **2 columnas** de estilo editorial.
+  - Alineación: Justificado moderado para párrafos (`.sl-markdown-content p`).
 
-## Accesibilidad HTML
-- Idioma del sitio: `lang: 'es'` configurado en Starlight (`astro.config.mjs`).
-- Semántica:
-  - Usar `h1–h4` de manera jerárquica; evitar saltos arbitrarios.
-  - Proveer `alt` en imágenes y `aria-label` en controles interactivos cuando aplique.
-  - Contraste: seguir las variables CSS para asegurar legibilidad en ambos temas.
-- Componentes Starlight:
-  - Preferir `StarlightPage` y componentes de `@astrojs/starlight/components` para consistencia y semántica (ejemplo en `src/pages/index.astro`).
-- Página crítica de layouts:
-  - Ubicación y uso: `src/pages/index.astro` invoca `StarlightPage` para el layout base (src/pages/index.astro:24).
-  - Qué necesitamos: landmarks semánticos (`header`, `nav`, `main`, `aside`, `footer`), “saltar al contenido”, foco visible y orden de tabulación correcto; roles ARIA cuando corresponda.
-  - Libertad de diseño: se deja abierta la implementación futura; la prioridad es cumplir requisitos de accesibilidad y mantener el estilo militar y colores mate definidos en variables.
-
-## Escritura y organización de contenido
-- Markdowns de Subordinación y Valor en `src/content/docs/<carpeta>`; Starlight autogenera el sidebar por carpeta.
-- Mantén enlaces internos con el `base` `/syv` (ej.: `/syv/1_trasfondo/cronologia/`).
-- Usa `indice.yaml` para decidir qué documentos se muestran y su orden sin revisar cada archivo.
-- Para personajes, utiliza los campos adicionales indicados y coherencia con facciones y regiones definidas.
+## Accesibilidad
+- **Semántica**: Uso obligatorio de `h1–h4` jerárquicos.
+- **Landmarks**: `header`, `nav`, `main`, `aside`, `footer` provistos por Starlight.
+- **Multimedia**: Siempre incluir `alt` descriptivo.
+- **Idiomas**: Atributo `lang="es"` global.
 
 ## CI/CD
-- Workflow: `.github/workflows/deploy.yml`
-  - Dispara en `push` a `work` y `main`.
-  - Instala con `bun install --frozen-lockfile`.
-  - Compila con `bun run build`.
-  - Publica `dist` a GitHub Pages.
-
-## Convenciones
-- Usa componentes de Starlight (`StarlightPage`, `Card`, etc.) para páginas y bloques.
-- Centraliza estilos en `src/styles/custom.css` y conserva los principios de estética militar y accesibilidad.
+- **Workflow**: `.github/workflows/deploy.yml`
+- **Permisos**: Requiere `contents: read`, `pages: write`, `id-token: write`.
+- **Estructura**:
+  - `jobs: build`: Instala (Bun), Compila (Astro), Sube artefacto.
+  - `jobs: deploy`: Publica a GitHub Pages.
+- **Triggers**: Push a `main` y `work`, además de `workflow_dispatch`.
 
 ## Tips para agentes
-- Ante cambios de contenido/imports, corre `bun run astro check` y un `bun run build` rápido.
-- Verifica siempre el `base` `/syv` en rutas y enlaces.
-- Para navegación avanzada u orden, confía en `indice.yaml` como SSOT y evita duplicar estructura en varios lugares.
+1. **Verificación**: Corre siempre `bun run astro check` antes de un commit si tocaste esquemas.
+2. **Rutas Internas**: Usa `/syv/` al inicio de cada enlace interno.
+3. **Imágenes**: Sharp está configurado; usa formatos estándar (PNG/JPG) en `src/assets`.
+4. **Indice**: Si creas un archivo nuevo, **debes añadirlo** a `indice.yaml` para que sea visible.
+5. **Frontmatter**: Asegúrate de que `alerta-spoilers` sea un string, no un objeto, para cumplir con el esquema actual de los archivos.
+
+## Troubleshooting común
+- **Error Zod**: "Invalid date" -> Asegúrate de que `fecha` esté en formato `YYYY-MM-DD` o string simple.
+- **404 Portada**: Verifica que `base: '/syv'` esté configurado en `astro.config.mjs` y que el enlace tenga el prefijo.
+- **Sidebar no aparece**: Comprueba que el archivo esté en la carpeta correcta y, si el sidebar no es `autogenerate`, añádelo manualmente.
+- **Build fails (Sharp)**: Si hay errores de procesamiento de imagen, verifica que el archivo no esté corrupto y que el alias `@assets` sea correcto si se usa.
+
+## Ejemplos de Frontmatter
+
+### Documento de Personaje
+```yaml
+---
+title: Damián DiConte
+folder: 3_personajes/principales
+description: Detective veterano de la Dirección Nacional de Seguridad.
+tags:
+  - damian-diconte
+  - investigador
+facciones:
+  - "Dirección Nacional de Seguridad"
+alerta-spoilers: "Su investigación sobre la conspiración en la Iglesia."
+---
+```
+
+### Documento de Trasfondo
+```yaml
+---
+title: El Anatema Mecánico
+description: La prohibición religiosa de la tecnología digital.
+tags:
+  - religion
+  - tecnologia
+fecha: "2178-01-01"
+---
+```
