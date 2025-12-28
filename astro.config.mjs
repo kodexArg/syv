@@ -31,6 +31,9 @@ export default defineConfig({
 				{ label: 'Aventuras', collapsed: true, autogenerate: { directory: '5_aventuras' } },
 				{ label: 'Media', collapsed: true, autogenerate: { directory: '6_media' } },
 			],
+			components: {
+				ThemeSelect: './src/components/ThemeSelect.astro',
+			},
 		}),
 	],
 });

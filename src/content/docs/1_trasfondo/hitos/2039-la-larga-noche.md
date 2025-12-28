@@ -5,7 +5,7 @@ description: El inicio de la Gran Guerra Global (2039-2068), marcado por el cola
 tags:
   - gran-guerra-global
   - larga-noche
-  - 2039
+  - "2039"
   - fuego-perpetuo
   - qia
   - colapso-comunicaciones

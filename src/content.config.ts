@@ -1,8 +1,8 @@
 import { defineCollection, z } from 'astro:content';
-import { glob } from 'astro/loaders';
 import { docsLoader } from '@astrojs/starlight/loaders';
 import { docsSchema } from '@astrojs/starlight/schema';
 
+<<<<<<< HEAD
 // Esquema base para todos los archivos markdown
 // Todos los campos son opcionales para evitar errores de validación
 const baseSchema = z.object({
@@ -62,18 +62,32 @@ const mediaCollection = defineCollection({
 });
 
 
+=======
+// Carga la colección 'docs' usada por Starlight, extendiendo el esquema
+>>>>>>> 92585e9d79975c2a259ccb2c16573329754b856d
 const docs = defineCollection({
     loader: docsLoader(),
-    schema: docsSchema(),
+    schema: docsSchema({
+        extend: z.object({
+            // Campos globales opcionales
+            folder: z.string().optional(),
+            region: z.string().optional(),
+            fecha: z.union([z.string(), z.number(), z.date()]).transform((val) => {
+                if (val instanceof Date) {
+                    return val.toISOString().split('T')[0];
+                }
+                return String(val);
+            }).optional(),
+            tags: z.array(z.string()).optional(), // Sobreescribe el tags por defecto si es necesario, pero docsSchema ya lo trae. Lo dejamos compatible.
+
+            // Campos específicos de personajes (opcionales para que no fallen otros docs)
+            nombre: z.string().optional(),
+            facciones: z.array(z.string()).optional(),
+            spoilers: z.array(z.string()).optional(),
+        }),
+    }),
 });
 
 export const collections = {
     docs,
-    '0_proyecto': proyectoCollection,
-    '1_trasfondo': trasfondoCollection,
-    '2_atlas': atlasCollection,
-    '3_personajes': personajesCollection,
-    '4_diegesis': diegesisCollection,
-    '5_aventuras': aventurasCollection,
-    '6_media': mediaCollection,
 };

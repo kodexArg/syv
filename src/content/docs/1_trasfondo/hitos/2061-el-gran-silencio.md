@@ -6,7 +6,7 @@ description: El apag√≥n coordinado global del 12 de marzo de 2061 que desconect√
 tags:
 - hito
 - gran-silencio
-- 2061
+- "2061"
 - anatema-mecanico
 - qia
 - apagon-mundial

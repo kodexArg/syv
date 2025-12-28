@@ -1,0 +1,78 @@
+$ astro dev
+[2m10:12:43[22m [34m[types][39m Generated [2m1ms[22m
+[2m10:12:43[22m [34m[content][39m Syncing content
+[2m10:12:44[22m [34m[content][39m Synced content
+
+[42m[1m astro [22m[49m [32mv5.16.5[39m [2mready in[22m 1678 [2mms[22m
+
+[2mÔöâ[22m Local    [36mhttp://localhost:4321/syv[39m
+[2mÔöâ[22m Network  [2muse --host to expose[22m
+
+[2m10:12:44[22m [32mwatching for file changes...[39m
+[2m10:12:45[22m [34m[200][39m / [2m222ms[22m
+[2m10:12:55[22m [34m[200][39m / [2m19ms[22m
+[2m10:12:56[22m [34m[200][39m / [2m14ms[22m
+[2m10:16:40[22m [34m[watch][39m /src/styles/custom.css
+[2m10:16:40[22m [34m[200][39m / [2m33ms[22m
+[2m10:17:34[22m [34m[200][39m / [2m19ms[22m
+[33m[1m10:17:34[22m [WARN] [router][39m A `getStaticPaths()` route pattern was matched, but no matching static path was found for requested path `/favicon.svg`.
+
+Possible dynamic routes being matched: node_modules/@astrojs/starlight/routes/static/index.astro.
+Entry docs ÔåÆ 404 was not found.
+[2m10:17:34[22m [33m[404][39m /favicon.svg [2m15ms[22m
+[2m10:17:53[22m [34m[200][39m /1_trasfondo/cronologia/ [2m24ms[22m
+[2m10:17:54[22m [34m[200][39m /1_trasfondo/cronologia/ [2m19ms[22m
+[2m10:21:52[22m [34m[200][39m /1_trasfondo/cronologia/ [2m24ms[22m
+[2m10:21:53[22m [34m[200][39m /1_trasfondo/cronologia/ [2m18ms[22m
+[2m10:22:02[22m Configuration file updated. Restarting...
+[2m10:22:03[22m [34m[vite][39m Re-optimizing dependencies because vite config has changed
+[2m10:22:03[22m [34m[content][39m Syncing content
+[2m10:22:03[22m [34m[content][39m Synced content
+[2m10:22:03[22m [34m[types][39m Generated [2m880ms[22m
+[2m10:22:03[22m [34m[vite][39m Re-optimizing dependencies because vite config has changed
+[2m10:22:05[22m [34m[200][39m /1_trasfondo/cronologia/ [2m261ms[22m
+[2m10:22:05[22m [34m[200][39m / [2m273ms[22m
+[2m10:22:35[22m [34m[watch][39m /src/styles/custom.css
+[2m10:22:35[22m [34m[200][39m / [2m15ms[22m
+[2m10:22:36[22m [34m[200][39m /1_trasfondo/cronologia/ [2m16ms[22m
+[2m15:26:13[22m [34m[200][39m / [2m50ms[22m
+[2m15:26:52[22m [34m[200][39m / [2m38ms[22m
+[2m15:38:12[22m [34m[200][39m / [2m19ms[22m
+[2m15:38:14[22m [34m[200][39m / [2m13ms[22m
+[2m15:38:18[22m [34m[200][39m / [2m15ms[22m
+[2m15:38:44[22m [34m[200][39m /1_trasfondo/cronologia/ [2m31ms[22m
+[2m15:39:44[22m [34m[200][39m /1_trasfondo/facciones/fuerzas-armadas/fuerzas-armadas/ [2m21ms[22m
+[2m15:39:45[22m [34m[200][39m /1_trasfondo/facciones/fuerzas-armadas/fuerzas-armadas/ [2m22ms[22m
+[2m15:42:35[22m [34m[200][39m / [2m14ms[22m
+[2m15:42:35[22m [34m[200][39m /1_trasfondo/facciones/fuerzas-armadas/fuerzas-armadas/ [2m49ms[22m
+[2m15:42:44[22m [34m[watch][39m /src/styles/custom.css
+[2m15:42:44[22m [34m[200][39m / [2m19ms[22m
+[2m15:42:44[22m [34m[200][39m /1_trasfondo/facciones/fuerzas-armadas/fuerzas-armadas/ [2m20ms[22m
+[2m15:42:50[22m [34m[watch][39m /src/styles/custom.css
+[2m15:42:50[22m [34m[200][39m / [2m25ms[22m
+[2m15:42:51[22m [34m[200][39m /1_trasfondo/facciones/fuerzas-armadas/fuerzas-armadas/ [2m18ms[22m
+[2m15:43:17[22m [34m[watch][39m /src/styles/custom.css
+[2m15:43:17[22m [34m[200][39m / [2m16ms[22m
+[2m15:43:17[22m [34m[200][39m /1_trasfondo/facciones/fuerzas-armadas/fuerzas-armadas/ [2m23ms[22m
+[2m15:43:47[22m [34m[200][39m /1_trasfondo/cronologia/ [2m23ms[22m
+[2m15:43:48[22m [34m[200][39m / [2m13ms[22m
+[2m15:43:48[22m [34m[200][39m / [2m14ms[22m
+[2m15:43:54[22m [34m[200][39m / [2m15ms[22m
+[33m[1m15:43:54[22m [WARN] [router][39m A `getStaticPaths()` route pattern was matched, but no matching static path was found for requested path `/favicon.svg`.
+
+Possible dynamic routes being matched: node_modules/@astrojs/starlight/routes/static/index.astro.
+Entry docs ÔåÆ 404 was not found.
+[2m15:43:54[22m [33m[404][39m /favicon.svg [2m16ms[22m
+[2m15:43:57[22m [34m[200][39m /1_trasfondo/cronologia/ [2m18ms[22m
+[2m15:43:57[22m [34m[200][39m /1_trasfondo/cronologia/ [2m18ms[22m
+[2m15:44:01[22m [34m[200][39m / [2m12ms[22m
+[2m15:44:01[22m [34m[200][39m / [2m14ms[22m
+[2m15:44:27[22m [34m[watch][39m /src/styles/custom.css
+[2m15:44:27[22m [34m[200][39m / [2m19ms[22m
+[2m15:44:28[22m [34m[200][39m / [2m14ms[22m
+[2m15:45:21[22m [34m[200][39m / [2m21ms[22m
+[2m15:45:22[22m [34m[200][39m / [2m13ms[22m
+[2m15:45:26[22m [34m[watch][39m /src/styles/custom.css
+[2m15:45:26[22m [34m[200][39m / [2m26ms[22m
+[2m15:45:27[22m [34m[200][39m / [2m21ms[22m
+[2m15:46:46[22m [34m[200][39m / [2m15ms[22m

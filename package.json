@@ -2,7 +2,12 @@
   "name": "syv",
   "type": "module",
   "version": "0.0.1",
+  "packageManager": "bun@1.3.4",
+  "engines": {
+    "bun": ">=1.3.4"
+  },
   "scripts": {
+    "preinstall": "npx only-allow bun",
     "dev": "astro dev",
     "start": "astro dev",
     "build": "astro build",
