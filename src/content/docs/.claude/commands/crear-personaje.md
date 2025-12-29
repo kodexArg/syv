@@ -15,7 +15,7 @@ Crea nuevo personaje para el universo SyV garantizando **coherencia total** cont
 
 ## Información Requerida
 
-Pregunta al usuario (7 campos):
+Pregunta al usuario (8 campos):
 
 1. **Nombre del personaje**
    - Ejemplo: "Capitán Romero", "Hermana Julieta"
@@ -41,9 +41,17 @@ Pregunta al usuario (7 campos):
 
 6. **Ubicación principal** (requerido)
    - Validar contra: `2_atlas/ciudades/`
-   - Ejemplo: "Dársena (Isla Oriental)"
+   - Ejemplo: "Dársena (Isla Oriental)", "Barrios del Muro", "Las Tuberías"
+   - **Si Barrios del Muro**: Considerar estructuras locales (Punteros, Clanes Familiares, Bandas de Tuberías)
+   - **Referencia**: `2_atlas/ciudades/darsena/barrios-del-muro.md` para detalles específicos
 
-7. **Edad aproximada** (opcional)
+7. **Credo/Religión** (opcional pero recomendado)
+   - Validar contra: `1_trasfondo/credos/`
+   - Católico oficial, Umbanda, San La Muerte, Iglesia Maradoniana, Shipibo-Conibo, etc.
+   - **Importante**: Si personaje es de Barrios del Muro, revisar pluralidad religiosa
+   - Si ninguno: "Católico nominal" o "Sin credo definido"
+
+8. **Edad aproximada** (opcional)
    - Ejemplo: "45 años" o "~30 años"
 
 ---
@@ -54,6 +62,8 @@ Pregunta al usuario (7 campos):
 ### 2. Validaciones
 - ✓ Facciones existen en `1_trasfondo/facciones/`
 - ✓ Ubicación existe en `2_atlas/`
+- ✓ Credo existe en `1_trasfondo/credos/` (si especificado)
+- ✓ Coherencia credo-ubicación (ej: Barrios del Muro permite pluralidad religiosa)
 - ✓ Detectar coincidencias en `.claude/REFERENCE.md`
 - ✓ Validar coherencia temporal (cronología)
 
@@ -216,9 +226,14 @@ alerta-spoilers: "Contiene información crítica sobre [qué]"
 1. **Metadatos**: Campos obligatorios, formato YAML, español minúsculas
 2. **Facciones**: Verificar existen en canon, nombres exactos
 3. **Ubicaciones**: Verificar existe en atlas
-4. **Coherencia temporal**: Validar contra cronología canónica
-5. **Detección de duplicados**: Buscar en REFERENCE.md y 3_personajes/
-6. **Orden de secretos**: Si tiene, debe ser 📖 → 🔐 → 🔐☠️
+4. **Credos**: Si especificado, verificar existe en `1_trasfondo/credos/`
+5. **Coherencia credo-ubicación**:
+   - Barrios del Muro: Permite todos los credos (pluralidad religiosa)
+   - Microcentro/Barrio Norte: Predominantemente católico (credos alternativos ocultos)
+   - Isla Oriental: Estrictamente católico oficial
+6. **Coherencia temporal**: Validar contra cronología canónica
+7. **Detección de duplicados**: Buscar en REFERENCE.md y 3_personajes/
+8. **Orden de secretos**: Si tiene, debe ser 📖 → 🔐 → 🔐☠️
 
 ---
 
@@ -227,7 +242,9 @@ alerta-spoilers: "Contiene información crítica sobre [qué]"
 | Archivo | Propósito |
 |---------|----------|
 | `1_trasfondo/facciones/` | Validar facciones |
+| `1_trasfondo/credos/` | Validar credos y religiones |
 | `2_atlas/ciudades/` | Validar ubicaciones |
+| `2_atlas/ciudades/darsena/barrios-del-muro.md` | Detalles específicos Barrios del Muro |
 | `3_personajes/` | Evitar duplicados |
 | `.claude/REFERENCE.md` | Detección rápida |
 | `1_trasfondo/cronologia/cronología.md` | Coherencia temporal |

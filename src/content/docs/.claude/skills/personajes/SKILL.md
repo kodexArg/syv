@@ -92,6 +92,44 @@ Dentro de la subsección **Trasfondo**, el orden DEBE ser:
 - `3_personajes/secundarios/` - Personajes mencionados en relatos con trasfondo
 - `3_personajes/arquetipos/` - Plantillas genéricas (gendarme, médico, koskero)
 
+## Consideraciones por Ubicación
+
+### Barrios del Muro
+Para personajes ubicados en **Barrios del Muro** (`2_atlas/ciudades/darsena/barrios-del-muro.md`):
+
+**Credos disponibles** (pluralidad religiosa):
+- Iglesia Maradoniana (hegemónica: 1.5M seguidores)
+- Umbanda (dominante: 600K seguidores)
+- San La Muerte (sectores criminales)
+- La Compañía (70K devotos)
+- Catolicismo oficial (Hermandades Menores)
+- Shipibo-Conibo (ceremonias clandestinas)
+- Todos los credos proscritos operan aquí
+
+**Estructuras de poder locales**:
+- **Punteros**: Líderes de bandas que cobran "impuesto de protección"
+- **Clanes Familiares**: Controlan edificios completos (ej: Vargas, Mendoza, Acosta)
+- **Bandas de Tuberías**: Mueven contrabando entre superficie y Las Tuberías
+- **Bandas Religiosas**: Devotos de orixás compiten por territorio
+
+**Lugares clave**:
+- Mercado Subterráneo de Antigua Estación
+- El Bazar del Muro (DMZ)
+- Centros de Salud Comunitarios
+- Cocinas Colectivas
+- Zonas de Desguace
+
+### Otras Ubicaciones
+
+**Microcentro/Barrio Norte**:
+- Credos: Predominantemente católico oficial
+- Credos alternativos: Ocultos, perseguidos
+- Tolerancia: Judaísmo, Protestantismo (elite)
+
+**Isla Oriental (Zona Militar/Eclesiástica)**:
+- Credo: Estrictamente católico oficial
+- Sin pluralidad religiosa
+
 ## Capacidades
 
 ### 1. Crear Personaje Completo
@@ -105,7 +143,9 @@ Dentro de la subsección **Trasfondo**, el orden DEBE ser:
 - Campo `facciones` presente (obligatorio)
 - `alerta-spoilers` si tiene secretos
 - Categoría correcta (principales/secundarios/arquetipos)
-- Facciones mencionadas existen
+- Facciones mencionadas existen en `1_trasfondo/facciones/`
+- Credos mencionados existen en `1_trasfondo/credos/`
+- Coherencia credo-ubicación (ej: Barrios del Muro permite pluralidad religiosa)
 - Coherencia con cronología
 
 ### 3. Integrar con Corpus
@@ -137,6 +177,7 @@ Dentro de la subsección **Trasfondo**, el orden DEBE ser:
    - Profesión/rol
    - Ubicación principal
    - Facciones asociadas
+   - Credo/Religión (validar contra `1_trasfondo/credos/`)
    - ¿Tiene secretos? (si/no)
 
 2. Generar archivo en `3_personajes/[categoria]/[nombre-kebab].md`:
