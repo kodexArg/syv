@@ -79,10 +79,16 @@ Automáticamente al detectar:
 3. **Los Criptógrafos** - Hackers clandestinos
 4. **Canales Ocultos** - Red de poder invisible
 5. **Resistencia Subterránea** - Movimiento anarquista
-6. **Los Umbanda** - Culto afroamericano proscrito
+6. **Cultos Religiosos Alternativos** - Umbanda, sincretismos afroamericanos, cultos post-coloniales; proscritos oficialmente pero tolerados pragmáticamente en Barrios del Muro; perseguidos por SIA solo cuando festividades cruzan límites morales
 7. **Cazadores de Pesadillas** - Guerreros guaraníes
-8. **Shipibo-Conibo** - Chamanes amazónicos
+8. **Shipibo-Conibo** - Chamanes amazónicos expatriados; conducen ceremonias clandestinas en Barrios del Muro
 9. **Traficantes de Almas** - Criminales del submundo
+
+**Estructuras de Poder Local (Barrios del Muro):**
+1. **Punteros** - Líderes de bandas locales que cobran "impuesto de protección" en plazas de mercado informal; control territorial de edificios y calles
+2. **Clanes Familiares** - Controlan edificios completos como feudos (ej: Vargas en Bloque 17-C, Mendoza en 23-A, Acosta en complejo sur); administran turnos de agua, cocinas colectivas, resolución de disputas
+3. **Bandas de Tuberías** - NO administran edificios sino FLUJOS; mueven contrabando entre Las Tuberías, superficie y exterior vía sótanos/ductos/túneles; toleradas por la Iglesia mientras paguen "diezmo" a obispos locales
+4. **Bandas Religiosas** - Devotos de orixás compiten por territorio (ej: Ogún controla 3 bloques sur); seguidores de San La Muerte operan como sicarios
 
 ### Geografía Principal
 
@@ -97,14 +103,53 @@ Automáticamente al detectar:
 2. Microcentro (administrativo/comercial)
 3. Zona Centro (productivo/educativo, Torres Hidropónicas)
 4. Barrio Norte (elite aristocrática)
-5. Barrios del Muro (superpoblados, marginales)
+5. **Barrios del Muro** (distrito MÁS GRANDE: 3.5M habitantes = 70% población total; rodeado por muro al oeste/sur; frontera con Tierras Baldías oeste y Los Pantanos sur)
 6. Las Túberías (mundo subterráneo ~500,000 hab, sin ley)
-7. Fuera del Muro (DMZ, tierras baldías)
+7. **Fuera del Muro:**
+   - **Tierras Baldías (Oeste/DMZ)**: Desierto árido de ruinas, francotiradores del muro, zona despejada letal, Bazar del Muro (mercado precario)
+   - **Los Pantanos (Sur)**: Laberinto de marismas anegadas, vegetación mutada, zona inexplorada; fuente de "lianas del pantano" (tecnobotánica prohibida)
 
 **Otras Ciudades:**
 - Córdoba (República Autónoma rival, sede del Ejército)
 - Mendoza (Fuerte San Martín)
 - El Páramo (ex-Santa Fe, feudos narcos)
+
+**Lugares de Castigo y Destierro:**
+- **Campos de Reeducación** (Zona del Cráter, Buenos Aires): Eufemismo oficial para campos de concentración y trabajos forzados. Administrados por la SIA, destinados a herejes, disidentes religiosos y criminales políticos. Fama de "no devolver a nadie igual". Ubicados en el cráter del meteorito de 2030.
+- **Campos de cultivo de Córdoba**: Destierro perpetuo, trabajos forzados agrícolas bajo el sol del interior. Alimentan a la Confederación. Sentencia de por vida sin retorno.
+
+### Religión y Cultura
+
+**Dominio Católico Oficial:**
+- Iglesia de Dársena (Nueva Santa Sede desde 2054) ejerce control espiritual sobre toda la Confederación
+- Doctrina: Anatema Mecánico como sacramento de supervivencia, tecnología digital = pecado original renovado
+- Sagrada Inquisición Argentina (SIA) persigue herejía tecnológica con poder absoluto
+
+**Pluralidad Religiosa en Barrios del Muro:**
+Los Barrios del Muro y Las Tuberías son el único lugar de Dársena donde otras religiones existen abiertamente:
+
+- **Umbanda y sincretismos afroamericanos**: Terreiros donde se invoca a Iemanjá, altares a orixás (Ogún, Elegguá) mezclados con santos católicos
+- **Cultos post-coloniales**: Santos católicos fusionados con espíritus locales, religiones híbridas nacidas del trauma post-apocalíptico
+- **Religiones post-guerra**: Sincretismos extraños donde vírgenes locales se mezclan con espíritus del Riachuelo, liturgias heterodoxas toleradas mientras mantengan formas católicas
+- **Chamanes amazónicos**: Shipibo-Conibo expatriados conducen ceremonias con **lianas del pantano** (afrodisíacos derivados de plantas emparentadas con ayahuasca ancestral, que crecen en Los Pantanos mutados al sur del muro; origen geográfico: pantanos anegados inexplorados)
+- **San La Muerte**: Culto del litoral argentino aborrecido por la Iglesia, seguidores operan como sicarios
+
+**Tolerancia Pragmática vs. Intervención Selectiva:**
+- Prohibición oficial pero penas leves (comparadas con herejía tecnológica)
+- Iglesia y Seguridad Nacional miran para otro lado mientras no compitan abiertamente con autoridad católica
+- **Excepción - SIA interviene cuando:**
+  - Orgías rituales que escandalizan límites morales (especialmente en terrazas de Barrios del Muro)
+  - Consumo de **"lianas del pantano"** (tecnobotánica prohibida clasificada como "alteración vegetal herética"; sustancia proveniente de Los Pantanos al sur)
+  - Festividades que cruzan líneas que la Curia considera demoníacas
+  - **Castigo: Campos de Reeducación** (eufemismo oficial; en la práctica son campos de concentración y trabajos forzados en Zona del Cráter) o destierro a campos de cultivo (Córdoba)
+
+**Violencia Religiosa Interna:**
+- Bandas religiosas compiten por territorio (devotos de Ogún controlan bloques en el sur)
+- Peleas intestinas frecuentes, sangrientas, ritualizadas
+- Violencia fluye hacia adentro (no hacia afuera) por miedo a provocar intervención de Seguridad Nacional
+- Autoregulación por terror compartido al castigo estatal
+
+**IMPORTANTE:** En Barrios del Muro, la Religión va en plural. Es el crisol donde todas las subculturas reprimidas en el resto de Dársena respiran, se mezclan, y se pelean en un equilibrio tenso.
 
 ### Personajes Clave
 
@@ -191,6 +236,13 @@ Ver detalles completos en [personajes-principales.md](./personajes-principales.m
 - ✅ Campos obligatorios: titulo, carpeta, descripcion
 - ✅ Personajes: campo 'facciones' siempre presente (puede estar vacío)
 
+### 6. Geografía de Dársena
+- ❌ NO describir Barrios del Muro como "primera línea de defensa" (ERROR - Ciudad Dársena ya es firme)
+- ✅ Barrios del Muro = distrito MÁS GRANDE (70% población)
+- ✅ Ubicación: rodeado por muro al oeste/sur
+- ✅ Fronteras: Tierras Baldías (oeste), Los Pantanos (sur)
+- ✅ Los Pantanos = origen de "lianas del pantano" (tecnobotánica prohibida)
+
 ## Workflows Comunes
 
 ### Crear Personaje Principal
@@ -250,8 +302,9 @@ Ver detalles completos en [personajes-principales.md](./personajes-principales.m
 - `/check-metadata` - Validar metadatos YAML
 - `/suggest-tags` - Sugerir tags relevantes
 
-## Ejemplo de Uso
+## Ejemplos de Uso
 
+### Ejemplo 1: Escena en Las Tuberías
 **Usuario pregunta:**
 > Describe una escena de Damián investigando en las Túberías en 2178
 
@@ -268,3 +321,18 @@ Ver detalles completos en [personajes-principales.md](./personajes-principales.m
 
 **Resultado:**
 Descripción coherente, atmosférica y canónicamente correcta que integra múltiples elementos del universo SyV.
+
+### Ejemplo 2: Ubicación geográfica
+**Usuario pregunta:**
+> ¿Dónde está Barrios del Muro en relación al resto de Dársena?
+
+**Esta skill responde correctamente:**
+- Es el distrito MÁS GRANDE (3.5M habitantes = 70% población total)
+- Rodeado por muro al oeste y sur (NO "primera línea de defensa")
+- Al oeste: Tierras Baldías (DMZ árida, francotiradores)
+- Al sur: Los Pantanos (marismas anegadas, origen lianas del pantano)
+- Controlado por estructuras de poder local: Punteros, Clanes Familiares, Bandas de Tuberías
+
+**Evita error común:**
+❌ "Barrios del Muro son la primera línea de defensa" (INCORRECTO)
+✅ "Barrios del Muro son el distrito más grande, frontera física con exterior" (CORRECTO)

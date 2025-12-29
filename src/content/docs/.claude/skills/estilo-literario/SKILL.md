@@ -235,6 +235,8 @@ La corrupción de la Bestia había infectado el silicio. [ESTO SE ANALIZA]
 
 **Principio:** Los párrafos (bloques de texto) siguen progresión de masa visual. Secuencia típica: Párrafo Corto (golpe) → Párrafo Mediano (puente) → Párrafo Largo (inmersión). Relación aproximada: 1 → 2 → 3 o 1 → 2 → 4.
 
+**IMPORTANTE - Párrafos Iniciales de Sección:** Al comenzar una nueva sección (## Título), el primer párrafo debe ser preferentemente de masa mediana o grande, estableciendo inmersión inmediata. Evitar inicios con frases de golpe (1-3 palabras) salvo que la sección requiera impacto dramático específico. La regla general es: primer párrafo sustancioso que ancle al lector en el espacio/concepto.
+
 Esta es la aplicación maestra que integra todas las reglas anteriores.
 
 ---

@@ -143,10 +143,12 @@ Esta es la **fuente de verdad única** para toda información geográfica del ca
 - **Centro Cívico**: Gobierno y administración central
 - **Puerto Madero**: Zona comercial y portuaria principal
 - **Bº Norte**: Élite residencial
-- **Barrios del Muro**: Clase trabajadora, 3.5M habitantes (5 km²)
+- **Barrios del Muro**: DISTRITO MÁS GRANDE - 3.5M habitantes = 70% población total; 5 km² rodeados por muro al oeste/sur; frontera física con Tierras Baldías (oeste) y Los Pantanos (sur); controlado por Punteros, Clanes Familiares y Bandas de Tuberías; **NO es "primera línea de defensa"** (ERROR COMÚN)
 - **ZDM Fuerza Aérea**: Base militar norte. Incluye Gran Cráter y franja de seguridad exterior.
-- **Las Tuberías**: Subterráneo sin ley, 500k habitantes (~200m profundidad)
-- **Fuera del Muro**: Exterior, 150k habitantes dispersos (Tierras Baldías)
+- **Las Tuberías**: Subterráneo sin ley, 500k habitantes (~200m profundidad); mayor densidad bajo Barrios del Muro
+- **Fuera del Muro**:
+  - **Tierras Baldías (Oeste/DMZ)**: Desierto árido de ruinas, cementerio de edificios, francotiradores del muro, zona despejada letal; incluye El Bazar del Muro (mercado precario); ~150k habitantes dispersos
+  - **Los Pantanos (Sur)**: "Marismas de Sangre" (oficial), laberinto de marismas anegadas, vegetación mutada, zona anómala inexplorada; fuente de "lianas del pantano" (tecnobotánica prohibida); nadie se atreve a entrar; ~2km del límite sur del muro
 
 #### República de Córdoba (Detalles Extensos)
 - **Zona Industrial Sur**: Refinerías y manufactura, 5M (mayoría esclavos)
@@ -267,12 +269,13 @@ Esta es la **fuente de verdad única** para toda información geográfica del ca
 ## Restricciones y Límites Críticos
 
 ### Dársena
-- **Muro**: Barrera de 15m que divide ciudad de Tierras Baldías
-- **Límite oeste**: Tierras Baldías (Mar de concreto, cementerio de edificios hasta el horizonte)
-- **Límite sur**: Marismas de Sangre (Oficial) / "El Pantano" (Común)
+- **Muro**: Barrera de 15m que rodea ciudad al oeste/sur; divide Barrios del Muro de exterior
+- **Límite oeste**: Tierras Baldías/DMZ (desierto árido, cementerio de edificios, francotiradores del muro, zona letal despejada; incluye El Bazar del Muro)
+- **Límite sur**: Los Pantanos (oficial "Marismas de Sangre"; laberinto de marismas anegadas a ~2km del muro, vegetación mutada, zona anómala inexplorada, fuente de "lianas del pantano" = tecnobotánica prohibida)
 - **Límite este**: Mar (Río de la Plata, conocido comúnmente como "Mar")
-- **Profundidad máxima (Tuberías)**: ~200m
+- **Profundidad máxima (Tuberías)**: ~200m (mayor densidad bajo Barrios del Muro)
 - **Población máxima**: 5M (límite de Hidropónicas)
+- **Distrito más grande**: Barrios del Muro (3.5M = 70% población total)
 
 ### Córdoba
 - **Expansión**: Fronteras abiertas hacia Tierras Baldías (este y sur)
@@ -294,9 +297,9 @@ Esta es la **fuente de verdad única** para toda información geográfica del ca
 
 ### Exterior
 - **ZDM**: Zona de Muerte/Desmilitarizada. Incluye Cráter y franja exterior. Control diurno por francotiradores.
-- **Marismas de Sangre**: Nombre oficial. "El Pantano" para locales. Territorio anómalo.
-- **Tierras Baldías**: Mar de concreto, cementerio de edificios, horrores y supervivientes olvidados.
-- **Clima variable**: Desde árido hasta tropical
+- **Tierras Baldías (Oeste/DMZ)**: Desierto árido al oeste del muro de Dársena, cementerio de edificios, ruinas, francotiradores del muro mantienen zona letal despejada; incluye **El Bazar del Muro** (mercado precario punto de encuentro con Refugiados del Exterior); supervivientes dispersos (~150k); clima árido
+- **Los Pantanos (Sur/"Marismas de Sangre")**: Territorio anómalo al sur del muro (~2km distancia), laberinto de marismas anegadas, vegetación mutada de origen desconocido, zona inexplorada (nadie se atreve a entrar); fuente de **"lianas del pantano"** (plantas emparentadas con ayahuasca ancestral, tecnobotánica clasificada como "alteración vegetal herética" por SIA); clima húmedo subtropical, aguas tóxicas
+- **Clima variable**: Desde árido (Tierras Baldías) hasta húmedo subtropical extremo (Pantanos)
 
 ## Preguntas de Validación Rápida
 

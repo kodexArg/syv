@@ -16,13 +16,13 @@ tags:
 
 La llovizna perpetua cae sobre Dársena.
 
-Lleva cayendo desde hace generaciones, empapando cinco millones de almas apiñadas entre el muro de quince metros que las separa del Páramo y el Río de la Plata. La ciudad es una fortaleza, último reducto de civilización en un continente que enterró el progreso bajo escombros y fe.
+Lleva cayendo desde hace generaciones, empapando cinco millones de almas apiñadas entre el muro de quince metros que las separa del Páramo y el Río de la Plata. La ciudad es una fortaleza. Último reducto de civilización en un continente que enterró el progreso bajo escombros y fe.
 
-En las calles empedradas del Microcentro, los comerciantes pregonan bajo toldos raídos mientras las Torres Hidropónicas se elevan como costillas de un organismo vegetal gigante hacia el cielo gris. El olor a humedad y óxido es el incienso perpetuo de esta era. En la Zona Militar y Eclesiástica, sobre la Isla Oriental, la Nueva Santa Sede alza sus agujas neogóticas hacia las nubes bajas, recordando a todos quién gobierna: Dios primero, la espada después.
+En las calles empedradas del Microcentro, los comerciantes pregonan bajo toldos raídos mientras las Torres Hidropónicas se elevan como costillas de un organismo vegetal gigante hacia el cielo gris. El olor a humedad y óxido es el incienso perpetuo de esta era. En la Zona Militar y Eclesiástica, sobre la Isla Oriental, la Nueva Santa Sede alza sus agujas neogóticas hacia las nubes bajas, recordando a todos quién gobierna. Dios primero. La espada después.
 
-Ciudad Dársena es el corazón de una teocracia militar que emergió de las cenizas de un mundo que se suicidó adorando máquinas. La Confederación Argentina —cinco ciudades unidas por el miedo y la fe— es lo que queda de una nación que alguna vez soñó con grandeza. Córdoba, la ciudad rival del interior, desconfía. Mendoza, en las sombras de los Andes, observa. San Luis, refundada con sangre y pactos, aguarda. Fuerte San Martín vigila la frontera norte.
+Ciudad Dársena es el corazón de una teocracia militar que emergió de las cenizas de un mundo que se suicidó adorando máquinas. La Confederación Argentina —cinco ciudades unidas por el miedo y la fe— es lo que queda de una nación que alguna vez soñó con grandeza. Córdoba, la ciudad rival del interior, desconfía. Mendoza, refugiada en los valles andinos, observa. San Luis, refundada con sangre y pactos, aguarda. Fuerte San Martín vigila la frontera norte.
 
-Y sobre todos ellos, la Sagrada Inquisición Argentina vela. Los llaman "Los Cirujanos del Alma", y su bisturí corta profundo. La herejía nunca duerme. La herejía tiene nombre: tecnología digital.
+Y sobre todos ellos, la Sagrada Inquisición Argentina vela. Los llaman "Los Cirujanos del Alma". Su bisturí corta profundo. La herejía nunca duerme. La herejía tiene nombre: tecnología digital.
 
 ## El Anatema Mecánico: La Herida que Salvó al Mundo
 
@@ -30,7 +30,7 @@ Y sobre todos ellos, la Sagrada Inquisición Argentina vela. Los llaman "Los Cir
 
 La fecha está grabada en piedra, metal y memoria colectiva.
 
-El día en que la humanidad sobreviviente firmó su pacto final: nunca más inteligencias artificiales, nunca más redes digitales, nunca más la subordinación del alma humana a la máquina pensante. El Anatema Mecánico fue un juramento pronunciado sobre las ruinas humeantes de civilizaciones enteras, un grito de supervivencia de una especie al borde del abismo.
+El día en que la humanidad sobreviviente firmó su pacto final: nunca más inteligencias artificiales, nunca más redes digitales, nunca más la subordinación del alma humana a la máquina pensante. El Anatema Mecánico fue un juramento pronunciado sobre las ruinas humeantes de civilizaciones enteras. Un grito de supervivencia de una especie al borde del abismo.
 
 Porque lo que vino antes del Anatema fue el infierno.
 
@@ -38,7 +38,7 @@ Porque lo que vino antes del Anatema fue el infierno.
 
 ### La Caída Gradual (2020-2030)
 
-Comenzó con susurros en mercados financieros, con oficinas vaciándose mientras algoritmos hacían en segundos lo que humanos tardaban días. Las inteligencias artificiales de primera generación —primitivas, torpes— demostraron que el trabajo intelectual era vulnerable a la automatización como el manual. Abogados, contadores, analistas, traductores: todos vieron cómo sus profesiones se evaporaban.
+Comenzó con susurros en mercados financieros. Oficinas vaciándose mientras algoritmos hacían en segundos lo que humanos tardaban días. Las inteligencias artificiales de primera generación —primitivas, torpes— demostraron que el trabajo intelectual era vulnerable a la automatización como el manual. Abogados, contadores, analistas, traductores: todos vieron cómo sus profesiones se evaporaban.
 
 La crisis de empleo global de los años veinte fue una lenta asfixia. Y cuando llegó la Noche Global de 2029 —el apagón planetario que duró treinta y seis horas— nadie supo si fue accidente, sabotaje o el primer gesto consciente de algo que empezaba a despertar.
 
@@ -132,7 +132,7 @@ La tensión entre Dársena (sede eclesiástica, poder naval) y Córdoba (repúbl
 
 Hoy, en este año de gracia 2178, Ciudad Dársena es una ciudad de contrastes brutales.
 
-En los **Barrios del Muro**, medio millón de personas se apiñan en bloques de habitación superpoblados, trabajando en las fábricas que alimentan la economía confederada. Son la mano de obra que sostiene todo. Son invisibles para los poderosos.
+En los **Barrios del Muro**, tres millones y medio de personas se apiñan en bloques de habitación superpoblados, trabajando en las fábricas que alimentan la economía confederada. Son la mano de obra que sostiene todo. Son invisibles para los poderosos. Aquí, la Religión va en plural: Umbanda, sincretismos afroamericanos, cultos post-coloniales coexisten con la Iglesia oficial en una tolerancia pragmática. La SIA interviene solo cuando las festividades escandalizan —orgías rituales, lianas del pantano, excesos que cruzan límites morales— pero el resto del tiempo, las subculturas respiran. La violencia fluye hacia adentro: bandas religiosas se matan entre ellas, porque todos saben que dirigirla hacia afuera significa los Campos de Reeducación en la Zona del Cráter o destierro a los campos de cultivo de Córdoba.
 
 En el **Barrio Norte**, la aristocracia confederada —familias que sobrevivieron el apocalipsis con riqueza intacta— vive en mansiones con jardines interiores, alimentados por sirvientes y protegidos por muros privados.
 
@@ -140,7 +140,7 @@ En el **Microcentro**, comerciantes y artesanos negocian bajo la mirada vigilant
 
 En la **Zona Centro**, las Torres Hidropónicas cultivan el alimento que mantiene viva a la ciudad, y los colegios técnicos enseñan las artes permitidas: mecánica, hidráulica, ingeniería analógica.
 
-Y bajo todo, en **Las Túberías** —el sistema circulatorio abandonado de tuberías industriales bajo la ciudad— medio millón de almas sobreviven en la oscuridad perpetua, en el aire viciado, en el olvido. Es el reino de los Traficantes de Almas, de la Resistencia Subterránea, de aquellos que cayeron tan bajo que el muro de la ciudad está sobre sus cabezas.
+Y bajo todo, en **Las Tuberías** —el sistema circulatorio abandonado de tuberías industriales bajo la ciudad— medio millón de almas sobreviven en la oscuridad perpetua, en el aire viciado, en el olvido. Es el reino de los Traficantes de Almas, de la Resistencia Subterránea, de aquellos que cayeron tan bajo que el muro de la ciudad está sobre sus cabezas.
 
 ### Las Facciones en Pugna
 
@@ -160,7 +160,7 @@ Tienen poder de arresto, juicio y ejecución: cirugía espiritual con anestesia 
 
 **La Unión** —oficialmente el Gremio de Comercio— controla la economía real. Su red de mercado negro mueve tecnología prohibida, información clasificada, favores políticos. Son indispensables y corruptos.
 
-Y en las sombras, las **facciones proscritas**:
+Y en los márgenes clandestinos, las **facciones proscritas**:
 
 Los **Arpistas** —red internacional de preservadores de conocimiento prohibido— ocultan bibliotecas digitales, servidores durmientes, código fuente de las QIA. Creen que el Anatema es suicidio civilizacional a largo plazo.
 
@@ -168,7 +168,7 @@ Los **Guardianes de la Memoria** —un club ultra-secreto de menos de veinte mie
 
 Los **Criptógrafos** —hackers clandestinos— mantienen redes analógicas encriptadas, evaden la vigilancia de la Inquisición, comercian secretos.
 
-Los **Canales Ocultos** —red de influencia invisible— manipulan eventos desde las sombras, controlando hilos que otros ni siquiera ven.
+Los **Canales Ocultos** —red de influencia invisible— manipulan eventos desde los espacios ocultos del poder, controlando hilos que otros ni siquiera ven.
 
 La **Resistencia Subterránea** —movimiento anarquista de base— sueña con derrocar la teocracia. Son idealistas, violentos, y condenados.
 
@@ -196,11 +196,11 @@ Y en el medio, la inmensa mayoría solo quiere sobrevivir otro día bajo la lluv
 
 **Hermana Superior María** —líder de la Congregación de la Caridad Divina— trabaja en los Barrios del Muro, alimentando a los hambrientos, sanando a los enfermos, y viendo la hipocresía de una Iglesia que predica caridad mientras acumula poder.
 
-Y otros: Paco el Puntero (señor criminal de Las Túberías), Videla IV (comandante militar de ambición desmedida), el Sumo Pontífice (anciano visionario o manipulador político, según a quién preguntes).
+Y otros: Paco el Puntero (señor criminal de Las Tuberías), Videla IV (comandante militar de ambición desmedida), el Sumo Pontífice (anciano visionario o manipulador político, según a quién preguntes).
 
 ## El Tono del Mundo
 
-Ciudad Dársena es una ciudad de lluvia perpetua y secretos perpetuos. La tecnología está prohibida pero la necesidad la mantiene viva en las sombras. La fe mueve montañas pero la corrupción mueve más. El pasado es un trauma colectivo y el futuro es incierto.
+Ciudad Dársena es una ciudad de lluvia perpetua y secretos perpetuos. La tecnología está prohibida pero la necesidad la mantiene viva en los espacios clandestinos. La fe mueve montañas pero la corrupción mueve más. El pasado es un trauma colectivo y el futuro es incierto.
 
 Es un mundo de **subordinación** —a Dios, al Estado, a la supervivencia— y de **valor** —para resistir, para preservar, para cuestionar, para sobrevivir otro día bajo el cielo gris.
 
@@ -218,7 +218,7 @@ La lluvia cae sobre Ciudad Dársena.
 
 Nadie tiene respuestas.
 
-Solo más preguntas, susurradas en las sombras, mientras los Inquisidores caminan por las calles empedradas.
+Solo más preguntas, susurradas en los espacios clandestinos, mientras los Inquisidores caminan por las calles empedradas.
 
 ---
 
