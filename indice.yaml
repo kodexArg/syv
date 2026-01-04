@@ -1,148 +1,174 @@
 0_proyecto:
   guias-para-colaboradores:
-    - guia-de-facciones
-    - guia-de-metadatos
-    - guia-de-personajes
-    - manual-del-colaborador
+    PLANTILLA_FACCION: PLANTILLA_FACCION
+    guia-de-facciones: guia-de-facciones
+    guia-de-metadatos: guia-de-metadatos
+    guia-de-personajes: guia-de-personajes
+    manual-del-colaborador: manual-del-colaborador
   proyecto: proyecto
 1_trasfondo:
   codex:
-    - anatema-mecanico
-    - constitucion-argentina
-    - otras-tecnologias-prohibidas
-  cronología: cronología
+    anatema-mecanico: anatema-mecanico
+    conocimiento-sobreviviente: conocimiento-sobreviviente
+    constitucion-argentina: constitucion-argentina
+    otras-tecnologias-prohibidas: otras-tecnologias-prohibidas
+    qia-inteligencias-artificiales-cuanticas: qia-inteligencias-artificiales-cuanticas
+  credos:
+    ancestros-del-silencio: ancestros-del-silencio
+    ecologistas: ecologistas
+    guarani: guarani
+    hermandades-y-ordenes-catolicas: hermandades-y-ordenes-catolicas
+    hijos-del-pantano: hijos-del-pantano
+    iglesia-maradoniana: iglesia-maradoniana
+    index: index
+    la-compania: la-compania
+    peronismo: peronismo
+    religiones-del-viejo-mundo: religiones-del-viejo-mundo
+    san-la-muerte: san-la-muerte
+    shipibo-conibo: shipibo-conibo
+    umbanda: umbanda
+  cronologia: cronologia
   facciones:
     facciones-menores:
-      - arpistas
-      - canales-ocultos
-      - cazadores-de-pesadillas
-      - guardianes-de-la-memoria
-      - iluminati
-      - index
-      - los-criptografos
-      - los-umbanda
-      - masones
-      - refugiados-y-parias
-      - resistencia-subterranea
-      - saqueadores-y-traficantes
-      - shipibo-conibo
-      - traficantes-de-almas
+      arpistas: arpistas
+      canales-ocultos: canales-ocultos
+      guardianes-de-la-memoria: guardianes-de-la-memoria
+      iluminati: iluminati
+      index: index
+      kuna-mbarete: kuna-mbarete
+      los-criptografos: los-criptografos
+      los-hackers: los-hackers
+      los-remanentes: los-remanentes
+      los-umbanda: los-umbanda
+      masones: masones
+      refugiados-y-parias: refugiados-y-parias
+      resistencia-subterranea: resistencia-subterranea
+      saqueadores-y-traficantes: saqueadores-y-traficantes
+      shipibo-conibo: shipibo-conibo
+      traficantes-de-almas: traficantes-de-almas
     fuerzas-armadas:
-      - fuerzas-armadas
+      fuerzas-armadas: fuerzas-armadas
     iglesia-de-darsena:
-      - congregacion-caridad-divina
-      - exorcistas
-      - iglesia
-      - inquisicion
+      congregacion-caridad-divina: congregacion-caridad-divina
+      exorcistas: exorcistas
+      iglesia: iglesia
+      inquisicion: inquisicion
     union:
-      - gremio-de-comercio
+      gremio-de-comercio: gremio-de-comercio
   hitos:
     2029-las-profecias-del-mercado: 2029-las-profecias-del-mercado
+    2031-a-cielo-abierto: 2031-a-cielo-abierto
+    2031-la-fragmentacion-de-argentina: 2031-la-fragmentacion-de-argentina
+    2035-nacimiento-de-las-qia: 2035-nacimiento-de-las-qia
+    2036-el-estallido: 2036-el-estallido
+    2039-la-larga-noche: 2039-la-larga-noche
     2048-el-fin-de-los-secretos: 2048-el-fin-de-los-secretos
+    2061-el-gran-silencio: 2061-el-gran-silencio
     2178-actualidad: 2178-actualidad
-    backups:
-      - 2030
-      - 2031
+  sinopsis: sinopsis
   trasfondo: trasfondo
 2_atlas:
   atlas: atlas
   ciudades:
     cordoba: cordoba
     darsena:
-      - barrios-del-muro
-      - darsena
-      - fuera-del-muro
-      - microcentro
-      - tuberias
-      - zona-centro
-      - zona-militar-eclesiastica
-      - zona-residencial-alta-sociedad
+      barrios-del-muro: barrios-del-muro
+      darsena: darsena
+      fuera-del-muro: fuera-del-muro
+      microcentro: microcentro
+      tuberias: tuberias
+      zona-centro: zona-centro
+      zona-militar-eclesiastica: zona-militar-eclesiastica
+      zona-residencial-alta-sociedad: zona-residencial-alta-sociedad
     fuerte-san-martin:
-      - fuerte-san-martin
+      fuerte-san-martin: fuerte-san-martin
     mendoza:
-      - mendoza
+      mendoza: mendoza
     san-luis:
-      - san-luis
+      san-luis: san-luis
   climas:
-    - clima-2178
-    - humedad-post-guerra
+    clima-2178: clima-2178
+    humedad-post-guerra: humedad-post-guerra
   tecnologia-y-ciencia:
-    - anatema-mecanico
-    - computacion-y-datos
-    - electricidad
-    - tecnologia-civil
-    - tecnologia-militar
-    - tecnologias-visuales
+    anatema-mecanico: anatema-mecanico
+    computacion-y-datos: computacion-y-datos
+    electricidad: electricidad
+    tecnologia-civil: tecnologia-civil
+    tecnologia-militar: tecnologia-militar
+    tecnologias-visuales: tecnologias-visuales
 3_personajes:
   damian: damian
   personajes: personajes
   principales:
-    - francisco-de-la-cruz
-    - hermana-superior-maria
-    - monseñor-miguel
-    - paco-el-puntero
-    - padre-rafa
-    - sumo-pontifice
-    - teniente-coronel-gobernador
-    - videla-iv
+    francisco-de-la-cruz: francisco-de-la-cruz
+    hermana-superior-maria: hermana-superior-maria
+    monseñor-miguel: monseñor-miguel
+    paco-el-puntero: paco-el-puntero
+    padre-rafa: padre-rafa
+    sumo-pontifice: sumo-pontifice
+    teniente-coronel-gobernador: teniente-coronel-gobernador
+    videla-iv: videla-iv
   secundarios:
-    - agente-luis-navarro
-    - alberto-gomez
-    - carlos-gimenez
-    - carolina-perez
-    - caronte-el-balsero-fantasma
-    - cintia-herrera
-    - clara-cultivadora-de-hongos
-    - diego-herrera
-    - eduardo-vendedor-de-libros
-    - el-ingeniero
-    - el-negro-ramos
-    - elena-juarez
-    - francisco-duarte
-    - gabriela-lima
-    - hermana-cecilia-torres
-    - hermana-laura-castillo
-    - hermano-diego-sanchez
-    - ivan-torres
-    - joaquin-sacerdote
-    - juan-el-coleccionista-de-ecos
-    - julian-el-prostituto
-    - luisa-pescadora
-    - marcos-duarte
-    - marcos-el-verdulero
-    - maria-tejedora-de-suenos
-    - mariana
-    - mario-juarez
-    - marta-la-curandera
-    - mateo
-    - monsenor-luis-valverde
-    - natalia-campos
-    - padre-alejandro-soria
-    - ramiro-vega
-    - ricardo-velez
-    - sargento-esteban-moreno
-    - sofia-rios
-    - sonia-rodriguez
-    - sor-nikole
-    - sor-sofia
-    - subcomisario-ivan-mendez
-    - teniente-carla-vazquez
-    - valeria-santos
-    - veronica-suarez
+    agente-luis-navarro: agente-luis-navarro
+    alberto-gomez: alberto-gomez
+    carlos-gimenez: carlos-gimenez
+    carolina-perez: carolina-perez
+    caronte-el-balsero-fantasma: caronte-el-balsero-fantasma
+    cintia-herrera: cintia-herrera
+    clara-cultivadora-de-hongos: clara-cultivadora-de-hongos
+    diego-herrera: diego-herrera
+    eduardo-vendedor-de-libros: eduardo-vendedor-de-libros
+    el-ingeniero: el-ingeniero
+    el-negro-ramos: el-negro-ramos
+    elena-juarez: elena-juarez
+    francisco-duarte: francisco-duarte
+    gabriela-lima: gabriela-lima
+    hermana-cecilia-torres: hermana-cecilia-torres
+    hermana-laura-castillo: hermana-laura-castillo
+    hermano-diego-sanchez: hermano-diego-sanchez
+    ivan-torres: ivan-torres
+    joaquin-sacerdote: joaquin-sacerdote
+    juan-el-coleccionista-de-ecos: juan-el-coleccionista-de-ecos
+    julian-el-prostituto: julian-el-prostituto
+    luisa-pescadora: luisa-pescadora
+    marcos-duarte: marcos-duarte
+    marcos-el-verdulero: marcos-el-verdulero
+    maria-tejedora-de-suenos: maria-tejedora-de-suenos
+    mariana: mariana
+    mario-juarez: mario-juarez
+    marta-la-curandera: marta-la-curandera
+    mateo: mateo
+    monsenor-luis-valverde: monsenor-luis-valverde
+    natalia-campos: natalia-campos
+    padre-alejandro-soria: padre-alejandro-soria
+    ramiro-vega: ramiro-vega
+    ricardo-velez: ricardo-velez
+    sargento-esteban-moreno: sargento-esteban-moreno
+    sofia-rios: sofia-rios
+    sonia-rodriguez: sonia-rodriguez
+    sor-nikole: sor-nikole
+    sor-sofia: sor-sofia
+    subcomisario-ivan-mendez: subcomisario-ivan-mendez
+    teniente-carla-vazquez: teniente-carla-vazquez
+    valeria-santos: valeria-santos
+    veronica-suarez: veronica-suarez
   walter: walter
 4_diegesis:
   cartas:
-    - carta-a-sor-sofia
+    carta-a-sor-sofia: carta-a-sor-sofia
   cronicas:
-    - cronica-del-arribo-de-damian
+    cronica-del-arribo-de-damian: cronica-del-arribo-de-damian
   diegesis: diegesis
   relatos:
-    - damian
-    - la-llegada-del-sabueso
-    - los-guardianes-de-chacarita
-    - walter
+    damian: damian
+    historia-campana-damian: historia-campana-damian
+    la-llegada-del-sabueso: la-llegada-del-sabueso
+    los-guardianes-de-chacarita: los-guardianes-de-chacarita
+    walter: walter
 5_aventuras:
   aventuras: aventuras
   poseidos:
-    - artefactos-y-pistas
-    - guardianes-de-chacarita
+    artefactos-y-pistas: artefactos-y-pistas
+    guardianes-de-chacarita: guardianes-de-chacarita
+6_media:
+  media: media
