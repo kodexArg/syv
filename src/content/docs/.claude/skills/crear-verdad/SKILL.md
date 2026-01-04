@@ -37,7 +37,12 @@ O cuando se detecta:
 - `1_trasfondo/codex/otras-tecnologias-prohibidas.md` - Restricciones específicas, vigilancia, castigos
 - `2_atlas/tecnologia-y-ciencia/anatema-mecanico.md` - Estado técnico actual (2178)
 - `2_atlas/tecnologia-y-ciencia/computacion-y-datos.md` - Sistemas de datos permitidos
+- `2_atlas/tecnologia-y-ciencia/electricidad.md` - FUENTE DE VERDAD sobre infraestructura energética, Nodos, reactores, vigilancia
 - `2_atlas/tecnologia-y-ciencia/` - Especificaciones de tecnología disponible
+
+**Infraestructura Crítica** (Definen funcionamiento ciudad):
+- `1_trasfondo/facciones/iglesia-de-darsena/iglesia.md` - Ministerio de Infraestructura y Sistemas Críticos, jerarquía técnica
+- `2_atlas/ciudades/darsena/` - Ubicación Torres Hidropónicas, Nodos, generadores (información clasificada)
 
 ### Tier 2: Contexto Temporal y Geográfico (Muy importante)
 

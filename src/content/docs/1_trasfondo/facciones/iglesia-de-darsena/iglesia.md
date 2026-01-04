@@ -71,7 +71,23 @@ La Iglesia opera a través de varias ramas que se encargan de distintas funcione
 
 - "Educadores, Archivistas y Científicos Teológicos": Este conjunto de grupos eclesiásticos gestiona el sistema educativo, desde escuelas primarias hasta universidades. Se aseguran de que toda la enseñanza y el conocimiento se mantengan dentro de los estrictos límites del dogma, promoviendo una visión del mundo donde la fe es el único prisma válido para interpretar la realidad.
 
-Información secreta (no exponer a jugadores): La Iglesia es un nido de intrigas. La rivalidad entre los Exorcistas y la Sagrada Inquisición es mucho más profunda de lo que se percibe, llegando a sabotajes y conflictos velados. Además, en sus archivos más secretos, la Iglesia no solo destruye, sino que también custodia y estudia artefactos y textos prohibidos de extremo poder, considerándolos herramientas que solo la más alta jerarquía puede comprender y, eventualmente, utilizar.
+- **Ministerio de Infraestructura y Sistemas Críticos** (Departamento de Red Eléctrica): Rama estatal responsable del mantenimiento, inspección y reparación de la compleja rejilla eléctrica pre-guerra que distribuye energía a toda Ciudad Dársena mediante los Nodos subterráneos. Aunque nominalmente bajo control secular, responde efectivamente a supervisión eclesiástica directa a través del Obispo de Infraestructura. Sus ingenieros y técnicos especializados —seleccionados deliberadamente sin capacidad de lectura/escritura (por diseño)— están juramentados mediante condicionamiento neuropsicológico que impide la revelación de secretos técnicos. El Director del Departamento de Red Eléctrica reporta directamente al Sumo Pontífice y al Comando Militar. La existencia de este ministerio es tabú: se sabe que existe, pero no se habla de ello públicamente. Su trabajo es silencioso, vital e invisible. Es conocido coloquialmente como simplemente "Ministerio de Infraestructura".
+
+<!-- 🔐 (Ministerio de Infraestructura, Ingeniería) -->
+
+**Niveles de conocimiento técnico en el Departamento:**
+
+- **Nivel 1 (Mantenimiento básico)**: Técnicos de campo que inspeccionan Nodos, reemplazan componentes degradados, registran lecturas analógicas. No saben cómo funciona el sistema, solo siguen procedimientos.
+
+- **Nivel 2 (Operación)**: Ingenieros que comprenden la distribución de carga, pueden diagnosticar problemas, realizan reparaciones complejas. Conocen la ubicación del generador bajo las Torres.
+
+- **Nivel 3 (Diseño y captura)**: Muy pocos. Personas que entienden cómo los Nodos pueden ser tapeados, cómo extraer energía sin disparar alarmas. Estos técnicos son los más buscados por bandas criminales y los más vigilados por la SIA.
+
+- **Nivel Omega (Secreto mortal)**: El Director y quizás 3-5 personas más. Conocen la naturaleza de "La Bestia" y por qué se monitorea tan obsesivamente el consumo.
+
+<!-- /🔐 -->
+
+Información secreta (no exponer a jugadores): La Iglesia es un nido de intrigas. La rivalidad entre los Exorcistas y la Sagrada Inquisición es mucho más profunda de lo que se percibe, llegando a sabotajes y conflictos velados. Además, en sus archivos más secretos, la Iglesia no solo destruye, sino que también custodia y estudia artefactos y textos prohibidos de extremo poder, considerándolos herramientas que solo la más alta jerarquía puede comprender y, eventualmente, utilizar. El verdadero secreto de Dársena no es la existencia de una fuente de energía poderosa, sino que depende completamente de una rejilla tecnológica pre-guerra cuyo funcionamiento es un misterio incluso para la Iglesia; los técnicos del Departamento de Red Eléctrica simplemente la mantienen sin comprender completamente cómo funciona.
 
 ---
 

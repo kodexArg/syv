@@ -47,7 +47,7 @@ Monseñor Miguel lidera la Santa Inquisición Argentina desde hace 28 años (asu
 La historia de Monseñor Miguel ha sido intencionadamente eliminada. Lo que se conoce de él se basa en leyendas fragmentadas y rumores susurrados. Se sabe que su nombre real es Miguel y que proviene del otro lado del continente, pero incluso esto es incierto. Los archivos de la Iglesia anteriores a su llegada han desaparecido misteriosamente.
 <!-- /🔐 -->
 <!-- 🔐☠️ (Secreto Mortal) -->
-Aquellos que han investigado demasiado profundamente sobre el pasado de Monseñor Miguel tienden a desaparecer o a sufrir "accidentes". Algunos teólogos heréticos susurran que no es completamente humano, que algo cambió en él hace mucho tiempo. Su rechazo absoluto a cualquier forma de tecnología, incluso la electricidad, sugiere un conocimiento o experiencia que trasciende lo mundano. ¿Es un santo que alcanzó un estado superior? ¿O algo mucho más oscuro que se esconde detrás de la autoridad de la Iglesia?
+Aquellos que han investigado demasiado profundamente sobre el pasado de Monseñor Miguel tienden a desaparecer o a sufrir "accidentes". Algunos teólogos heréticos susurran que no es completamente humano, que algo cambió en él hace mucho tiempo. Su rechazo absoluto a cualquier forma de tecnología, incluso la electricidad —rechazando incluso los Nodos de iluminación que alimentan el resto del Vaticano— sugiere un conocimiento o experiencia que trasciende lo mundano. ¿Es un santo que alcanzó un estado superior capaz de operar sin dependencia tecnológica? ¿O algo mucho más oscuro que se esconde detrás de la autoridad de la Iglesia? ¿Conocimiento de cómo las máquinas pueden penetrar la mente?
 <!-- /🔐☠️ -->
 ## Conexiones Importantes
 

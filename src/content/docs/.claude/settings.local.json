@@ -4,7 +4,9 @@
       "Bash(dir \"c:\\Users\\gcave\\Dev\\syv\\.claude\")",
       "SlashCommand(/validar-metadatos c:\\Users\\gcave\\Dev\\syv\\1_trasfondo\\codex\\anatema-mecanico.md)",
       "SlashCommand(/validar-metadatos:*)",
-      "Skill(validar-canon)"
+      "Skill(validar-canon)",
+      "Skill(worldbuilding)",
+      "Skill(validar-permisos)"
     ],
     "deny": [],
     "ask": []

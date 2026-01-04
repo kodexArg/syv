@@ -139,23 +139,67 @@ Colección oficial de tecnología aprobada por la Iglesia, documentada y vigilad
 ---
 
 ### Categoría B: Electricidad y Energía
-**Aprobación**: TOTAL (con limitaciones)
+**Aprobación**: TOTAL (con vigilancia extrema)
 
 ✅ **Generación eléctrica**
-- Central nuclear soterrada (fisión, control manual/mecánico)
+- Reactores de fusión nuclear (2 unidades bajo Torres Hidropónicas, completamente automatizados, determinísticos sin IA)
 - Generadores hidroeléctricos
 - Generadores eólicos (mecánicos)
 - Paneles solares (sin gestión digital)
+- Centrales nucleares convencionales (otras ciudades confederadas)
 
-✅ **Distribución eléctrica**
-- **Corriente continua 48V** (estándar en Dársena)
+✅ **Distribución eléctrica en Dársena**
+- **Corriente continua 48V** (estándar universal, nunca fluctúa)
+- Nodos subterráneos (mini-estaciones pre-guerra distribuidas cada 50m aprox.)
+- Transmisión: 48V @ 10A máximo por hogar, 48V @ 20A para servicios públicos especiales
+- Voltaje absoluto y constante mientras sistema funciona
 - Redes eléctricas simples (sin gestión digital)
-- Cables, transformadores mecánicos
-- Switcheo manual
+- Cables, transformadores mecánicos, switcheo manual
+- Mantenimiento por Departamento de Red Eléctrica (Ministerio de Infraestructura)
+- Jerarquía de técnicos: Nivel 1 (procedimientos ciegos) → Nivel 2 (comprensión operativa) → Nivel 3 (expertise TAP) → Nivel Omega (verdad reactores)
+
+✅ **Función dual de reactores**
+- Generación de electricidad para toda Dársena
+- Desalinización de agua potable mediante calor residual y ósmosis térmica
+- Pérdida de reactores = pérdida simultánea de electricidad Y agua potable
+- Supervivencia de ciudad depende de irreproducible manual 150 años antiguo
 
 ❌ **Prohibido**:
 - Redes inteligentes (smart grids)
 - Gestión digital de energía
+- Sistemas de distribución autónomos
+
+#### Vigilancia y Seguridad Energética
+
+✅ **Detección de anomalías**
+- Sistema completamente analógico de detectores electromagnéticos en Nodos principales
+- Alarmas inmediatas ante fluctuación de voltaje o consumo anómalo
+- Detectores funcionan sin electricidad adicional (activados por cambio de corriente)
+- Respuesta: Técnicos verifican → Reporte a Iglesia (Obispo de Infraestructura) → Decisión escalada
+
+✅ **Protocolos de respuesta ante anomalías**
+- Consumo menor a umbral: Ignorar
+- Robo menor de energía: Patrulla de Seguridad Nacional
+- Robo significativo: Militar armado del Comando
+- Sospecha de tecnología prohibida conectada: Equipo SIA (paranoia sobre "La Bestia")
+
+❌ **TAPs eléctricos (dispositivos clandestinos)**
+- Acoplamiento directo a cables Nodos
+- Pueden extraer 48V @ 10A estable (duplicando asignación legal hogar)
+- Detectables mediante alarmas pero requieren conocimiento técnico Nivel 3
+- Mercado criminal sofisticado
+- Algunos técnicos despedidos/disgustados reclutados por bandas Barrios del Muro para fabricarlos
+
+#### Paranoia: "La Bestia"
+
+La vigilancia obsesiva no busca simples ladrones de electricidad. Es paranoia institucionalizada sobre:
+- Concepto de cualquier forma de IA/inteligencia no humana usando electricidad
+- No es entidad específica ubicada, sino amenaza existencial conceptual
+- "La Bestia" = nombre clasificado Iglesia para cualquier consumo anómalo potencialmente causado por IA
+- Motivación real de alarmismo: ¿Y si algún remanente QIA opera clandestinamente en ciudad?
+- Realidad verificada (pero ultra-clasificada): Reactores son completamente determinísticos, basados física pura, sin sistemas digitales
+- Aislamiento total con blindaje electromagnético/físico para impedir interacción con potencial IA
+- Se presume no hay IA presente, pero paranoia persiste entre élite
 
 ---
 

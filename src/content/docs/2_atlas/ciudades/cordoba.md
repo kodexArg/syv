@@ -122,11 +122,13 @@ La movilidad de su vasta población se sostiene sobre dos pilares:
 
 ## Tecnología y Ciencia
 
-### Control Pragmático
+### Control Pragmático y Generación Energética
 
 El enfoque cordobés hacia la tecnología es pragmático, no dogmático. El control es estricto, pero su objetivo es la **sostenibilidad y la prevención de abusos**, no la prohibición basada en el miedo teológico.
 
 Córdoba respeta las prohibiciones fundamentales del **Anatema Mecánico**: no inteligencias artificiales, no CPUs complejas capaces de pensamiento autónomo, no redes neuronales que puedan evolucionar más allá del control humano. Pero dentro de esos límites, exploran con voracidad científica.
+
+**Infraestructura energética**: A diferencia de Dársena (que depende de una compleja rejilla pre-guerra distribuida mediante Nodos subterráneos), Córdoba utiliza una **central nuclear de generación convencional** que produce energía en corriente alterna (AC). Esta es convertida a **corriente continua a 48V** mediante rectificadores centrales para su distribución urbana. Esta diferencia es fundamental: Córdoba genera energía continuamente y la raciona por eficiencia (se corta de noche). Dársena la distribuye constantemente desde Nodos cuya existencia es secreto de Estado, nunca fluctuando.
 
 La diferencia con Dársena es filosófica. Dársena prohíbe por terror a repetir el colapso. Córdoba controla por ambición de dominarlo. Para Dársena, la tecnología es pecado que debe limitarse. Para Córdoba, es herramienta que debe perfeccionarse.
 

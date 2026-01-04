@@ -139,7 +139,7 @@ Desde la perspectiva de la Confederación Argentina, el mundo exterior se divide
 - Cooperación transnacional ante retos comunes.
 
 #### Innovaciones en energías renovables
-- Liderazgo en transición energética sostenible.
+- República de Córdoba lidera transición energética mediante parques solares en tierras áridas occidentales, turbinas eólicas en la pampa infinita, y generadores geotérmicos que extraen calor del subsuelo. Su central nuclear de fisión convencional produce energía en corriente alterna, rectificada a 48V DC para distribución urbana. Estrategia de autosuficiencia energética absoluta contrasta con sistema de Dársena basado en rejilla pre-guerra subterránea de origen desconocido.
 
 #### Tensiones económicas con regiones afectadas
 - Desafíos en relaciones comerciales y flujos migratorios.

@@ -118,6 +118,51 @@ Divididas en dos ramas con TENSIÓN interna:
 
 ---
 
+### Ministerio de Infraestructura y Sistemas Críticos
+
+**Archivo**: `1_trasfondo/facciones/iglesia-de-darsena/iglesia.md` (sección Ramas Operativas)
+
+**Alias**: Ministerio de Infraestructura, Departamento de Red Eléctrica
+
+**Tipo**: Oficial - Rama estatal bajo supervisión eclesiástica
+
+**Keywords**: ministerio-infraestructura, energía, nodos, electricidad, tecnología-pre-guerra, tabú
+
+**Descripción**:
+- Mantiene la rejilla eléctrica pre-guerra de Dársena
+- Responsable de Nodos subterráneos, distribución 48V DC
+- Custodian de reactores de fusión bajo Torres Hidropónicas
+- Existencia es tabú: se menciona poco públicamente, trabajo silencioso e invisible
+- Nominalmente secular, responde efectivamente a Iglesia (Obispo de Infraestructura)
+
+**Estructura**:
+- Director (reporta a Sumo Pontífice + Comando Militar)
+- Departamento de Red Eléctrica (técnicos en 4 niveles):
+  - Nivel 1: Mantenimiento básico (procedimientos ciegos)
+  - Nivel 2: Operación (comprensión distribución carga)
+  - Nivel 3: Diseño/captura (expertise TAP, más vigilados)
+  - Nivel Omega: Verdad de reactores + La Bestia
+- Técnicos seleccionados sin alfabetización (por diseño)
+- Condicionamiento neuropsicológico anti-revelación
+
+**Jurisdicción**:
+- Red de Nodos en todas zonas de Dársena
+- Torres Hidropónicas y generadores subterráneos
+- Sistemas de alarma analógica y vigilancia eléctrica
+
+**Secretos**:
+- Ubicación exacta de generadores bajo Torres (Nivel 2+ conoce)
+- Naturaleza de "La Bestia" (paranoia sobre IA) (Nivel Omega)
+- Función dual reactores: electricidad + desalinización agua (Nivel Omega)
+- Irreproducibilidad tecnología (solo manuales 150 años) (Nivel Omega)
+
+**Relaciones**:
+- Supervisa: Directamente a Iglesia
+- Vigilado por: SIA (especialmente Nivel 3 que conocen TAPs)
+- Contactos: Bandas Barrios del Muro (reclutan técnicos disgustados para TAPs)
+
+---
+
 ## FACCIONES PROSCRITAS/SECRETAS
 
 ### Arpistas

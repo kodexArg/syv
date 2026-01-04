@@ -284,6 +284,16 @@ Esta es la hipocresía fundacional: el régimen que prohíbe toda tecnología di
 
 La SIA es, paradójicamente, la mayor coleccionista clandestina de tecnología prohibida, justificándose por "custodiar el mal para evitar que se propague".
 
+**El Dilema Existencial del Anatema:**
+
+Lo que la élite papal y militar nunca confesará públicamente es que la Confederación entera depende de tecnología que **viola fundamentalmente el Anatema Mecánico**: dos reactores de fusión nuclear automatizados bajo Dársena. No son máquinas con IA. Su funcionamiento es completamente determinista, basado en física pura, sin sistemas digitales. Pero siguen siendo máquinas incomprehensiblemente avanzadas, construidas con ciencia que ya no se puede reproducir.
+
+Cuando el Fin de los Secretos fue declarado en 2048, cuando la humanidad decidió destruir toda IA para salvarse, la élite científica que se refugió en lo que se convertiría en Dársena enfrentó una decisión: dejar que estos reactores continuaran funcionando automáticamente (violando el espíritu del Anatema) o permitir que la ciudad muriera. Eligieron lo primero.
+
+Desde entonces, el Anatema ha sido hipocresía institucionalizada: prohibir toda tecnología digital mientras dependemos de máquinas que son la encarnación misma de la tecnología pre-colapso. La Iglesia justifica esto como "excepción divina para la supervivencia", pero saben que es una contradicción fundamental.
+
+Si los manuales que guían el mantenimiento de estos reactores se perdieran, si los guardianes de memoria murieran sin transmitir, si el frágil sistema de preservación fallara, entonces el Anatema se volvería verdaderamente universal... porque no habría nada que mantuviera viva a la ciudad.
+
 <!-- /🔐☠️ -->
 
 ---

@@ -177,10 +177,43 @@ Ver detalles completos en [personajes-principales.md](./personajes-principales.m
 - Computadores electromecánicos (análogos, limitados)
 - PDAs de tinta electrónica (solo altos mandos)
 - Pantallas de plasma analógicas
-- Electricidad 48V DC
+- Electricidad 48V DC (controlada por Ministerio de Infraestructura)
 - Rifles Gauss, armas EMP
 - Microfilmes, discos ópticos
 - Torres Hidropónicas (automatización mecánica simple)
+
+#### Infraestructura Energética de Dársena
+
+**Ministerio de Infraestructura y Sistemas Críticos** (coloquialmente "Ministerio de Infraestructura")
+- Rama estatal bajo supervisión eclesiástica
+- Departamento de Red Eléctrica mantiene el sistema de distribución
+- Responsable de Nodos subterráneos y reactores de fusión
+- Director reporta a Sumo Pontífice y Comando Militar
+- Existencia es tabú: se menciona poco públicamente
+
+**Sistema de Nodos Eléctricos**
+- Rejilla pre-guerra distribuida bajo toda Ciudad Dársena
+- Nodos (mini-estaciones) enterradas cada 50 metros aprox.
+- Transmiten: 48V @ 10A máximo por hogar, 48V @ 20A para servicios públicos
+- Voltaje es absolutamente constante, nunca fluctúa
+- Origen pre-Anatema; mantenimiento es ritual, no comprensión
+- Ubicación de generadores primarios bajo Torres Hidropónicas es información clasificada (Nivel Omega)
+
+**Vigilancia Energética**
+- Sistema analógico de detectores de corriente en Nodos principales
+- Alarmas electromagnéticas inmediatas ante anomalías
+- TAPs eléctricos (dispositivos clandestinos) extraen 48V @ 10A extra, detectables
+- Toda anomalía investigada bajo sospecha de IA operando clandestinamente
+- Respuesta va desde ignorar consumo bajo hasta desplegar SIA (si sospecha tecnología prohibida)
+
+**La Bestia (Paranoia Institucionalizada)**
+- No es entidad específica, sino concepto de miedo
+- Referencia a cualquier posible IA remanente usando electricidad
+- Motivación real de vigilancia obsesiva de consumo eléctrico
+- Realidad: dos reactores de fusión determinísticos (no IA) ubicados bajo Torres
+- Función dual: generación de electricidad AND desalinización de agua potable
+- Tecnología completamente irreproducible, mantenimiento es ritual de manuales 150 años antiguos
+- Pérdida de manuales = colapso de ciudad en semanas (sin agua ni electricidad)
 
 ## Capacidades
 
