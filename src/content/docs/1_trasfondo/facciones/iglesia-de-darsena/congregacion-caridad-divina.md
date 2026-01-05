@@ -12,8 +12,6 @@ tags:
 facciones:
   - "Iglesia de Dársena"
 ---
-# Congregación de la Caridad Divina
-
 Orden religiosa dedicada al servicio de pobres, marginales y víctimas de posesión en las zonas más desfavorecidas de la Confederación. Combinan "acción social" (hospitales, comedores, albergues) con "combate espiritual" (exorcismos).
 
 A diferencia de los Exorcistas (que combaten posesiones en contextos formales), la Congregación de la Caridad Divina opera en Las Túberías y Barrios del Muro—donde la mayoría de posesiones ocurren y donde la medicina oficial no llega.

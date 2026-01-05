@@ -10,8 +10,6 @@ tags:
 - darsena
 - facciones-menores
 ---
-# Traficantes de Almas
-
 En los rincones más oscuros de Ciudad Dársena, donde la desesperación es moneda corriente, operan los "Traficantes de Almas". No son una facción unificada, sino una red de células criminales independientes cuyo único objetivo es el lucro mediante el más vil de los comercios: la trata de personas. Se aprovechan de los más desfavorecidos, secuestrando y captando a sus víctimas en los Barrios del Muro y las Tuberías para venderlas como mano de obra esclava, servidumbre o para otros fines inconfesables.
 
 Su modus operandi es la depredación. Acechan en las zonas marginales, prometiendo una vida mejor o simplemente tomando por la fuerza a quienes nadie echará de menos. Operan a través de intermediarios y mantienen una red de contactos con elementos corruptos de las fuerzas de seguridad y del "Gremio de Comercio"[^gremio]. Sus recursos son sus escondites, las rutas secretas para mover a su "mercancía" y el miedo que infunden en las comunidades más vulnerables.

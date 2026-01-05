@@ -10,8 +10,6 @@ tags:
 - arqueologia-digital
 - facciones-menores
 ---
-# Los Hackers
-
 "Alias": Criptógrafos clandestinos, Los Descifradores
 
 ---

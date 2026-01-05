@@ -12,8 +12,6 @@ tipo-credo: ideología-credo
 area-influencia: nacional
 ---
 
-# Iglesia Maradoniana
-
 **Tipo:** Ideología-credo (católica sincrética)
 **Relación con la Iglesia:** Enemiga oficial / Aliada extraoficial
 **Área de influencia:** Nacional (hegemónica en Barrios del Muro y Tuberías)

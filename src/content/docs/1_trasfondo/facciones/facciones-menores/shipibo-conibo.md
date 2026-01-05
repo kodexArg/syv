@@ -14,8 +14,6 @@ tags:
   - facciones-menores
 ---
 
-# Shipibo-Conibo (Los Cazadores de Pesadillas)
-
 En las profundidades de las Tuberías de Ciudad Dársena, donde la humedad constante y la oscuridad perpetua crean el ambiente perfecto para el cultivo de hongos, habita una comunidad que muchos consideran una curiosidad antropológica del mundo post-Colapso: los Shipibo-Conibo.
 
 No son guerreros. No son místicos iluminados. Son, en esencia, los jardineros y farmacéuticos del submundo. Los reyes del reino fungi.

@@ -13,8 +13,6 @@ area-influencia: local
 faccion-asociada: Shipibo-Conibo
 ---
 
-# Shipibo-Conibo
-
 **Tipo:** Proscrito
 **Relación con la Iglesia:** Neutral-ignorada (mientras sean discretos)
 **Área de influencia:** Local (Barrios del Muro, Tuberías)

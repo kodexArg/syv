@@ -11,8 +11,6 @@ tags:
 - tecnologia
 - facciones-menores
 ---
-# Iluminati
-
 En el paranoico ecosistema de Dársena, pocas leyendas urbanas tienen tanto peso como la de los "Iluminati". Más que una facción real, son un mito, una teoría de conspiración que sirve para explicar lo inexplicable. Se dice que son una sociedad secreta que manipula los hilos del poder desde las sombras, con el supuesto objetivo de proteger la tecnología prohibida y mantener un oscuro equilibrio en la ciudad.
 
 Su existencia es un rumor persistente, sin evidencia de una estructura formal o líderes conocidos. Se cree que, si existen, se ocultan dentro de otras facciones secretas, utilizando a grupos como los "Arpistas"[^arpistas] o los "Guardianes de la Memoria"[^guardianes] como tapadera para sus propias operaciones. El mito se alimenta del temor colectivo y la desconfianza, y la mera mención de su nombre es suficiente para desviar la atención o sembrar la duda.

@@ -11,8 +11,6 @@ tags:
 - darsena
 - facciones-menores
 ---
-# Refugiados y Parias
-
 Los "Refugiados y Parias" no son una facción, sino un mar de humanidad desposeída que sobrevive en los márgenes de Ciudad Dársena. Son cientos de individuos sin estatus legal, una población fluctuante que habita en la miseria de los Barrios del Muro y en la oscuridad de las Tuberías. Su único objetivo es sobrevivir un día más, en una lucha constante por evitar la captura, la deportación a los temidos campos de reeducación del Estado, o simplemente morir de hambre o violencia.
 
 Este grupo es un mosaico de historias rotas. No tienen una estructura formal; se agrupan por necesidad, afinidad u origen común, formando redes de apoyo y solidaridad para protegerse mutuamente. En momentos de crisis, surgen líderes informales que guían a sus comunidades improvisadas. Su principal recurso es el conocimiento de los escondites y las rutas secretas de la ciudad, un mapa invisible que les permite eludir a las fuerzas de seguridad.

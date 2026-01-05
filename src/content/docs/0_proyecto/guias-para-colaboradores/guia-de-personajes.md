@@ -7,8 +7,6 @@ tags:
   - personajes
   - colaboracion
 ---
-# Guía de Creación de Personajes
-
 Esta guía establece el formato y las mejores prácticas para crear y documentar personajes dentro del universo de "Subordinación y Valor". Un personaje bien definido es clave para la coherencia narrativa y la inmersión en el mundo.
 
 Antes de crear un personaje, asegúrate de estar familiarizado con las guías generales, especialmente la [Guía de Metadatos](./guia-de-metadatos.md) y el [Manual del Colaborador](./manual-del-colaborador.md).

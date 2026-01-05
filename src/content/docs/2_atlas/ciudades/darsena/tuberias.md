@@ -13,8 +13,6 @@ tags:
 - anarquia
 - parias
 ---
-# Las Tuberías
-
 Las Tuberías no son solo una red de túneles; son el latido subterráneo de una metrópoli asediada, un mundo en sí mismo donde la vida fluye en las sombras. Es una caótica y vasta red de túneles de metro, cloacas y excavaciones que se extiende bajo la ciudad, formando un mundo aparte. Es una región sin ley que alberga a casi medio millón de almas, facciones proscritas y mercados negros. Originadas como una infraestructura de mantenimiento, desagüe y líneas de metro pre-bélicas, estas vastas galerías han sido reacondicionadas, expandidas y reutilizadas, convirtiéndose en el refugio de quienes buscan escapar de la opresiva vigilancia de la superficie.
 
 ## Estructura y Apariencia

@@ -12,8 +12,6 @@ tipo-credo: ideología-credo
 area-influencia: nacional
 ---
 
-# Hermandad Verde
-
 **Tipo:** Ideología-credo (vanguardista moderada)
 **Relación con la Iglesia:** Aliada (bien vista)
 **Área de influencia:** Nacional (Zona Centro, Torres Hidropónicas, instituciones educativas)

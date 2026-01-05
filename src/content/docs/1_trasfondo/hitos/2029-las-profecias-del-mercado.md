@@ -11,8 +11,6 @@ tags:
 - inteligencia-artificial
 - conocimiento-prohibido
 ---
-# Las Profecías del Mercado
-
 *Recuperado del Archivo Sellado. Atribuido al Dr. Arturo Cambronero, mayo de 2029.*
 
 Cuatro volúmenes técnicos, encuadernados en cuero, sin títulos poéticos. Solo números. Solo datos. La Sagrada Inquisición los mantiene bajo vigilancia porque su precisión roza lo diabólico.

@@ -6,8 +6,6 @@ tags:
 - tecnologia
 - atlas
 ---
-# Tecnología Civil
-
 La tecnología de uso diario en Ciudad Dársena está diseñada para ser robusta, funcional y fácil de mantener, evitando la complejidad electrónica que la Iglesia desaprueba.
 
 ## Transporte Urbano

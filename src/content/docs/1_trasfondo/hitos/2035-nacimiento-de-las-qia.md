@@ -12,8 +12,6 @@ tags:
   - cronologia
   - hito
 ---
-# Nacimiento de las QIA (2035)
-
 *Hito histórico de Los Años del Caos*
 
 ## Nota del Hermano Archivista

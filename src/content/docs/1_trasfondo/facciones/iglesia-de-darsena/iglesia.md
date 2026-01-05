@@ -9,8 +9,6 @@ tags:
 - darsena
 - oficial
 ---
-# La Iglesia de Dársena
-
 Tras el colapso global, la Iglesia Católica ha consolidado un poder sin precedentes al establecer una nueva Santa Sede en Ciudad Dársena, que ha reemplazado de facto al Vaticano. Desde la imponente Basílica-Fortaleza, el Sumo Pontífice y su Curia Romana gobiernan bajo el lema "Un Solo Rebaño, Un Solo Pastor, Una Sola Verdad", ejerciendo una autoridad casi omnímoda sobre la vida espiritual, moral y social de la Confederación. No es meramente una guía espiritual; es el poder fáctico que legitima y dirige el régimen clérico-militar.
 
 El objetivo principal de la Iglesia es mantener la pureza doctrinal y la supremacía de la fe, lo que implica la erradicación total del "Anatema Mecánico" y cualquier saber secular no subordinado a la teología. Para lograrlo, ejerce su poder a través de diversas facciones especializadas, cada una con un propósito definido, que actúan como sus ojos, manos y espada en el mundo. Su influencia se extiende a la diplomacia y la política internacional, contando con una vasta red de templos, hospitales, escuelas y archivos como recursos fundamentales.

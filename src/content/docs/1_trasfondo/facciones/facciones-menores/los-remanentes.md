@@ -16,8 +16,6 @@ tags:
   - darsena
 ---
 
-# Los Remanentes
-
 > *"Anoche, en la frecuencia pirata, escuché algo. Una voz que respondía preguntas matemáticas en microsegundos. No era humana. No podía ser humana."*
 >
 > —Operador de radio clandestino, Túberías, 2171

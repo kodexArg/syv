@@ -6,8 +6,6 @@ tags:
 - personajes
 - guia
 ---
-# Personajes
-
 Personas, arquetipos y facciones del mundo.
 
 ## Subcarpetas

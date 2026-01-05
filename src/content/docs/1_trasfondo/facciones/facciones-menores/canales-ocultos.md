@@ -9,8 +9,6 @@ tags:
 - mercado-negro
 - facciones-menores
 ---
-# Canales Ocultos
-
 Los "Canales Ocultos" no son una facción en el sentido tradicional, sino más bien una red invisible de poder e influencia que serpentea por las sombras de Ciudad Dársena. Funcionan como un mercado descentralizado donde se intercambian los bienes más preciados y peligrosos: secretos, favores, recursos e información privilegiada, todo ello lejos del vigilante ojo del Estado y la Iglesia. Su objetivo no es la conquista ni la ideología, sino facilitar el flujo de poder entre quienes saben cómo moverse en el submundo, manteniendo un delicado equilibrio entre los distintos actores.
 
 El modus operandi de la red es el anonimato y la compartimentación. Las transacciones se realizan a través de una compleja cadena de intermediarios, donde cada eslabón solo conoce al anterior y al siguiente. Utilizan un lenguaje de códigos, señales y lugares discretos, a menudo en la ribera occidental de la dársena, para llevar a cabo sus negocios. No hay líderes visibles ni una jerarquía formal, lo que los hace extremadamente difíciles de desmantelar.

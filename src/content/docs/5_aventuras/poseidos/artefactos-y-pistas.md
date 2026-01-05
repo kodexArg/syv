@@ -7,8 +7,6 @@ tags:
 - pista
 - artefacto
 ---
-# Artefactos y Pistas
-
 ## Agenda de un Muerto
 Una agenda de aspecto antiguo, recuperada del cuerpo de un poseído. Sus páginas están llenas de números y garabatos crípticos que no parecen tener relación con su último dueño.
 -   **Secreto**: El poseído robó esta agenda de un cultista de la Luz Silente. Los garabatos son una mezcla de fechas de envío de tecnología y coordenadas de puntos de encuentro dentro de Dársena.

@@ -7,8 +7,6 @@ tags:
 - lore
 - leyes
 ---
-# Constitución de la Confederación Argentina
-
 ## Preámbulo
 
 Nosotros, los representantes de las mujeres y los hombres de la Patria Restaurada, reunidos en virtud del mandato del Concilio Ecuménico del '21, obediente a los Sagrados Fundadores, con el objeto de cimentar la unión de las personas libres, afianzar la Justicia Divina, consolidar la paz interior expulsando toda disidencia, proveer a la defensa común contra la barbarie exterior y asegurar los beneficios de la Verdad Eterna para nosotros, para nuestra posteridad y para todas las mujeres y hombres del mundo que, aceptando la Subordinación, sean juzgados dignos de habitar este suelo sagrado: invocando la protección de Nuestro Señor, fuente de toda razón y justicia, ordenamos, decretamos y establecemos esta Constitución para la Confederación Argentina.

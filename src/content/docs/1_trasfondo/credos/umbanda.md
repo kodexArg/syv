@@ -13,8 +13,6 @@ area-influencia: nacional
 faccion-asociada: Los Umbanda
 ---
 
-# Umbanda
-
 **Tipo:** Proscrito
 **Relación con la Iglesia:** Enemiga (persecución feroz)
 **Área de influencia:** Continental (hegemónica en territorios no controlados)

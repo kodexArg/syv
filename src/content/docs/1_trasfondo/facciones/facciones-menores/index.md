@@ -16,8 +16,6 @@ faccion:
     - Tuberías
     - Otros
 ---
-# Facciones Menores
-
 ## Descripción
 
 Este índice agrupa a las facciones y grupos de menor escala o influencia que operan en las sombras o en los márgenes de los grandes poderes de la Confederación. Aquí se pueden encontrar desde clanes de contrabandistas y cultos heréticos hasta gremios locales y células subversivas.

@@ -12,8 +12,6 @@ tipo-credo: ideología-credo
 area-influencia: regional
 ---
 
-# Peronismo
-
 **Tipo:** Ideología-credo (secta política hermética)
 **Relación con la Iglesia:** Enemiga
 **Área de influencia:** Nacional (enquistada en poder confederado)

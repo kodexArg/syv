@@ -6,8 +6,6 @@ tags:
 - tecnologia
 - atlas
 ---
-# Tecnologías Visuales
-
 En un mundo sin computación avanzada, las tecnologías para mostrar imágenes dependen de soluciones analógicas y mecánicas, algunas de una complejidad sorprendente.
 
 ## Pantallas de Plasma Analógicas

@@ -7,8 +7,6 @@ tags:
 - geografia
 - mapa
 ---
-# Atlas
-
 Geografía, regiones, mapas y espacio físico.
 
 ## Subcarpetas

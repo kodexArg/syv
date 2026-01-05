@@ -14,8 +14,6 @@ tags:
 - pobreza-urbana
 - transformacion-climatica
 ---
-# Fuerte San Martín
-
 Fuerte San Martín es la ciudad de la transformación. Ubicada en la región cuyana, históricamente árida y semidesértica, FSM fue **literalmente reimaginada por la humedad post-guerra**. De un páramo seco donde la agricultura era marginal, se convirtió en la **Nueva Pampa**: región fértil que produce alimento y manufacturas en volúmenes que rivalizan con Córdoba. Su inmenso **Aeropuerto Internacional** (heredado de la antigua Gobernador Francisco Gabrielli) la convierte en nudo de comercio aéreo de toda la Confederación. Sin embargo, este boom económico ha creado una paradoja devastadora: familias terratenientes enriquecidas conviven con una clase trabajadora urbana empobrecida y resentida, desplazada del campo y sin oportunidades en la ciudad.
 
 ## Historia: La Transformación Climática

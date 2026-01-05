@@ -10,8 +10,6 @@ tags:
   - anatema-mecanico
 ---
 
-# Credos y Cultos de la Confederación
-
 ## Fe en Plural
 
 El colapso no destruyó solo civilizaciones. Destruyó certezas. Cuando las QIA descifraron todos los secretos en 2048, cuando el Gran Silencio apagó el mundo en 2061, cuando 180,000 personas murieron en un día para liberar a la humanidad de las máquinas, las religiones del Viejo Mundo se fragmentaron, se fusionaron, se reinventaron. Para 2178, la Confederación Argentina es mosaico de credos: algunos hegemónicos dentro de fronteras controladas, otros dominan territorios que ningún Estado alcanza. La Iglesia Católica de Dársena gobierna desde la Nueva Santa Sede, pero su control termina donde terminan las patrullas de Seguridad Nacional.

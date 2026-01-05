@@ -12,8 +12,6 @@ tipo-credo: ideología-credo
 area-influencia: local
 ---
 
-# Hijos del Pantano
-
 **Tipo:** Ideología-credo (extremista)
 **Relación con la Iglesia:** Enemiga
 **Área de influencia:** Local (Riachuelo, Zona del Cráter, Tuberías)

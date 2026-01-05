@@ -12,8 +12,6 @@ tipo-credo: tolerado
 area-influencia: nacional
 ---
 
-# Hermandades y Órdenes Católicas
-
 ## Hermandades Menores
 
 **Tipo:** Tolerado (variante católica local)

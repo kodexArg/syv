@@ -8,8 +8,6 @@ tags:
 - confederacion
 - atlas
 ---
-# República Autónoma de Córdoba
-
 Córdoba es gigante continental. Su influencia industrial rivaliza con el poder naval de Ciudad Dársena. La megalópolis funciona como corazón productivo de la Confederación Argentina, pulsando con ritmo de turbinas y mandato militar.
 
 Fundada sobre tres dogmas tras el colapso de 2030: orden, producción, autosuficiencia. Gobernada por dinastía militar que convirtió la jerarquía en sacramento secular. La ciudad es catedral de acero donde el trabajo es liturgia obligatoria y el control, doctrina grabada en cada esquina vigilada.

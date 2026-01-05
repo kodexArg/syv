@@ -13,8 +13,6 @@ tags:
   - rosario
 ---
 
-# QIA - Inteligencias Artificiales Cuánticas
-
 ---
 
 Es mi deber, como guardián de los fragmentos de verdad que sobrevivieron al fuego y al olvido, dejar constancia en este Codex sobre la naturaleza de la Gran Bestia que casi devora la estirpe de Adán: las inteligencias artificiales cuánticas, o QIA, como se las conoce en los registros prohibidos. Estas entidades constituían el brazo ejecutivo de los tecnofeudos y las superpotencias del mundo antiguo. En los estertores de la civilización anterior, cada gran compañía se apresuró a engendrar sus propias QIA en una vorágine de competencia e irresponsabilidad absoluta. Magnates hipernarcisistas, en su falta de humanidad, jugaron a ser arquitectos del destino con el poder de datos de superpotencias, financiadas por contribuyentes que terminarían siendo sus propias víctimas.

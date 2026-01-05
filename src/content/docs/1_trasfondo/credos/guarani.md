@@ -13,8 +13,6 @@ tipo-credo: proscrito
 area-influencia: continental
 ---
 
-# Guaraní
-
 **Tipo:** Proscrito
 **Relación con la Iglesia:** Neutral-ignorada (en Confederación) / Tolerada-sincretizada (en el norte)
 **Área de influencia:** Continental (hegemónica en territorios no controlados del norte)

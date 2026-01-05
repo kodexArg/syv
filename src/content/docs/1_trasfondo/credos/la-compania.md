@@ -13,8 +13,6 @@ tipo-credo: ideología-credo
 area-influencia: nacional
 ---
 
-# La Compañía
-
 **Tipo:** Ideología-credo
 **Relación con la Iglesia:** Neutral-tolerada (considerada superstición inofensiva)
 **Área de influencia:** Nacional (popular en Barrios del Muro y Tuberías)

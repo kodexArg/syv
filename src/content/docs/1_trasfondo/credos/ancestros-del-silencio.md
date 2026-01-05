@@ -12,8 +12,6 @@ tipo-credo: proscrito
 area-influencia: local
 ---
 
-# Ancestros del Silencio
-
 **Tipo:** Proscrito (surgido post-Anatema)
 **Relación con la Iglesia:** Enemiga (herejía sincrética)
 **Área de influencia:** Local (Barrios del Muro, zonas cercanas al Cráter)

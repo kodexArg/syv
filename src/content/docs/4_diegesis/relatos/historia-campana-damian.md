@@ -11,8 +11,6 @@ tags:
 - ritual-satanico
 ---
 
-# La Cosecha de los Cinco
-
 ## I. La Convocatoria
 
 Damián llegó a las seis de la mañana.

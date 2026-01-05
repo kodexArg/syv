@@ -12,8 +12,6 @@ tipo-credo: proscrito
 area-influencia: regional
 ---
 
-# San La Muerte
-
 **Tipo:** Proscrito
 **Relación con la Iglesia:** Enemiga (aborrecido)
 **Área de influencia:** Regional (Litoral, Barrios del Muro)

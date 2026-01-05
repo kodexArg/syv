@@ -3,8 +3,6 @@ title: Proyecto
 folder: 0_proyecto
 description: Organización, estructura y documentación general del proyecto SyV.
 ---
-# Proyecto
-
 Documentación general, guías y manuales del proyecto.
 
 ## Subcarpetas

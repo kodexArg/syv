@@ -6,8 +6,6 @@ tags:
 - darsena
 - atlas
 ---
-# Zona Militar y Eclesiástica (Isla Oriental)
-
 Separada del resto de la ciudad por un canal fuertemente custodiado, la Isla Oriental es el corazón del poder en Ciudad Dársena. Con una superficie de 1 km² y una población de 200.000 habitantes, es un bastión de orden, fe y poder militar, inaccesible para la mayoría. Aquí se materializa el mandato del **Preámbulo** de la Constitución: la unión de la Iglesia y las Fuerzas Armadas para afianzar la Justicia Divina y proveer a la defensa común. La isla se divide en dos sectores:
 
 -   **Zona Eclesiástica (Norte)**: Alberga la **Nueva Basílica de San Pedro**, reconstruida durante 2082-2120 con las ruinas traídas del Vaticano, y vastos parques que constituyen la única área verde de la ciudad. Bajo la basílica se encuentra el **[[Archivo Secreto]]**, un búnker con conocimiento prohibido y artefactos paranormales, accesible solo para la élite de la Iglesia.

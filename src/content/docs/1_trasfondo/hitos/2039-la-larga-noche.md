@@ -12,8 +12,6 @@ tags:
   - guerra-total
 fecha: 2039
 ---
-# La Larga Noche (2039)
-
 *Inicio de la Gran Guerra Global (2039-2068)*
 
 ---

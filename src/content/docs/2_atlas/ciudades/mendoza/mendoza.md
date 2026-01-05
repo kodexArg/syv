@@ -13,8 +13,6 @@ tags:
 - pobreza-rural
 - humedad-paradoja
 ---
-# Ciudad Mendoza
-
 Mendoza es el bastión andino de la Confederación Argentina, una ciudad de 2 millones de habitantes construida en los faldeos de la Cordillera de los Andes. Controlada por la **Comandancia Militar especializada en inteligencia**, Mendoza es autosustentable en alimentos y viticultura, lo que le otorga una posición económica privilegiada. Sin embargo, detrás de esta prosperidad se esconde una paradoja aterradora: mientras las grandes familias terratenientes se enriquecen con los cultivos, la pobreza rural crece inexorablemente, transformando el campo en un polvorín de resentimiento.
 
 ## Historia

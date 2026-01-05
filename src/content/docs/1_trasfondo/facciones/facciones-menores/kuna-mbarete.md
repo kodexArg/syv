@@ -32,8 +32,6 @@ fechas-clave:
   - 2178
 ---
 
-# Kuña Mbareté (Las Yarará)
-
 Hasta 2029 nadie del público general conocía de esta hermandad en las sombras como una organización viva. Paradójicamente, su origen histórico —la historia de Arapy, la India Juliana— nunca fue censurada y forma parte del canon histórico oficial de la región, aunque relegada a una nota al pie sobre las rebeliones indígenas de la época colonial. Lo que se perdió fue la conexión entre aquella mujer del siglo XVI y las guerreras que reptaban por las selvas durante la Gran Guerra.
 
 Las crónicas escritas por Marcos Pizarro, un arqueólogo e historiador peruano que se hizo famoso después de muerto, fueron las primeras en establecer esa conexión. Durante años fueron consideradas un mito o, en el mejor de los casos, un producto de la IA en los años de la desinformación, pese a que los estudios del arqueólogo se remontaban al siglo pasado en el trabajo de una vida.

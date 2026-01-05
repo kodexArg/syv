@@ -12,8 +12,6 @@ tipo-credo: tolerado
 area-influencia: nacional
 ---
 
-# Religiones del Viejo Mundo
-
 ## Judaísmo
 
 **Tipo:** Tolerado

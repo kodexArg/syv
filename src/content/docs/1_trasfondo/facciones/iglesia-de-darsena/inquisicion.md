@@ -10,8 +10,6 @@ tags:
 - darsena
 - oficial
 ---
-# La Santa Inquisición Argentina (SIA)
-
 Conocidos en susurros como "Los Cirujanos del Alma", la "Santa Inquisición Argentina (SIA)" es el brazo más temido y poderoso de la "Iglesia de Dársena"[^iglesia]. Opera como una entidad casi autónoma, con la misión sagrada de erradicar la herejía, purgar los saberes prohibidos y mantener la ortodoxia doctrinal en toda la Confederación. Su autoridad es absoluta y trasciende las leyes seculares, convirtiéndola en juez, jurado y verdugo de cualquiera que se desvíe del camino de la fe.
 
 El modus operandi de la SIA es el terror y la vigilancia. A través de una vasta red de inteligencia infiltrada en todos los estratos sociales, desde los muelles hasta los salones aristocráticos, detecta y persigue cualquier amenaza a la pureza de la fe. Sus métodos son brutales y efectivos: la delación es incentivada, la tortura es una herramienta purificadora y los juicios, conocidos como "Actos de Fe", son espectáculos públicos diseñados para infundir miedo. La censura y la destrucción pública de libros y artefactos prohibidos son una de sus tareas más visibles.

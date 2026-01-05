@@ -6,8 +6,6 @@ tags:
 - tecnologia
 - atlas
 ---
-# Tecnología Militar
-
 El poder de la Confederación Argentina se sostiene sobre una base militar tecnológicamente superior a la de sus vecinos. Aunque la tecnología está doctrinalmente limitada por la Iglesia, en el campo de batalla se permiten y desarrollan armas avanzadas, siempre que no dependan de una IA o de computación compleja.
 
 ## Armas de Pulso Electromagnético (EMP)

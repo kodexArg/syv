@@ -11,8 +11,6 @@ tags:
 - darsena
 - facciones-menores
 ---
-# Resistencia Subterránea
-
 La "Resistencia Subterránea" es la encarnación de la oposición ideológica y activa al régimen clérico-militar de Dársena. Compuesta por diversas células anarquistas, su objetivo es la total desestabilización del Estado y la "Iglesia"[^iglesia], promoviendo la autonomía y la autogestión de los oprimidos. No buscan reformar el sistema, sino demolerlo desde sus cimientos.
 
 Operan desde las profundidades de la ciudad, utilizando las alcantarillas, los túneles de servicio y los edificios tomados como refugios y bases de operaciones. Su conocimiento de los subterráneos les permite moverse sin ser detectados y coordinar acciones de sabotaje, propaganda y protesta. La organización es horizontal y descentralizada, sin líderes fijos, y las decisiones se toman por consenso en asambleas clandestinas.

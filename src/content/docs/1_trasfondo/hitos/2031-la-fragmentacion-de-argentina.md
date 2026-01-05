@@ -14,8 +14,6 @@ tags:
   - cronologia
   - hito
 ---
-# La Fragmentación de Argentina (2031)
-
 *Hito histórico de Los Años del Caos*
 
 ## Nota del Hermano Archivista

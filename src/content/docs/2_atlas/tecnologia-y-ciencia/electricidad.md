@@ -6,8 +6,6 @@ tags:
 - tecnologia
 - atlas
 ---
-# Electricidad y Energía
-
 En Ciudad Dársena, la gestión de la energía es un reflejo de su sociedad: estrictamente controlada, con grandes disparidades entre el suministro público y las necesidades de las megaestructuras que sostienen la ciudad.
 
 ## Red Eléctrica Pública

@@ -11,8 +11,6 @@ tags:
 - automatizacion
 - terror-aereo
 ---
-# A Cielo Abierto
-
 *Hito conmemorativo del grafiti encontrado en las ruinas de Rosario*
 *Hermano Archivista Pedro de los Santos, 2178*
 
