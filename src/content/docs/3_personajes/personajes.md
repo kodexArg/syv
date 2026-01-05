@@ -5,6 +5,8 @@ description: Índice y guía de los personajes principales, secundarios y arquet
 tags:
 - personajes
 - guia
+sidebar:
+  order: 999
 ---
 Personas, arquetipos y facciones del mundo.
 

@@ -2,6 +2,8 @@
 title: Proyecto
 folder: 0_proyecto
 description: Organización, estructura y documentación general del proyecto SyV.
+sidebar:
+  order: 999
 ---
 Documentación general, guías y manuales del proyecto.
 

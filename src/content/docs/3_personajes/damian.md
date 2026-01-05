@@ -10,6 +10,8 @@ tags:
 facciones:
   - "Dirección Nacional de Seguridad"
 alerta-spoilers: "Su investigación sobre la conspiración del Ejército en la Iglesia y los motivos de su huida a Dársena."
+sidebar:
+  order: 999
 ---
 ## Damián DiConte, El Sabueso
 

@@ -6,6 +6,8 @@ tags:
 - atlas
 - geografia
 - mapa
+sidebar:
+  order: 999
 ---
 Geografía, regiones, mapas y espacio físico.
 

@@ -8,6 +8,8 @@ tags:
 - ciudad-darsena
 - anatema-mecanico
 - confederacion-argentina
+sidebar:
+  order: 999
 ---
 
 # Sinopsis: Subordinación y Valor

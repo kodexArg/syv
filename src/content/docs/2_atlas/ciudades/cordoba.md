@@ -7,6 +7,8 @@ tags:
 - ciudad-estado
 - confederacion
 - atlas
+sidebar:
+  order: 999
 ---
 Córdoba es gigante continental. Su influencia industrial rivaliza con el poder naval de Ciudad Dársena. La megalópolis funciona como corazón productivo de la Confederación Argentina, pulsando con ritmo de turbinas y mandato militar.
 

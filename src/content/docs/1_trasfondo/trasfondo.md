@@ -7,6 +7,8 @@ tags:
 - historia
 - leyes
 - cosmovision
+sidebar:
+  order: 999
 ---
 Contiene la historia, leyes, cosmología y conceptos fundamentales. El eje central de todo el ordenamiento social y político es la "Constitución de la Confederación Argentina", documento supremo que establece la Teocracia Militar y la lucha contra la herejía tecnológica.
 
