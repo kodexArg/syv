@@ -92,6 +92,48 @@ Solo incluir elementos PRINCIPALES (no secundarios ni menores).
 
 ---
 
+## ESTRUCTURA DE CARPETAS Y ARCHIVOS INDEX
+
+### Obligación de `index.md` en Toda Carpeta
+
+**REGLA FUNDAMENTAL**: Toda carpeta en `src/content/docs/` DEBE contener un archivo `index.md` que funcione como landing page cuando el usuario haga clic en la carpeta del sidebar de Starlight.
+
+#### Características del `index.md`
+
+1. **Contenido mínimo**: 2 párrafos cortos que describan qué contiene la carpeta
+2. **Estilo narrativo**: Aplicar Canon de Estilo SyV (afirmaciones positivas, objetos con peso, sincretismo léxico moderado, terminología canónica)
+3. **Metadatos YAML**: Incluir frontmatter con `title` y `sidebar.order` mínimo
+4. **Función**: Introducir al usuario al contenido de la carpeta antes de que navegue a archivos específicos
+
+#### Ejemplo de `index.md`
+
+```markdown
+---
+title: Facciones
+sidebar:
+  order: 1
+---
+
+Los poderes que tejen el tablero político de la Confederación. La Iglesia de Dársena con su control espiritual absoluto, las Fuerzas Armadas que gobiernan desde Córdoba, el Gremio de Comercio que mueve bienes prohibidos en las sombras.
+
+Aquí se mapean las organizaciones que compiten por influencia: desde la Sagrada Inquisición Argentina que caza herejes tecnológicos hasta los Arpistas que preservan conocimiento prohibido en servidores clandestinos.
+```
+
+#### Cuándo Crear `index.md`
+
+- **Al crear nueva carpeta**: SIEMPRE crear `index.md` simultáneamente
+- **Al detectar carpeta sin `index.md`**: Crear inmediatamente con contenido apropiado
+- **Comandos afectados**: `/crear-faccion`, `/crear-ubicacion`, `/crear-personaje`, `/crear-evento`
+
+#### Validación
+
+Antes de completar cualquier comando de creación, verificar:
+1. ✓ La carpeta destino tiene `index.md`
+2. ✓ Si es nueva carpeta, crear `index.md` primero
+3. ✓ El `index.md` tiene contenido narrativo mínimo (no vacío)
+
+---
+
 ## NOTAS DE USO PARA CLAUDE CODE
 
 ### Detección Automática de Coincidencias

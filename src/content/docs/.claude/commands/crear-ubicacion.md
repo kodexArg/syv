@@ -72,6 +72,34 @@ Pregunta al usuario (7 campos):
   region: "Dársena, Isla Oriental"
   ```
 
+#### ⚠️ OBLIGACIÓN: Verificar `index.md`
+
+**ANTES** de crear el archivo de ubicación:
+
+1. **Verificar si la carpeta destino tiene `index.md`**
+   - Si existe: continuar normalmente
+   - Si NO existe: crear `index.md` primero con contenido narrativo apropiado
+
+2. **Contenido mínimo del `index.md`**:
+   ```markdown
+   ---
+   title: [Nombre Carpeta]
+   sidebar:
+     order: 1
+   ---
+
+   [2 párrafos describiendo qué tipo de ubicaciones contiene esta carpeta,
+    siguiendo Canon de Estilo SyV: atmósfera sensorial, datos geográficos,
+    terminología canónica]
+   ```
+
+3. **Ejemplo para `2_atlas/ciudades/darsena/index.md`**:
+   - Ver archivo existente como referencia
+   - Describir la capital de facto de la Confederación
+   - Mencionar atmósfera característica (humedad, niebla, población)
+
+**Validación**: El comando NO debe completarse si la carpeta destino carece de `index.md` válido.
+
 ### 4. Estructura de Contenido (Atmosférica)
 1. **Introducción** - Qué es, dónde está, primera impresión
 2. **Geografía** - Ubicación precisa, límites, características

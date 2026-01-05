@@ -80,6 +80,34 @@ Pregunta al usuario (8 campos):
   alerta-spoilers: "texto si hay secretos"
   ```
 
+#### ⚠️ OBLIGACIÓN: Verificar `index.md`
+
+**ANTES** de crear el archivo de personaje:
+
+1. **Verificar si la carpeta destino tiene `index.md`**
+   - Si existe: continuar normalmente
+   - Si NO existe: crear `index.md` primero con contenido narrativo apropiado
+
+2. **Contenido mínimo del `index.md`**:
+   ```markdown
+   ---
+   title: [Principales/Secundarios]
+   sidebar:
+     order: 1
+   ---
+
+   [2 párrafos describiendo qué tipo de personajes contiene esta carpeta,
+    siguiendo Canon de Estilo SyV: elipsis emocional, objetos con peso,
+    terminología canónica, descripción de roles típicos]
+   ```
+
+3. **Ejemplo para `3_personajes/principales/index.md`**:
+   - Ver archivo existente como referencia
+   - Describir arquitectos del poder y la resistencia
+   - Mencionar ejemplos representativos (inquisidores, académicos, militares)
+
+**Validación**: El comando NO debe completarse si la carpeta destino carece de `index.md` válido.
+
 ### 4. Estructura de Contenido (JERARQUÍA CRÍTICA)
 
 **⚠️ REGLA DE ORO: El PRIMER H2 (##) siempre es el NOMBRE DEL PERSONAJE, NUNCA "Descripción"**

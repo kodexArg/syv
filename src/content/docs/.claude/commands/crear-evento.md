@@ -99,10 +99,39 @@ NO puede contradecir estos HITOS INAMOVIBLES:
 - Bajo: `## Período / ### Año`
 - Formato: `- **DD de mes: Nombre evento**`
 
-**SI es evento MAYOR**:
-- Crear: `1_trasfondo/cronologia/eventos-mayores/YYYY-MM-DD-nombre.md`
-- Contenido: Artículo completo
+**SI es evento MAYOR (HITO)**:
+- Crear: `1_trasfondo/hitos/YYYY-nombre-evento.md`
+- Contenido: Artículo completo con perspectiva 2178
 - Referencia desde cronologia.md
+
+#### ⚠️ OBLIGACIÓN: Verificar `index.md`
+
+**ANTES** de crear archivo de HITO:
+
+1. **Verificar si la carpeta destino tiene `index.md`**
+   - Carpeta destino: `1_trasfondo/hitos/`
+   - Si existe: continuar normalmente
+   - Si NO existe: crear `index.md` primero con contenido narrativo apropiado
+
+2. **Contenido mínimo del `index.md`**:
+   ```markdown
+   ---
+   title: Hitos
+   sidebar:
+     order: 1
+   ---
+
+   [2 párrafos describiendo qué son los hitos cronológicos del universo SyV,
+    siguiendo Canon de Estilo SyV: perspectiva 2178, terminología canónica,
+    mencionar eventos clave sin listarlos todos]
+   ```
+
+3. **Ejemplo para `1_trasfondo/hitos/index.md`**:
+   - Ver archivo existente como referencia
+   - Describir momentos que quebraron la historia
+   - Mencionar El Estallido, Fin de los Secretos, Gran Silencio, Anatema Mecánico
+
+**Validación**: Si crea HITO, el comando NO debe completarse si la carpeta destino carece de `index.md` válido.
 
 ### 5. Redacción con Perspectiva 2178 (OBLIGATORIA)
 ```

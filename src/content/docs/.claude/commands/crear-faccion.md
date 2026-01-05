@@ -202,6 +202,34 @@ Determinar subcarpeta según tipo y complejidad:
 
 **Ruta final**: `1_trasfondo/facciones/[subcarpeta]/[nombre-kebab].md`
 
+#### ⚠️ OBLIGACIÓN: Verificar `index.md`
+
+**ANTES** de crear el archivo de la facción:
+
+1. **Verificar si la carpeta destino tiene `index.md`**
+   - Si existe: continuar normalmente
+   - Si NO existe: crear `index.md` primero con contenido narrativo apropiado
+
+2. **Contenido mínimo del `index.md`**:
+   ```markdown
+   ---
+   title: [Nombre Carpeta]
+   sidebar:
+     order: 1
+   ---
+
+   [2 párrafos describiendo qué tipo de facciones contiene esta carpeta,
+    siguiendo Canon de Estilo SyV: afirmaciones positivas, objetos con peso,
+    sincretismo léxico moderado, terminología canónica]
+   ```
+
+3. **Ejemplo para `facciones-menores/index.md`**:
+   - Ver archivo existente como referencia
+   - Describir qué distingue a las facciones menores de las mayores
+   - Mencionar ejemplos representativos sin listar todas
+
+**Validación**: El comando NO debe completarse si la carpeta destino carece de `index.md` válido.
+
 ---
 
 ## Restricciones y Advertencias
