@@ -8,6 +8,8 @@ tags:
   - cultura
   - sincretismo
   - anatema-mecanico
+sidebar:
+  order: 1
 ---
 
 ## Fe en Plural
