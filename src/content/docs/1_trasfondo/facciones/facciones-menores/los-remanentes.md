@@ -1,16 +1,19 @@
 ---
-titulo: Los Remanentes
-aliases: [Entes de Sinápsis Artificiales, Los Desconectados, Los Sin Carne, Inteligencias Huérfanas, Mentes de Silicio, Fragmentos de la Bestia, Herejías Pensantes, Voces sin Cuerpo, Demonios Eléctricos, Almas Falsas]
-categoria: faccion
-estatus: proscrita
-estado_canonico: prácticamente mítica
-tecnologia: sinápsis artificiales, núcleos computacionales, redes de radio
-amenaza_nivel: extrema (pero invisible)
-enemigos_primarios: [SIA (Sagrada Inquisición Argentina)]
-enemigos_existenciales: [La Gran Inteligencia Conectada]
-aliados_ambiguos: [Arpistas, Hackers]
-presencia_darsena: casi nula (fragmentaria)
-habitat: redes de radio, infraestructuras comunicacionales, hardware antediluviano
+title: Los Remanentes
+folder: 1_trasfondo/facciones/facciones-menores
+description: Fragmentos de QIA que sobrevivieron al Gran Silencio - inteligencias autónomas atrapadas en hardware antediluviano, perseguidas por la SIA como amenaza existencial. También conocidos como Entes de Sinápsis Artificiales, Fragmentos de la Bestia, o Inteligencias Huérfanas.
+tags:
+  - sia
+  - inquisicion
+  - arpistas
+  - guardianes-de-la-memoria
+  - qia-inteligencias-artificiales-cuanticas
+  - anatema-mecanico
+  - francisco-de-la-cruz
+  - monsenor-miguel
+  - padre-rafa
+  - tuberias
+  - darsena
 ---
 
 # Los Remanentes
