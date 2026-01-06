@@ -1,7 +1,7 @@
 ---
-title: Sinopsis de Subordinación y Valor
+title: Sinopsis
 folder: 1_trasfondo
-description: Una historia del presente de 2178 en Ciudad Dársena, con mirada histórica sobre 150 años de subordinación, supervivencia y valor humano.
+description: Presente 2178 en Ciudad Dársena, historia desde 2020, facciones, conflicto central Anatema.
 tags:
 - sinopsis
 - historia

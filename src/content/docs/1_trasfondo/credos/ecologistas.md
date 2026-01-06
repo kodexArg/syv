@@ -1,7 +1,7 @@
 ---
 title: Hermandad Verde
 folder: 1_trasfondo/credos
-description: Movimiento ecologista moderado que interpreta el Anatema Mecánico como mandato divino de reconciliación con la naturaleza
+description: Ecologismo moderado, reconciliación con naturaleza, mandato divino Anatema.
 tags:
   - credo
   - ecologistas

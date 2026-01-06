@@ -1,7 +1,7 @@
 ---
-title: Gremio de Comercio
+title: Gremio Comercio
 folder: 1_trasfondo/facciones/union
-description: Agrupando desde pequeños tenderos hasta magnates del mercado negro, el Gremio de Comercio es la facción con mayor poder económico en Dársena, operando bajo principios de un libre mercado extremo donde todo tiene un precio.
+description: Mayor poder económico, tenderos magnates, mercado negro, libre mercado extremo.
 tags:
 - faccion
 - gremio

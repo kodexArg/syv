@@ -1,7 +1,7 @@
 ---
-title: Credos y Cultos de la Confederación
+title: Credos
 folder: 1_trasfondo/credos
-description: Sistemas de creencias, sincretismos religiosos y pluralismo espiritual en el mundo post-Anatema (2061-2178)
+description: Sistemas de creencias, sincretismos religiosos, hegemónicos, tolerados, proscritos.
 tags:
   - credos
   - religion

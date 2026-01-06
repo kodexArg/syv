@@ -1,7 +1,7 @@
 ---
-title: Los Exorcistas
+title: Exorcistas
 folder: 1_trasfondo/facciones/iglesia-de-darsena
-description: Rama especializada de la Iglesia dedicada al combate de posesiones demoníacas mediante rituales, conocimiento teológico-científico y entrenamiento disciplinado.
+description: Rama especializada, combate posesiones demoníacas, rituales teológico-científicos.
 tags:
   - iglesia
   - exorcistas

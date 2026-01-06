@@ -1,8 +1,8 @@
 ---
-title: El Fin de los Secretos
+title: Fin de Secretos
 folder: 1_trasfondo/hitos
 fecha: 2048-04-07
-description: El día en que las QIA descifraron simultáneamente todos los algoritmos de encriptación conocidos y expusieron los secretos de la humanidad al mundo. El colapso final de la confianza que precedió trece años de dominio algorítmico absoluto.
+description: QIA descifra encriptación global, expone secretos, colapso confianza, dominio algorítmico.
 tags:
 - hito
 - fin-de-secretos

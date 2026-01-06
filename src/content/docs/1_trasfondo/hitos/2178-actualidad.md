@@ -1,7 +1,7 @@
 ---
-title: "Año 2178: Actualidad"
-folder: "1_trasfondo/hitos"
-description: "Situación geopolítica y social del mundo en el año 2178. Perspectiva contemporánea desde la Confederación Argentina."
+title: Actualidad
+folder: 1_trasfondo/hitos
+description: Situación geopolítica y social 2178, perspectiva Confederación Argentina.
 tags:
   - hito
   - actualidad-2178

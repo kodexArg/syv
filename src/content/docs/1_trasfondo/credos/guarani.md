@@ -1,7 +1,7 @@
 ---
 title: Guaraní
 folder: 1_trasfondo/credos
-description: Pueblo y credo de origen paraguayo con idioma común, millones en el norte no controlado, comunidad minoritaria perseguida en Dársena
+description: Pueblo paraguayo, idioma común, millones en norte, minoría perseguida en Dársena.
 tags:
   - credo
   - guarani

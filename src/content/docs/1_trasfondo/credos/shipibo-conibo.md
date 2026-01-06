@@ -1,7 +1,7 @@
 ---
 title: Shipibo-Conibo
 folder: 1_trasfondo/credos
-description: Chamanismo amazónico de pueblo expatriado que practica ceremonias con lianas del pantano en sótanos de Barrios del Muro
+description: Chamanismo amazónico, pueblos expatriados, lianas del pantano, sótanos Barrios.
 tags:
   - credo
   - shipibo-conibo

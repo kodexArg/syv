@@ -1,7 +1,7 @@
 ---
-title: Guía de Creación de Personajes
+title: Personajes
 folder: 0_proyecto/guias-para-colaboradores
-description: Estándares y directrices para la creación y documentación de personajes en el universo SyV.
+description: Categorías, metadatos, estructura de contenido para personajes.
 tags:
   - guia
   - personajes

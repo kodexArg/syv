@@ -1,7 +1,7 @@
 ---
-title: Herejía Tecnológica y Conocimiento Prohibido en la Confederación
+title: Tecnologías Prohibidas
 folder: 1_trasfondo/codex
-description: Prohibiciones específicas de la Iglesia y la Sagrada Inquisición Argentina (SIA) en la Confederación Argentina. Detalles de vigilancia, persecución y áreas grises del control teológico sobre la tecnología en Dársena y sus ciudades.
+description: Prohibiciones SIA, vigilancia, persecución, censores eclesiásticos, Cripta de la Razón.
 tags:
 - anatema-mecanico
 - sia

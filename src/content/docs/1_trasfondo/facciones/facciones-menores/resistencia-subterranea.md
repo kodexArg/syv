@@ -1,7 +1,7 @@
 ---
-title: Resistencia Subterránea
+title: Resistencia
 folder: 1_trasfondo/facciones/facciones-menores
-description: Células anarquistas que se oponen activamente al régimen de Dársena, utilizando los subterráneos de la ciudad como base para sus operaciones de sabotaje y agitación.
+description: Células anarquistas, sabotaje, subterráneos, contra régimen.
 tags:
 - faccion
 - proscrita

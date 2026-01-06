@@ -1,7 +1,7 @@
 ---
-title: Los Umbanda
+title: Umbanda
 folder: 1_trasfondo/facciones/facciones-menores
-description: Una fe sincrética que prospera en los Barrios del Muro y mantiene una presencia clandestina en Dársena, desafiando la ortodoxia de la Iglesia con sus rituales y creencias.
+description: Fe sincrética Barrios Muro, presencia clandestina, desafía Iglesia.
 tags:
 - faccion
 - proscrita

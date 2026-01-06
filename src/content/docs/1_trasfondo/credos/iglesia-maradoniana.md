@@ -1,7 +1,7 @@
 ---
 title: Iglesia Maradoniana
 folder: 1_trasfondo/credos
-description: Catolicismo sincrético futbolístico que venera a Diego Armando Maradona como santo, hegemónico en Barrios del Muro pero combatido oficialmente
+description: Catolicismo sincrético futbolístico, venera Maradona, hegemónico Barrios del Muro.
 tags:
   - credo
   - iglesia-maradoniana

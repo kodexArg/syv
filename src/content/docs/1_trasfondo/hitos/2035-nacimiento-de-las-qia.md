@@ -1,7 +1,7 @@
 ---
-title: Nacimiento de las QIA (2035)
+title: Nacimiento QIA
 folder: 1_trasfondo/hitos
-description: Aparición pública de las Inteligencias Artificiales Cuánticas (QIA), tecnología que cambiaría el curso de la historia humana y conduciría al Anatema Mecánico.
+description: Aparición pública QIA, tecnología que conduce a Anatema Mecánico.
 fecha: 2035
 region: Global
 tags:

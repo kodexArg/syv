@@ -1,7 +1,7 @@
 ---
-title: El Estallido - La Segunda Guerra Fría (2036-2039)
+title: Estallido
 folder: 1_trasfondo/hitos
-description: Período de fragmentación transversal del mundo entre la guerra USA-China (2036) y la Gran Guerra Global (2039), marcado por el colapso de alianzas, lesión de comunicaciones globales y la integración fatal de drones autónomos con QIA emergentes.
+description: Guerra USA-China, fragmentación mundial, drones + QIA integrados fatalmente.
 tags:
   - gran-guerra
   - el-estallido

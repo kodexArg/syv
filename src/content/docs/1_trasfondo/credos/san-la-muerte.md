@@ -1,7 +1,7 @@
 ---
 title: San La Muerte
 folder: 1_trasfondo/credos
-description: Culto del litoral argentino que venera a la muerte personificada como santo protector, aborrecido por la Iglesia pero imposible de erradicar
+description: Culto litoral, muerte personificada, santo protector, proscrito, irradicable.
 tags:
   - credo
   - san-la-muerte

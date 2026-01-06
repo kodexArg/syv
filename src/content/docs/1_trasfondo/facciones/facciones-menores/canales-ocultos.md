@@ -1,7 +1,7 @@
 ---
 title: Canales Ocultos
 folder: 1_trasfondo/facciones/facciones-menores
-description: Una red invisible de poder e influencia que opera en las sombras de Dársena, un mercado de secretos, favores y recursos fuera del control estatal y eclesiástico.
+description: Red invisible poder, mercado secretos, favores, fuera control oficial.
 tags:
 - faccion
 - secreta

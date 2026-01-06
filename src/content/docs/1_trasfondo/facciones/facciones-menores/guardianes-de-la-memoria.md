@@ -1,7 +1,7 @@
 ---
-title: Guardianes de la Memoria
+title: Guardianes Memoria
 folder: 1_trasfondo/facciones/facciones-menores
-description: Club elitista y secreto de Ciudad Dársena, cuyos miembros -aristócratas y académicos en su mayoría- coleccionan y resguardan conocimiento prohibido, sin medir las consecuencias.
+description: Club elitista secreto, aristócratas académicos, coleccionistas conocimiento prohibido.
 tags:
 - faccion
 - secreta

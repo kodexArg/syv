@@ -1,5 +1,6 @@
 ---
-title: Guias Para Colaboradores
+title: Guías
+description: Protocolos, manuales y plantillas para mantener coherencia narrativa entre colaboradores.
 sidebar:
   hidden: true
   order: 1

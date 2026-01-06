@@ -1,7 +1,7 @@
 ---
-title: Constitución de la Confederación Argentina
+title: Constitución
 folder: 1_trasfondo/codex
-description: Carta Magna de la Confederación Argentina. Establece la Teocracia Militar, el rechazo a la Falsa Inteligencia, y la estructura de castas basada en la Fe y el Servicio.
+description: Carta Magna: Teocracia Militar, Anatema, estructura de gobierno confederado.
 tags:
 - constitucion
 - lore

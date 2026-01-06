@@ -1,5 +1,6 @@
 ---
 title: Facciones
+description: Organizaciones políticas, militares, religiosas, clandestinas y sus relaciones de poder.
 sidebar:
   hidden: true
   order: 1

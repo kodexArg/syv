@@ -1,7 +1,7 @@
 ---
 title: La Compañía
 folder: 1_trasfondo/credos
-description: Culto del azar que postula la existencia de una Compañía invisible que administra la suerte mediante sorteos secretos
+description: Culto del azar, Compañía invisible, suerte, sorteos secretos populares.
 tags:
   - credo
   - la-compania

@@ -1,7 +1,7 @@
 ---
-title: El Anatema Mecánico - Prohibición Universal de la Tecnología Digital
+title: Anatema Mecánico
 folder: 1_trasfondo/codex
-description: SSOT (Single Source of Truth) del Anatema Mecánico (2061-2178). Promulgación global tras El Fin de los Secretos y El Gran Silencio, su fundamentación teológica, aplicación confederada y evolución histórica.
+description: Prohibición universal de tecnología digital (2061-2178), teología, aplicación confederada.
 tags:
   - anatema-mecanico
   - qia

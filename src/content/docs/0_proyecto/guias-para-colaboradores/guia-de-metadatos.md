@@ -1,7 +1,7 @@
 ---
-title: Guía de Metadatos para archivos Markdown
+title: Metadatos
 folder: 0_proyecto/guias-para-colaboradores
-description: Instrucciones y ejemplos para el uso correcto de metadatos en los archivos .md del proyecto SyV.
+description: Formato y reglas del frontmatter YAML para archivos markdown.
 
 tags:
   - guia

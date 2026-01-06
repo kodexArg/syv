@@ -1,7 +1,7 @@
 ---
-title: Shipibo-Conibo (Los Cazadores de Pesadillas)
+title: Shipibo-Conibo
 folder: 1_trasfondo/facciones/facciones-menores
-description: Comunidad de chamanes amazónicos refugiados en las Tuberías de Ciudad Dársena, conocidos por manejar el cultivo de hongos psicoactivos y ofrecer "sanación" psicológica a través de rituales. Algunos los llaman Cazadores de Pesadillas por sus métodos de curación.
+description: Chamanes amazónicos Tuberías, hongos psicoactivos, sanación ritual.
 tags:
   - faccion
   - proscrita

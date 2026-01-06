@@ -1,7 +1,7 @@
 ---
-title: Kuña Mbareté (Las Yarará)
+title: Kuña Mbareté
 folder: 1_trasfondo/facciones/facciones-menores
-description: Hermandad ancestral de mujeres chamanes y guerreras que libran una guerra secreta contra el Ména (aquel que pretende la propiedad del alma) desde 1542, cuando Arapy (la India Juliana) ejecutó al conquistador Ñuño de Cabrera en Asunción, instaurando una profilaxis mística contra la corrupción del espíritu.
+description: Hermandad mujeres chamanes guerreras, guerra contra Ména, profilaxis mística.
 tags:
   - faccion
   - mitica

@@ -2,7 +2,7 @@
 title: A Cielo Abierto
 folder: 1_trasfondo/hitos
 fecha: 2031
-description: El grafiti de Rosario y la década del terror aéreo. Cuando los drones autónomos democratizaron la muerte y el cielo se convirtió en el enemigo de la humanidad.
+description: Terror aéreo, drones autónomos, década de muerte democratizada.
 tags:
 - hito
 - drones

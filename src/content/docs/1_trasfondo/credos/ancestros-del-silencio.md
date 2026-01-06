@@ -1,7 +1,7 @@
 ---
 title: Ancestros del Silencio
 folder: 1_trasfondo/credos
-description: Culto surgido del trauma del Gran Silencio que venera a los 180,000 muertos del 12 de marzo de 2061 como mártires libertadores
+description: Culto a los 180,000 mártires del Gran Silencio de 2061, proscrito.
 tags:
   - credo
   - ancestros-del-silencio

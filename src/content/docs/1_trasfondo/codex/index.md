@@ -1,5 +1,6 @@
 ---
 title: Codex
+description: Textos legales, teológicos, dogmas y constitución de la Teocracia Militar.
 sidebar:
   hidden: true
   order: 1

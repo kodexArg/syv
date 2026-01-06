@@ -1,7 +1,7 @@
 ---
-title: Plantilla de Facción
+title: Plantilla Facción
 folder: 0_proyecto/guias-para-colaboradores
-description: Plantilla completa y estructura canónica para documentar facciones en el universo SyV
+description: Estructura canónica para documentar facciones.
 tags:
   - plantilla
   - faccion

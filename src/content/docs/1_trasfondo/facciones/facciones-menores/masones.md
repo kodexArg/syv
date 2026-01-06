@@ -1,7 +1,7 @@
 ---
 title: Masones
 folder: 1_trasfondo/facciones/facciones-menores
-description: Hermandad exclusiva y clandestina que opera desde los Barrios del Norte de Ciudad Dársena, dedicada a la Libertad de Pensamiento, el Perfeccionamiento Moral y la Fraternidad Universal. Su búsqueda de la verdad incomoda al Anatema Mecánico.
+description: Hermandad clandestina, libertad pensamiento, verdad, incomoda Anatema.
 tags:
 - faccion
 - proscrita

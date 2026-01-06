@@ -1,7 +1,7 @@
 ---
-title: Refugiados y Parias
+title: Parias
 folder: 1_trasfondo/facciones/facciones-menores
-description: La masa anónima de individuos sin estatus legal que sobreviven en los márgenes de Dársena, desde los Barrios del Muro hasta las Tuberías, en una lucha constante contra el hambre y las autoridades.
+description: Masa sin estatus legal, márgenes Dársena, hambre, contra autoridades.
 tags:
 - faccion
 - proscrita

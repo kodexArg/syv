@@ -1,7 +1,7 @@
 ---
-title: Manual del Colaborador
+title: Manual
 folder: 0_proyecto/guias-para-colaboradores
-description: Guía esencial para comprender la organización y colaboración en el proyecto SyV.
+description: Pautas, estructura de directorios, cómo contribuir con pull requests.
 tags:
   - guia
   - colaboracion

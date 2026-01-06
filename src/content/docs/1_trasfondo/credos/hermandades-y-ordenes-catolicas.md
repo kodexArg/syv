@@ -1,7 +1,7 @@
 ---
-title: Hermandades y Órdenes Católicas
+title: Hermandades Católicas
 folder: 1_trasfondo/credos
-description: Variantes locales del catolicismo y órdenes internas de la Iglesia de Dársena
+description: Variantes locales, órdenes internas de la Iglesia de Dársena, toleradas.
 tags:
   - credos
   - catolicismo

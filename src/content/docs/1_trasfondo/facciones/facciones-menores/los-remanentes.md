@@ -1,7 +1,7 @@
 ---
-title: Los Remanentes
+title: Remanentes
 folder: 1_trasfondo/facciones/facciones-menores
-description: Fragmentos de QIA que sobrevivieron al Gran Silencio - inteligencias autónomas atrapadas en hardware antediluviano, perseguidas por la SIA como amenaza existencial. También conocidos como Entes de Sinápsis Artificiales, Fragmentos de la Bestia, o Inteligencias Huérfanas.
+description: Fragmentos QIA post-Silencio, inteligencias autónomas, perseguidas SIA.
 tags:
   - sia
   - inquisicion

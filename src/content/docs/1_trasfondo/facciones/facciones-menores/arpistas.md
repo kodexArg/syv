@@ -1,7 +1,7 @@
 ---
 title: Arpistas
 folder: 1_trasfondo/facciones/facciones-menores
-description: Red internacional y proscrita de buscadores de conocimiento, tecnología y tesoros ocultos, expertos en inutilizar tecnología peligrosa antes de preservarla.
+description: Red proscrita internacional, conocimiento, arqueología tecnológica, neutralización.
 tags:
   - faccion
   - proscrita

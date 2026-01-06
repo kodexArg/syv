@@ -1,7 +1,7 @@
 ---
-title: La Larga Noche (2039)
+title: Larga Noche
 folder: 1_trasfondo/hitos
-description: El inicio de la Gran Guerra Global (2039-2068), marcado por el colapso total de comunicaciones intercontinentales y la transición invisible de una guerra entre humanos a una guerra contra las máquinas. Sin fecha exacta, sin declaración formal, solo oscuridad creciente.
+description: Gran Guerra Global 2039-2068, colapso comunicaciones, guerra contra máquinas.
 tags:
   - gran-guerra-global
   - larga-noche

@@ -1,7 +1,7 @@
 ---
 title: Iluminati
 folder: 1_trasfondo/facciones/facciones-menores
-description: Una facción mítica y conspirativa que supuestamente manipula los hilos del poder en Dársena. Su existencia es más un rumor que una realidad, pero el miedo a su influencia es un arma en sí misma.
+description: Facción mítica, conspiración, manipulación poder, más rumor que realidad.
 tags:
 - faccion
 - proscrita

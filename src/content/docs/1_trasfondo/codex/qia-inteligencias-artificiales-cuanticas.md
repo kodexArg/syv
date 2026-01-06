@@ -1,7 +1,7 @@
 ---
-title: QIA - Inteligencias Artificiales Cuánticas
+title: QIA
 folder: 1_trasfondo/codex
-description: Registro del Hermano Archivista Pedro de los Santos sobre la naturaleza de las QIA, la Gran Bestia que casi devora la estirpe de Adán. Jerarquías, Catedrales de Lógica, supervivencia en 2178 y el deber de la Confederación.
+description: Inteligencias Artificiales Cuánticas, Gran Bestia, Catedrales de Lógica, naturaleza post-2061.
 tags:
   - qia
   - inteligencias-artificiales

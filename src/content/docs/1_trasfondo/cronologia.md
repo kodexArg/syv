@@ -1,7 +1,7 @@
 ---
 title: Cronología
 folder: 1_trasfondo/cronologia
-description: Cronología completa del colapso del mundo antiguo y la formación de la Confederación Argentina, desde la perspectiva de 2178.
+description: Registro completo desde 2020 hasta 2178, colapso global y Confederación Argentina.
 tags:
 - cronologia
 - colapso-global

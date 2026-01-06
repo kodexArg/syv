@@ -1,7 +1,7 @@
 ---
 title: Peronismo
 folder: 1_trasfondo/credos
-description: Secta política hermética ultra-nacionalista de elite que venera a Juan Domingo Perón y busca refundar Argentina bajo modelo corporativista
+description: Secta ultra-nacionalista de elite, venera Perón, modelo corporativista.
 tags:
   - credo
   - peronismo

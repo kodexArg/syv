@@ -1,7 +1,7 @@
 ---
-title: El Conocimiento Sobreviviente - Un Inventario de la Memoria Humana
+title: Conocimiento Sobreviviente
 folder: 1_trasfondo/codex
-description: Análisis exhaustivo del Hermano Archivista Pedro de los Santos sobre qué conocimiento histórico sobrevivió, qué se perdió, y cómo accedemos a la verdad del pasado desde Ciudad Dársena en 2178.
+description: Inventario del Hermano Archivista de memoria humana, qué sobrevivió y qué se perdió.
 tags:
 - conocimiento
 - historia

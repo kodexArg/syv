@@ -1,7 +1,7 @@
 ---
-title: Facciones Menores
-folder: 1_trasfondo/facciones/menores
-description: Índice y sumario de grupos de menor poder o influencia dentro del universo de Subordinación y Valor.
+title: Menores
+folder: 1_trasfondo/facciones/facciones-menores
+description: Grupos de menor escala: contrabandistas, cultos, células subversivas, gremios locales.
 tags:
 - facciones
 - indice

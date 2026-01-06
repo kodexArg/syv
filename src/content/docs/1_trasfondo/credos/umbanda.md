@@ -1,7 +1,7 @@
 ---
 title: Umbanda
 folder: 1_trasfondo/credos
-description: Fe sincrética afroamericana que fusiona catolicismo, espiritismo kardeciano y tradiciones yoruba, proscrita en Dársena pero dominante en Barrios del Muro
+description: Sincretismo afro, catolicismo, espiritismo, yoruba, proscrita, dominante Barrios.
 tags:
   - credo
   - umbanda

@@ -1,7 +1,7 @@
 ---
-title: Religiones del Viejo Mundo
+title: Viejo Mundo
 folder: 1_trasfondo/credos
-description: Credos pre-colapso que sobrevivieron el Dominio Algorítmico y se adaptaron al mundo post-Anatema
+description: Credos pre-colapso sobrevivientes: Judaísmo, Protestantismo, tolerados.
 tags:
   - credos
   - viejo-mundo

@@ -1,7 +1,7 @@
 ---
-title: Saqueadores y Traficantes
+title: Saqueadores
 folder: 1_trasfondo/facciones/facciones-menores
-description: Grupos de arqueólogos proscritos y traficantes de antigüedades que operan en las ruinas de Dársena, en una carrera contra la Sagrada Inquisición por encontrar y vender los secretos del pasado.
+description: Arqueólogos traficantes, ruinas Dársena, venden secretos del pasado.
 tags:
 - faccion
 - proscrita

@@ -39,7 +39,7 @@ export const onRequest = defineMiddleware(async (context, next) => {
 
 												// Hacer fade in mientras el anterior hace fade out
 												newMain.style.opacity = '0';
-												newMain.style.transition = 'opacity 0.5s ease-in';
+												newMain.style.transition = 'opacity 0.5s ease-out';
 												setTimeout(() => {
 													newMain.style.opacity = '1';
 												}, 20);
@@ -63,7 +63,7 @@ export const onRequest = defineMiddleware(async (context, next) => {
 					const main = document.querySelector('main');
 					if (main) {
 						main.style.opacity = '0';
-						main.style.transition = 'opacity 0.5s ease-in';
+						main.style.transition = 'opacity 0.5s ease-out';
 						setTimeout(() => {
 							main.style.opacity = '1';
 						}, 50);

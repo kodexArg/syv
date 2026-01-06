@@ -1,7 +1,7 @@
 ---
-title: Fuerzas Armadas de la Confederación
+title: Fuerzas Armadas
 folder: 1_trasfondo/facciones/fuerzas-armadas
-description: La estructura de defensa y seguridad de la Confederación Argentina, un pilar del régimen que combina el poder militar tradicional con un omnipresente aparato de seguridad interna.
+description: Defensa, seguridad, poder militar, aparato interno, pilar régimen.
 tags:
 - faccion
 - fuerzas-armadas
