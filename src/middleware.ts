@@ -7,7 +7,7 @@ export const onRequest = defineMiddleware(async (context, next) => {
 		const html = await response.text();
 		const injectedHtml = html.replace(
 			'</head>',
-			'<script src="/sidebar-animations.js"><\/script></head>'
+			'<script src="/syv/sidebar-animations.js"><\/script></head>'
 		);
 		return new Response(injectedHtml, response);
 	}
