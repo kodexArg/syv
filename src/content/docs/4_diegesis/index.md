@@ -9,7 +9,7 @@ tags:
 - carta
 - diario
 sidebar:
-  order: 999
+  hidden: true
 ---
 
 Las voces desde adentro. Los relatos escritos con tinta de los personajes que habitan el canon, las cartas interceptadas por la Sagrada Inquisición Argentina, las crónicas garabateadas en márgenes de misales mientras la humedad pudre el papel.

@@ -1,6 +1,7 @@
 ---
 title: Cronicas
 sidebar:
+  hidden: true
   order: 1
 ---
 

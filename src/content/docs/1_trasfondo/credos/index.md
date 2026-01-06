@@ -9,6 +9,7 @@ tags:
   - sincretismo
   - anatema-mecanico
 sidebar:
+  hidden: true
   order: 1
 ---
 

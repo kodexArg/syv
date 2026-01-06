@@ -1,6 +1,7 @@
 ---
 title: Relatos
 sidebar:
+  hidden: true
   order: 1
 ---
 

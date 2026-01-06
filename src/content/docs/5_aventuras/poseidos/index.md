@@ -1,6 +1,7 @@
 ---
 title: Poseidos
 sidebar:
+  hidden: true
   order: 1
 ---
 

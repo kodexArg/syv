@@ -1,6 +1,7 @@
 ---
 title: Mendoza
 sidebar:
+  hidden: true
   order: 1
 ---
 

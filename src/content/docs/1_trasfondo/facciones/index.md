@@ -1,6 +1,7 @@
 ---
 title: Facciones
 sidebar:
+  hidden: true
   order: 1
 ---
 

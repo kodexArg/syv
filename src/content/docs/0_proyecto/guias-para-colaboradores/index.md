@@ -1,6 +1,7 @@
 ---
 title: Guias Para Colaboradores
 sidebar:
+  hidden: true
   order: 1
 ---
 

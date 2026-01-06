@@ -8,7 +8,7 @@ tags:
 - leyes
 - cosmovision
 sidebar:
-  order: 999
+  hidden: true
 ---
 
 La memoria colectiva de un mundo que ardió. Los textos fundacionales de la Teocracia Militar, las líneas temporales que trazan el descenso desde 2020 hasta la humedad perpetua de 2178, los dogmas que sostienen el Anatema Mecánico como ley divina.

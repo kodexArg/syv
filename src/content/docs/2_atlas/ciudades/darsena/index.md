@@ -1,6 +1,7 @@
 ---
 title: Darsena
 sidebar:
+  hidden: true
   order: 1
 ---
 

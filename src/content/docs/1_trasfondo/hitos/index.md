@@ -1,6 +1,7 @@
 ---
 title: Hitos
 sidebar:
+  hidden: true
   order: 1
 ---
 

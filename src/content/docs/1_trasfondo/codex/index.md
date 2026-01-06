@@ -1,6 +1,7 @@
 ---
 title: Codex
 sidebar:
+  hidden: true
   order: 1
 ---
 

@@ -6,7 +6,7 @@ tags:
 - personajes
 - guia
 sidebar:
-  order: 999
+  hidden: true
 ---
 
 Los rostros de la Confederación. Inquisidores con las manos manchadas de sangre hereje, Arpistas que preservan conocimiento prohibido bajo el riesgo de la hoguera, marineros que cruzan el Río de la Plata con contrabando en las bodegas.

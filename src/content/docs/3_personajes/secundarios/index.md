@@ -1,6 +1,7 @@
 ---
 title: Secundarios
 sidebar:
+  hidden: true
   order: 1
 ---
 

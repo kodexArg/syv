@@ -5,7 +5,7 @@ description: Módulos jugables y aventuras en el universo SyV.
 tags:
 - aventura
 sidebar:
-  order: 999
+  hidden: true
 ---
 
 Las misiones que encarnan el mundo. Módulos diseñados para que jugadores caminen las calles de Dársena, desciendan a las Tuberías, interroguen herejes en nombre de la Sagrada Inquisición Argentina o traicionen a la Iglesia desde las sombras.

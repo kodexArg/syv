@@ -1,6 +1,7 @@
 ---
 title: Cartas
 sidebar:
+  hidden: true
   order: 1
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: San Luis
 sidebar:
+  hidden: true
   order: 1
 ---
 

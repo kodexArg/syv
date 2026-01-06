@@ -7,6 +7,8 @@ tags:
 - recursos
 - multimedia
 - assets
+sidebar:
+  hidden: true
 ---
 
 Los artefactos visuales y sonoros del universo. Mapas trazados sobre pergamino húmedo, fotografías de Dársena bajo la niebla perpetua, grabaciones de audio donde se escuchan las sirenas de la Guardia mezcladas con cantos gregorianos.

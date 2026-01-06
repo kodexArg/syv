@@ -1,6 +1,7 @@
 ---
 title: Fuerte San Martin
 sidebar:
+  hidden: true
   order: 1
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: Principales
 sidebar:
+  hidden: true
   order: 1
 ---
 

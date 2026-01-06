@@ -32,6 +32,7 @@ export default defineConfig({
 				{ label: 'Media', collapsed: true, autogenerate: { directory: '6_media' } },
 			],
 			components: {
+				PageTitle: './src/components/PageTitle.astro',
 				ThemeSelect: './src/components/ThemeSelect.astro',
 			},
 		}),
