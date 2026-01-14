@@ -4,13 +4,15 @@
     guia-de-facciones: guia-de-facciones
     guia-de-metadatos: guia-de-metadatos
     guia-de-personajes: guia-de-personajes
+    index: index
     manual-del-colaborador: manual-del-colaborador
-  proyecto: proyecto
+  index: index
 1_trasfondo:
   codex:
     anatema-mecanico: anatema-mecanico
     conocimiento-sobreviviente: conocimiento-sobreviviente
     constitucion-argentina: constitucion-argentina
+    index: index
     otras-tecnologias-prohibidas: otras-tecnologias-prohibidas
     qia-inteligencias-artificiales-cuanticas: qia-inteligencias-artificiales-cuanticas
   credos:
@@ -53,6 +55,7 @@
       exorcistas: exorcistas
       iglesia: iglesia
       inquisicion: inquisicion
+    index: index
     union:
       gremio-de-comercio: gremio-de-comercio
   hitos:
@@ -65,16 +68,17 @@
     2048-el-fin-de-los-secretos: 2048-el-fin-de-los-secretos
     2061-el-gran-silencio: 2061-el-gran-silencio
     2178-actualidad: 2178-actualidad
+    index: index
+  index: index
   sinopsis: sinopsis
-  trasfondo: trasfondo
 2_atlas:
-  atlas: atlas
   ciudades:
     cordoba: cordoba
     darsena:
       barrios-del-muro: barrios-del-muro
       darsena: darsena
       fuera-del-muro: fuera-del-muro
+      index: index
       microcentro: microcentro
       tuberias: tuberias
       zona-centro: zona-centro
@@ -82,32 +86,44 @@
       zona-residencial-alta-sociedad: zona-residencial-alta-sociedad
     fuerte-san-martin:
       fuerte-san-martin: fuerte-san-martin
+      index: index
+    index: index
     mendoza:
+      index: index
       mendoza: mendoza
     san-luis:
+      index: index
       san-luis: san-luis
   climas:
     clima-2178: clima-2178
     humedad-post-guerra: humedad-post-guerra
+    index: index
+  index: index
   tecnologia-y-ciencia:
     anatema-mecanico: anatema-mecanico
+    celdas-radionuclidos: celdas-radionuclidos
     computacion-y-datos: computacion-y-datos
     electricidad: electricidad
+    index: index
+    los-rezagos: los-rezagos
+    procesador-argentino-pia: procesador-argentino-pia
     tecnologia-civil: tecnologia-civil
     tecnologia-militar: tecnologia-militar
     tecnologias-visuales: tecnologias-visuales
 3_personajes:
-  damian: damian
-  personajes: personajes
+  index: index
   principales:
+    damian-diconte: damian-diconte
     francisco-de-la-cruz: francisco-de-la-cruz
     hermana-superior-maria: hermana-superior-maria
+    index: index
     monseñor-miguel: monseñor-miguel
     paco-el-puntero: paco-el-puntero
     padre-rafa: padre-rafa
     sumo-pontifice: sumo-pontifice
     teniente-coronel-gobernador: teniente-coronel-gobernador
     videla-iv: videla-iv
+    walter: walter
   secundarios:
     agente-luis-navarro: agente-luis-navarro
     alberto-gomez: alberto-gomez
@@ -126,6 +142,7 @@
     hermana-cecilia-torres: hermana-cecilia-torres
     hermana-laura-castillo: hermana-laura-castillo
     hermano-diego-sanchez: hermano-diego-sanchez
+    index: index
     ivan-torres: ivan-torres
     joaquin-sacerdote: joaquin-sacerdote
     juan-el-coleccionista-de-ecos: juan-el-coleccionista-de-ecos
@@ -152,23 +169,26 @@
     teniente-carla-vazquez: teniente-carla-vazquez
     valeria-santos: valeria-santos
     veronica-suarez: veronica-suarez
-  walter: walter
 4_diegesis:
   cartas:
     carta-a-sor-sofia: carta-a-sor-sofia
+    index: index
   cronicas:
     cronica-del-arribo-de-damian: cronica-del-arribo-de-damian
-  diegesis: diegesis
+    index: index
+  index: index
   relatos:
     damian: damian
     historia-campana-damian: historia-campana-damian
+    index: index
     la-llegada-del-sabueso: la-llegada-del-sabueso
     los-guardianes-de-chacarita: los-guardianes-de-chacarita
     walter: walter
 5_aventuras:
-  aventuras: aventuras
+  index: index
   poseidos:
     artefactos-y-pistas: artefactos-y-pistas
     guardianes-de-chacarita: guardianes-de-chacarita
+    index: index
 6_media:
-  media: media
+  index: index
