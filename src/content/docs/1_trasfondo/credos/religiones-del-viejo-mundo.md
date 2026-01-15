@@ -1,7 +1,7 @@
 ---
 title: Viejo Mundo
 folder: 1_trasfondo/credos
-description: Credos pre-colapso sobrevivientes: Judaísmo, Protestantismo, tolerados.
+description: "Credos pre-colapso sobrevivientes: Judaísmo, Protestantismo, tolerados."
 tags:
   - credos
   - viejo-mundo
@@ -10,6 +10,7 @@ tags:
   - protestantismo
 tipo-credo: tolerado
 area-influencia: nacional
+
 ---
 
 ## Judaísmo

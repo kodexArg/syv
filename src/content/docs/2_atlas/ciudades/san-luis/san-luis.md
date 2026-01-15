@@ -13,6 +13,7 @@ tags:
 - sindicato-san-luis
 - humedad
 - enfermedad-endemica
+
 ---
 San Luis es la **Ciudad Tristeza** de la Confederación Argentina. Con 1 millón de habitantes, existe no por necesidad económica, sino por **necesidad militar estratégica**. Ubicada en el corazón de la meseta semiárida cuyana, San Luis controla el paso que conecta el océano Atlántico (Dársena, Córdoba, Mendoza, FSM) con el océano Pacífico (Chile salvaje, territorios ignoto). Su única función es **vigilancia y control**.
 

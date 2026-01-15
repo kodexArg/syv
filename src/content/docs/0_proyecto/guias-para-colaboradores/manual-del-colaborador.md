@@ -5,6 +5,7 @@ description: Pautas, estructura de directorios, cómo contribuir con pull reques
 tags:
   - guia
   - colaboracion
+
 ---
 # Cómo contribuir (pull requests)
 

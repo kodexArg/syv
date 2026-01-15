@@ -11,6 +11,7 @@ tags:
   - norte
 tipo-credo: proscrito
 area-influencia: continental
+
 ---
 
 **Tipo:** Proscrito

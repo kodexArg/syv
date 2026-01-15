@@ -1,6 +1,7 @@
 ---
 name: validar-canon
 description: Validar coherencia narrativa completa contra cronología, personajes, facciones, tecnología, geografía y perspectiva del canon
+
 ---
 
 # Validar Contra Canon

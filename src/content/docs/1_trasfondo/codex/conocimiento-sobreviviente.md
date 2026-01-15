@@ -9,6 +9,7 @@ tags:
 - perdida-digital
 - recuperacion
 - anatema-mecanico
+
 ---
 # El Conocimiento Sobreviviente: Un Inventario de la Memoria Humana
 

@@ -25,3 +25,8 @@ src/content/docs/personajes
 src/content/docs/diegesis
 src/content/docs/aventuras
 src/content/docs/media
+
+# Config folders in docs
+src/content/docs/.claude
+src/content/docs/.vscode
+src/content/docs/.git

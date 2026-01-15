@@ -5,6 +5,7 @@ description: Sistemas de generación, distribución y uso de energía eléctrica
 tags:
 - tecnologia
 - atlas
+
 ---
 En Ciudad Dársena, la gestión de la energía es un reflejo de su sociedad: estrictamente controlada, con grandes disparidades entre el suministro público y las necesidades de las megaestructuras que sostienen la ciudad.
 
@@ -88,6 +89,17 @@ Lo que motiva esta vigilancia extrema no es un fenómeno físico, sino una **ame
 "La Bestia" es el nombre clasificado que la Iglesia usa para referirse a cualquier forma de inteligencia no humana —máquina o software— que pudiera estar operando clandestinamente. No es una entidad específica ubicada en un lugar. Es una **paranoia institucionalizada**: la certeza de que si hay consumo anómalo de energía, podría ser IA.
 
 Cualquier fluctuación de voltaje que no corresponda a Nodos conocidos, cualquier consumo extra no autorizado, se investiga inmediatamente bajo la suposición de que podría indicar operación de IA.
+
+**Las Torres Hidropónicas y la Paranoia de Concentración**:
+
+Lo que alimenta la paranoia de "La Bestia" en las Torres Hidropónicas es específico: estas instalaciones contienen **miles de Procesadores de Industria Argentina (PIAs)** para automatización de motores, sistemas de bombeo, control de LEDs de cultivo y gestión de nutrientes. La concentración masiva de procesadores en una ubicación única genera ansiedad existencial en la SIA.
+
+La lógica de la Iglesia es paradójica: los PIAs son tecnología permitida, artesanal, incapaz de autonomía... pero ¿y si, de alguna manera, miles de PIAs en comunicación pudieran alcanzar un nivel incipiente de coordinación? ¿Y si la concentración misma creara una emergencia de "cuasi-IA"? Esta paranoia es sin fundamento técnico (los PIAs no tienen capacidad de red), pero motiva inspecciones regulares de las Torres por Censores especializados.
+
+La SIA vigila especialmente:
+- Patrones anómalos de consumo eléctrico en torres (cualquier fluctuación dispara alarmas)
+- Comportamiento "sospechosamente coherente" de sistemas de cultivo (se asume que automatización perfecta implica "inteligencia oculta")
+- Comunicación entre operadores y PIAs (se investiga si hay "influencia no-autorizada")
 
 **La Verdad Más Oscura:**
 

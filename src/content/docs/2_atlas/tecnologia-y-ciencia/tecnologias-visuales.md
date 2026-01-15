@@ -5,6 +5,7 @@ description: Tecnologías visuales permitidas bajo el Anatema Mecánico.
 tags:
 - tecnologia
 - atlas
+
 ---
 En un mundo sin computación avanzada, las tecnologías para mostrar imágenes dependen de soluciones analógicas y mecánicas, algunas de una complejidad sorprendente.
 

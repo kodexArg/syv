@@ -9,6 +9,7 @@ tags:
   - centro
 facciones: []
 alerta-spoilers: "Oculta la muerte del dueño y ha notado ventas sospechosas de materiales para tecnología prohibida"
+
 ---
 ## Alberto Gómez, el Ferretero
 

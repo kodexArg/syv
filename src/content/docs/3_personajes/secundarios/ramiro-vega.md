@@ -11,6 +11,7 @@ facciones:
   - "Comerciantes"
   - "Criptógrafos"
 alerta-spoilers: "Su rol como espía de los Criptógrafos."
+
 ---
 ## Ramiro Vega, Artífice Restaurador
 

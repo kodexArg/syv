@@ -10,6 +10,7 @@ tags:
   - barrios-del-muro
 facciones: ["Educadores laicos"]
 alerta-spoilers: "Su activismo antieclesiástico y colección de libros prohibidos son un secreto peligroso"
+
 ---
 ## Elena Juárez, la Maestra
 

@@ -1,6 +1,7 @@
 ---
 name: crear-faccion
 description: Crear facción completa con estructura canónica de 11 categorías, validación de relaciones y coherencia narrativa según complejidad (Simple/Compleja)
+
 ---
 
 # Crear Facción

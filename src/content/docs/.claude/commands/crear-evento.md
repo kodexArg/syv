@@ -1,6 +1,7 @@
 ---
 name: crear-evento
 description: Agregar evento histórico a cronología validando coherencia temporal, tecnología del Anatema Mecánico y facciones existentes
+
 ---
 
 # Crear Evento

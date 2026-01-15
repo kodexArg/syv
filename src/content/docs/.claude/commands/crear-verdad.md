@@ -1,6 +1,7 @@
 ---
 name: crear-verdad
 description: Garantizar que una afirmación es verdadera en canon - busca contradicciones, ejecuta cambios automáticos moderados, valida coherencia post-cambios
+
 ---
 
 # Crear Verdad Canónica

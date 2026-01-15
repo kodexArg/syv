@@ -9,6 +9,7 @@ tags:
   - operario
 facciones: []
 alerta-spoilers: "Información sobre su participación en la Resistencia Subterránea y planes de sabotaje"
+
 ---
 ## Marcos Duarte, Científico en Torres Hidropónicas
 

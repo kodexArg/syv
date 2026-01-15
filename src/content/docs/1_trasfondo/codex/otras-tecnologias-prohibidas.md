@@ -11,6 +11,7 @@ tags:
 - confederacion
 - censores-eclesiasticos
 - cripta-de-la-razon
+
 ---
 # Herejía Tecnológica y Conocimiento Prohibido
 

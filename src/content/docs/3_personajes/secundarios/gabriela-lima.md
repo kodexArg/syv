@@ -8,6 +8,7 @@ tags:
   - muralista
   - barrios-del-muro
 facciones: []
+
 ---
 ## Gabriela Lima, la Muralista
 

@@ -11,6 +11,7 @@ tags:
 tipo-credo: proscrito
 area-influencia: nacional
 faccion-asociada: Los Umbanda
+
 ---
 
 **Tipo:** Proscrito

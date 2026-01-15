@@ -8,6 +8,7 @@ tags:
   - operativo
 facciones: ["Seguridad Urbana"]
 alerta-spoilers: "Su infiltración en una facción proscrita es una misión personal y secreta"
+
 ---
 ## Agente Luis Navarro
 

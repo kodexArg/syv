@@ -1,6 +1,7 @@
 ---
 name: aplicar-estilo
 description: Aplicar Canon de Estilo SyV (13 reglas) a texto nuevo o existente - proporción áurea, elipsis emocional, sincretismo léxico
+
 ---
 
 # Aplicar Estilo Literario

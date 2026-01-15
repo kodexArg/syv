@@ -10,6 +10,7 @@ tags:
   - identidad-nacional
 tipo-credo: ideología-credo
 area-influencia: nacional
+
 ---
 
 **Tipo:** Ideología-credo (católica sincrética)

@@ -6,6 +6,7 @@ tags:
   - hito
   - actualidad-2178
   - presente
+
 ---
 Este documento es un adelanto de hasta dónde se llegará con la cronología, donde en el futuro escribiremos los eventos que transforman el mundo año a año.
 

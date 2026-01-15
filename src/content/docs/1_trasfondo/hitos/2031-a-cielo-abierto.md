@@ -10,6 +10,7 @@ tags:
 - "2031"
 - automatizacion
 - terror-aereo
+
 ---
 *Hito conmemorativo del grafiti encontrado en las ruinas de Rosario*
 *Hermano Archivista Pedro de los Santos, 2178*

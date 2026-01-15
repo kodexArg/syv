@@ -1,6 +1,7 @@
 ---
 name: cronologia
 description: Guardián de la cronología SyV - valida coherencia temporal, previene contradicciones, mantiene perspectiva 2178
+
 ---
 
 # Skill: Chronology Keeper

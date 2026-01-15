@@ -1,35 +1,3 @@
-# Facciones Clave - Referencia Rápida
-
-Información resumida de las facciones principales del universo SyV para consulta rápida.
-
-## PODER OFICIAL
-
-### Iglesia de Dársena (Nueva Santa Sede)
-
-**Archivo**: `1_trasfondo/facciones/iglesia-de-darsena/iglesia.md`
-
-**Alias**: La Santa Sede, La Iglesia
-
-**Tipo**: Oficial - Poder espiritual y moral absoluto
-
-**Keywords**: santa-sede, dársena, poder-religioso, nueva-basílica, papa
-
-**Descripción**:
-- Traslado desde el Vaticano (2054, ruinas de Basílica de San Pedro)
-- Centro del poder eclesiástico mundial
-- Control dogmático sobre ciencia y tecnología
-- Sede: Nueva Basílica de San Pedro (Isla Oriental, Dársena)
-
-**Estructura**:
-- Papa (líder supremo)
-- Cardenales y obispos
-- Ramas especializadas: SIA, Exorcistas, Curatores, Archivistas, Censores
-
-**Relaciones**:
-- Aliados: Fuerzas Armadas (cooperación tensa)
-- Enemigos: Arpistas, Criptógrafos, herejía tecnológica
-- Complejo: Guardianes de la Memoria (infiltración secreta)
-
 ---
 
 ### Sagrada Inquisición Argentina (SIA)
@@ -56,6 +24,7 @@ Información resumida de las facciones principales del universo SyV para consult
 - Enemigos: Arpistas (prioridad máxima), Criptógrafos, herejía tecnológica
 - Rivales: Exorcistas (conflicto de jurisdicción sobre posesiones)
 - Reclutan: Criptógrafos capturados (a veces)
+
 
 ---
 

@@ -10,6 +10,7 @@ tags:
   - ciego
 facciones: []
 alerta-spoilers: "Su rol como contrabandista para todas las bandas de la Zona Roja es un secreto bien guardado"
+
 ---
 ## Caronte, el Balsero Fantasma
 

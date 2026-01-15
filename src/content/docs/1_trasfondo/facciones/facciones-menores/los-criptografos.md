@@ -1,11 +1,12 @@
 ---
 title: Criptógrafos
 folder: 1_trasfondo/facciones/facciones-menores
-description: Aclaración terminología: oficiales estatales o hackers clandestinos.
+description: "Aclaración terminología: oficiales estatales o hackers clandestinos."
 tags:
 - faccion
 - redirect
 - nota
+
 ---
 # Nota sobre "Los Criptógrafos"
 

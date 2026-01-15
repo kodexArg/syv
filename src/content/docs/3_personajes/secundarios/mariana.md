@@ -9,6 +9,7 @@ tags:
   - oraculo
 facciones: []
 alerta-spoilers: "Su conexión con el Ensoñador y su condición mental verdadera."
+
 ---
 ## Mariana, artista torturada
 

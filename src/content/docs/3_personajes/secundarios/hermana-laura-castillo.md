@@ -9,6 +9,7 @@ tags:
   - barrios-bajos
 facciones: ["Curatores", "Hermanas de la Caridad"]
 alerta-spoilers: "Colabora con una red clandestina de ayuda para los más necesitados"
+
 ---
 ## Hermana Laura Castillo
 

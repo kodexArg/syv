@@ -12,6 +12,7 @@ facciones:
   - "Ejército Argentino (Alto Mando)"
   - "Facción Radical del Ejército (secreta)"
 alerta-spoilers: "Su verdadera conspiración para crear una junta militar-religiosa que subordine a Videla IV. La razón de la persecución de Damián DiConte."
+
 ---
 ## Coronel Santiago Mendoza Reyes, Teniente Coronel Gobernador
 

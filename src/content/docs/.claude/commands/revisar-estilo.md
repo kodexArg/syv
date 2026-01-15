@@ -1,6 +1,7 @@
 ---
 name: revisar-estilo
 description: Validar cumplimiento del Canon de Estilo SyV (13 reglas) en texto existente - diagnóstico sin modificación
+
 ---
 
 # Revisar Estilo Literario

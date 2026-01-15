@@ -9,6 +9,7 @@ tags:
   - investigadora
 facciones: ["Seguridad Nacional"]
 alerta-spoilers: "Opera en secreto para evitar el escrutinio de la SIA, buscando aliados contra amenazas paranormales"
+
 ---
 ## Cintia Herrera, la Criptógrafa
 

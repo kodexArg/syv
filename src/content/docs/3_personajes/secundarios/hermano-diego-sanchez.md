@@ -9,6 +9,7 @@ tags:
   - basilica
 facciones: ["Alto Clero", "Servicios Religiosos"]
 alerta-spoilers: "Busca en secreto una fe más allá de la doctrina oficial"
+
 ---
 ## Hermano Diego Sánchez
 

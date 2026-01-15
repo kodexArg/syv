@@ -14,6 +14,7 @@ tags:
   - padre-rafa
   - tuberias
   - darsena
+
 ---
 
 > *"Anoche, en la frecuencia pirata, escuché algo. Una voz que respondía preguntas matemáticas en microsegundos. No era humana. No podía ser humana."*

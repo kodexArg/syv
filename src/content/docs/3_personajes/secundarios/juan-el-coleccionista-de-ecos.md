@@ -9,6 +9,7 @@ tags:
   - anticuario
 facciones: []
 alerta-spoilers: "Su verdadero nombre es Francisco Praga, ex-sacerdote fugitivo de un crimen pasional"
+
 ---
 ## Juan, el Coleccionista de Ecos
 

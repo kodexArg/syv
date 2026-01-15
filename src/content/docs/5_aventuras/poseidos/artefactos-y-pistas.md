@@ -6,6 +6,7 @@ tags:
 - aventura
 - pista
 - artefacto
+
 ---
 ## Agenda de un Muerto
 Una agenda de aspecto antiguo, recuperada del cuerpo de un poseído. Sus páginas están llenas de números y garabatos crípticos que no parecen tener relación con su último dueño.

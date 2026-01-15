@@ -10,6 +10,7 @@ tags:
 - "2029"
 - inteligencia-artificial
 - conocimiento-prohibido
+
 ---
 *Recuperado del Archivo Sellado. Atribuido al Dr. Arturo Cambronero, mayo de 2029.*
 

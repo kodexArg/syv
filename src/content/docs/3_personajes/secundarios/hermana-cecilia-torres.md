@@ -10,6 +10,7 @@ tags:
   - cientifico-teologico
 facciones: ["Archivistas y Científicos Teológicos"]
 alerta-spoilers: "Es una demonóloga secreta que trabaja para destruir la ciudad desde dentro"
+
 ---
 ## Hermana Cecilia Torres, la Archivista
 

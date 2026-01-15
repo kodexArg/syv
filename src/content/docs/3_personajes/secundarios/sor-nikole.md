@@ -9,6 +9,7 @@ tags:
   - rebelde
 facciones:
   - "Congregación de la Caridad"
+
 ---
 ## Sor Nikole, La Hermana de la Caridad
 

@@ -4,6 +4,7 @@ folder: 0_proyecto
 description: Organización, estructura y documentación general del proyecto SyV.
 sidebar:
   hidden: true
+
 ---
 
 Este archivo contiene la arquitectura del proyecto. Los protocolos de construcción del mundo, las guías para preservar la coherencia narrativa, los manuales que mantienen vivo el canon de Subordinación y Valor.

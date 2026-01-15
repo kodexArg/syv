@@ -1,7 +1,3 @@
-# Sistema PERMISOS - Guía de Usuario
-
-Bienvenido al **Sistema PERMISOS SyV**. Esta es una guía de cómo marcar información sensible para masters de JdR.
-
 ---
 
 ## ¿Qué es PERMISOS?
@@ -14,6 +10,7 @@ Un sistema minimalista de **alertas narrativas** que marca información sensible
 - *Sin marca* = PÚBLICO: Accesible a cualquiera
 
 **Sintaxis simple**: Comentarios HTML + íconos + cierre con barra
+
 
 ---
 

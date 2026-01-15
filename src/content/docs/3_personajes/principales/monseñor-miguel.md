@@ -9,6 +9,7 @@ tags:
   - enigmatico
 facciones: ["Santa Inquisición"]
 alerta-spoilers: "Su historia ha sido intencionadamente eliminada; su verdadero origen y naturaleza son un misterio"
+
 ---
 ## Monseñor Miguel
 

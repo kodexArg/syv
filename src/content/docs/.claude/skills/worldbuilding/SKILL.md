@@ -1,6 +1,7 @@
 ---
 name: worldbuilding
 description: Experto en el universo "Subordinación y Valor" (SyV) - cronología, facciones, personajes, geografía y coherencia narrativa post-apocalíptica (2020-2178)
+
 ---
 
 # Skill: SyV World-Building

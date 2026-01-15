@@ -11,6 +11,7 @@ tags:
   - colapso-comunicaciones
   - guerra-total
 fecha: 2039
+
 ---
 *Inicio de la Gran Guerra Global (2039-2068)*
 

@@ -10,6 +10,7 @@ tags:
   - violencia
 tipo-credo: proscrito
 area-influencia: regional
+
 ---
 
 **Tipo:** Proscrito

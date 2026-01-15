@@ -10,6 +10,7 @@ tags:
   - elite
 tipo-credo: ideología-credo
 area-influencia: regional
+
 ---
 
 **Tipo:** Ideología-credo (secta política hermética)

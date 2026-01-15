@@ -7,6 +7,7 @@ tags:
 - damian-diconte
 - darsena
 - inquisicion
+
 ---
 El avión llevaba un tiempo detenido. Damián sintió un suave toque en el hombro y no pudo evitar el impulso de girar su cabeza, aún con la venda que le cubría los ojos.
 —Detective DiConte —dijo la azafata—, es momento de bajar.

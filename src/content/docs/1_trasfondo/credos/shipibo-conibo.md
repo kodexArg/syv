@@ -11,6 +11,7 @@ tags:
 tipo-credo: proscrito
 area-influencia: local
 faccion-asociada: Shipibo-Conibo
+
 ---
 
 **Tipo:** Proscrito

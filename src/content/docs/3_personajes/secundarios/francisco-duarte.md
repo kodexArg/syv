@@ -9,6 +9,7 @@ tags:
   - resistencia
 facciones: ["Resistencia Subterránea"]
 alerta-spoilers: "Roba alimentos sistemáticamente para distribuir en las Tuberías"
+
 ---
 ## Francisco Duarte, el Operario
 

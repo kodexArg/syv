@@ -3,6 +3,7 @@ title: Climas
 sidebar:
   hidden: true
   order: 1
+
 ---
 
 La atmósfera transformada por el colapso. La humedad perpetua que aumentó 20% en Dársena, las lluvias ácidas que corroen el hormigón, la niebla que se asienta sobre el Río de la Plata como un manto divino.

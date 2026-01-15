@@ -10,6 +10,7 @@ tags:
   - post-anatema
 tipo-credo: proscrito
 area-influencia: local
+
 ---
 
 **Tipo:** Proscrito (surgido post-Anatema)

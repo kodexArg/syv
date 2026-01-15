@@ -10,6 +10,7 @@ tags:
 - darsena
 - union
 - oficial
+
 ---
 El "Gremio de Comercio" es una de las facciones más poderosas e influyentes de Ciudad Dársena, un conglomerado que agrupa a prácticamente todos los negociantes, desde el más humilde tendero del mercado hasta los opulentos magnates que controlan el mercado negro. Funciona bajo los principios de un libre mercado extremo, donde la astucia, la influencia y la capacidad de negociación determinan el éxito o la ruina. Su objetivo principal es simple y brutal: maximizar el beneficio de sus miembros, explotando vacíos legales, corrompiendo funcionarios y controlando el acceso a recursos clave.
 

@@ -9,6 +9,7 @@ tags:
   - autodidacta
 facciones: []
 alerta-spoilers: "No es realmente un ingeniero, es un autodidacta susceptible al pensamiento mágico"
+
 ---
 ## El "Ingeniero"
 

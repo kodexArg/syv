@@ -9,6 +9,7 @@ tags:
   - paranormal
 facciones:
   - "Seguridad Nacional"
+
 ---
 ## Sofía Ríos, Inspectora de Seguridad Nacional
 

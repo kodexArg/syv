@@ -12,6 +12,7 @@ facciones:
   - "Ejército Argentino (Alto Mando)"
   - "Dinasía Videla"
 alerta-spoilers: "La conspiración del Teniente Coronel Gobernador que opera potencialmente sin su conocimiento completo en Córdoba."
+
 ---
 ## Videla IV, Generalísimo de Córdoba
 

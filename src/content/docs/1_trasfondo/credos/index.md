@@ -11,6 +11,7 @@ tags:
 sidebar:
   hidden: true
   order: 1
+
 ---
 
 ## Fe en Plural

@@ -1,6 +1,7 @@
 ---
 name: ubicaciones
 description: Experto en geolocalización para SyV - validación de ubicaciones, coherencia espacial, cartografía de mundos post-apocalípticos y relaciones geográficas
+
 ---
 
 # Skill: Geolocation Specialist

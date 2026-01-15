@@ -12,6 +12,7 @@ facciones:
   - "Iglesia de Dársena"
   - "Curia Romana"
 alerta-spoilers: "Las tensiones reales entre el Papado y la SIA, el verdadero alcance del poder de Monseñor Miguel respecto al Sumo Pontífice."
+
 ---
 ## Su Santidad, Sumo Pontífice de Dársena
 

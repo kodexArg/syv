@@ -3,6 +3,7 @@ title: Relatos
 sidebar:
   hidden: true
   order: 1
+
 ---
 
 Las historias que habitan el universo. Narraciones escritas con la voz de los personajes que caminan las calles de Dársena, que descienden a las Tuberías en busca de supervivencia, que enfrentan el dilema entre obedecer el Anatema Mecánico o preservar el conocimiento prohibido.

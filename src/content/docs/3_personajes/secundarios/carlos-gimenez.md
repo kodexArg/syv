@@ -8,6 +8,7 @@ tags:
   - sanidad
   - emergencias
 facciones: ["Sanidad"]
+
 ---
 ## Dr. Carlos Giménez
 

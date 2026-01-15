@@ -1,16 +1,3 @@
-# REFERENCE.md - Base de Datos Rápida SyV
-
-Este archivo contiene los personajes, facciones y ubicaciones principales del universo "Subordinación y Valor" para consulta rápida por Claude Code.
-
-<!--
-ACTUALIZACIÓN:
-1. Manual: Agrega entradas cuando crees personajes/facciones/ubicaciones PRINCIPALES
-2. Automática: Ejecuta /update-reference para regenerar desde el corpus completo
-3. Hooks: PostToolUse actualiza automáticamente al crear/editar elementos principales
-
-Solo incluir elementos PRINCIPALES (no secundarios ni menores).
--->
-
 ---
 
 ## PERSONAJES PRINCIPALES
@@ -22,6 +9,7 @@ Solo incluir elementos PRINCIPALES (no secundarios ni menores).
 | Padre Rafa | Personaje | exorcista, tuberias, pueblo-del-pantano, sombrero-negro, poco-convencional | Exorcista Iglesia, ~55 años, alto, delgado, sombrero negro antiguo, barba gris, investiga posesiones en Túberías, conexión con "Pueblo del Pantano", hábitos heterodoxos | 3_personajes/principales/padre-rafa.md |
 | Monseñor Miguel | Personaje | gran-inquisidor, sia, sotana-roja, calvo, canas, mirada-inquietante | Gran Inquisidor SIA, 70 años, estatura media-baja, calvo con corona de canas, sotana roja/negra, ojos celestes pequeños, voz siseante, acento extranjero, poder inapelable | 3_personajes/principales/monsenor-miguel.md |
 | Hermana Superior María | Personaje | monja, caridad-divina, lider, demonios, congregacion | Líder Congregación Caridad Divina, 57 años, espalda ancha, movimientos enérgicos, perseguida por encuentro con demonio, combate posesiones con celo, opera en zonas marginales | 3_personajes/principales/hermana-superior-maria.md |
+
 
 ---
 

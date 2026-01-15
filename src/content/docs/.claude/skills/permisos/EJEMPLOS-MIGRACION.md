@@ -1,7 +1,3 @@
-# Ejemplos de Migración: Sistema PERMISOS
-
-Ejemplos prácticos de cómo se vería la migración de contenido existente del canon SyV al Sistema PERMISOS.
-
 ---
 
 ## Ejemplo 1: Cronología - Evento "Fin de los Secretos"
@@ -11,6 +7,7 @@ Ejemplos prácticos de cómo se vería la migración de contenido existente del 
 **Archivo**: `1_trasfondo/cronologia/cronologia.md`
 
 ```markdown
+
 ---
 titulo: Cronología de Subordinación y Valor
 carpeta: 1_trasfondo/cronologia

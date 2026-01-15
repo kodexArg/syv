@@ -1,6 +1,7 @@
 ---
 name: personajes
 description: Arquitecto de personajes para el universo SyV - creación, documentación e integración con facciones, cronología y ubicaciones
+
 ---
 
 # Skill: Character Architect

@@ -10,6 +10,7 @@ tags:
   - antagonista
 facciones: ["Seguridad Nacional"]
 alerta-spoilers: "Es un psicópata corrupto obsesionado con la Inspectora Sofía Ríos y la caza de subversivos"
+
 ---
 ## Comisario General Diego Herrera
 

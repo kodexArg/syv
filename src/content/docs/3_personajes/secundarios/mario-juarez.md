@@ -9,6 +9,7 @@ tags:
 facciones:
   - "La Resistencia"
 alerta-spoilers: "Su conexión con La Resistencia como informante."
+
 ---
 ## Mario Juárez, Guardia de Seguridad
 

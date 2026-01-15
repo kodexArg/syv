@@ -1,6 +1,7 @@
 ---
 name: verdad-canon
 description: Validador de coherencia canónica - garantiza que afirmaciones sobre SyV son verdaderas en el universo, ejecutando cambios automáticos moderados para asegurar consistencia narrativa
+
 ---
 
 # Skill: Garantizador de Verdad Canónica

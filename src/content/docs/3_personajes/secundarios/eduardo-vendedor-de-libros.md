@@ -10,6 +10,7 @@ tags:
   - conocimiento
 facciones: []
 alerta-spoilers: "Su colección incluye textos que desafían la doctrina oficial, lo que lo convierte en objetivo de la Iglesia"
+
 ---
 ## Eduardo, el Librero de las Sombras
 

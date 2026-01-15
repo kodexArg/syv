@@ -10,6 +10,7 @@ tags:
 - iluminati
 - tecnologia
 - facciones-menores
+
 ---
 En el paranoico ecosistema de Dársena, pocas leyendas urbanas tienen tanto peso como la de los "Iluminati". Más que una facción real, son un mito, una teoría de conspiración que sirve para explicar lo inexplicable. Se dice que son una sociedad secreta que manipula los hilos del poder desde las sombras, con el supuesto objetivo de proteger la tecnología prohibida y mantener un oscuro equilibrio en la ciudad.
 

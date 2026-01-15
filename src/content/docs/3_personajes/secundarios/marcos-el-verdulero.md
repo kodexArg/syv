@@ -10,6 +10,7 @@ tags:
   - homosexual
 facciones: []
 alerta-spoilers: "Contiene información sobre el uso de tecnología prohibida del período pre-Catástrofe"
+
 ---
 ## Marcos, el Verdulero
 

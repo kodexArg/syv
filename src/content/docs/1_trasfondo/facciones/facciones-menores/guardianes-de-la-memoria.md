@@ -8,6 +8,7 @@ tags:
 - coleccionistas
 - barrio-norte
 - guardianes
+
 ---
 Los "Guardianes de la Memoria" no llegan a la veintena de miembros. Si se los juntara a todos, cabrían sentados en la larga mesa de caoba (auténtica) de Don Ramiro de Alcorta, un reconocido mecenas de Barrio Norte. Él y los demás son figuras notables de Ciudad Dársena: aristócratas con apellidos que resuenan de los siglos pasados, nuevos burgueses forjados en el comercio internacional y académicos de élite, algunos de gran renombre, como su líder, el Dr. Francisco de la Cruz.
 

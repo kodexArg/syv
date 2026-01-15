@@ -1,36 +1,3 @@
-# Personajes Principales - Referencia Rápida
-
-Este archivo contiene información resumida de los personajes principales del universo SyV para consulta rápida por parte de la skill.
-
-## Damián DiConte "El Sabueso"
-
-**Archivo**: `3_personajes/damian.md`
-
-**Keywords**: detective, sabueso, córdoba, investigación, caso-2176-D9, impermeable, pda, obsesivo
-
-**Características**:
-- Subcomisario de Investigaciones Especiales (Córdoba)
-- ~55 años, físico imponente (brazos anchos, estómago ancho)
-- Cara flácida y redonda, bolsas oscuras de cansancio
-- Impermeable de cuero característico (NO gabardina, NO fedora)
-- Obsesivo con el trabajo, pasa días en su oficina
-- PDA con acceso clasificado, teléfono directo
-
-**Trasfondo**:
-- 2178: Investiga conspiración militar-eclesiástica en Córdoba
-- Descubre infiltración de facción radical del Ejército en la Iglesia
-- Liderada por Teniente Coronel Gobernador de Córdoba
-- Planean purga de "herejes" dentro de la Iglesia
-- Huye a Dársena antes de que emitan órdenes de captura
-- Deja su "caja de pruebas" en oficina de Córdoba
-- Lleva: impermeable, PDA, diario codificado, medallón
-
-**Caso 2176-D:9**:
-- Obsesión principal
-- Caja contiene: medallón antiguo, fotos de altares clandestinos, lista de nombres, diario codificado, trozo de tela con símbolo, folio micro-impreso, cartas amenazantes, informe de transacciones, llaves antiguas
-
-**Facciones**: Ninguna (independiente, perseguido por facción del Ejército)
-
 ---
 
 ## Dr. Francisco de la Cruz
@@ -56,6 +23,7 @@ Este archivo contiene información resumida de los personajes principales del un
 **Secreto**: Doble agente - aparenta ser académico leal mientras dirige operaciones clandestinas de preservación tecnológica
 
 **Facciones**: Guardianes de la Memoria (líder), Arpistas (fundador red local)
+
 
 ---
 

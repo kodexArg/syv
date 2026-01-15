@@ -1,6 +1,7 @@
 ---
 name: validar-permisos
 description: Validar estructura, coherencia y validez de PERMISOS en archivos - sintaxis exacta, scopes válidos, coherencia temporal y narrativa
+
 ---
 
 # Validar Permisos

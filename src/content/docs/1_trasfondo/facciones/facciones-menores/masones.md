@@ -8,6 +8,7 @@ tags:
 - secreta
 - masones
 - facciones-menores
+
 ---
 Los **Masones** son una hermandad exclusiva y clandestina que opera principalmente desde los Barrios del Norte de Ciudad Dársena, con células menores en Mendoza y Córdoba. Fundada en los principios de Libertad de Pensamiento, Perfeccionamiento Moral y Fraternidad Universal, esta organización secreta se dedica a preservar el conocimiento filosófico, artístico y arquitectónico del mundo pre-colapso. A diferencia de los siglos XX y XXI, cuando operaban legalmente como sociedad cultural, los Masones actuales son perseguidos a muerte por la Sagrada Inquisición Argentina (SIA), que los considera herejía organizada. Su relación con el Anatema Mecánico es ambigua: la mayoría de sus miembros respetan públicamente el dogma pero mantienen una búsqueda obsesiva de la verdad que incomoda al régimen.
 

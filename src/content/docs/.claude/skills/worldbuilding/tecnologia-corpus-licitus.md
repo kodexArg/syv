@@ -1,28 +1,9 @@
-# Tecnología y Corpus Licitus - SyV
-
-Guía detallada de tecnología permitida y prohibida bajo el Anatema Mecánico (2061-2178).
-
-## EL ANATEMA MECÁNICO
-
-**Promulgación**: 2061 (junto al cráter de Buenos Aires)
-**Vigencia**: 117 años (hasta 2178, actualidad)
-**Autoridad**: Iglesia de Dársena (Santa Sede)
-**Aplicación**: Sagrada Inquisición Argentina (SIA)
-
-### Principio Fundamental
-
-> "La mente humana debe permanecer soberana. Ninguna máquina pensante debe usurpar el juicio, la voluntad o el alma del hombre."
-
-Prohibición absoluta de:
-1. Inteligencias Artificiales (cualquier forma)
-2. Computación digital avanzada capaz de simular pensamiento
-3. Sistemas autónomos que tomen decisiones sin intervención humana directa
-
 ---
 
 ## CORPUS LICITUS
 
 Colección oficial de tecnología aprobada por la Iglesia, documentada y vigilada por Censores Eclesiásticos.
+
 
 ---
 

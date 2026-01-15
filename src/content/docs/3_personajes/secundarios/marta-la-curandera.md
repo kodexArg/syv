@@ -10,6 +10,7 @@ tags:
   - medicina-tradicional
 facciones: []
 alerta-spoilers: "Información sobre métodos esotéricos, contacto con Guardianes de la Memoria, y alteración de memoria mediante rituales"
+
 ---
 ## Marta, la Curandera
 

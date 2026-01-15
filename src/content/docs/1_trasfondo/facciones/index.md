@@ -4,6 +4,7 @@ description: Organizaciones políticas, militares, religiosas, clandestinas y su
 sidebar:
   hidden: true
   order: 1
+
 ---
 
 Los poderes que tejen el tablero político de la Confederación. La Iglesia de Dársena con su control espiritual absoluto, las Fuerzas Armadas que gobiernan desde Córdoba, el Gremio de Comercio que mueve bienes prohibidos en las sombras.

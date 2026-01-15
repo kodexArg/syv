@@ -9,6 +9,7 @@ tags:
   - justiciero
 facciones: []
 alerta-spoilers: "Su pasado heroico es inventado; perdió a su familia por las drogas y creó una narrativa de redención"
+
 ---
 ## El Negro Ramos
 

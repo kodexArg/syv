@@ -1,6 +1,7 @@
 ---
 name: validar-metadatos
 description: Validar metadatos YAML (frontmatter) de archivo markdown - campos obligatorios, formato correcto, estándares del proyecto (inglés)
+
 ---
 
 # Validar Metadatos

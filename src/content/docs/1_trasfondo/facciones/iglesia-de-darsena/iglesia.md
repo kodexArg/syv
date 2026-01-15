@@ -8,6 +8,7 @@ tags:
 - politica
 - darsena
 - oficial
+
 ---
 Tras el colapso global, la Iglesia Católica ha consolidado un poder sin precedentes al establecer una nueva Santa Sede en Ciudad Dársena, que ha reemplazado de facto al Vaticano. Desde la imponente Basílica-Fortaleza, el Sumo Pontífice y su Curia Romana gobiernan bajo el lema "Un Solo Rebaño, Un Solo Pastor, Una Sola Verdad", ejerciendo una autoridad casi omnímoda sobre la vida espiritual, moral y social de la Confederación. No es meramente una guía espiritual; es el poder fáctico que legitima y dirige el régimen clérico-militar.
 

@@ -12,6 +12,7 @@ tags:
   - psicoactivos
   - cazadores-de-pesadillas
   - facciones-menores
+
 ---
 
 En las profundidades de las Tuberías de Ciudad Dársena, donde la humedad constante y la oscuridad perpetua crean el ambiente perfecto para el cultivo de hongos, habita una comunidad que muchos consideran una curiosidad antropológica del mundo post-Colapso: los Shipibo-Conibo.

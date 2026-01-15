@@ -6,6 +6,7 @@ tags:
   - guia
   - personajes
   - colaboracion
+
 ---
 Esta guía establece el formato y las mejores prácticas para crear y documentar personajes dentro del universo de "Subordinación y Valor". Un personaje bien definido es clave para la coherencia narrativa y la inmersión en el mundo.
 

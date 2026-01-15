@@ -1,6 +1,7 @@
 ---
 name: crear-personaje
 description: Crear personaje completo con metadatos, estructura narrativa y validación contra facciones, ubicaciones y cronología
+
 ---
 
 # Crear Personaje

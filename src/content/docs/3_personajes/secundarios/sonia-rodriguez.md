@@ -10,6 +10,7 @@ tags:
 facciones:
   - "La Resistencia"
 alerta-spoilers: "Sus vínculos con la Resistencia."
+
 ---
 ## Sonia Rodríguez, Cocinera y Dueña
 

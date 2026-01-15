@@ -11,6 +11,7 @@ tags:
   - barrios-del-muro
 tipo-credo: ideología-credo
 area-influencia: nacional
+
 ---
 
 **Tipo:** Ideología-credo

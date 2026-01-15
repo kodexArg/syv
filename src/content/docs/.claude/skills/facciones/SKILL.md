@@ -1,6 +1,7 @@
 ---
 name: facciones
 description: Diseñador de facciones para SyV - creación completa con estructura canónica de 11 categorías, relaciones validadas y coherencia narrativa
+
 ---
 
 # Skill: Faction Designer (Completo)

@@ -30,6 +30,7 @@ fechas-clave:
   - 2029
   - 2042
   - 2178
+
 ---
 
 Hasta 2029 nadie del público general conocía de esta hermandad en las sombras como una organización viva. Paradójicamente, su origen histórico —la historia de Arapy, la India Juliana— nunca fue censurada y forma parte del canon histórico oficial de la región, aunque relegada a una nota al pie sobre las rebeliones indígenas de la época colonial. Lo que se perdió fue la conexión entre aquella mujer del siglo XVI y las guerreras que reptaban por las selvas durante la Gran Guerra.

@@ -1,6 +1,7 @@
 ---
 name: crear-ubicacion
 description: Crear ubicación geográfica con descripción atmosférica, validación espacial y coherencia con clima y poblaciones
+
 ---
 
 # Crear Ubicación

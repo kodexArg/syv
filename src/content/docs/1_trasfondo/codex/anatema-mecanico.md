@@ -10,6 +10,7 @@ tags:
   - prohibicion-universal
   - teologia-tecnologica
   - historia-mundial
+
 ---
 # El Anatema Mecánico
 ## Prohibición Universal de la Tecnología Digital Avanzada (2061-2178)

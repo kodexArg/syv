@@ -1,6 +1,7 @@
 ---
 name: permisos
 description: Especialista en Sistema PERMISOS SyV - validación, marcado y coherencia de alertas de información sensible
+
 ---
 
 # Skill: Permission System

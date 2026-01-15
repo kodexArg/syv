@@ -9,6 +9,7 @@ tags:
   - academia
 facciones: []
 alerta-spoilers: "Contiene información crítica sobre liderazgo de Guardianes de la Memoria, red de Arpistas, y sistema de preservación de conocimiento prohibido"
+
 ---
 ## Dr. Francisco de la Cruz, "El Decano"
 

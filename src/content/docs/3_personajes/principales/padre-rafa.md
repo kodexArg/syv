@@ -10,6 +10,7 @@ tags:
   - barrios-del-muro
 facciones: ["Iglesia"]
 alerta-spoilers: "Oculta su verdadera identidad y busca huir hacia el Pueblo del Pantano"
+
 ---
 ## Padre Rafa
 

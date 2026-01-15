@@ -11,6 +11,7 @@ facciones:
   - "Ejército Argentino"
   - "Masones"
 alerta-spoilers: "Su rol como Maese Masón y líder de la Orden de los Guardianes."
+
 ---
 ## Sargento Esteban Moreno
 

@@ -13,6 +13,7 @@ tags:
   - qia
   - drones-autonomos
 fecha: 2036
+
 ---
 # El Estallido: La Segunda Guerra Fría (2036-2039)
 

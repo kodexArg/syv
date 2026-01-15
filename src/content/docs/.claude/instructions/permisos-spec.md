@@ -1,16 +1,3 @@
-# Sistema de PERMISOS SyV - Especificación Técnica
-
-## Descripción General
-
-El **Sistema PERMISOS** es un mecanismo de **alertas de información sensible** para masters de JdR del universo Subordinación y Valor. Está diseñado para:
-
-- ✅ **Máxima simplicidad**: Sintaxis minimalista en comentarios HTML
-- ✅ **Legibilidad humana**: Íconos visuales claros (invisibles en render)
-- ✅ **Parseabilidad**: Estructura exacta para backends futuros
-- ✅ **Organización**: Secretos al final, ordenados por nivel
-
-**NO es restrictivo**, sino una **herramienta educativa** que advierte al master sobre información que requiere cuidado narrativo.
-
 ---
 
 ## Niveles de Información
@@ -19,6 +6,7 @@ El **Sistema PERMISOS** es un mecanismo de **alertas de información sensible** 
 **Icono**: (sin comentario)
 **Acceso**: Cualquier jugador
 **Descripción**: Información accesible públicamente. Sin marcador.
+
 
 ---
 

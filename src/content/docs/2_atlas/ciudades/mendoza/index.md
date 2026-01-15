@@ -3,6 +3,7 @@ title: Mendoza
 sidebar:
   hidden: true
   order: 1
+
 ---
 
 El granero de la Confederación. Ciudad andina que conservó sus sistemas de riego desde el Viejo Mundo, transformada en proveedor principal de alimentos para Dársena y Córdoba.

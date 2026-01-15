@@ -11,6 +11,7 @@ facciones:
   - "Policía de la Ciudad"
   - "Unidad de Respuesta Táctica Urbana (RTU)"
 alerta-spoilers: "Su lucha contra el abuso de poder dentro de las fuerzas de seguridad."
+
 ---
 ## Subcomisario Iván Méndez
 

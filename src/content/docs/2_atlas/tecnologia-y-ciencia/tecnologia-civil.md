@@ -5,6 +5,7 @@ description: Tecnologías civiles permitidas y utilizadas en la Confederación A
 tags:
 - tecnologia
 - atlas
+
 ---
 La tecnología de uso diario en Ciudad Dársena está diseñada para ser robusta, funcional y fácil de mantener, evitando la complejidad electrónica que la Iglesia desaprueba.
 

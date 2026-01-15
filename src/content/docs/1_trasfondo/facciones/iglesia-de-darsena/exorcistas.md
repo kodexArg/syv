@@ -10,6 +10,7 @@ tags:
   - combate-espiritual
 facciones:
   - "Iglesia de Dársena"
+
 ---
 Rama especializada de la Iglesia de Dársena dedicada al combate de posesiones demoníacas y fenómenos sobrenaturales. A diferencia de la "Sagrada Inquisición Argentina" (que persigue herejía tecnológica), los Exorcistas se dedican a conflictos contra entidades no-humanas.
 

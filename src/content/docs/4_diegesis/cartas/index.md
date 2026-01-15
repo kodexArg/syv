@@ -3,6 +3,7 @@ title: Cartas
 sidebar:
   hidden: true
   order: 1
+
 ---
 
 La correspondencia interceptada y preservada. Cartas de amor escritas entre guardias de la Prefectura y novias en los Barrios del Muro, misivas teológicas entre obispos que debaten la naturaleza del Anatema Mecánico, mensajes cifrados que la Sagrada Inquisición Argentina decodifica en sus sótanos.

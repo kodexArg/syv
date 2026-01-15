@@ -9,6 +9,7 @@ tags:
   - fallecido
 facciones: []
 alerta-spoilers: "Fue asesinado hace un año antes de revelar información crucial sobre las posesiones"
+
 ---
 ## Paco, el Puntero
 

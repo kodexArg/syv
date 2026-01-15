@@ -10,6 +10,7 @@ tags:
 facciones:
   - "Dirección de Seguridad Nacional"
 alerta-spoilers: "Su investigación sobre una conspiración interna."
+
 ---
 ## Teniente Carla Vázquez
 

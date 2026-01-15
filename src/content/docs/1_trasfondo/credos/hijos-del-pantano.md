@@ -10,6 +10,7 @@ tags:
   - radical
 tipo-credo: ideología-credo
 area-influencia: local
+
 ---
 
 **Tipo:** Ideología-credo (extremista)

@@ -10,6 +10,7 @@ tags:
   - pro-iglesia
 tipo-credo: ideología-credo
 area-influencia: nacional
+
 ---
 
 **Tipo:** Ideología-credo (vanguardista moderada)

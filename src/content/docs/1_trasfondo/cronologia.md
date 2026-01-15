@@ -7,6 +7,7 @@ tags:
 - colapso-global
 sidebar:
   order: 999
+
 ---
 
 Las fuentes que alimentan esta crónica son heterogéneas y contradictorias. Incluyen sesgos de época que apenas hoy comprendemos. Esta copia que el lector tiene enfrente ha sido curada cientos de veces por cientos de Inquisidores. Las contribuciones de los Criptógrafos Militares de la CUFAC han sido decisivas para recuperar registros de la Gran Guerra Global. No siempre coincidimos en la interpretación, pero su rigor técnico ha sido revisada con sumo cuidado.

@@ -8,6 +8,7 @@ tags:
   - comerciante
   - barrios-del-muro
 facciones: ["Comerciantes"]
+
 ---
 ## Carolina Pérez, la Costurera
 
