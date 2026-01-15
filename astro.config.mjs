@@ -18,6 +18,13 @@ export default defineConfig({
 					lang: 'es',
 				},
 			},
+			social: [
+				{
+					label: 'GitHub',
+					href: 'https://github.com/kodexarg/syv',
+					icon: 'github',
+				},
+			],
 			customCss: ['./src/styles/custom.css'],
 			expressiveCode: {
 				useStarlightDarkModeSwitch: false,
@@ -33,7 +40,7 @@ export default defineConfig({
 			],
 			components: {
 				PageTitle: './src/components/PageTitle.astro',
-				ThemeSelect: './src/components/ThemeSelect.astro',
+				ThemeProvider: './src/components/ThemeProvider.astro',
 			},
 		}),
 	],
