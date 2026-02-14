@@ -1,5 +1,13 @@
 {
 	"_variables": {
 		"lastUpdateCheck": 1765179450991
+	},
+	"[markdown]": {
+		"editor.fontFamily": "'Georgia', 'Segoe UI', serif",
+		"editor.fontSize": 18,
+		"editor.lineHeight": 30,
+		"editor.lineNumbers": "off",
+		"editor.minimap.enabled": false,
+		"editor.fontLigatures": true
 	}
 }

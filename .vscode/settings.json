@@ -1,0 +1,12 @@
+{
+    "[markdown]": {
+        "editor.fontFamily": "'Georgia', 'Segoe UI', serif",
+        "editor.fontSize": 18,
+        "editor.lineHeight": 30,
+        "editor.wordWrap": "wordWrapColumn",
+        "editor.wordWrapColumn": 80,
+        "editor.lineNumbers": "off",
+        "editor.minimap.enabled": false,
+        "editor.fontLigatures": true
+    }
+}
