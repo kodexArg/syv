@@ -31,7 +31,7 @@ Así nació un movimiento que no tiene nombre oficial. La Iglesia lo llama "here
 
 ## El Kené: Geometría Sagrada para Todos
 
-El kené es el corazón del credo. Son patrones geométricos —líneas que se cruzan en ángulos imposibles, espirales que se abren como ríos vistos desde arriba, laberintos que contienen otros laberintos— que los Shipibo ancestrales bordaban en telas, pintaban en cerámica, tatuaban en piel. Según la cosmología shipibo, el universo tiene estructura geométrica: cada planta, cada persona, cada espíritu tiene un diseño que define su esencia. La enfermedad es un diseño roto. La curación es restaurar el patrón.
+El kené es el corazón del credo. Son patrones geométricos —líneas que se cruzan en ángulos imposibles, espirales que se abren como ríos vistos desde arriba, laberintos que contienen otros laberintos— que los Shipibo ancestrales bordaban en telas, pintaban en cerámica, tatuaban en piel. Según la cosmología shipibo, el universo tiene estructura geométrica: cada planta, cada persona, cada espíritu tiene un diseño que define su esencia. La enfermedad es un diseño roto. La curación es restaurar el diseño.
 
 En Dársena, el kené escapó de la cerámica y las telas. Los jóvenes de Barrios del Muro —shipibos nacidos en la ciudad y no-shipibos por igual— pintan kené en paredes de sótanos con pinturas bioluminiscentes robadas de depósitos militares. Tatúan kené en antebrazos, cuellos, espaldas. Bordan kené en remeras de segunda mano. Los patrones se convirtieron en símbolo de identidad: llevar kené es declarar pertenencia a algo que la Iglesia no controla, una fe visual que no necesita templo porque se lleva en el cuerpo.
 
@@ -39,7 +39,7 @@ Para los adherentes no-shipibos, el kené funciona como lenguaje espiritual univ
 
 ## La Medicina del Pantano
 
-El sacramento central es la *oni* —palabra shipibo para la ayahuasca— pero no la ayahuasca del Viejo Mundo. Esa se extinguió cuando la cuenca amazónica ardió. Lo que los Shipibo preparan en Dársena es una variante: lianas mutadas que crecen en los pantanos del Riachuelo, fuera del Muro, en zonas que la Confederación cataloga como inhabitables. Las raíces absorben agua contaminada con trazas radiactivas del Cráter, y esa contaminación alteró la planta en formas que los botánicos no pueden explicar pero los chamanes celebran. La oni del pantano es más potente que la original. Las visiones son más vívidas. Los kené que se revelan son más complejos. El vómito es más violento. El riesgo de psicosis temporal es mayor. Pero los que vuelven, vuelven cambiados.
+El sacramento central es la *oni* —palabra shipibo para la ayahuasca— pero no la ayahuasca del Viejo Mundo. Esa se extinguió cuando la cuenca amazónica ardió. Lo que los Shipibo preparan en Dársena es una variante: lianas mutadas que crecen en los pantanos del Riachuelo, fuera del Muro, en zonas que la Confederación cataloga como inhabitables. Las raíces absorben agua contaminada con trazas radiactivas del Cráter, y esa contaminación alteró la planta en formas que los botánicos no pueden explicar pero los chamanes celebran. La oni del pantano es más potente que la original. Las visiones son más vívidas. Los kené que se revelan son más complejos. El vómito es más violento. El riesgo de psicosis temporal es mayor. Pero los que vuelven —y no todos vuelven— vuelven cambiados.
 
 La Iglesia clasifica las lianas del pantano como tecnobotánica prohibida: planta modificada genéticamente —aunque la modificación fue natural, por radiación— que cae bajo interpretación estricta del Anatema Mecánico. Consumirlas es delito. Cultivarlas es delito agravado. Pero en sótanos donde el humo se filtra por ventilaciones selladas con trapos mojados y los cantos se ahogan en paredes de hormigón, los Shipibo preparan oni cada viernes por la noche. Y cada viernes, gente que no tiene una gota de sangre amazónica se sienta en el círculo.
 
@@ -92,8 +92,8 @@ Para los Shipibo étnicos, la mayor tragedia sigue siendo que la selva amazónic
 
 Pero algo inesperado ocurrió con el desborde: los adherentes no-shipibos empezaron a ver la selva en sus ceremonias. Gente que nunca pisó tierra amazónica, que nació y morirá en los sótanos de Barrios del Muro, reporta visiones de árboles gigantes, de ríos anchos como mares, de pájaros de colores que no existen en ningún catálogo zoológico de 2178. Los chamanes interpretan esto como señal: la selva no murió. Migró al plano espiritual. Y cualquiera que beba la medicina puede visitarla.
 
-Es la teología más hermosa y más triste del credo: la Amazonía existe pero solo podés verla con los ojos cerrados, intoxicado en un sótano, cantando canciones en idioma que no entendés, rodeado de extraños que comparten tu duelo por un paraíso que ninguno conoció. Es fe de exilio compartido. Ya no es solo exilio shipibo. Es exilio de todos los que perdieron algo en el colapso y buscan, en la oscuridad de un sótano, los colores de un mundo que ya no está.
+Es la teología más hermosa y más triste del credo: la Amazonía existe pero solo podés verla con los ojos cerrados, intoxicado en un sótano, cantando canciones en idioma que no entendés, rodeado de extraños que comparten tu duelo por un paraíso que ninguno conoció. Es fe de exilio. Exilio compartido. Ya no es solo exilio shipibo. Es exilio de todos los que perdieron algo en el colapso y buscan, en la oscuridad de un sótano, los colores de un mundo que ya no está.
 
 ---
 
-*No hace falta ser Shipibo para seguir el camino del kené. Hace falta estar roto. Y en Barrios del Muro, ¿quién no lo está?*
+*No hace falta ser Shipibo para seguir el camino del kené. Hay que estar roto. Y en los Barrios del Muro, ¿quién no está roto?*

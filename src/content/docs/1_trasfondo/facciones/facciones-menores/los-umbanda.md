@@ -38,7 +38,7 @@ Los Umbanda no son eso. Los Umbanda son la estructura. La organización. La red 
 
 La Umbanda llegó a Dársena en oleadas migratorias entre 2050 y 2080, traída por refugiados brasileños y nordestinos argentinos que huían del colapso del norte. Los primeros pais de santo que se instalaron en Barrios del Muro no tenían agenda política. Eran sacerdotes de una fe perseguida que intentaban mantener viva la tradición en sótanos prestados, con tambores fabricados de barriles de aceite y cuero de cabra, cantando en portugués que los vecinos no entendían.
 
-La persecución los organizó. Cuando la SIA empezó a allanar terreiros en los años 2090, arrestando pais y confiscando objetos sagrados, los líderes espirituales dispersos entendieron que necesitaban coordinarse o morir. Un pai de santo de Barrios Sur —Pai Joaquim do Riachuelo, nombre que probablemente era falso— convocó al primer *conselho* en 2097: reunión clandestina de catorce pais y mães de santo que controlaban terreiros en distintos sectores. Esa noche, en un sótano que olía a incienso y tabaco ritual, nació la Red.
+La persecución los organizó. Cuando la SIA empezó a allanar terreiros en los años 2090, arrestando pais y confiscando objetos sagrados, los líderes espirituales dispersos entendieron que necesitaban coordinarse o morir. Se coordinaron. Un pai de santo de Barrios Sur —Pai Joaquim do Riachuelo, nombre que probablemente era falso— convocó al primer *conselho* en 2097: reunión clandestina de catorce pais y mães de santo que controlaban terreiros en distintos sectores. Esa noche, en un sótano que olía a incienso y tabaco ritual, nació la Red.
 
 El *conselho* estableció reglas simples:
 1. Ningún terreiro opera aislado. Todos se conectan mediante mensajeros de confianza.
@@ -77,7 +77,7 @@ En la práctica, algunos pais tienen más influencia que otros. Los que controla
 
 ### Contrabando Ritual
 
-La Red mueve objetos sagrados a través del Muro: estatuillas de orixás fabricadas en talleres del Litoral, collares de cuentas rituales (*guias*) hechos con materiales específicos para cada orixá, hierbas sagradas que no crecen en Dársena, tabaco ceremonial del norte, aguardiente ritual destilado en alambiques clandestinos. Estos objetos son esenciales para las ceremonias. Sin ellos, la fe muere.
+La Red mueve objetos sagrados a través del Muro: estatuillas de orixás fabricadas en talleres del Litoral, collares de cuentas rituales (*guias*) hechos con materiales específicos para cada orixá, hierbas sagradas que no crecen en Dársena, tabaco ceremonial del norte, aguardiente ritual destilado en alambiques clandestinos. Estos objetos son esenciales para las ceremonias. Sin ceremonias, la fe muere. Sin fe, la Red muere.
 
 Las rutas de contrabando usan los mismos canales que los Saqueadores y Traficantes, pero con protección espiritual añadida: cada carga ritual es bendecida antes de partir, y los contrabandistas que la transportan llevan *patuás* (amuletos de protección) cosidos dentro de la ropa. La SIA confisca contrabando regular constantemente. El contrabando ritual llega con frecuencia sospechosa. Los umbandistas dicen que los orixás protegen la carga. Los escépticos dicen que los umbandistas tienen mejores escondites.
 
@@ -142,7 +142,7 @@ Los llaman *Exús Caminantes*: pais que han pasado por un ritual de iniciación 
 
 ### El Costo
 
-El *assentamento profundo* tiene precio: el pai pierde gradualmente su personalidad original. Con los años, ya no se sabe dónde termina el hombre y dónde empieza Exú. Los Exús Caminantes más antiguos hablan en tercera persona, sonríen cuando no hay razón para sonreír, ríen ante noticias de muerte. No son malvados. Son liminales: habitan el umbral entre mundos y eso los vuelve ajenos a las preocupaciones humanas ordinarias.
+El *assentamento profundo* tiene precio: el pai pierde gradualmente su personalidad original. Con los años, ya no se sabe dónde termina el hombre y dónde empieza Exú. Los Exús Caminantes más antiguos hablan en tercera persona, sonríen cuando no hay razón para sonreír, ríen ante noticias de muerte. No son malvados. No son buenos. Son liminales: habitan el umbral entre mundos y eso los vuelve ajenos a las preocupaciones humanas ordinarias.
 
 Si la SIA descubriera la existencia de los Exús Caminantes, los clasificaría como posesión demoníaca confirmada. La Inquisición ordenaría exorcismo o ejecución. La comunidad umbandista quedaría devastada. Por eso, los Caminantes operan detrás de los pais ordinarios: nunca lideran terreiros visibles, nunca asisten a ceremonias públicas, nunca hablan con extraños. Son los fantasmas que dirigen la Red desde las sombras, consultados solo cuando las decisiones son de vida o muerte.
 
