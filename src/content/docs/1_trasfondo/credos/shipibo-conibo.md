@@ -1,13 +1,14 @@
 ---
 title: Shipibo-Conibo
 folder: 1_trasfondo/credos
-description: Chamanismo amazónico, pueblos expatriados, lianas del pantano, sótanos Barrios.
+description: Movimiento espiritual amazónico, kené como lenguaje universal, hongos sagrados, rastafari del pantano.
 tags:
   - credo
   - shipibo-conibo
   - proscrito
   - chamanismo
   - amazonia
+  - kene
 tipo-credo: proscrito
 area-influencia: local
 faccion-asociada: Shipibo-Conibo
@@ -17,47 +18,59 @@ faccion-asociada: Shipibo-Conibo
 **Tipo:** Proscrito
 **Relación con la Iglesia:** Neutral-ignorada (mientras sean discretos)
 **Área de influencia:** Local (Barrios del Muro, Tuberías)
-**Seguidores estimados:** 2,000
+**Seguidores estimados:** 8,000 (2,000 étnicos / 6,000 adherentes)
 **Facción asociada:** Shipibo-Conibo (comunidad étnica minoritaria)
 
-## Pueblo del Río Perdido
+## Los Rastafari del Pantano
 
-Los Shipibo-Conibo son pueblo amazónico expatriado después de que los incendios del norte arrasaran su territorio ancestral post-2047. Durante la Gran Guerra Global, la cuenca amazónica ardió durante tres años. Napalm, bombas incendiarias, fuego descontrolado que consumió el pulmón del mundo. Para cuando terminó en 2047, el 70% de la selva era ceniza. Los pueblos indígenas que sobrevivieron migraron sur, buscando tierras donde el fuego no llegara. Dos mil Shipibo-Conibo llegaron a Dársena entre 2065 y 2080, refugiados sin territorio, trayendo consigo cosmovisión chamánica que la Iglesia no entiende y por eso teme.
+En algún momento entre 2090 y 2110 —nadie recuerda la fecha exacta, porque los Shipibo no cuentan el tiempo como los católicos— ocurrió algo que los chamanes llaman *el desborde*. Las ceremonias de ayahuasca mutada que se celebraban en sótanos sellados de Barrios del Muro dejaron de ser asunto exclusivamente shipibo. Empezaron a llegar otros. Primero un mecánico paraguayo que no dormía desde hacía meses. Después una lavandera correntina con dolores que los médicos de la Congregación no podían explicar. Después un desertor de las Fuerzas Armadas que temblaba cada vez que escuchaba un trueno. Los chamanes no los rechazaron. En cosmovisión shipibo, la medicina no distingue sangre ni origen: el espíritu que enferma no pregunta de dónde venís.
 
-Su cosmología es compleja: el universo tiene tres niveles (cielo, tierra, subsuelo), poblado por espíritus que se comunican mediante patrones geométricos llamados kené. Estos patrones —vistos en visiones inducidas por plantas sagradas— son mapa del universo espiritual. Los Shipibo los bordaban en telas, los pintaban en cerámica, los tatuaban en piel. Aquí, en Dársena, los pintan en paredes de sótanos con pinturas bioluminiscentes, transformando espacios clandestinos en templos geométricos que brillan en la oscuridad.
+Lo que empezó como excepción se convirtió en costumbre. Para 2130, las ceremonias de los sótanos ya no eran rituales étnicos sino encuentros donde cualquier habitante de los márgenes podía sentarse en el círculo, beber la medicina, y ver los *kené*: patrones geométricos que los Shipibo juran son el mapa del universo espiritual. La mitad de los asistentes no entendía una palabra de idioma shipibo. No importaba. Los ícaros —cantos sagrados del chamán— funcionan sin que el oyente comprenda la letra, del mismo modo que el trueno no necesita traducción.
 
-## Prácticas Chamánicas
+Así nació un movimiento que no tiene nombre oficial. La Iglesia lo llama "herejía botánica". La SIA lo cataloga como "prácticas chamánicas proscritas". Los practicantes no lo llaman nada. Simplemente dicen "voy a ceremonia" o "sigo el camino del kené". Pero en Barrios del Muro, donde la gente necesita etiquetas para todo, los conocen como *los kenebo* —los del diseño— o, con sorna cariñosa, los *rastafari del pantano*.
 
-Las ceremonias ocurren en sótanos profundos de Barrios del Muro, espacios que los Shipibo llaman "nuevas malocas" (casas comunales tradicionales). Los participantes se sientan en círculo sobre esteras tejidas. El chamán —onanya en idioma shipibo— conduce ritual que dura ocho horas. Canta ícaros: melodías sagradas transmitidas generación tras generación, cada una con propósito específico (curación, protección, visión, limpieza espiritual). Los cantos no tienen letra comprensible; son fonemas que los Shipibo juran contienen poder.
+## El Kené: Geometría Sagrada para Todos
 
-El elemento central es la medicina: lianas del pantano, plantas emparentadas con la ayahuasca ancestral que crecen en los pantanos mutados fuera del Muro. La ayahuasca original se extinguió en los incendios amazónicos, pero botánicos Shipibo encontraron en los humedales del Riachuelo una variante mutada que produce efectos similares. Los chamanes la preparan hirviéndola horas hasta obtener líquido espeso, amargo, que provoca vómitos violentos antes de inducir visiones. Los participantes ven kené: patrones geométricos que se mueven, espíritus que hablan en lenguas muertas, memorias ancestrales de selva que ya no existe.
+El kené es el corazón del credo. Son patrones geométricos —líneas que se cruzan en ángulos imposibles, espirales que se abren como ríos vistos desde arriba, laberintos que contienen otros laberintos— que los Shipibo ancestrales bordaban en telas, pintaban en cerámica, tatuaban en piel. Según la cosmología shipibo, el universo tiene estructura geométrica: cada planta, cada persona, cada espíritu tiene un diseño que define su esencia. La enfermedad es un diseño roto. La curación es restaurar el patrón.
 
-La Iglesia clasifica estas ceremonias como herejía botánica. Las lianas del pantano son tecnobotánica prohibida: plantas cuya modificación genética (natural, por radiación del Cráter) las hace ilegales bajo interpretación estricta del Anatema. Consumirlas es delito que la SIA persigue cuando las ceremonias se hacen visibles. Pero en sótanos sellados, donde el humo no sale y los cantos no se escuchan, los Shipibo practican sin ser molestados.
+En Dársena, el kené escapó de la cerámica y las telas. Los jóvenes de Barrios del Muro —shipibos nacidos en la ciudad y no-shipibos por igual— pintan kené en paredes de sótanos con pinturas bioluminiscentes robadas de depósitos militares. Tatúan kené en antebrazos, cuellos, espaldas. Bordan kené en remeras de segunda mano. Los patrones se convirtieron en símbolo de identidad: llevar kené es declarar pertenencia a algo que la Iglesia no controla, una fe visual que no necesita templo porque se lleva en el cuerpo.
 
-## Medicina Tradicional
+Para los adherentes no-shipibos, el kené funciona como lenguaje espiritual universal. No necesitás hablar shipibo para "leer" un kené. Los chamanes dicen que cada persona tiene un diseño propio que se revela en ceremonia: cuando bebés la medicina y cerrás los ojos, ves *tu* kené. Algunos son simétricos y armoniosos (espíritu sano). Otros están fragmentados, con líneas cortadas y espacios vacíos (trauma, dolor, desconexión). El chamán canta ícaros específicos para "reparar" el diseño durante la ceremonia. El paciente no necesita creer en cosmología amazónica para sentir el efecto. Solo necesita sentarse, beber, y dejarse llevar.
 
-Los Shipibo son reconocidos en Barrios del Muro como sanadores. Sus chamanes diagnostican enfermedades mediante visiones inducidas: beben la medicina, "ven" dentro del cuerpo del paciente, identifican desequilibrios espirituales que manifiestan como síntomas físicos. Tratan con hierbas, cantos curativos, soplos de tabaco mezclado con agua florida. Algunos tratamientos funcionan (conocimiento botánico ancestral que sobrevivió el colapso). Otros son placebo. Los pacientes no distinguen y no les importa: si sanan, el método es irrelevante.
+## La Medicina del Pantano
 
-La Congregación de la Caridad Divina —orden de monjas que administra hospitales— tiene relación ambigua con sanadores Shipibo. Oficialmente, condenan "medicina pagana". Extraoficialmente, algunos hospitales derivan casos imposibles a chamanes cuando la medicina occidental falla. Cánceres terminales, enfermedades psicosomáticas, dolores crónicos sin causa identificable. Los chamanes no cobran dinero; aceptan trueque (comida, ropa, favores). Es medicina de subsistencia que llena vacío que el sistema oficial no puede.
+El sacramento central es la *oni* —palabra shipibo para la ayahuasca— pero no la ayahuasca del Viejo Mundo. Esa se extinguió cuando la cuenca amazónica ardió. Lo que los Shipibo preparan en Dársena es una variante: lianas mutadas que crecen en los pantanos del Riachuelo, fuera del Muro, en zonas que la Confederación cataloga como inhabitables. Las raíces absorben agua contaminada con trazas radiactivas del Cráter, y esa contaminación alteró la planta en formas que los botánicos no pueden explicar pero los chamanes celebran. La oni del pantano es más potente que la original. Las visiones son más vívidas. Los kené que se revelan son más complejos. El vómito es más violento. El riesgo de psicosis temporal es mayor. Pero los que vuelven, vuelven cambiados.
 
-## Relación con la Iglesia
+La Iglesia clasifica las lianas del pantano como tecnobotánica prohibida: planta modificada genéticamente —aunque la modificación fue natural, por radiación— que cae bajo interpretación estricta del Anatema Mecánico. Consumirlas es delito. Cultivarlas es delito agravado. Pero en sótanos donde el humo se filtra por ventilaciones selladas con trapos mojados y los cantos se ahogan en paredes de hormigón, los Shipibo preparan oni cada viernes por la noche. Y cada viernes, gente que no tiene una gota de sangre amazónica se sienta en el círculo.
 
-La Iglesia Católica los ignora porque son irrelevantes demográficamente. La SIA tiene fichados a los chamanes principales pero no interviene mientras las ceremonias no incluyan menores ni se publiciten abiertamente. Es tolerancia por indiferencia: demasiado pequeños para importar, demasiado exóticos para entender, demasiado discretos para molestar. Mientras los Shipibo mantengan perfil bajo, la Inquisición gasta recursos persiguiendo herejías más peligrosas.
+Además de la oni, los chamanes administran hongos psicoactivos cultivados en las profundidades de las Tuberías: variedades que los Shipibo desarrollaron a lo largo de generaciones, algunas alimenticias, otras medicinales, otras capaces de inducir estados alterados que los chamanes usan para diagnóstico y curación. El hongo es medicina cotidiana; la oni es sacramento mayor, reservada para ceremonias profundas.
 
-Ocasionalmente hay redadas. Cuando Censores descubren ceremonia con participantes no-Shipibo (curiosos del Microcentro que buscan "experiencia espiritual exótica"), la SIA interviene. Arresta organizadores, confisca medicina, clausura sótanos. Los chamanes desaparecen semanas en celdas inquisitoriales, son interrogados sobre origen de las plantas, liberados con advertencia. Vuelven a practicar. La SIA vuelve a arrestar. Es ciclo que ambos bandos aceptan como costo de coexistencia.
+## Los Ícaros: Canciones Que Curan Sin Que Entiendas
 
-## Integración Cultural
+Los ícaros son melodías sagradas transmitidas de chamán a aprendiz durante generaciones. Cada ícaro tiene propósito específico: hay ícaros de protección, de limpieza, de apertura de visión, de cierre de ceremonia, de curación de órganos específicos. Los cantos no tienen letra comprensible en sentido convencional; son secuencias de fonemas, silbidos, susurros y gritos guturales que los Shipibo juran contienen poder intrínseco. El sonido mismo modifica la realidad espiritual.
 
-Los Shipibo trabajan en Las Tuberías como mecánicos (habilidad manual heredada de tradición de cestería y cerámica), en mercados informales como vendedores de artesanías (telas pintadas con kené que turistas compran como souvenirs), en centros de salud comunitarios como herbalistas. Mantienen tradiciones en secreto: idioma shipibo hablado solo en casa, rituales de iniciación celebrados sin testigos externos, altares a espíritus de la selva ocultos en armarios. Son fantasmas culturales: presentes pero invisibles.
+Para los adherentes no-shipibos, los ícaros son la experiencia más desconcertante y la más transformadora. Escuchás cantos en idioma que no entendés, melodías que no siguen escala musical occidental, ritmos que no se repiten nunca de la misma forma. Y sin embargo, durante la ceremonia, los ícaros hacen algo. Los participantes reportan sensaciones físicas: calor en el pecho cuando suena un ícaro de curación, escalofríos cuando un ícaro de limpieza "encuentra" algo oscuro, lágrimas involuntarias durante ícaros de duelo. Placebo o magia —nadie sabe y a nadie le importa—, los ícaros funcionan porque la gente cree que funcionan. Y en Barrios del Muro, donde la medicina escasea y la fe católica no llega a los sótanos, creer es suficiente.
 
-Sus hijos nacidos en Dársena son generación liminal. Hablan español rioplatense con acento shipibo, visten ropa urbana con bordados kené, bautizan por iglesia pero inician en ceremonia chamánica. Son sincretismo viviente: católicos en público, Shipibo en privado. La identidad se fragmenta: algunos rechazan tradición ancestral (vergüenza étnica), otros la abrazan radicalmente (activismo indígena), mayoría navega entre ambos mundos sin pertenencer completamente a ninguno.
+## Un Credo Sin Dogma
+
+Lo que convierte al movimiento shipibo-conibo en fenómeno cultural —y no solo en ritual exótico— es que no pide nada. No hay mandamientos. No hay libro sagrado. No hay jerarquía formal fuera de la relación chamán-paciente. No hay diezmo, no hay confesión, no hay pecado original. No hay promesa de salvación ni amenaza de castigo eterno. Hay ceremonia. Hay medicina. Hay kené. Hay comunidad de personas que se sientan juntas en un sótano oscuro a ver qué les muestra la planta.
+
+Este vacío dogmático es exactamente lo que atrae. En un mundo donde la Iglesia Católica controla con puño de hierro, donde el catecismo es obligatorio en escuelas, donde la SIA vigila qué se reza y cómo, el credo shipibo ofrece lo contrario: libertad espiritual sin estructura. Venís cuando querés. Te vas cuando querés. No te bautizan, no te confirman, no te casan. Si la medicina te ayuda, volvés. Si no, no hay rencor. Es espiritualidad a la carta para gente que está harta de espiritualidad obligatoria.
+
+Los más devotos adoptan elementos de estilo de vida: dejan crecer el pelo (tradición shipibo: el cabello acumula conexión espiritual), visten ropa teñida con pigmentos de hongos bioluminiscentes, tatúan kené en el cuerpo, aprenden palabras sueltas de idioma shipibo, comen hongos como suplemento alimenticio diario. Son los equivalentes darseños de los rastafaris del Viejo Mundo: una subcultura visible que mezcla estética, espiritualidad y rechazo al sistema dominante. Los ves en las calles de Barrios del Muro con pelo largo, ojos brillantes, camisetas pintadas con kené fosforescente, sonrisa que puede ser iluminación o intoxicación crónica. La SIA los ficha pero no los persigue mientras no monten ceremonia en plaza pública.
 
 ## Geografía de la Fe
 
-- **Barrios del Muro:** 1,200 miembros (comunidad principal)
-- **Tuberías:** 500 miembros (trabajadores subterráneos)
-- **Microcentro:** 200 miembros (servicio doméstico, invisibles)
-- **Litoral:** 100 miembros (intentaron retornar al norte, se establecieron en zonas rurales)
+- **Barrios del Muro:** 4,500 adherentes (comunidad principal, sótanos ceremoniales)
+- **Tuberías:** 2,000 adherentes (zona de cultivo de hongos, ceremonias profundas)
+- **Microcentro:** 800 adherentes (invisibles: servicio doméstico, artesanos)
+- **Litoral:** 700 adherentes (intentos de retorno al norte, comunidades rurales mixtas)
+
+## Relación con la Iglesia
+
+La Iglesia los ignora porque demográficamente son irrelevantes y teológicamente incomprensibles. La SIA tiene fichados a los chamanes principales pero no interviene mientras las ceremonias no incluyan menores ni se publiciten. Es tolerancia por indiferencia: demasiado pequeños para importar, demasiado exóticos para entender, demasiado discretos para molestar.
+
+Ocasionalmente hay redadas. Cuando Censores descubren ceremonia con participantes del Microcentro —curiosos de clase media buscando "experiencia espiritual alternativa"—, la SIA actúa. Arresta organizadores, confisca medicina, clausura sótanos. Los chamanes desaparecen semanas en celdas inquisitoriales, liberados con advertencia. Vuelven a practicar. La SIA vuelve a arrestar. Ciclo que ambos bandos aceptan como costo de coexistencia.
 
 ## Relación con Otros Credos
 
@@ -67,24 +80,20 @@ Sus hijos nacidos en Dársena son generación liminal. Hablan español rioplaten
 
 **Neutrales:**
 - Hermandades Menores (algunos curas toleran medicina tradicional)
-- Los Afortunados (indiferencia mutua)
+- Iglesia Maradoniana (indiferencia mutua)
 
 **Enemigos:**
 - SIA (persecución cuando ceremonias se hacen visibles)
-- Hijos del Pantano (ocasionalmente atacan por "explotar plantas mutadas del pantano")
+- Hijos del Pantano (ataques ocasionales por "explotar plantas mutadas del pantano")
 
-## Conocimiento Botánico
+## La Selva Que Vive en Otros
 
-Los chamanes Shipibo son custodios de conocimiento botánico que sobrevivió el colapso. Identifican plantas medicinales en los pantanos del Riachuelo (zona que científicos consideran inhabitable), cultivan jardines secretos con especies mutadas, preparan remedios que la medicina occidental no puede replicar. Algunos investigadores de la Universidad de Córdoba han intentado estudiar este conocimiento, ofreciendo dinero por entrevistas. Los chamanes rechazan: su saber no es mercancía, es herencia sagrada.
+Para los Shipibo étnicos, la mayor tragedia sigue siendo que la selva amazónica ya no existe. Los ícaros invocan árboles que ardieron, ríos que se secaron, animales que se extinguieron. Las visiones de kené son mapa de territorio que nadie volverá a ver.
 
-Existe tensión generacional. Jóvenes Shipibo educados en escuelas confederadas cuestionan "supersticiones" de abuelos, abrazan racionalismo científico, rechazan ceremonias. Los ancianos lamentan pérdida de tradición, advierten que cuando mueran el conocimiento morirá con ellos. Algunos han comenzado a documentar en cuadernos escritos en shipibo (idioma sin alfabeto oficial, adaptado fonéticamente al español). Es carrera contra el tiempo: preservar antes de que la asimilación borre todo.
+Pero algo inesperado ocurrió con el desborde: los adherentes no-shipibos empezaron a ver la selva en sus ceremonias. Gente que nunca pisó tierra amazónica, que nació y morirá en los sótanos de Barrios del Muro, reporta visiones de árboles gigantes, de ríos anchos como mares, de pájaros de colores que no existen en ningún catálogo zoológico de 2178. Los chamanes interpretan esto como señal: la selva no murió. Migró al plano espiritual. Y cualquiera que beba la medicina puede visitarla.
 
-## La Selva Que Ya No Existe
-
-Para los Shipibo, la mayor tragedia no es persecución en Dársena. Es que la selva amazónica que definió su identidad durante milenios ya no existe. Las ceremonias son duelo colectivo disfrazado de ritual espiritual. Los ícaros que cantan invocan árboles que ardieron, ríos que se secaron, animales que se extinguieron. Las visiones de kené son mapa de territorio que nadie volverá a ver. Es fe de exilio perpetuo: veneran tierra madre que es ceniza.
-
-Algunos ancianos juran que en visiones profundas la selva sigue viva en plano espiritual, que algún día —cuando la humanidad se redima— regresará. Los jóvenes no creen. Saben que la selva es historia. Pero participan en ceremonias igual, por respeto a abuelos, por curiosidad, por necesidad de pertenecer a algo. Es tradición que sobrevive transformada: ya no es fe amazónica. Es fe de refugiados que recuerdan Amazonía desde sótanos de Ciudad Dársena, a cuatro mil kilómetros del río que les dio nombre.
+Es la teología más hermosa y más triste del credo: la Amazonía existe pero solo podés verla con los ojos cerrados, intoxicado en un sótano, cantando canciones en idioma que no entendés, rodeado de extraños que comparten tu duelo por un paraíso que ninguno conoció. Es fe de exilio compartido. Ya no es solo exilio shipibo. Es exilio de todos los que perdieron algo en el colapso y buscan, en la oscuridad de un sótano, los colores de un mundo que ya no está.
 
 ---
 
-*Los Shipibo practican no porque la Confederación los tolere. Practican porque olvidar sería traicionar a los muertos, a la selva, a todo lo que el fuego devoró.*
+*No hace falta ser Shipibo para seguir el camino del kené. Hace falta estar roto. Y en Barrios del Muro, ¿quién no lo está?*
