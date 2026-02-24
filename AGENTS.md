@@ -84,6 +84,12 @@ Notas:
 4. **Indice**: Si creas un archivo nuevo, **debes añadirlo** a `indice.yaml` para que sea visible.
 5. **Frontmatter**: Asegúrate de que `alerta-spoilers` sea un string, no un objeto, para cumplir con el esquema actual de los archivos.
 
+## Base de datos de desarrollo
+- **PostgreSQL 17** disponible vía Docker en `~/Dev/Dockers/postgres/`.
+- **Conexión**: `localhost:5432`, user `dev`, password `dev`, database `dev`.
+- **Contenedor**: `postgres-dev` (restart: unless-stopped).
+- **Iniciar**: `docker compose -f ~/Dev/Dockers/postgres/docker-compose.yml up -d`
+
 ## Troubleshooting común
 - **Error Zod**: "Invalid date" -> Asegúrate de que `fecha` esté en formato `YYYY-MM-DD` o string simple.
 - **404 Portada**: Verifica que `base: '/syv'` esté configurado en `astro.config.mjs` y que el enlace tenga el prefijo.
