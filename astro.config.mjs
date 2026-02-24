@@ -35,8 +35,6 @@ export default defineConfig({
 				{ label: 'Atlas', collapsed: true, autogenerate: { directory: '2_atlas' } },
 				{ label: 'Personajes', collapsed: true, autogenerate: { directory: '3_personajes' } },
 				{ label: 'Diégesis', collapsed: true, autogenerate: { directory: '4_diegesis' } },
-				{ label: 'Aventuras', collapsed: true, autogenerate: { directory: '5_aventuras' } },
-				{ label: 'Media', collapsed: true, autogenerate: { directory: '6_media' } },
 			],
 			components: {
 				PageTitle: './src/components/PageTitle.astro',
