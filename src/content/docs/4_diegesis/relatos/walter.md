@@ -1,6 +1,8 @@
 ---
 title: Walter
 folder: 4_diegesis/relatos
+sidebar:
+  hidden: true
 description: Fragmento de la juventud de Walter, nadador y explorador de las Tuberías de Dársena.
 tags:
 - relato

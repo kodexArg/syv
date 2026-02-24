@@ -1,6 +1,8 @@
 ---
 title: Los Guardianes de Chacarita
 folder: 4_diegesis/relatos
+sidebar:
+  hidden: true
 description: Historia sobre la guarnición militar que custodia el Cementerio de Chacarita y la sociedad secreta que se esconde en su interior.
 tags:
 - relato

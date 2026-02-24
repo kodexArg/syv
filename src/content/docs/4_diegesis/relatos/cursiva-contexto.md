@@ -1,5 +1,12 @@
 ---
-title: "Cursiva"
+title: "Cursiva Contexto"
+folder: 4_diegesis/relatos
+description: Contexto narrativo y guía de voces para el relato Cursiva.
+tags:
+  - relato
+  - sor-sofia
+  - sor-catalina
+  - contexto
 type: "Cuento Corto"
 status: "En Escritura"
 ---

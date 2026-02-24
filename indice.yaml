@@ -173,14 +173,8 @@
   cartas:
     carta-a-sor-sofia: carta-a-sor-sofia
     index: index
-  cronicas:
-    cronica-del-arribo-de-damian: cronica-del-arribo-de-damian
-    index: index
   index: index
   relatos:
-    damian: damian
-    historia-campana-damian: historia-campana-damian
+    cursiva: cursiva
+    cursiva-contexto: cursiva-contexto
     index: index
-    la-llegada-del-sabueso: la-llegada-del-sabueso
-    los-guardianes-de-chacarita: los-guardianes-de-chacarita
-    walter: walter

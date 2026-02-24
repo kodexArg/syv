@@ -1,6 +1,8 @@
 ---
 title: Damián, El Sabueso
 folder: 4_diegesis/relatos
+sidebar:
+  hidden: true
 description: Trasfondo y biografía de Damián, detective veterano de la Dirección Nacional de Seguridad, protagonista de una investigación que lo lleva de Córdoba a Dársena.
 tags:
 - relato
