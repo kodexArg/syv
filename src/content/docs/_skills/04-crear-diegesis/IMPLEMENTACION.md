@@ -1,3 +1,9 @@
+---
+title: "Implementación: crear-diegesis"
+sidebar:
+  hidden: true
+---
+
 # Implementación Técnica: /crear-diegesis
 
 ## Registro del Skill

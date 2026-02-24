@@ -1,3 +1,9 @@
+---
+title: "Ejemplos: crear-diegesis"
+sidebar:
+  hidden: true
+---
+
 # Ejemplos de Uso: /crear-diegesis
 
 ## Ejemplo 1: Sin Contexto (Help)

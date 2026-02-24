@@ -1,3 +1,9 @@
+---
+title: "Crear Diégesis: Guía Rápida"
+sidebar:
+  hidden: true
+---
+
 # Crear Diégesis: Guía Rápida
 
 ## ¿Qué es?
