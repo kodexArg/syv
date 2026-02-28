@@ -22,6 +22,8 @@ Exorcista y estudioso de posesiones
 
 Hombre alto y delgado, de barba gris mal cuidada que a menudo oculta su alzacuellos. Viste un sombrero negro de estilo antiguo que le da un aire anacrónico. Su apariencia es la de un sacerdote poco convencional, casi descuidado, que parece más cómodo en las calles que en una iglesia.
 
+En los Barrios del Muro lleva sotana negra y crucifijo de plata oxidada: la armadura mínima para un exorcista que necesita ser reconocido. En el Faro de la SIA, en cambio, parece casi un turista: apenas una camisa negra y un alzacuellos casi invisible. Sin sotana, sin ornamento, sin la gravedad vestimentaria que el Faro impone. Y sin embargo, se mueve por sus pasillos con una libertad total, entra solo por puertas que otros cruzan con protocolo. Esta paradoja —no parecer de ningún lugar y pertenecer a todos— es su rasgo definitorio.
+
 Un hombre de Dios que camina entre sombras por necesidad.
 
 ## Descripción
@@ -53,6 +55,8 @@ El Padre Rafa no es quien dice ser. Su verdadera identidad está oculta detrás 
 <!-- /🔐☠️ -->
 ## Conexiones Importantes
 
+- **Sor Sofía**: Antigua alumna de exorcismo. Relación de respeto mutuo y afecto sincero. Sofía es una de las pocas personas ante quien Rafa baja la guardia, y viceversa.
+- **Madre Superiora María**: Acceso directo. La relación entre ambos sugiere un rango o una confianza que trasciende la jerarquía formal.
 - **Paco el Puntero**: Era su íntimo amigo y contacto con el Pueblo del Pantano (fallecido)
 - **El Pueblo del Pantano**: Su destino final y posible salvación
 - **Los Barrios del Muro**: Donde realiza su trabajo y búsqueda

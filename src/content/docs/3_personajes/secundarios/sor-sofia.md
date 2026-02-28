@@ -56,6 +56,7 @@ Sofía recuerda con melancolía a Sor Catalina. Sus caminos se separaron cuando 
 ## Conexiones Importantes
 
 - **Madre Superiora María**: Mentora absoluta, guía de su vida desde la infancia
+- **Padre Rafa**: Antiguo profesor de exorcismo. Relación de respeto profundo y afecto sincero. Sofía, normalmente impertérrita, con Rafa muestra una calidez que no exhibe con nadie más.
 - **Hermanas de Batalla del Faro**: Cuerpo de elite que comanda junto a otras tres veteranas
 - **Sor Catalina**: Compañera de infancia y figura de admiración, cuyos caminos divergieron
 
