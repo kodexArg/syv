@@ -111,46 +111,13 @@ facciones: [Array opcional de facciones relacionadas]
 - Referencias cruzadas: `[^id]: Facción / "Apodo"`
 - Relación con otros elementos (ubicaciones, eventos, artefactos)
 
-## Adaptación según Complejidad
+### Adaptación según Complejidad
 
-### Facciones SIMPLES (< 50 líneas)
-**Para**: Grupos pequeños, secretos, descentralizados, células, facciones míticas
+**Facciones SIMPLES** (< 50 líneas, ej: Cazadores de Pesadillas, Canales Ocultos):
+Categorías obligatorias: I, II, III, VII, X, XI. Estilo narrativa fluida.
 
-**Categorías obligatorias**:
-- I. Metadatos
-- II. Identificación Básica (mínima)
-- III. Contexto y Propósito
-- VII. Relaciones Externas (mínima)
-- X. Información Privilegiada (secretos GM)
-- XI. Referencias
-
-**Estilo**: Narrativa fluida con subtítulos mínimos o sin ellos
-
-**Ejemplos**: Cazadores de Pesadillas, Shipibo-Conibo, Canales Ocultos, Iluminati
-
-### Facciones COMPLEJAS (> 50 líneas)
-**Para**: Organizaciones grandes, oficiales, con jerarquías claras, instituciones
-
-**Categorías obligatorias**:
-- TODAS las 11 categorías (completas o parciales según aplique)
-
-**Estilo**: Estructura con subtítulos claros (## y ###), secciones bien definidas
-
-**Ejemplos**: Iglesia de Dársena, SIA, Fuerzas Armadas, Exorcistas, Congregación
-
-## Clasificación de Facciones
-
-**Oficiales** (4):
-- Iglesia de Dársena, SIA, Fuerzas Armadas, Gremio de Comercio
-
-**Proscritas** (6):
-- Arpistas, Resistencia Subterránea, Los Umbanda, Traficantes de Almas, Saqueadores, Hackers
-
-**Secretas** (5):
-- Guardianes de la Memoria, Canales Ocultos, Masones, Cazadores de Pesadillas, Shipibo-Conibo
-
-**Mixtas/Especiales** (4):
-- Exorcistas (rama de Iglesia), Congregación (rama de Iglesia), Refugiados y Parias (no-facción), Iluminati (mítica)
+**Facciones COMPLEJAS** (> 50 líneas, ej: Iglesia, SIA, CUFAC):
+TODAS las 11 categorías. Estilo con subtítulos claros.
 
 ## Matriz de Relaciones (Validación)
 

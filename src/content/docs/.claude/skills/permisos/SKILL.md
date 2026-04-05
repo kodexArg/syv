@@ -135,44 +135,18 @@ Confianza: 95%
 
 ### 6. Generar Reporte de Validación
 
-**Formato**:
+**Formato de reporte**:
 ```
-═══════════════════════════════════════════════════════════════
 REPORTE DE VALIDACIÓN DE PERMISOS
-Archivo: 1_trasfondo/facciones/arpistas.md
-═══════════════════════════════════════════════════════════════
+Archivo: [path]
 
-✅ ESTRUCTURA GENERAL
-- Sintaxis: Válida
-- Bloques: 2 (balance perfecto)
-- Cierres: Formato correcto
-- Nidamiento: Permitido
+✅/❌ ESTRUCTURA: Sintaxis, balance, cierres, nidamiento
+✅/❌ SCOPE: Existencia y apropiación por nivel
+✅/❌ COHERENCIA TEMPORAL: Fechas vs eventos
+✅/❌ COHERENCIA NARRATIVA: Personajes y ubicaciones
 
-✅ VALIDACIÓN DE SCOPE
-1. 🔐☠️ (SIA)
-   - Facción existe: ✓
-   - Ubicación operación: Dársena ✓
-
-2. 🔐 (Acceso previo: Arpistas)
-   - Scope válido: ✓
-
-✅ COHERENCIA TEMPORAL
-- Rango: 2155-2178
-- Eventos: Coherentes ✓
-
-✅ COHERENCIA NARRATIVA
-- Personajes: Todos existen ✓
-- Ubicaciones: Verificadas ✓
-
-═══════════════════════════════════════════════════════════════
-RESULTADO: ✅ VÁLIDO
-
-Total de secretos: 2
-- SECRETO_MORTAL: 1
-- SECRETO_DISCIPLINARIO: 1
-
-Listo para publicación.
-═══════════════════════════════════════════════════════════════
+RESULTADO: ✅ VÁLIDO / ❌ INVÁLIDO
+Total secretos: N (📖: X, 🔐: Y, 🔐☠️: Z)
 ```
 
 ---
@@ -190,25 +164,14 @@ Listo para publicación.
 6. Validación: Ejecutar validación final
 ```
 
-### Workflow 2: Validar Existentes
+### Workflow 2: Validar / Migrar PERMISOS
 
 ```
 1. Escaneo: Buscar patrón <!-- ICONO (SCOPE) -->
 2. Extracción: Extraer icono, scope, contenido
-3. Validación: 6 verificaciones
+3. Validación: 6 verificaciones (estructura, scope, temporal, narrativa)
 4. Reporte: Errores, advertencias, sugerencias
-```
-
-### Workflow 3: Migrar Canon Existente
-
-```
-1. Análisis: Leer documentos
-2. Detección: Identificar candidatos
-3. Proposición: Usuario revisa/ajusta
-4. Diff: Mostrar cambios
-5. Confirmación: Proceder o rechazar
-6. Aplicación: Insertar bloques
-7. Validación post-migración
+5. Si migración: Proponer cambios → diff → usuario confirma → aplicar
 ```
 
 ---
@@ -230,27 +193,7 @@ Listo para publicación.
 3. Explicar POR QUÉ un contenido merece cierto nivel
 4. Mostrar diff antes de aplicar cambios
 5. Validar final después de cualquier operación
-
----
-
-## Patrones Regex para Parse
-
-### Extraer bloques completos
-```regex
-<!-- ([📖🔐☠️]+) \(([^)]+)\) -->
-([\s\S]*?)
-/\1
-```
-
-**Captura**:
-- Grupo 1: ICONO(s)
-- Grupo 2: SCOPE
-- Grupo 3: Contenido
-
-### Validar cierre
-```regex
-/([📖🔐☠️]+)$
-```
+6. Ordenar secretos al final del documento: 📖 → 🔐 → 🔐☠️ (excepción: en diégesis pueden ir intercalados si narrativamente lo requieren; nunca en cronología)
 
 ---
 
@@ -295,24 +238,6 @@ Contenido...
 - **faction-designer**: Valida scopes de facciones
 - **character-architect**: Verifica personajes mencionados
 - **geolocation-specialist**: Valida ubicaciones en scope
-
----
-
-## Notas de Implementación
-
-### Preferencia por Ubicación
-
-**PREFERIDO**: Secretos al final, ordenados por nivel
-```
-1. Contenido público
-2. Secretos SABER_POPULAR
-3. Secretos SECRETO_DISCIPLINARIO
-4. Secretos SECRETO_MORTAL
-```
-
-**EXCEPCIÓN**: En historias/diegesis pueden ir intercalados si narrativamente lo requieren
-
-**NUNCA**: En cronología (factual, no secreta)
 
 ---
 

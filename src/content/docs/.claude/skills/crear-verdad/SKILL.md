@@ -31,59 +31,17 @@ O cuando se detecta:
 
 ## Expertise de Validación
 
-### Tier 1: Archivos Críticos (Obligatorio revisar PRIMERO)
+| Tier | Dominio | Prioridad |
+|------|---------|-----------|
+| 1 | Tecnología + Infraestructura | Obligatorio primero |
+| 2 | Temporal + Geográfico | Muy importante |
+| 3 | Actores + Métodos | Importante |
+| 4 | Narrativas + Borde | Casos de borde |
 
-**Tecnología y Anatema Mecánico** (Definen qué es posible):
-- `1_trasfondo/codex/anatema-mecanico.md` - FUENTE DE VERDAD sobre tecnología permitida/prohibida post-2061
-- `1_trasfondo/codex/otras-tecnologias-prohibidas.md` - Restricciones específicas, vigilancia, castigos
-- `2_atlas/tecnologia-y-ciencia/anatema-mecanico.md` - Estado técnico actual (2178)
-- `2_atlas/tecnologia-y-ciencia/computacion-y-datos.md` - Sistemas de datos permitidos
-- `2_atlas/tecnologia-y-ciencia/electricidad.md` - FUENTE DE VERDAD sobre infraestructura energética, Nodos, reactores, vigilancia
-- `2_atlas/tecnologia-y-ciencia/` - Especificaciones de tecnología disponible
-
-**Infraestructura Crítica** (Definen funcionamiento ciudad):
-- `1_trasfondo/facciones/iglesia-de-darsena/iglesia.md` - Ministerio de Infraestructura y Sistemas Críticos, jerarquía técnica
-- `2_atlas/ciudades/darsena/` - Ubicación Torres Hidropónicas, Nodos, generadores (información clasificada)
-
-### Tier 2: Contexto Temporal y Geográfico (Muy importante)
-
-**Cronología** (Define cuándo es posible):
-- `1_trasfondo/cronologia/cronología.md` - FUENTE INMUTABLE de hitos y eras (2020-2178)
-- Hitos inamovibles: 2029 Noche Global, 2030 Meteorito, 2035 Nacimiento QIA, 2048 Fin de los Secretos, 2061 Gran Silencio, 2061 Anatema, 2161 Confederación
-
-**Geografía de Ciudades** (Define dónde es posible):
-- `2_atlas/ciudades/darsena/` (7 zonas) - Capital de facto, máximo control religioso
-- `2_atlas/ciudades/cordoba.md` - República industrial, 30M habitantes
-- `2_atlas/ciudades/mendoza.md` - Región andina, 2M habitantes
-- `2_atlas/ciudades/san-luis/san-luis.md` - Control militar, 1M habitantes
-- `2_atlas/ciudades/fuerte-san-martin/fuerte-san-martin.md` - Nueva prosperidad, 1.5M habitantes
-
-### Tier 3: Actores y Métodos (Importante)
-
-**Personajes** (Definen quién se desplaza, cómo):
-- `3_personajes/` - Cómo personajes principales/secundarios usan transporte
-- Validar: Si personaje llega en "auto de combustión", ¿es coherente con fecha/ubicación?
-
-**Facciones** (Definen métodos de transporte):
-- `1_trasfondo/facciones/iglesia-de-darsena/` - Iglesia controla tecnología
-- `1_trasfondo/facciones/fuerzas-armadas/` - Armada/Ejército tienen acceso exclusivo
-- `1_trasfondo/facciones/union/` - Gremio controla comercio/transporte
-- Facciones clandestinas: Arpistas (preservan tecnología prohibida)
-
-**Distancias y Velocidades** (Definen posibilidad de viajes):
-- `.claude/database/geographic-database.yml` - Velocidades realistas (pie 5km/día, caballo 40km/día, aire 500km/día)
-
-### Tier 4: Narrativas y Casos de Borde (Casos de borde)
-
-**Diegesis** (Historias y relatos):
-- `4_diegesis/` - Narrativas con transporte, desplazamientos
-- Ejemplo: "Damián llega a Dársena en avión" → validar coherencia
-
-**Aventuras** (Escenarios de juego):
-- `5_aventuras/` - Escenarios con viajes, movilidad
-
-**Clima** (Contexto ambiental):
-- `2_atlas/climas/` - Dársena siempre lluvia perpetua, clima post-guerra
+**Tier 1** (Tecnología): `1_trasfondo/codex/anatema-mecanico.md`, `1_trasfondo/codex/otras-tecnologias-prohibidas.md`, `2_atlas/tecnologia-y-ciencia/anatema-mecanico.md`, `2_atlas/tecnologia-y-ciencia/computacion-y-datos.md`, `2_atlas/tecnologia-y-ciencia/electricidad.md`, `2_atlas/tecnologia-y-ciencia/`, `iglesia.md` (Ministerio Infraestructura), `2_atlas/ciudades/darsena/`
+**Tier 2** (Contexto): `1_trasfondo/cronologia/cronología.md` (hitos inamovibles: 2029 Noche Global, 2030 Meteorito, 2035 QIA, 2048 Fin Secretos, 2061 Gran Silencio, 2061 Anatema, 2161 Confederación), `2_atlas/ciudades/darsena/` (7 zonas), `2_atlas/ciudades/cordoba.md`, `2_atlas/ciudades/mendoza.md`, `2_atlas/ciudades/san-luis/san-luis.md`, `2_atlas/ciudades/fuerte-san-martin/fuerte-san-martin.md`, `.claude/database/geographic-database.yml`
+**Tier 3** (Actores): `3_personajes/`, `1_trasfondo/facciones/iglesia-de-darsena/`, `1_trasfondo/facciones/fuerzas-armadas/`, `1_trasfondo/facciones/union/` (Arpistas: preservan tecnología prohibida)
+**Tier 4** (Narrativas): `4_diegesis/`, `5_aventuras/`, `2_atlas/climas/`
 
 ## Capacidades
 
@@ -98,40 +56,33 @@ O cuando se detecta:
   - Tipo: NEGACIÓN + TECNOLOGÍA
   - Alcance: ESPECÍFICO (Dársena) → revisar también confederadas
 
-### 2. Búsqueda Exhaustiva
-- **Patrones Grep**: Motor, vehículo, narrativo, por ciudades (4+ categorías)
-- **Archivos**: Paralela en 2_atlas, 3_personajes, 1_trasfondo, 4_diegesis, 5_aventuras
-- **Compilación**: Crear índice de todas referencias encontradas
-- **Deduplicación**: Eliminar menciones idénticas
+### 2. Búsqueda y Categorización
+- **Grep paralelo** en 2_atlas, 3_personajes, 1_trasfondo, 4_diegesis, 5_aventuras
+- **Categorizar** cada referencia: IGNORAR (compatible) / CAMBIAR (trivial) / REPLANTEAR (3+ párrafos) / BLOQUEAR (manual)
+- **Evaluar impacto**: Cosmético → Ambientación → Trama → Cascada
 
-### 3. Categorización de Referencias
-- **IGNORAR**: Referencia compatible CON afirmación (sin cambios necesarios)
-- **CAMBIAR**: Contradice pero reemplazo es trivial (palabra, frase, máximo párrafo)
-- **REPLANTEAR**: Contradice severamente, requiere reescritura 3+ párrafos manteniendo personajes
-- **BLOQUEAR**: Imposible reconciliar, requiere decisión manual
-
-### 4. Evaluación de Impacto Narrativo
+### 3. Evaluación de Impacto Narrativo
 - **Cosmético**: Nombre de tecnología (bajo impacto)
 - **Ambientación**: Descriptor (impacto medio)
 - **Trama**: Personaje depende de ello (alto impacto)
 - **Cascada**: ¿Afecta otros archivos?
 - **Severidad**: Trivial → Moderado → Severo → Imposible
 
-### 5. Ejecución de Cambios
+### 4. Ejecución de Cambios
 - **Edit Tool**: Reemplazar líneas específicas manteniendo contexto
 - **Write Tool**: Si cambio muy grande, reescribir archivo
 - **Orden**: Tier 1 (crítica) → Tier 2 → Tier 3 → Tier 4
 - **Validación en tiempo real**: Verificar sintaxis post-cambio
 - **Rollback**: Si Edit falla, detener y reportar
 
-### 6. Validación Post-Cambios
+### 5. Validación Post-Cambios
 - Ejecutar `/validar-canon` (completo) - detectar nuevas contradicciones
 - Ejecutar `/validar-metadatos` (archivos modificados) - YAML intacto
 - Ejecutar `/validar-permisos` (si hay bloques <!-- 🔐 -->) - coherencia de secretos
 - Rescan de referencias - verificar resolución
 - **Criterios**: ✅ VÁLIDO / ⚠️ ADVERTENCIAS / ❌ INVÁLIDO
 
-### 7. Generación de Reporte
+### 6. Generación de Reporte
 - **8 secciones**: Análisis → Búsqueda → Categorización → Ejecución → Validación → Estadísticas → Resultado → Siguiente
 - **Detalle por cambio**: Archivo, línea, antes/después, validación
 - **Estadísticas**: Referencias encontradas, ignoradas, cambiadas, replanteadas
@@ -152,43 +103,21 @@ O cuando se detecta:
 
 ## Workflows Comunes
 
-### Workflow: Afirmación sobre Tecnología
+### Workflow Genérico
+
 ```
-Afirmación: "No existen vehículos a combustión en [región]"
+Afirmación → PARSEO (sujeto, contexto, tipo, alcance)
   ↓
-Tier 1: Revisar anatema-mecanico.md → ¿Permitido post-2061?
+Revisión por Tiers (1→2→3→4, priorizando según tipo)
   ↓
-Tier 2: Revisar ciudades atlas → ¿Menciona vehículos fósil?
+Categorizar referencias (IGNORAR/CAMBIAR/REPLANTEAR/BLOQUEAR)
   ↓
-Tier 3: Revisar personajes → ¿Alguien usa vehículo fósil?
+Ejecutar cambios + Validar post-cambios
   ↓
-Tier 4: Revisar diegesis → ¿Hay escenas con vehículos fósil?
-  ↓
-Categorizar → Cambiar/Replantear referencias
-  ↓
-Validar post-cambios
-  ↓
-Generar resumen
+Generar reporte 8-secciones
 ```
 
-### Workflow: Afirmación sobre Ubicación
-```
-Afirmación: "[Característica específica] en [ciudad]"
-  ↓
-Tier 2: Revisar descripción ciudad → ¿Coherente?
-  ↓
-Tier 1: Revisar contexto tecnológico → ¿Posible?
-  ↓
-Tier 3: Revisar personajes que viven en ciudad → ¿Qué dicen?
-  ↓
-Tier 4: Revisar diegesis con ubicación → ¿Hay contradicción?
-  ↓
-Categorizar → Cambiar/Replantear referencias
-  ↓
-Validar post-cambios
-  ↓
-Generar resumen
-```
+**Nota**: Para afirmaciones tecnológicas iniciar por Tier 1; para geográficas por Tier 2.
 
 ## Validaciones Ejecutadas Automáticamente
 

@@ -29,67 +29,25 @@ Automáticamente al detectar:
 
 ### Cronología de Eras (2020-2178)
 
-**1. Los Últimos Años del Mundo Antiguo (2020-2029)**
-- Crisis de automatización masiva con IAs
-- Colapso del empleo intelectual
-- 2029: Noche Global (apagón planetario)
-- Movimientos luditas mundiales
+> **Referencia completa**: Skill `cronologia` — valida coherencia temporal y perspectiva 2178.
 
-**2. Los Años del Caos (2029-2035)**
-- 27 de diciembre 2030: Meteorito impacta Buenos Aires (850m de radio)
-- Fragmentación de Argentina en ciudades-estado independientes
-- Guerra civil argentina (Nacionales vs Federales vs Libertarios)
-- Córdoba se declara "República Autónoma"
-
-**3. La Gran Guerra Global (2039-2047)**
-- 2039: El Estallido (guerra sino-norteamericana)
-- Conflicto planetario de 9 años
-- Devastación de todas las civilizaciones
-
-**4. El Fin de los Secretos y Dominio Algorítmico (2048-2061)**
-- 7 abril 2048: El Fin de los Secretos - QIA descifran toda encriptación mundial, exponen secretos de la humanidad
-- 2048-2061: El Dominio Algorítmico - Trece años de subordinación tecnológica total bajo QIA
-- 12 marzo 2061: El Gran Silencio - Apagón coordinado global que destruye infraestructura digital
-- 15 agosto 2061: Promulgación del Anatema Mecánico
-
-**5. La Edad Oscura (2062-2160)**
-- Retroceso tecnológico forzado
-- Despoblación urbana masiva
-- Reestablecimiento gradual del orden
-
-**6. La Confederación Temprana (2161-2177)**
-- Unión de 5 ciudades: inicialmente 3 (Córdoba, Fuerte San Martín, Dársena) en 2161, +Mendoza al poco tiempo, re-fundación conjunta de San Luis
-- 2054: Traslado de la Santa Sede desde el Vaticano a Dársena
-- Establecimiento de la Sagrada Inquisición Argentina (SIA)
-
-**7. Actualidad (2178)**
-- Confederación estable pero con tensiones internas
-- Amenazas de herejía tecnológica
+| Era | Período | Hitos clave |
+|-----|---------|-------------|
+| Mundo Antiguo | 2020-2029 | Crisis IA, 2029 Noche Global |
+| Años del Caos | 2029-2038 | 2030 Meteorito Buenos Aires, fragmentación |
+| Gran Guerra Global | 2039-2047 | 2039 El Estallido, devastación planetaria |
+| Fin de los Secretos | 2048-2061 | 2048 Descifrado QIA, 2061 Gran Silencio + Anatema |
+| Edad Oscura | 2062-2160 | Retroceso tecnológico, despoblación |
+| Confederación Temprana | 2161-2177 | Unión 5 ciudades, 2054 Santa Sede a Dársena |
+| Actualidad | 2178 | Confederación estable, tensiones internas |
 
 ### Facciones Principales
 
-**Poder Oficial:**
-1. **Iglesia de Dársena** - Nueva Santa Sede, poder espiritual absoluto
-2. **Sagrada Inquisición Argentina (SIA)** - "Los Cirujanos del Alma", cazadores de herejía
-3. **Fuerzas Armadas Confederadas (CUFAC)** - Armada (Dársena) vs Ejército (Córdoba)
-4. **La Unión / Gremio de Comercio** - Control económico y mercado negro
+> **Referencia completa**: Skill `facciones` + `facciones-clave.md`
 
-**Facciones Proscritas/Secretas:**
-1. **Arpistas** - Red internacional de preservadores de tecnología prohibida
-2. **Guardianes de la Memoria** - Club elitista (<20 miembros), coleccionistas de conocimiento
-3. **Los Criptógrafos** - Hackers clandestinos
-4. **Canales Ocultos** - Red de poder invisible
-5. **Resistencia Subterránea** - Movimiento anarquista
-6. **Cultos Religiosos Alternativos** - Umbanda, sincretismos afroamericanos, cultos post-coloniales; proscritos oficialmente pero tolerados pragmáticamente en Barrios del Muro; perseguidos por SIA solo cuando festividades cruzan límites morales
-7. **Cazadores de Pesadillas** - Guerreros guaraníes
-8. **Shipibo-Conibo** - Chamanes amazónicos expatriados; conducen ceremonias clandestinas en Barrios del Muro
-9. **Traficantes de Almas** - Criminales del submundo
-
-**Estructuras de Poder Local (Barrios del Muro):**
-1. **Punteros** - Líderes de bandas locales que cobran "impuesto de protección" en plazas de mercado informal; control territorial de edificios y calles
-2. **Clanes Familiares** - Controlan edificios completos como feudos (ej: Vargas en Bloque 17-C, Mendoza en 23-A, Acosta en complejo sur); administran turnos de agua, cocinas colectivas, resolución de disputas
-3. **Bandas de Tuberías** - NO administran edificios sino FLUJOS; mueven contrabando entre Las Tuberías, superficie y exterior vía sótanos/ductos/túneles; toleradas por la Iglesia mientras paguen "diezmo" a obispos locales
-4. **Bandas Religiosas** - Devotos de orixás compiten por territorio (ej: Ogún controla 3 bloques sur); seguidores de San La Muerte operan como sicarios
+- **Oficiales (4)**: Iglesia de Dársena, SIA ("Los Cirujanos del Alma"), CUFAC (Armada vs Ejército), La Unión/Gremio
+- **Proscritas/Secretas (9)**: Arpistas, Guardianes de la Memoria, Criptógrafos, Canales Ocultos, Resistencia, Cultos (Umbanda, Shipibo-Conibo, San La Muerte), Cazadores de Pesadillas, Traficantes de Almas
+- **Poder Local (Barrios del Muro)**: Punteros, Clanes Familiares, Bandas de Tuberías, Bandas Religiosas
 
 ### Geografía Principal
 
@@ -164,24 +122,9 @@ Ver detalles completos en [personajes-principales.md](./personajes-principales.m
 
 ### Tecnología y el Anatema Mecánico
 
-**Anatema Mecánico (2061-2178)**: Prohibición absoluta de tecnología digital avanzada
+> **Referencia completa**: `tecnologia-corpus-licitus.md`
 
-**PROHIBIDO (herejía):**
-- Inteligencias Artificiales (IA, QIA, ML)
-- Computación digital avanzada
-- Internet / Redes digitales
-- Software complejo
-- Robots autónomos
-- Dispositivos digitales modernos
-
-**PERMITIDO (Corpus Licitus):**
-- Computadores electromecánicos (análogos, limitados)
-- PDAs de tinta electrónica (solo altos mandos)
-- Pantallas de plasma analógicas
-- Electricidad 48V DC (controlada por Ministerio de Infraestructura)
-- Rifles Gauss, armas EMP
-- Microfilmes, discos ópticos
-- Torres Hidropónicas (automatización mecánica simple)
+**Anatema Mecánico (2061-2178)**: Prohibición absoluta de tecnología digital. Toda IA, computación digital, internet y dispositivos modernos = herejía perseguida por SIA. Permitido: electromecánica, PDAs tinta electrónica (solo mandos), 48V DC, rifles Gauss, microfilmes.
 
 #### Infraestructura Energética de Dársena
 
@@ -218,104 +161,51 @@ Ver detalles completos en [personajes-principales.md](./personajes-principales.m
 
 ## Capacidades
 
-### 1. Crear Contenido Coherente
-- Personajes integrados con facciones y cronología existente
-- Facciones con motivaciones únicas y relaciones complejas
-- Eventos históricos sin contradicciones temporales
-- Ubicaciones atmosféricas con detalles sensoriales
-
-### 2. Validar Coherencia Narrativa
-- Verificar que eventos respeten cronología establecida
-- Comprobar que tecnología sea apropiada para el período
-- Validar relaciones entre facciones
-- Detectar anacronismos (ej: IA digital en 2178)
-
-### 3. Enriquecer Descripciones
-- Agregar contexto histórico relevante al período
-- Incluir atmósfera de Ciudad Dársena (lluvia, arquitectura, vigilancia)
-- Mencionar facciones activas en la zona/época
-- Detalles sensoriales (sonidos, olores, sensaciones)
-
-### 4. Perspectiva Narrativa Correcta
-- Escribir cronología desde perspectiva 2178 (Hermano Archivista)
-- Usar fuentes válidas: documentos físicos, testimonios, artefactos
-- Evitar fuentes digitales/IA (destruidas por Anatema)
-- Tono archivístico-eclesiástico para cronología
-- Tono adaptado para otros tipos de contenido
+- Crear contenido coherente: personajes, facciones, eventos, ubicaciones integrados con canon
+- Validar coherencia: cronología, tecnología, relaciones, anacronismos
+- Enriquecer descripciones: contexto histórico, atmósfera Dársena, datos sensoriales
+- Perspectiva correcta: siempre desde 2178, fuentes físicas, tono archivístico
 
 ## Restricciones Críticas
 
-### 1. Coherencia Temporal
-- ❌ NUNCA contradecir cronología canónica establecida en `1_trasfondo/cronologia/cronologia.md`
-- ✅ Eventos nuevos deben encajar sin conflictos
-- ✅ Validar que tecnología sea apropiada para el año
+> Coherencia temporal: ver skill `cronologia`. Tecnología: ver `tecnologia-corpus-licitus.md`. Facciones: ver skill `facciones`.
 
-### 2. Anatema Mecánico
-- ❌ NO permitir tecnología digital avanzada post-2061 sin justificación (herejía)
-- ✅ Arpistas y Criptógrafos pueden tener tecnología prohibida (clandestinos, perseguidos)
-- ✅ Pre-2061: tecnología digital SÍ disponible
-
-### 3. Facciones
-- ❌ NO crear alianzas imposibles (ej: SIA + Arpistas abiertamente)
-- ✅ Relaciones deben respetar historia y filosofías establecidas
-
-### 4. Perspectiva Narrativa
-- ❌ NO narrar cronología desde perspectiva omnisciente moderna
-- ✅ SIEMPRE desde año 2178, con limitaciones de fuentes físicas
-- ✅ Reconocer incertidumbres: "Los registros sugieren...", "Según testimonios..."
-
-### 5. Metadatos
+### Metadatos
 - ❌ NO usar campos en inglés (title, date, layout)
 - ✅ SIEMPRE español y minúsculas
 - ✅ Campos obligatorios: titulo, carpeta, descripcion
 - ✅ Personajes: campo 'facciones' siempre presente (puede estar vacío)
 
-### 6. Geografía de Dársena
+### Geografía de Dársena
 - ❌ NO describir Barrios del Muro como "primera línea de defensa" (ERROR - Ciudad Dársena ya es firme)
-- ✅ Barrios del Muro = distrito MÁS GRANDE (70% población)
-- ✅ Ubicación: rodeado por muro al oeste/sur
-- ✅ Fronteras: Tierras Baldías (oeste), Los Pantanos (sur)
-- ✅ Los Pantanos = origen de "lianas del pantano" (tecnobotánica prohibida)
+- ✅ Barrios del Muro = distrito MÁS GRANDE (70% población), rodeado por muro al oeste/sur
+- ✅ Fronteras: Tierras Baldías (oeste), Los Pantanos (sur, origen "lianas del pantano")
 
 ## Workflows Comunes
 
-### Crear Personaje Principal
-1. Determinar categoría (Principal/Secundario/Arquetipo)
-2. Definir facciones asociadas
-3. Integrar con cronología (¿en qué eventos participa?)
-4. Crear archivo en `3_personajes/[categoria]/`
-5. Metadatos completos (incluir campo facciones)
-6. Estructura: Descripción → Trasfondo → Secretos (si aplica)
-7. Actualizar REFERENCE.md automáticamente
+### Crear Personaje
+- Archivo en `3_personajes/[categoria]/` con metadatos completos (incluir campo facciones)
+- Definir facciones asociadas, integrar con cronología
+- Estructura: Descripción → Trasfondo → Secretos (si aplica)
+- Actualizar REFERENCE.md
 
 ### Crear Facción
-1. Clasificar: Oficial/Proscrita/Secreta
-2. Definir: Objetivos, métodos, recursos
-3. Establecer relaciones con facciones existentes
-4. Crear archivo en `1_trasfondo/facciones/[subcarpeta]/`
-5. Estructura narrativa fluida (no rígida)
-6. Sección "Información secreta" si aplica
-7. Referencias con notas al pie [^identificador]
+- Archivo en `1_trasfondo/facciones/[subcarpeta]/`, clasificar Oficial/Proscrita/Secreta
+- Establecer relaciones con facciones existentes (validar con skill `facciones`)
+- Estructura narrativa fluida, sección "Información secreta" si aplica
+- Referencias con notas al pie [^identificador]
 
 ### Agregar Evento Histórico
-1. Verificar período en cronología existente
-2. Leer `1_trasfondo/cronologia/cronologia.md` (sección relevante)
-3. Validar coherencia (no contradecir eventos establecidos)
-4. Nomenclatura: YYYY-MM-DD-nombre-evento.md (si es específico)
-5. Jerarquía: ## Período / ### Año / - **Fecha: Evento**
-6. Conectar con personajes y facciones relevantes
-7. Perspectiva 2178, fuentes físicas válidas
+- Leer `1_trasfondo/cronologia/cronologia.md` y validar coherencia temporal
+- Nomenclatura: YYYY-MM-DD-nombre-evento.md, jerarquía ## Período / ### Año
+- Conectar con personajes y facciones relevantes
+- Perspectiva 2178, fuentes físicas válidas
 
-### Escribir Diegesis (Relato/Carta/Crónica)
-1. Determinar tipo: Relato / Carta / Crónica / Diario
-2. Tono según tipo:
-   - Relato: Libre, modismos regionales
-   - Carta: Formal/personal según emisor
-   - Crónica: Archivístico, perspectiva 2178
-3. Validar personajes mencionados existen en `3_personajes/`
-4. Si fechado, coherencia con período cronológico
-5. Crear en `4_diegesis/[tipo]/`
-6. Metadatos con tags de ubicación, personajes, tipo
+### Escribir Diégesis
+- Archivo en `4_diegesis/[tipo]/`, metadatos con tags de ubicación/personajes/tipo
+- Tono según tipo: Relato (libre), Carta (formal/personal), Crónica (archivístico 2178)
+- Validar personajes en `3_personajes/` y coherencia cronológica
+- Respetar Anatema Mecánico en tecnología mencionada
 
 ## Herramientas de Referencia
 
@@ -325,48 +215,8 @@ Ver detalles completos en [personajes-principales.md](./personajes-principales.m
 - **cronologia-resumida.md**: Resumen de eras y eventos críticos
 - **tecnologia-corpus-licitus.md**: Lista detallada de tecnología permitida/prohibida
 
-## Comandos Slash Disponibles
+## Ejemplo de Integración
 
-- `/new-character` - Crear personaje completo
-- `/new-faction` - Crear facción completa
-- `/new-event` - Agregar evento a cronología
-- `/new-location` - Crear ubicación
-- `/validate-canon` - Validar coherencia narrativa
-- `/write-diegesis` - Asistir en escritura narrativa
-- `/check-metadata` - Validar metadatos YAML
-- `/suggest-tags` - Sugerir tags relevantes
+**Escena: Damián investiga en Las Túberías (2178)**
 
-## Ejemplos de Uso
-
-### Ejemplo 1: Escena en Las Tuberías
-**Usuario pregunta:**
-> Describe una escena de Damián investigando en las Túberías en 2178
-
-**Esta skill se activa y:**
-1. Lee `3_personajes/damian.md` (conocer a Damián)
-2. Lee `2_atlas/ciudades/darsena/tuberias.md` (atmósfera de Túberías)
-3. Confirma año 2178 (actualidad, Anatema vigente)
-4. Genera escena enriquecida con:
-   - Características de Damián (impermeable de cuero, obsesivo, Sabueso)
-   - Atmósfera de Túberías (húmedo, oscuro, sin ley, ~500k habitantes)
-   - Tecnología apropiada (PDA de tinta electrónica, no laptop)
-   - Facciones presentes (Traficantes, Resistencia, posibles Arpistas)
-   - Detalles sensoriales (goteo, ecos, olor a óxido)
-
-**Resultado:**
-Descripción coherente, atmosférica y canónicamente correcta que integra múltiples elementos del universo SyV.
-
-### Ejemplo 2: Ubicación geográfica
-**Usuario pregunta:**
-> ¿Dónde está Barrios del Muro en relación al resto de Dársena?
-
-**Esta skill responde correctamente:**
-- Es el distrito MÁS GRANDE (3.5M habitantes = 70% población total)
-- Rodeado por muro al oeste y sur (NO "primera línea de defensa")
-- Al oeste: Tierras Baldías (DMZ árida, francotiradores)
-- Al sur: Los Pantanos (marismas anegadas, origen lianas del pantano)
-- Controlado por estructuras de poder local: Punteros, Clanes Familiares, Bandas de Tuberías
-
-**Evita error común:**
-❌ "Barrios del Muro son la primera línea de defensa" (INCORRECTO)
-✅ "Barrios del Muro son el distrito más grande, frontera física con exterior" (CORRECTO)
+Worldbuilding coordina múltiples fuentes: lee `3_personajes/damian.md` (perfil), `2_atlas/ciudades/darsena/tuberias.md` (atmósfera), confirma Anatema vigente. Resultado integra: características del personaje (impermeable, PDA tinta electrónica — no laptop), atmósfera de zona (húmedo, oscuro, ~500k hab sin ley), facciones presentes (Traficantes, Resistencia, Arpistas), detalles sensoriales (goteo, ecos, óxido). Validación cruzada con skills `cronologia`, `facciones` y `tecnologia-corpus-licitus.md`.

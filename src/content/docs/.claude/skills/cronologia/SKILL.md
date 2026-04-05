@@ -71,16 +71,15 @@ Criterios:
 
 **CRÍTICO**: Siempre desde año 2178 (Hermano Archivista Pedro de los Santos, Archivo de la Iglesia)
 
-### Fuentes Válidas (2178)
-✅ Documentos físicos recuperados
-✅ Testimonios orales generacionales
-✅ Fotografías físicas deterioradas
-✅ Artefactos arqueológicos
-
-### Fuentes PROHIBIDAS
-❌ Fuentes digitales (destruidas por Anatema)
-❌ Internet o medios electrónicos
-❌ Información que solo existiría digitalmente
+| Fuente | Estado |
+|--------|--------|
+| Documentos físicos recuperados | ✅ Válida |
+| Testimonios orales generacionales | ✅ Válida |
+| Fotografías físicas deterioradas | ✅ Válida |
+| Artefactos arqueológicos | ✅ Válida |
+| Fuentes digitales (destruidas por Anatema) | ❌ Prohibida |
+| Internet o medios electrónicos | ❌ Prohibida |
+| Información que solo existiría digitalmente | ❌ Prohibida |
 
 ## Capacidades
 
@@ -91,12 +90,8 @@ Criterios:
 - Detectar anacronismos
 
 ### 2. Enriquecer con Contexto Histórico
-Al mencionar año/período, agregar:
-- Situación política (¿Caos? ¿Confederación?)
-- Tecnología disponible/prohibida
-- Facciones activas
-- Eventos paralelos
-- Atmósfera social
+- Agregar situación política, tecnología disponible y facciones activas del período
+- Incluir eventos paralelos y atmósfera social
 
 ### 3. Expandir Cronología
 - Sugerir ubicación temporal para eventos nuevos
@@ -154,9 +149,7 @@ Al mencionar año/período, agregar:
 
 A principios del año 2178, el Subcomisario Damián DiConte —conocido en Córdoba como "El Sabueso"— llega a Ciudad Dársena huyendo de órdenes de captura emitidas por una facción radical del **Ejército Argentino** infiltrada en la Iglesia.
 
-Su investigación del **Caso 2176-D:9** había revelado una conspiración para purgar "herejes" dentro de la jerarquía eclesiástica, con el objetivo de imponer una religión militarizada. Los registros de la Prefectura Naval confirman su arribo en un avión de carga bajo identidad falsa.
-
-La caja de pruebas que Damián dejó en Córdoba —conteniendo medallones, fotografías de altares clandestinos y un folio micro-impreso codificado— permanece oculta en su oficina del edificio del Segur. Su paradero actual en Dársena es desconocido para las autoridades cordobesas.
+Su investigación del **Caso 2176-D:9** reveló una conspiración para purgar "herejes" en la jerarquía eclesiástica; los registros de la Prefectura Naval confirman su arribo en avión de carga bajo identidad falsa. La caja de pruebas que dejó en Córdoba permanece oculta en su oficina del Segur.
 ```
 
 **Validación**: ✅ Coherente, perspectiva 2178, fuentes válidas, conecta con personajes

@@ -106,16 +106,12 @@
 **Keywords**: túberías, pueblo-del-pantano, intermediario, asesinado, drogas
 
 **Características**:
-- Intermediario entre Padre Rafa y "Pueblo del Pantano"
-- Operaba en Las Túberías
-- Conocimiento de redes clandestinas
+- Intermediario entre Padre Rafa y "Pueblo del Pantano", operaba en Las Túberías
 
 **Trasfondo**:
-- **ASESINADO hace 1 año (2177)**
-- Iba a revelar información sobre posesiones a Padre Rafa
+- **ASESINADO hace 1 año (2177)** — iba a revelar información sobre posesiones a Padre Rafa
 - Su muerte dejó investigación de Padre Rafa en punto muerto
-- Posible conexión con drogas de diseño y posesiones
-- Su asesinato sin resolver
+- Posible conexión con drogas de diseño y posesiones; asesinato sin resolver
 
 **Facciones**: Ninguna (independiente, informante)
 
@@ -289,12 +285,7 @@ Al describir personajes, buscar coincidencias con keywords:
 
 ### Enriquecer Descripciones
 
-Al mencionar estos personajes:
-1. Leer archivo completo en `3_personajes/`
-2. Agregar detalles canónicos (apariencia, hábitos, equipo)
-3. Mencionar conexiones con facciones
-4. Incluir contexto de investigación/misión actual
-5. Respetar secretos (si tienen alerta-spoilers)
+Al mencionar estos personajes: leer archivo completo en `3_personajes/`, agregar detalles canónicos (apariencia, hábitos, equipo), mencionar conexiones con facciones, incluir contexto de misión actual, respetar secretos (si tienen alerta-spoilers).
 
 ### Crear Relaciones
 

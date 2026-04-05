@@ -341,31 +341,9 @@ Divididas en dos ramas con TENSIÓN interna:
 
 ---
 
-## MATRIZ DE RELACIONES
+## Matriz de Relaciones
 
-### Alianzas Oficiales
-- Iglesia ↔ Fuerzas Armadas (cooperación tensa)
-- SIA ↔ Fuerzas Armadas (operaciones conjuntas)
-- Iglesia ↔ Gremio de Comercio (tolerancia pragmática)
-
-### Enemistades Declaradas
-- SIA ↔ Arpistas (persecución activa, prioridad máxima)
-- SIA ↔ Criptógrafos (caza y/o reclutamiento)
-- Iglesia ↔ Los Umbanda (herejía)
-- Iglesia ↔ Resistencia Subterránea (oposición)
-
-### Rivalidades Internas
-- SIA ↔ Exorcistas (conflicto de jurisdicción)
-- Armada (Dársena) ↔ Ejército (Córdoba) (tensión histórica)
-
-### Alianzas Secretas
-- Arpistas ↔ Guardianes de la Memoria (infiltración/fundación)
-- Guardianes ↔ Sectores de la Iglesia (ambigua, peligrosa)
-- Facción del Ejército ↔ Sectores de la Iglesia (conspiración, infiltración)
-
-### Contactos Clandestinos
-- Arpistas ↔ Criptógrafos (intercambio de conocimiento)
-- Gremio de Comercio ↔ Facciones proscritas (mercado negro)
+> Ver sección "Matriz de Relaciones (Validación)" en skill `facciones` para la referencia completa de relaciones IMPOSIBLES, TENSAS y SECRETAS.
 
 ---
 

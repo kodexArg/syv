@@ -226,11 +226,9 @@ Un guardián de secretos que ha aprendido a disfrazarlos como erudición.
 
 ### Rol y Posición
 
-Decano de la Facultad de Historia de la Universidad de Dársena durante tres décadas. Sus publicaciones sobre la "Era Pre-Catastrófica" son consideradas obras maestras de la historiografía contemporánea. Mantiene una reputación impecable dentro del establishment intelectual y la Iglesia.
+Decano de la Facultad de Historia de la Universidad de Dársena durante tres décadas. Sus publicaciones sobre la "Era Pre-Catastrófica" son consideradas obras maestras de la historiografía contemporánea.
 
 ### Personalidad
-
-Brillante y carismático, capaz de mantener audiencias hipnotizadas. Maestro del doble discurso.
 
 > "El conocimiento no destruye. La ignorancia sí."
 > "La historia es escrita por quienes controlan los libros."
@@ -250,12 +248,11 @@ Mantiene contactos dentro de la jerarquía de la **Sagrada Inquisición** que lo
 /🔐
 
 <!-- 🔐☠️ (SIA, Arpistas) -->
-Francisco es uno de los fundadores de la red de preservadores de tecnología en Ciudad Dársena. Ha creado un sistema de "bibliotecas espejo" donde documentos prohibidos se copian y distribuyen en ubicaciones ocultas, incluyendo catacumbas bajo la Nueva Basílica. Mantiene un índice codificado que documenta la ubicación de TODOS los textos prohibidos bajo su custodia. Si es descubierto, ambas organizaciones serían desmanteladas.
+Francisco fundó la red de preservadores de Dársena: un sistema de "bibliotecas espejo" donde documentos prohibidos se distribuyen en ubicaciones ocultas, rastreadas en un índice codificado de su custodia. Si es descubierto, ambas organizaciones serían desmanteladas.
 /🔐☠️
 
 ## Conexiones Importantes
 
 - **Iglesia de Dársena**: Relación respetuosa con el Arzobispo
 - **Universidad de Dársena**: Control total de narrativa histórica
-- **Comunidad académica**: Influencia decisiva en investigaciones autorizadas
 ```

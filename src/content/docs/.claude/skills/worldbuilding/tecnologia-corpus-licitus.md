@@ -417,41 +417,12 @@ Palabras clave que requieren validación:
 
 ### Advertir al Usuario
 
-Si el usuario propone tecnología prohibida post-2061:
-
-```
-⚠️ ANACRONISMO DETECTADO: En [año], [tecnología] está prohibida por el
-Anatema Mecánico (vigente desde 2061).
-
-Alternativa permitida: [sugerencia del Corpus Licitus]
-
-Excepción posible: Si el personaje es Arpista/Criptógrafo operando
-clandestinamente, puede poseer esta tecnología (con riesgo de ejecución por SIA).
-```
+Si tecnología prohibida post-2061: señalar anacronismo, sugerir alternativa Corpus Licitus, y mencionar excepción Arpista/Criptógrafo (clandestino, riesgo ejecución SIA).
 
 ---
 
-## CORPUS LICITUS COMPLETO (Resumen)
+## CORPUS LICITUS (Resumen Rápido)
 
-**PERMITIDO**:
-✅ Electricidad 48V DC
-✅ Computadores electromecánicos simples
-✅ PDAs de tinta electrónica (restringidas)
-✅ Pantallas de plasma analógicas
-✅ Rifles Gauss, armas EMP
-✅ Microfilmes, discos ópticos
-✅ Torres Hidropónicas (automatización mecánica)
-✅ Central nuclear (control manual)
-✅ Telefonía analógica
-✅ Radio analógica
-✅ Drones de control manual
+**Permitido**: 48V DC, electromecánica, PDAs e-ink (restringidas), plasma analógico, rifles Gauss, armas EMP, microfilmes, discos ópticos, Torres Hidropónicas, reactores fusión (manual), telefonía/radio analógica, drones control manual.
 
-**PROHIBIDO**:
-❌ Inteligencias Artificiales (cualquier tipo)
-❌ Computación digital avanzada
-❌ Internet / Redes digitales
-❌ Smartphones, tablets, dispositivos digitales
-❌ Drones autónomos
-❌ Software complejo
-❌ Almacenamiento digital (HDD, SSD, flash)
-❌ Sistemas autónomos con IA
+**Prohibido**: Toda IA/QIA/ML, computación digital, internet/redes, smartphones/tablets, drones autónomos, software complejo, almacenamiento digital, sistemas autónomos.

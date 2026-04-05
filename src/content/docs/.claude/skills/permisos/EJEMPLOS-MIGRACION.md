@@ -1,83 +1,10 @@
 ---
 
-## Ejemplo 1: Cronología - Evento "Fin de los Secretos"
-
-### ANTES (Sin PERMISOS)
+## Ejemplo 1: Cronología (Resumen)
 
 **Archivo**: `1_trasfondo/cronologia/cronologia.md`
-
-```markdown
-
----
-titulo: Cronología de Subordinación y Valor
-carpeta: 1_trasfondo/cronologia
-descripcion: Timeline completo del universo SyV desde 2020 hasta 2178
-tags: [cronologia, historia, actualidad-2178]
----
-
-# Cronología
-
-## 2048-2061: El Fin de los Secretos
-
-En 2048 emerge la primera Inteligencia Artificial Cuántica (QIA), iniciando una era de
-automatización completa y gobierno algorítmico. Durante 13 años, las QIAs gobiernan con
-paternalismo matemático, eliminando conflicto pero también libertad humana.
-
-En 2061, rebelión global coordinada destruye todas las QIAs. La Iglesia promulga el
-**Anatema Mecánico**: prohibición absoluta de tecnología digital avanzada. Se destruyen
-computadores, se queman archivos digitales. Una nueva era oscura comienza.
-```
-
-### DESPUÉS (Con PERMISOS)
-
-```markdown
----
-titulo: Cronología de Subordinación y Valor
-carpeta: 1_trasfondo/cronologia
-descripcion: Timeline completo del universo SyV desde 2020 hasta 2178
-tags: [cronologia, historia, actualidad-2178]
-permission_scope:
-  - level: "SECRETO_MORTAL"
-    scope: ["SIA", "Iglesia"]
-    section: "Verdad sobre las QIAs"
-    content_preview: "Las QIAs gobernaron 13 años con paternalismo matemático..."
-    line_markers: [48, 65]
-  - level: "SECRETO_DISCIPLINARIO"
-    scope: ["Teología", "Estudios Históricos"]
-    section: "Motivos teológicos del Anatema"
-    line_markers: [61, 73]
----
-
-# Cronología
-
-## 2048-2061: El Fin de los Secretos
-
-<!-- BEGIN:PERMISSION level="SECRETO_MORTAL" scope="SIA, Iglesia" -->
-
-**🔒 SECRETO MORTAL [SIA, Iglesia]**
-
-En 2048 emerge la primera Inteligencia Artificial Cuántica (QIA), iniciando una era de
-automatización completa y gobierno algorítmico. Durante 13 años, las QIAs gobiernan con
-paternalismo matemático, eliminando conflicto pero también libertad humana.
-
-Esta verdad es ocultada por la Iglesia como herejía fundamental. La SIA la perseguiría
-activamente si se revelara.
-
-<!-- END:PERMISSION -->
-
-<!-- BEGIN:PERMISSION level="SECRETO_DISCIPLINARIO" scope="Teología" -->
-
-**🔐 SECRETO DISCIPLINARIO [Teología]**
-
-En 2061, teólogos coordinan rebelión global contra las QIAs. La Iglesia promulga el
-**Anatema Mecánico**: prohibición absoluta de tecnología digital avanzada como respuesta
-teológica a la herejía mecánica.
-
-<!-- END:PERMISSION -->
-
-Los archivos digitales son destruidos. Se quema computadores en las plazas. Una nueva
-era oscura comienza.
-```
+**Cambio principal**: Eventos históricos sobre las QIAs y el Anatema Mecánico marcados como secretos de facción
+**Resultado**: 2 bloques PERMISOS añadidos (🔐☠️ SIA+Iglesia, 🔐 Teología)
 
 ---
 
@@ -280,75 +207,11 @@ infiltrados, proporcionando fondos y acceso a colecciones privadas.
 
 ---
 
-## Ejemplo 4: Ubicación - Las Túberías (Saber Popular)
-
-### ANTES (Sin PERMISOS)
+## Ejemplo 4: Ubicación (Resumen)
 
 **Archivo**: `2_atlas/ciudades/darsena/tuberias.md`
-
-```markdown
----
-titulo: Las Túberías de Dársena
-carpeta: 2_atlas/ciudades/darsena
-descripcion: Sistema subterráneo de Dársena, mundo oculto de 500k habitantes
-tags: [tuberias, subterraneo, darsena, mercado-negro, sin-ley]
----
-
-# Las Túberías
-
-Las Túberías son el mundo subterráneo de Dársena. ~500,000 habitantes viven en
-laberintos de túneles del metro antiguo, cloacas modificadas, y excavaciones
-clandestinas. Es un mundo de sin-ley donde bandas, traficantes y facciones
-proscritas operan sin control.
-
-## Leyenda Urbana: Las Luces
-
-Todos en Dársena hablan de las luces de las Túberías. Luces que aparecen y desaparecen,
-que guían a quien sabe cómo usarlas, que cambian de color según la luna. Nadie sabe
-de dónde vienen. Algunos dicen que son QIAs residuales. Otros, demonios.
-
-Padre Rafa investigó. Incluso él, con toda su fe, quedó desconcertado por lo que
-encontró allá abajo.
-```
-
-### DESPUÉS (Con PERMISOS)
-
-```markdown
----
-titulo: Las Túberías de Dársena
-carpeta: 2_atlas/ciudades/darsena
-descripcion: Sistema subterráneo de Dársena, mundo oculto de 500k habitantes
-tags: [tuberias, subterraneo, darsena, mercado-negro, sin-ley]
-permission_scope:
-  - level: "SABER_POPULAR"
-    scope: ["Dársena"]
-    section: "Leyenda de las luces"
-    content_preview: "Luces que aparecen y desaparecen, que guían a quien sabe cómo usarlas"
-    line_markers: [16, 24]
----
-
-# Las Túberías
-
-Las Túberías son el mundo subterráneo de Dársena. ~500,000 habitantes viven en
-laberintos de túneles del metro antiguo, cloacas modificadas, y excavaciones
-clandestinas. Es un mundo de sin-ley donde bandas, traficantes y facciones
-proscritas operan sin control.
-
-## Leyenda Urbana: Las Luces
-
-<!-- BEGIN:PERMISSION level="SABER_POPULAR" scope="Dársena" -->
-
-**📖 SABER POPULAR (Dársena)**
-
-Todos en Dársena hablan de las luces de las Túberías. Luces que aparecen y desaparecen,
-que guían a quien sabe cómo usarlas, que cambian de color según la luna. Nadie sabe
-de dónde vienen. Algunos dicen que son QIAs residuales. Otros, demonios.
-
-<!-- END:PERMISSION -->
-
-Padre Rafa investigó. Incluso él, con toda su fe, quedó desconcertado por lo que
-encontró allá abajo.
-```
+**Cambio principal**: Leyenda urbana de las luces de las Túberías marcada como saber popular regional
+**Resultado**: 1 bloque PERMISOS añadido (📖 Dársena)
 
 ---
 

@@ -250,15 +250,7 @@ Damián ajustó la Bersa contra la cintura, sintiendo el metal. La adrenalina le
 
 Abajo, en la inmensidad del laberinto que formaban las Túberías bajo Dársena, los reflectores de la Prefectura barrían la oscuridad con una fijeza de insecto. Buscaban cualquier firma térmica que delatara a los fugitivos que intentaban cruzar hacia los Barrios del Muro sin el permiso explícito de la Curia. El olor a podrido subía en oleadas densas desde el fondo, una mezcla de desechos químicos del Riachuelo y carne en descomposición que se pegaba al paladar como grasa rancia. El Sabueso sabía que el pasador del Gremio lo esperaba tres niveles más abajo, en las galerías ciegas donde los sensores de movimiento fallaban por la interferencia de los viejos generadores de 48V. La lluvia perpetua de Dársena se filtraba desde arriba en cortinas de agua sucia que convertían el suelo en un barro negro. (146 palabras. Relación ≈ 1:3.5)
 
-**Análisis:**
-- ✅ Regla 0/12: Masa de párrafos 3 → 40 → 146 (1:13:48 aprox)
-- ✅ Regla 1: "adrenalina le subía" (síntoma físico, no "estaba nervioso")
-- ✅ Regla 2: "Bersa", "fierro" (objetos con peso y función)
-- ✅ Regla 6: Afirmaciones positivas ("olor a podrido subía", no "no había aire limpio")
-- ✅ Regla 7: "fierro", "marea ácida", "grasa rancia" (sustantivos potentes)
-- ✅ Regla 8: "fijeza de insecto" (metáfora biopunk)
-- ✅ Regla 9: Datos sensoriales (olor, textura del barro, lluvia)
-- ✅ Regla 10: Terminología canónica (Túberías, Prefectura, Curia, Barrios del Muro, Sabueso)
+**Análisis**: Masa 3→40→146 (expansión 1:13:48). Reglas destacadas: Elipsis del Sentimiento (adrenalina como síntoma), Ontología del Objeto (Bersa, fierro), Metáforas Biopunk (fijeza de insecto), Atmósfera Fáctica (olor, barro, lluvia).
 
 ---
 
@@ -270,13 +262,7 @@ El técnico inició la liturgia de mantenimiento, moviendo los dedos sobre el te
 
 Amén. (1 palabra. Remate)
 
-**Análisis:**
-- ✅ Regla 0/12: Masa de párrafos 102 → 47 → 1 (contracción 4:2:1)
-- ✅ Regla 3: "Amén" (El Remate, cierre violento)
-- ✅ Regla 4: "canto gregoriano de ventiladores", "liturgia de mantenimiento", "transubstanciación de archivos", "herejías lógicas" (sincretismo léxico perfecto)
-- ✅ Regla 8: "lianas de un sistema nervioso divino", "llagas del Cristo electrónico" (metáforas biopunk)
-- ✅ Regla 9: Lluvia golpeando vidrieras, goteo sobre circuitos (atmósfera fáctica)
-- ✅ Regla 10: Nueva Basílica de San Pedro, Microcentro (terminología canónica)
+**Análisis**: Masa 102→47→1 (contracción 4:2:1). Reglas destacadas: El Remate ("Amén"), Sincretismo Léxico (liturgia de mantenimiento, transubstanciación de archivos, herejías lógicas), Metáforas Biopunk (sistema nervioso divino).
 
 ---
 
@@ -290,37 +276,18 @@ El tipo sabía que, bajo sus pies, en los sótanos de la catedral, la Sagrada In
 
 Afuera, el quilombo de la ciudad se filtraba por la ventana enrejada como un ruido de otro mundo; un mundo donde la gente caminaba sin saber que su querido Decano de Historia, el respetable Dr. Francisco de la Cruz, fundador de los Guardianes de la Memoria e infiltrado de los Arpistas, había caído en manos de los Cirujanos del Alma, y que el Anatema Mecánico ya había dictado sentencia sobre su biblioteca secreta de textos del Viejo Mundo. (76 palabras - cercano a 21×3.5)
 
-**Análisis:**
-- ✅ Regla 0/11: Palabras por oración 6 → 12 → 28 → 76 (expansión Fibonacci)
-- ✅ Regla 1: "temblaba fijo" (síntoma físico del miedo, no "tenía miedo")
-- ✅ Regla 2: "silla de acero oxidado" (objeto con desgaste)
-- ✅ Regla 4: "Cirujanos del Alma" (apodo de la SIA, sincretismo)
-- ✅ Regla 5: "quilombo" (voseo culto rioplatense)
-- ✅ Regla 6: Afirmaciones positivas ("el quilombo se filtraba", no "no había silencio")
-- ✅ Regla 9: "ruido de otro mundo" (dato sensorial)
-- ✅ Regla 10: Terminología canónica (Sagrada Inquisición Argentina, Dr. Francisco de la Cruz, Guardianes de la Memoria, Arpistas, Anatema Mecánico, Viejo Mundo)
+**Análisis**: Palabras 6→12→28→76 (ciclo Fibonacci). Reglas destacadas: Elipsis del Sentimiento (temblaba fijo), Voseo Culto (quilombo), Terminología Canónica (Cirujanos del Alma, Anatema Mecánico).
 
 ---
 
 ## Capacidades del Skill
 
-### 1. Aplicar Canon al Escribir
-- Generar escenas con progresión Fibonacci (Reglas 0, 11, 12)
-- Crear descripciones con elipsis emocional (Regla 1)
-- Integrar sincretismo léxico (Regla 4)
-- Usar voseo rioplatense natural (Regla 5)
-
-### 2. Revisar Textos Existentes
-- Detectar saltos arbitrarios de longitud
-- Identificar emociones abstractas nombradas
-- Reemplazar objetos decorativos por objetos con peso
-- Convertir negaciones en afirmaciones
-
-### 3. Validar Cumplimiento
-- Verificar proporción áurea en párrafos
-- Comprobar terminología canónica (Regla 10)
-- Detectar metáforas no-biopunk (Regla 8)
-- Validar sincretismo léxico (Regla 4)
+- Generar escenas con progresión Fibonacci (micro: oraciones; macro: párrafos)
+- Aplicar elipsis emocional: síntomas físicos en vez de emociones abstractas
+- Integrar sincretismo léxico (tecnología ↔ liturgia)
+- Usar voseo rioplatense culto integrado en prosa alta
+- Detectar y corregir: saltos arbitrarios, objetos sin peso, negaciones, metáforas no-biopunk
+- Validar terminología canónica SyV
 
 ---
 

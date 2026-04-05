@@ -130,39 +130,23 @@ Esta es la **fuente de verdad única** para toda información geográfica del ca
 - Información genérica sin precisión
 
 ### Confederación Argentina (Nivel Continental)
-- Ciudad Dársena (0,0) - Capital de facto, 5M habitantes
-- República Córdoba (-400,0) - Poder industrial, 30M habitantes
-- Mendoza/Fuerte San Martín (-900,-100) - Centro andino, 2M habitantes
+
+> **Datos de referencia**: Ver `QUICK-REFERENCE.md` para coordenadas, población, clima y distancias.
+
+- 3 ciudades-estado principales (Dársena, Córdoba, Mendoza)
 - 19 otros ciudad-estados menores
 - Zonas periféricas (DMZ, Pantanos, Tierras Baldías)
 - Climas regionales y fenómenos ambientales
 
-### Ciudades (Nivel Detallado - Dársena y Córdoba)
+### Ciudades (Nivel Detallado - Dársena, Córdoba y Mendoza)
 
-#### Ciudad Dársena (Detalles Extensos)
-- **Dársena Oriental**: Zona exclusiva y militar (ZDM FFAA, Catedral, Bº Las Gaviotas, Bº Los Patos)
-- **Centro Cívico**: Gobierno y administración central
-- **Puerto Madero**: Zona comercial y portuaria principal
-- **Bº Norte**: Élite residencial
-- **Barrios del Muro**: DISTRITO MÁS GRANDE - 3.5M habitantes = 70% población total; 5 km² rodeados por muro al oeste/sur; frontera física con Tierras Baldías (oeste) y Los Pantanos (sur); controlado por Punteros, Clanes Familiares y Bandas de Tuberías; **NO es "primera línea de defensa"** (ERROR COMÚN)
-- **ZDM Fuerza Aérea**: Base militar norte. Incluye Gran Cráter y franja de seguridad exterior.
-- **Las Tuberías**: Subterráneo sin ley, 500k habitantes (~200m profundidad); mayor densidad bajo Barrios del Muro
-- **Fuera del Muro**:
-  - **Tierras Baldías (Oeste/DMZ)**: Desierto árido de ruinas, cementerio de edificios, francotiradores del muro, zona despejada letal; incluye El Bazar del Muro (mercado precario); ~150k habitantes dispersos
-  - **Los Pantanos (Sur)**: "Marismas de Sangre" (oficial), laberinto de marismas anegadas, vegetación mutada, zona anómala inexplorada; fuente de "lianas del pantano" (tecnobotánica prohibida); nadie se atreve a entrar; ~2km del límite sur del muro
+> **Datos de referencia**: Ver `QUICK-REFERENCE.md` para coordenadas, población, clima y distancias de cada zona.
 
-#### República de Córdoba (Detalles Extensos)
-- **Zona Industrial Sur**: Refinerías y manufactura, 5M (mayoría esclavos)
-- **Zona Agrícola Este**: Campos de cultivo, 3M esclavos
-- **Zona Residencial Norte**: Clase trabajadora libre, 10M habitantes
-- **Zona Administrativa Central**: Poder político, 1M habitantes
-- **Zona Militar Oeste**: Instalaciones militares, 500k militares
-
-#### Mendoza (Detalles Extensos)
-- **Centro Urbano**: Núcleo administrativo, 800k habitantes
-- **Uspallata**: Valle alto andino (2000 msnm), 300k habitantes
-- **Zona Agrícola**: Valles fértiles, 600k habitantes
-- **Zona Militar**: Defensa y vigilancia, 300k habitantes
+**Notas narrativas clave** (no incluidas en tablas de referencia):
+- **Barrios del Muro**: DISTRITO MÁS GRANDE - 70% población total; frontera física con Tierras Baldías (oeste) y Los Pantanos (sur); controlado por Punteros, Clanes Familiares y Bandas de Tuberías; **NO es "primera línea de defensa"** (ERROR COMÚN)
+- **Las Tuberías**: Subterráneo sin ley; mayor densidad bajo Barrios del Muro
+- **Tierras Baldías (Oeste/DMZ)**: Cementerio de edificios, francotiradores del muro, zona despejada letal; incluye El Bazar del Muro (mercado precario)
+- **Los Pantanos (Sur)**: "Marismas de Sangre" (oficial), vegetación mutada, zona anómala inexplorada; fuente de "lianas del pantano" (tecnobotánica prohibida)
 
 ## Metodología de Validación
 
@@ -262,10 +246,8 @@ Esta es la **fuente de verdad única** para toda información geográfica del ca
   - Las Tuberías centro: (-1.5, -1.5, -150m)
 
 ### Distancias Aproximadas
-- Dársena ↔ Córdoba: 400 km (10 días a caballo)
-- Córdoba ↔ Mendoza: 600 km (15 días a caballo)
-- Dársena ↔ Mendoza: 1000+ km (25+ días a caballo)
-- Dársena ↔ Marismas de Sangre: 2 km (Límite sur)
+
+> **Datos de referencia**: Ver `QUICK-REFERENCE.md` para tabla completa de distancias y tiempos de viaje.
 
 ## Restricciones y Límites Críticos
 

@@ -116,74 +116,16 @@ Detectar y corregir:
 
 ## Categorías de Tags
 
-### Tags de Ubicación
-```
-# Ciudades principales
-darsena, cordoba, mendoza, el-paramo
+| Categoría | Tags principales |
+|-----------|-----------------|
+| **Ubicación** | darsena, cordoba, mendoza, tuberias, barrios-del-muro, barrio-norte, microcentro, zona-militar, nueva-basilica, crater |
+| **Personajes** | damian-diconte, francisco-de-la-cruz, padre-rafa, monsenor-miguel, hermana-superior-maria |
+| **Facciones** | sia, iglesia, ejercito, armada, gremio, arpistas, guardianes, resistencia, umbanda, shipibo-conibo |
+| **Conceptos** | anatema-mecanico, corpus-licitus, qia, fin-de-los-secretos, gran-guerra, herejia |
+| **Períodos** | mundo-antiguo, anos-del-caos, gran-guerra, fin-de-los-secretos, edad-oscura, confederacion-temprana, actualidad-2178 |
+| **Tipo documento** | cronologia, relato, carta, cronica, faccion, personaje, atlas, tecnologia, aventura |
 
-# Zonas de Dársena
-tuberias, barrios-del-muro, barrio-norte, microcentro
-zona-centro, zona-militar, isla-oriental, fuera-del-muro
-
-# Lugares específicos
-nueva-basilica, universidad-catolica, torres-hidroponicas
-crater, zona-exclusion, rio-de-la-plata
-
-# Regiones
-argentina, buenos-aires, pantano, delta
-```
-
-### Tags de Personajes
-```
-# Formato: nombre-apellido (o apodo si es más conocido)
-damian-diconte, francisco-de-la-cruz, padre-rafa
-monsenor-miguel, hermana-superior-maria
-paco-el-puntero, sor-sofia
-```
-
-### Tags de Facciones
-```
-# Oficiales
-sia, iglesia, iglesia-de-darsena
-ejercito, armada, prefectura, fuerzas-armadas
-gremio, la-union
-
-# Proscritas/Secretas
-arpistas, guardianes, guardianes-de-la-memoria
-criptografos, canales-ocultos, resistencia
-umbanda, cazadores-de-pesadillas, shipibo-conibo
-traficantes-de-almas
-```
-
-### Tags de Conceptos Centrales
-```
-anatema-mecanico, corpus-licitus
-qia, inteligencia-artificial
-fin-de-los-secretos, gran-guerra, gran-colapso
-meteorito, crater
-mision-s-a-n-t-a
-herejia, tecnologia-prohibida
-```
-
-### Tags de Períodos Históricos
-```
-mundo-antiguo (2020-2029)
-anos-del-caos (2029-2038)
-gran-guerra (2039-2047)
-fin-de-los-secretos (2048-2061)
-edad-oscura (2062-2160)
-confederacion-temprana (2161-2177)
-actualidad-2178
-```
-
-### Tags de Tipo de Documento
-```
-cronologia, relato, carta, cronica, diario
-faccion, personaje, arquetipo
-atlas, mapa, tecnologia
-constitucion, herejia
-guia, aventura, investigacion
-```
+Formato: kebab-case, minúsculas. Preferir tags existentes sobre crear nuevos.
 
 ## Restricciones
 
@@ -209,6 +151,25 @@ guia, aventura, investigacion
 - ❌ NO usar rutas absolutas
 - ✅ SIEMPRE relativa desde raíz del proyecto
 - ✅ Ejemplos: `3_personajes/principales`, `1_trasfondo/cronologia`
+
+### 6. Prioridad de Tags Existentes
+- SIEMPRE preferir tags que ya existen en el corpus para mantener consistencia
+- Antes de crear un tag nuevo, verificar si alguno existente puede servir:
+  - ¿`detective` en lugar de `investigador`?
+  - ¿`sia` en lugar de `inquisicion`?
+  - ¿`darsena` en lugar de `ciudad-darsena`?
+
+### 7. Tags Demasiado Genéricos
+- Advertir si usuario intenta tags como:
+  - `personaje` (obvio en carpeta `3_personajes/`)
+  - `historia` (demasiado amplio)
+  - `importante` (subjetivo)
+
+### 8. Campo Alerta-Spoilers
+- Si el personaje/facción tiene información secreta marcada como "**Información secreta (no exponer a jugadores):**", considerar agregar:
+  ```yaml
+  alerta-spoilers: "Este personaje/facción contiene información sensible que no debe revelarse prematuramente."
+  ```
 
 
 ## Workflows
@@ -316,12 +277,9 @@ tags:
 ```
 
 **Errores detectados**:
-- ❌ Campo `title` (inglés) → Usar `titulo`
-- ❌ Campo `folder` (inglés) → Usar `carpeta`
-- ❌ Ruta absoluta en `folder` → Usar relativa: `3_personajes/principales`
-- ❌ Campo `description` (inglés) → Usar `descripcion`
-- ❌ Tags con mayúsculas → Usar minúsculas kebab-case
-- ❌ Campo `facciones` faltante (es personaje) → Agregar
+- ❌ Ruta absoluta en `folder` (`c:\Users\...`) → Usar relativa: `3_personajes/principales`
+- ❌ Tags con mayúsculas (`Damián`, `Detective`) → Usar kebab-case minúsculas
+- ❌ Campo `facciones` faltante (es personaje) → Agregar `facciones: []`
 
 **Corrección**:
 ```yaml
@@ -369,42 +327,3 @@ facciones:
 ---
 ```
 
----
-
-## Notas de Uso
-
-### Prioridad de Tags Existentes
-
-SIEMPRE preferir tags que ya existen en el corpus para mantener consistencia.
-
-Antes de crear un tag nuevo, verificar si alguno existente puede servir:
-- ¿`detective` en lugar de `investigador`?
-- ¿`sia` en lugar de `inquisicion`?
-- ¿`darsena` en lugar de `ciudad-darsena`?
-
-### Tags Demasiado Genéricos
-
-Advertir si usuario intenta tags como:
-- `personaje` (obvio en carpeta `3_personajes/`)
-- `historia` (demasiado amplio)
-- `importante` (subjetivo)
-
-### Campo Alerta-Spoilers
-
-Si el personaje/facción tiene información secreta marcada como "**Información secreta (no exponer a jugadores):**", considerar agregar:
-
-```yaml
-alerta-spoilers: "Este personaje/facción contiene información sensible que no debe revelarse prematuramente."
-```
-
-### Rutas Relativas Correctas
-
-**CORRECTO**:
-- `0_proyecto/guias-para-colaboradores`
-- `1_trasfondo/cronologia`
-- `3_personajes/principales`
-
-**INCORRECTO**:
-- `c:\Users\gcave\Projects\Dev\syv\3_personajes` (absoluta)
-- `/3_personajes` (absoluta desde raíz del sistema)
-- `.\3_personajes` (notación relativa con punto)
